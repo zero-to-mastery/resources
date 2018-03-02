@@ -2,7 +2,7 @@
 
 Here is a list of best resources for the developers (mostly web). Feel free to add your resources as well because sharing is caring.
 
-* [**Git and Github**](Git and GitHub.md): A page with some resources on using Git and GitHub.
+* [**Git and Github**](Git%20and%20GitHub.md): A page with some resources on using Git and GitHub.
 
 * [**Articles**](ARTICLES.md): A page of articles on web development.
 
