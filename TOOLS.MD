@@ -4,7 +4,7 @@ Here is a list of text editors that may be of use to you. All have some sort of 
 
 * [Sublime Text](https://www.sublimetext.com/3): Andrei's choice but not the only one available. (WIN, MAC, LINUX) Buy it if you like it to help the developer.
 
-* [Visual Studio Code](https://code.visualstudio.com/): Open-Sourced from Microsoft. (WIN, MAC, LINUX) Free. 
+* [Visual Studio Code](https://code.visualstudio.com/): Open-Sourced from Microsoft. (WIN, MAC, LINUX) Free.
 
 * [Atom](https://atom.io/): Open-Sourced and free. (WIN, MAC, LINUX)
 
@@ -12,15 +12,19 @@ Here is a list of text editors that may be of use to you. All have some sort of 
 
 Many others are available, just search "text editors" on your search engine of choice.
 
+---
+
 # EDITOR Features or Plugins
 
 Things to look to see if they have implementations for them. They will make your life a lot easier.
 
-* [EMMET](https://emmet.io/): Use shortcuts and shorthand to get work done more quickly. (Plugin or Builtin) 
+* [EMMET](https://emmet.io/): Use shortcuts and shorthand to get work done more quickly. (Plugin or Builtin)
 
 * [Code Linters](https://github.com/collections/clean-code-linters): Get immediate feedback on code logic or stylistic errors. (Plugin or Builtin)
 
 * [Git](https://git-scm.com/): Source control is necessary. (Plugin or Builtin)
+
+---
 
 # CHROME EXTENTIONS
 
@@ -40,3 +44,10 @@ Things to look to see if they have implementations for them. They will make your
 
 * [Vimeo Repeat and Speed](https://chrome.google.com/webstore/detail/vimeo-repeat-speed/noonakfaafcdaagngpjehilgegefdima): Consume info at faster than normal pace.
 
+---
+
+# General Development TOOLS
+
+* [**SweetAlert2**](https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer): some really nice looking alerts that you can use.
+
+* [cubic-bezier.com](http://cubic-bezier.com/#.17,.67,.83,.67): A great tool for creating bezier curve animations in CSS without having to guess at the code.
