@@ -1,4 +1,4 @@
-#TEXT EDITORS
+# TEXT EDITORS
 
 Here is a list of text editors that may be of use to you. All have some sort of text completion and other features to make work quick and easy.
 
@@ -8,11 +8,11 @@ Here is a list of text editors that may be of use to you. All have some sort of 
 
 * [Atom](https://atom.io/): Open-Sourced and free. (WIN, MAC, LINUX)
 
-* [Brackets](http://brackets.io/) Developed by Adobe and Free. (WIN, MAC, LINUX)
+* [Brackets](http://brackets.io/): Developed by Adobe and Free. (WIN, MAC, LINUX)
 
 Many others are available, just search "text editors" on your search engine of choice.
 
-#EDITOR Features or Plugins
+# EDITOR Features or Plugins
 
 Things to look to see if they have implementations for them. They will make your life a lot easier.
 
@@ -22,7 +22,7 @@ Things to look to see if they have implementations for them. They will make your
 
 * [Git](https://git-scm.com/): Source control is necessary. (Plugin or Builtin)
 
-#CHROME EXTENTIONS
+# CHROME EXTENTIONS
 
 * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): Instantly find out what font is being used with a click. No Developer Mode required.
 
