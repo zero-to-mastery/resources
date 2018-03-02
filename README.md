@@ -6,7 +6,7 @@ Here is a list of best resources for the developers (mostly web). Feel free to a
 
 * [**Articles**](ARTICLES.md): A page of articles on web development.
 
-* [**Web Development Tools**](TOOLS.MD): A page listing a number of web development tools.
+* [**Web Development Tools**](TOOLS.md): A page listing a number of web development tools.
 
 ---
 
