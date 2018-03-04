@@ -1,4 +1,4 @@
-# TEXT EDITORS
+## TEXT EDITORS
 
 Here is a list of text editors that may be of use to you. All have some sort of text completion and other features to make work quick and easy.
 
@@ -14,7 +14,7 @@ Many others are available, just search "text editors" on your search engine of c
 
 ---
 
-# EDITOR Features or Plugins
+## EDITOR Features or Plugins
 
 Things to look to see if they have implementations for them. They will make your life a lot easier.
 
@@ -26,7 +26,7 @@ Things to look to see if they have implementations for them. They will make your
 
 ---
 
-# CHROME EXTENTIONS
+## CHROME EXTENTIONS
 
 * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): Instantly find out what font is being used with a click. No Developer Mode required.
 
@@ -46,8 +46,12 @@ Things to look to see if they have implementations for them. They will make your
 
 ---
 
-# General Development TOOLS
+## General Development TOOLS
 
 * [**SweetAlert2**](https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer): some really nice looking alerts that you can use.
 
 * [cubic-bezier.com](http://cubic-bezier.com/#.17,.67,.83,.67): A great tool for creating bezier curve animations in CSS without having to guess at the code.
+
+* [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es6/): A table for checking the compatibility of modern JavaScript elements with browsers and compilers.
+
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/): a great resource for testing API calls in JavaScript development.
