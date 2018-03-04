@@ -26,5 +26,6 @@ Here is a list of best resources for the developers (mostly web). Feel free to a
 
 
 ## Student Resouces 
-[**Student Developer Pack**](https://education.github.com/pack): The best developer tools, free for students via @githubeducation
-[**JetBrains Student License**](https://www.jetbrains.com/student/): Free individual licenses for students and faculty members of award-winning professional developer tools from JetBrains.
+* [**Student Developer Pack**](https://education.github.com/pack): The best developer tools, free for students via @githubeducation
+
+* [**JetBrains Student License**](https://www.jetbrains.com/student/): Free individual licenses for students and faculty members of award-winning professional developer tools from JetBrains.
