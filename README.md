@@ -25,7 +25,7 @@ Here is a list of best resources for the developers (mostly web). Feel free to a
 * [**StackOverflow**](https://stackoverflow.com/): A massive resource of questions and answers having to do with coding. If you have a question regarding web development or coding in general, chances are it has already been answered on StackOverflow.
 
 
-## Student Resouces 
+## Free Tools For Students
 * [**Student Developer Pack**](https://education.github.com/pack): The best developer tools, free for students via @githubeducation
 
 * [**JetBrains Student License**](https://www.jetbrains.com/student/): Free individual licenses for students and faculty members of award-winning professional developer tools from JetBrains.
