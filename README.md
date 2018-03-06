@@ -29,6 +29,11 @@ Here is a list of best resources for the developers (mostly web). Feel free to a
 
 * [**StackOverflow**](https://stackoverflow.com/): A massive resource of questions and answers having to do with coding. If you have a question regarding web development or coding in general, chances are it has already been answered on StackOverflow.
 
+* [**Udacity**](https://www.udacity.com/): A website for learning different concepts of computer science.
+
+* [**CSS-Tricks**](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
+
+* [**CodePen**](https://codepen.io/): A development environement for front-end designers and developers, to showcasing user-created HTML, CSS and JavaScript code snippets.
 
 ## Free Tools For Students
 * [**Student Developer Pack**](https://education.github.com/pack): The best developer tools, free for students via @githubeducation
