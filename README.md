@@ -9,6 +9,8 @@ Here is a list of best resources for the developers (mostly web). Feel free to a
 
 * [**Git and Github**](#git-and-github): Some resources on using Git and GitHub.
 
+* [**Interviewing for Coding Jobs**](## Interviewing for Coding Jobs): Some resources for preparing for the job market.
+
 * [**Articles**](ARTICLES.md): A page of articles on web development.
 
 * [**Web Development Tools**](TOOLS.md): A page listing a number of web development tools.
@@ -48,3 +50,13 @@ used Git commands for easy reference.
   - [Git Reference Documentation](https://git-scm.com/docs): A complete listing of Git's features and commands. The documentation is also available as a free ebook titled [Pro Git](https://git-scm.com/book/en/v2).
 * [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links): Most web pages on GitHub are written using the Markdown HTML-preprocessor language. This cheat sheet includes most of the useful syntax for Markdown.
   - Another useful resource for Markdown is the [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) website.
+
+## Interviewing for Coding Jobs
+###### Based on [Andrei's list of interviewing resources](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8767388?start=0)
+
+* [How to Break Into the Tech Industry](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/): Some good, fairly detailed advice on job hunting, networking, interviewing, and negotiation.
+* [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews): An interesting article that provides advice for potential employers on how to improve their interviewing techniques and strategies. Certainly, this would be a good read for someone on the job market.
+* [How Not to Bomb Your Offer Negotiation](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea): How to negotiate a better deal for yourself in the hiring process.
+* [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331): Some job search advice given by a recent bootcamp graduate.
+* [How to Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685): A decent article on coding interviews that has been expanded into a [free e-book](http://freebies.devmastery.com/interview-guide/) with a whole lot of online resources and sample questions.
+* [Notes for Coding Interviews](https://pulamusic.github.io/Moon/coding-interviews/): Some notes and code associated with a Udemy course titled [JavaScript Interview Prep](https://www.udemy.com/javascript-interview-prep/learn/v4/content). While the notes themselves may be useful, it is really the process of writing these type of notes that fully prepares one for a technical interview.
