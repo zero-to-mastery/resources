@@ -9,7 +9,7 @@ Here is a list of best resources for the developers (mostly web). Feel free to a
 
 * [**Git and Github**](#git-and-github): Some resources on using Git and GitHub.
 
-* [**Interviewing for Coding Jobs**](## Interviewing for Coding Jobs): Some resources for preparing for the job market.
+* [**Interviewing for Coding Jobs**](#interviewing-for-coding-jobs): Some resources for preparing for the job market.
 
 * [**Articles**](ARTICLES.md): A page of articles on web development.
 
