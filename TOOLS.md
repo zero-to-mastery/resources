@@ -49,6 +49,9 @@ Things to look to see if they have implementations for them. They will make your
 
 * [Vimeo Repeat and Speed](https://chrome.google.com/webstore/detail/vimeo-repeat-speed/noonakfaafcdaagngpjehilgegefdima): Consume info at faster than normal pace.
 
+* [POSTMAN](https://www.getpostman.com/): Postman Makes API Development Simple. Developers use Postman to build
+modern software for the API-first world.
+
 ---
 
 ## General Development TOOLS
@@ -60,3 +63,9 @@ Things to look to see if they have implementations for them. They will make your
 * [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es6/): A table for checking the compatibility of modern JavaScript elements with browsers and compilers.
 
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/): a great resource for testing API calls in JavaScript development.
+
+---
+
+## Automation TOOLS
+
+* [Grunt](https://gruntjs.com/): Grunt is one of the top front-end development tools when it comes to task automation. It’s a JavaScript task runner, offering both a lot of bundled plugins for common tasks, while still being very extensible, giving you the option to write all kinds of tasks that suit your need. The best comes when you can combine tasks together to create even more powerful ones!
