@@ -49,6 +49,8 @@ Things to look to see if they have implementations for them. They will make your
 
 * [Vimeo Repeat and Speed](https://chrome.google.com/webstore/detail/vimeo-repeat-speed/noonakfaafcdaagngpjehilgegefdima): Consume info at faster than normal pace.
 
+* [Built With Technology Analyzer](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US): Lets you see what tools and javascript libraries a site is using.
+
 ---
 
 ## General Development TOOLS
