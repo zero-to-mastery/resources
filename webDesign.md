@@ -14,12 +14,14 @@
 * [Pexels](https://www.pexels.com/): A source of free stock photos and videos.
 * [Gratisography](https://gratisography.com/): Another source of free stock photos.
 * [StickPNG](http://www.stickpng.com/): An excellent source for PNG images if you need something that is re-sizable and can be set to transparent.
+* [PlaceIMG](http://www.placeimg.com/): Gives you a url that generates a new random placeholder image every time.
 
 ### Color Palettes
 
 * [CSS Color Names](http://www.crockford.com/wrrrld/color.html): A simple chart that lists all of the color names that can be used in CSS.
 * [Coolors.co](https://coolors.co/): An excellent resource for working out a simple matching color palette for web pages. The site generates matching color schemes along with their hex and RGB values.
 * [Color Tool](https://material.io/color/#!/?view.left=0&view.right=0): A tool associated with Google's Material Design (see above) for creating a color palette.
+* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
 
 ### Icons &amp; Graphics
 
