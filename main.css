@@ -102,3 +102,33 @@ a:hover {
   background: #A49E8D;
   color: #F8F4E3;
 }
+
+/* ######################## Body ############################# */
+
+section#general {
+  background-color: #F7DD72;
+}
+
+section#web-design {
+  background-color: #A5C882;
+}
+
+section#articles {
+  background-color: #5AB1BB;
+}
+section#articles >* {
+  color: #fff;
+}
+
+section#articles  a {
+  color: #fff;
+}
+section#tools {
+  background-color: #00FFF5;
+}
+section#git-github {
+  background-color: #FF8360;
+}
+section#git-github a {
+  color: #fff;
+}
