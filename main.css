@@ -28,6 +28,7 @@ p {
 
 a {
   color: #689689;
+  transition: all 1s ease-in-out;
 }
 
 a:hover {
