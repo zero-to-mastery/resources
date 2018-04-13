@@ -43,10 +43,6 @@ a:hover {
   transition: padding 2s ease;
 }
 
-.navbar-background {
-  padding: 2px 20px;
-}
-
 .navbar-brand {
   color: #1A1423;
   border: 3px solid #504136;

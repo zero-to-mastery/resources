@@ -4,15 +4,18 @@ $(document).ready(function () {
     $('.navbar-toggler').toggleClass('change')
   })
 
+  // Dynamically determine the height of the navbar
+  let navHeight = $('.navbar').outerHeight();
+
   // fix the navbar to the top when I scroll down
   $(window).scroll(function () {
     let position = $(this).scrollTop()
-    if (position >= 128) {
-      $('.navbar').addClass('navbar-background')
-      $('.navbar').addClass('fixed-top')
+    if (position >= navHeight) {
+      $('.navbar').addClass('fixed-top');
+      $('#header').css("padding-top", navHeight);
     } else {
-      $('.navbar').removeClass('navbar-background')
-      $('.navbar').removeClass('fixed-top')
+      $('.navbar').removeClass('fixed-top');
+      $('#header').css("padding-top", "0")
     }
   })
 
@@ -22,7 +25,9 @@ $(document).ready(function () {
 
     let target = $(this).attr('href')
     $('html, body').stop().animate({
-      scrollTop: $(target).offset().top
+      // Offset the scroll by the height of navbar to
+      // show all the section content
+      scrollTop: $(target).offset().top - navHeight
     }, 2000)
   })
 
