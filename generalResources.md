@@ -14,6 +14,8 @@
 
 * [**CodePen**](https://codepen.io/): A development environement for front-end designers and developers, to showcasing user-created HTML, CSS and JavaScript code snippets.
 
+* [**Learn Enough**](https://www.learnenough.com/courses): A comprehensive guide to providing you a solid foundation as a developer to become comfortable with all of the tools and technologies you interact with. Created by Michael Hartl – founder of Learn Enough and creator of the Ruby on Rails tutorial – these courses are free to read online and available for purchase as an ebook for your device.
+
 * [**StackOverflow**](https://stackoverflow.com/): A massive resource of questions and answers having to do with coding. If you have a question regarding web development or coding in general, chances are it has already been answered on StackOverflow.
 
 * [**Udacity**](https://www.udacity.com/): A website for learning different concepts of computer science.
