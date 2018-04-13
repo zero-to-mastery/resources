@@ -4,6 +4,12 @@
 
 * [Material Design](https://material.io/): A collection of guidelines, resources, and tools for web design, all available for free. Created by Google.
 
+* [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda): Part 1 of a two-part series made for anyone with a burning desire to design good-looking UI in a pinch! Created by Erik D. Kennedy, a developer-turned-UX Designer, he is chock full of experience and his down-to-earth personality brings a sense of liveliness and humor to what he teaches.
+
+* [7 Rules for Creating Gorgeous UI (Part 2)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96): Part 2 of a two-part series.
+
+* [Learn UI Design Blog](https://learnui.design/blog/): An interesting blog with Erik Kennedy's down-to-earth personality and years of experience helps the reader really understand what makes good UI/UX from a practical perspective.
+
 ### Images &amp; Video
 
 * [Coverr](https://coverr.co/): Free stock videos to add to your websites.

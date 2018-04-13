@@ -1,6 +1,7 @@
 # Using Git and GitHub
 
 * [Try Git](https://try.github.io/): Learn how to use Git with Code School's interactive course
+* [Learn Enough Git To Be Dangerous](https://www.learnenough.com/git-tutorial): A comprehensive guide to becoming very comfortable with Git and Github, provided by Michael Hartl – creator of the [Ruby on Rails tutorial](https://www.railstutorial.org/) and founder of the [Learn Enough courses](https://www.learnenough.com/story)
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) : A cheat sheet that features the most important and commonly
 used Git commands for easy reference.
   - [Git Reference Documentation](https://git-scm.com/docs): A complete listing of Git's features and commands. The documentation is also available as a free ebook titled [Pro Git](https://git-scm.com/book/en/v2).
