@@ -8,11 +8,9 @@ $(document).ready(function () {
   $(window).scroll(function () {
     let position = $(this).scrollTop()
     if (position >= 128) {
-      $('.navbar').addClass('navbar-background')
-      $('.navbar').addClass('fixed-top')
+      $('.navbar').addClass('navbar-background fixed-top')
     } else {
-      $('.navbar').removeClass('navbar-background')
-      $('.navbar').removeClass('fixed-top')
+      $('.navbar').removeClass('navbar-background fixed-top')
     }
   })
 
