@@ -21,6 +21,8 @@
 * [Gratisography](https://gratisography.com/): Another source of free stock photos.
 * [StickPNG](http://www.stickpng.com/): An excellent source for PNG images if you need something that is re-sizable and can be set to transparent.
 * [PlaceIMG](http://www.placeimg.com/): Gives you a url that generates a new random placeholder image every time.
+* [placekitten](http://placekitten.com/): Generate placeholder images of kittens.
+* [Hero Patterns](http://www.heropatterns.com/): A collection of repeatable SVG background patterns for you to use on your web projects.
 
 ### Color Palettes
 
@@ -28,6 +30,8 @@
 * [Coolors.co](https://coolors.co/): An excellent resource for working out a simple matching color palette for web pages. The site generates matching color schemes along with their hex and RGB values.
 * [Color Tool](https://material.io/color/#!/?view.left=0&view.right=0): A tool associated with Google's Material Design (see above) for creating a color palette.
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
+* [Hex to RGB Converter](https://www.webpagefx.com/web-design/hex-to-rgb/): Enter a hex code or RGB color value to convert it to the other format
+* [Palettable](https://www.palettable.io/): Generate beautiful color palettes using the knowledge of millions of designers.
 
 ### Icons &amp; Graphics
 
