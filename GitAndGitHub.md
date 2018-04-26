@@ -1,5 +1,6 @@
 # Using Git and GitHub
 
+* [GitHub Learning Lab](https://lab.github.com/): Get the skills you need without leaving GitHub. GitHub Learning Lab takes you through a series of fun and practical projects, sharing helpful feedback along the way.
 * [Try Git](https://try.github.io/): Learn how to use Git with Code School's interactive course
 * [Learn Enough Git To Be Dangerous](https://www.learnenough.com/git-tutorial): A comprehensive guide to becoming very comfortable with Git and Github, provided by Michael Hartl – creator of the [Ruby on Rails tutorial](https://www.railstutorial.org/) and founder of the [Learn Enough courses](https://www.learnenough.com/story)
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) : A cheat sheet that features the most important and commonly
