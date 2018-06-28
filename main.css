@@ -101,6 +101,9 @@ a:hover {
 
 /* ######################## Body ############################# */
 
+section {
+  padding-top: 30px;
+}
 section#general {
   background-color: #F7DD72;
 }
