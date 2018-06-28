@@ -11,3 +11,5 @@
 * [**Front End Web Development Setup**](https://www.taniarascia.com/my-front-end-web-development-setup/): An informative article on how to put together a front-end development environment.
 
 * [**Modern Development Environment for Windows**](https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows): Setting up a windows computer for front-end development.
+
+* {**React vs Vue.JS: Which Front-end Framework to Choose in 2018**} (https://expertise.jetruby.com/react-vs-vue-js-which-front-end-framework-to-choose-in-2018-2a62a1fe76f9) : In this article, we’ll briefly consider the status quo in the world of modern JavaScript frameworks, comparing React and Vue.JS.	
