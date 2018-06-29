@@ -19,3 +19,15 @@
 * [**StackOverflow**](https://stackoverflow.com/): A massive resource of questions and answers having to do with coding. If you have a question regarding web development or coding in general, chances are it has already been answered on StackOverflow.
 
 * [**Udacity**](https://www.udacity.com/): A website for learning different concepts of computer science.
+
+* [**CodePen**](https://www.codepen.io/): A development environment for front-end designers and developers, to showcasing user-created HTML, CSS and JavaScript code snippets.
+
+* [**MDN Web Docs**](https://developer.mozilla.org/en-US/): A resource for developers, maintained by the community of developers and technical writers and hosting many documents on a wide variety of subjects, such as: HTML, CSS, HTTP, JavaScript, Web APIs, Web components, Graphics, Audio, video and multimedia, MathML.
+
+* [**SoloLearn**](https://www.sololearn.com/): Join the largest community of mobile code learners today. Basically, It's a great app to help you get a basic concepts of learning various programming languages easily and those are well structured to learn. It has a very friendly community to join and it's increasing and getting stronger day by day. There is a battle option to compete with others to justify your knowledge. Believe me, It's very enjoyable and helpful.
+
+* [**Pluralsight**](https://www.pluralsight.com): Pluralsight is the leader in training for serious software developers, IT admins, and creative professionals. With 3,000+ courses and new ones added daily, Pluralsight serves as a career catalyst for customers in more than 150 countries and provides tech-savvy businesses with training on the three key areas they need to thrive.
+
+* [**HTML Reference**](https://htmlreference.io/): An online guide to HTML that features complete descriptions, and examples of usage for all HTML elements and attributes.
+
+* [**CSS Reference**](https://cssreference.io/): An online guide to CSS that features complete descriptions, examples of usage, and illustrated/animated examples of the most popular CSS properties.
