@@ -3,11 +3,10 @@
 ### General Web Design
 
 * [Material Design](https://material.io/): A collection of guidelines, resources, and tools for web design, all available for free. Created by Google.
-
+* [CSS Zen Garden](http://www.csszengarden.com/): A demonstration of what can be accomplished through CSS-based design. Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs.
+* [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
 * [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda): Part 1 of a two-part series made for anyone with a burning desire to design good-looking UI in a pinch! Created by Erik D. Kennedy, a developer-turned-UX Designer, he is chock full of experience and his down-to-earth personality brings a sense of liveliness and humor to what he teaches.
-
 * [7 Rules for Creating Gorgeous UI (Part 2)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96): Part 2 of a two-part series.
-
 * [Learn UI Design Blog](https://learnui.design/blog/): An interesting blog with Erik Kennedy's down-to-earth personality and years of experience helps the reader really understand what makes good UI/UX from a practical perspective.
 
 ### Images &amp; Video
@@ -21,17 +20,16 @@
 * [Gratisography](https://gratisography.com/): Another source of free stock photos.
 * [StickPNG](http://www.stickpng.com/): An excellent source for PNG images if you need something that is re-sizable and can be set to transparent.
 * [PlaceIMG](http://www.placeimg.com/): Gives you a url that generates a new random placeholder image every time.
-* [placekitten](http://placekitten.com/): Generate placeholder images of kittens.
-* [Hero Patterns](http://www.heropatterns.com/): A collection of repeatable SVG background patterns for you to use on your web projects.
 
 ### Color Palettes
 
+* [Colormind](http://colormind.io/): A color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art.
+* [Paletton](http://www.paletton.com/): A color palette generator that allows for much more fine-tuning than most other generators.
 * [CSS Color Names](http://www.crockford.com/wrrrld/color.html): A simple chart that lists all of the color names that can be used in CSS.
 * [Coolors.co](https://coolors.co/): An excellent resource for working out a simple matching color palette for web pages. The site generates matching color schemes along with their hex and RGB values.
 * [Color Tool](https://material.io/color/#!/?view.left=0&view.right=0): A tool associated with Google's Material Design (see above) for creating a color palette.
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
-* [Hex to RGB Converter](https://www.webpagefx.com/web-design/hex-to-rgb/): Enter a hex code or RGB color value to convert it to the other format
-* [Palettable](https://www.palettable.io/): Generate beautiful color palettes using the knowledge of millions of designers.
+* [Flat UI Colors](https://flatuicolors.com/): A simple website that allows you to choose from different color palettes.
 
 ### Icons &amp; Graphics
 
