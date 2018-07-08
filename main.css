@@ -9,6 +9,9 @@ Pastel Gray (light tan gray): #D4CDC3
 
 */
 
+/* imports */
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Anton');
+
 /* General Styles */
 body {
   font-family: 'Open Sans Condensed', sans-serif;
@@ -16,11 +19,21 @@ body {
 }
 
 header {
-  background: #A49E8D;
+  background: white;
   color: #1A1423;
   text-align: center;
+  /* height: 30vh; */
 }
 
+header h1{
+  font-family: Anton, sans-serif;
+  text-transform: uppercase;
+  font-size: 3rem;
+}
+.header-top{
+  padding-top: 10vh !important;
+  padding-bottom: 10vh !important;
+}
 p {
   font-size: 20px;
   color: #1A1423;
@@ -38,23 +51,35 @@ a:hover {
 
 /* ######################## Navbar ############################# */
 .navbar {
-  background: #689689;
+  background: white;
   padding: 10px 20px;
   transition: padding 2s ease;
 }
-
+/* LOGO */
 .navbar-brand {
   color: #1A1423;
-  border: 3px solid #504136;
   font-size: 30px;
   transition: all 2s ease;
+  text-transform: uppercase;
+}
+.navbar-brand{
+  position: relative;
+  text-decoration: none;
+}
+.navbar-brand:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  border-bottom: 2px solid #3273dc;
+  transition: all 0.3s ease-in-out 0s;
+}
+.navbar-brand:hover:after {
+  width: 100%;
 }
 
-.navbar-brand:hover {
-  background: #504136;
-  color: #F8F4E3;
-}
-
+/* burger nav icon */
 .bar-1, .bar-2, .bar-3 {
   width: 23px;
   height: 3px;
@@ -62,38 +87,35 @@ a:hover {
   background: #1A1423;
   transition: all 0.5s ease;
 }
-
 .change .bar-1 {
   transform: rotate(-45deg) translate(-5px, 6px);
 }
-
 .change .bar-2 {
   opacity: 0;
 }
-
 .change .bar-3 {
   transform: rotate(45deg) translate(-5px, -8px);
 }
 
+/* navigation links */
 .nav-link {
-  color: #504136;
-  font-size: 25px;
+  color: #4a4a4a;
+  font-family: Montserrat, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
   padding: 10px 20px;
   border-radius: 5px;
   transition: all 2s ease;
 }
-
 .nav-link:hover {
-  background: #504136;
-  color: #F8F4E3;
+  color: #3273dc;
+  transition: all 0s ease;
 }
-
 .search-btn {
   background: #D4CDC3;
   color: #1A1423;
   transition: all 1s ease;
 }
-
 .search-btn:hover {
   background: #A49E8D;
   color: #F8F4E3;
