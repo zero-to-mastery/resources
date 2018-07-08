@@ -10,7 +10,7 @@ Pastel Gray (light tan gray): #D4CDC3
 */
 
 /* imports */
-@import url('https://fonts.googleapis.com/css?family=Montserrat|Anton');
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Anton|Nunito');
 
 /* General Styles */
 body {
@@ -22,7 +22,6 @@ header {
   background: #f8f8f8;
   color: #1A1423;
   text-align: center;
-  /* height: 30vh; */
 }
 
 img{
@@ -52,7 +51,6 @@ p {
 
 a {
   color: #689689;
-  transition: all 1s ease-in-out;
 }
 
 a:hover {
@@ -140,33 +138,30 @@ a:hover {
 
 section {
   padding-top: 30px;
-  /* background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); */
 }
-section#general {
-  /* background-color: #F7DD72; */
-  /* padding-left: 10%; */
+.section-title{
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  font-family: Nunito, sans-serif;
+  font-weight: 600;
+}
+.section-subcategory{
+  color:#5581ab;
+  text-transform: uppercase;
 
 }
-section#web-design {
-  /* background-color: #A5C882; */
+.weblink{
+  text-transform: uppercase;
+  font-size: 0.9em;
+  font-weight: 500;
+  color: #FF785A;
 }
-
-section#articles {
-  /* background-color: #5AB1BB; */
-}
-section#articles >* {
+.weblink:hover{
+  background-color: #FF785A;
   color: #fff;
 }
-
-section#articles  a {
-  color: #689689;
-}
-section#tools {
-  /* background-color: #00FFF5; */
-}
-section#git-github {
-  /* background-color: #FF8360; */
-}
-section#git-github a {
-  color: #689689;
+.desc{
+  color: #666;
+  font-family: Montserrat, sans-serif;
+  font-size: 1rem;
 }
