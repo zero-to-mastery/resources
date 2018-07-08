@@ -122,7 +122,6 @@ a:hover {
   border-radius: 5px;
   transition: all 2s ease;
 }
-
 .nav-link:hover {
   color: #3273dc;
   transition: all 0s ease;
@@ -148,7 +147,6 @@ section#general {
   /* padding-left: 10%; */
 
 }
-
 section#web-design {
   /* background-color: #A5C882; */
 }
@@ -161,7 +159,7 @@ section#articles >* {
 }
 
 section#articles  a {
-  color: #fff;
+  color: #689689;
 }
 section#tools {
   /* background-color: #00FFF5; */
@@ -170,5 +168,5 @@ section#git-github {
   /* background-color: #FF8360; */
 }
 section#git-github a {
-  color: #666;
+  color: #689689;
 }
