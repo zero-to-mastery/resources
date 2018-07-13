@@ -27,3 +27,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 * [@charlesmoscofian](https://github.com/charlesmoscofian)
 * [@rookie-cookie](https://github.com/rookie-cookie)
 * [@vinpearland](https://github.com/vinpearland)
+* [@vollucris](https://github.com/vollucris)
