@@ -62,3 +62,5 @@ Things to look to see if they have implementations for them. They will make your
 * [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es6/): A table for checking the compatibility of modern JavaScript elements with browsers and compilers.
 
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/): a great resource for testing API calls in JavaScript development.
+
+* [Blend](http://colinkeany.com/blend/): This tool creates CSS code for linear gradients, taking the guess work out of the process.

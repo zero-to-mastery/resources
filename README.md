@@ -18,3 +18,8 @@ Here is a list of best resources for web developers. Feel free to add your resou
 * [**Articles**](ARTICLES.md): A page of general articles on web development.
 
 ---
+
+## Contributors
+* [**List of Contributors**](CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
+
+---

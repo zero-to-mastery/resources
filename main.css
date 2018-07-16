@@ -9,18 +9,41 @@ Pastel Gray (light tan gray): #D4CDC3
 
 */
 
+/* imports */
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Anton|Nunito');
+
 /* General Styles */
 body {
   font-family: 'Open Sans Condensed', sans-serif;
-  background: #F8F4E3;
+  background: white;
 }
 
 header {
-  background: #A49E8D;
+  background: #f8f8f8;
   color: #1A1423;
   text-align: center;
 }
 
+img{
+  max-height: 300px;
+}
+
+header h1{
+  font-family: Anton, sans-serif;
+  text-transform: uppercase;
+  font-size: 3rem;
+  color: #444;
+  letter-spacing: 3px;
+}
+header h4{
+  font-size: 1.2rem;
+  line-height: 3em;
+}
+
+.header-top{
+  padding-top: 10vh !important;
+  padding-bottom: 10vh !important;
+}
 p {
   font-size: 20px;
   color: #1A1423;
@@ -28,7 +51,6 @@ p {
 
 a {
   color: #689689;
-  transition: all 1s ease-in-out;
 }
 
 a:hover {
@@ -38,23 +60,36 @@ a:hover {
 
 /* ######################## Navbar ############################# */
 .navbar {
-  background: #689689;
+  background: white;
   padding: 10px 20px;
   transition: padding 2s ease;
+  border-bottom: 1px #ddd solid;
 }
-
+/* LOGO */
 .navbar-brand {
   color: #1A1423;
-  border: 3px solid #504136;
   font-size: 30px;
   transition: all 2s ease;
+  text-transform: uppercase;
+}
+.navbar-brand{
+  position: relative;
+  text-decoration: none;
+}
+.navbar-brand:after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 0%;
+  border-bottom: 2px solid #3273dc;
+  transition: all 0.3s ease-in-out 0s;
+}
+.navbar-brand:hover:after {
+  width: 100%;
 }
 
-.navbar-brand:hover {
-  background: #504136;
-  color: #F8F4E3;
-}
-
+/* burger nav icon */
 .bar-1, .bar-2, .bar-3 {
   width: 23px;
   height: 3px;
@@ -62,38 +97,38 @@ a:hover {
   background: #1A1423;
   transition: all 0.5s ease;
 }
-
 .change .bar-1 {
   transform: rotate(-45deg) translate(-5px, 6px);
 }
-
 .change .bar-2 {
   opacity: 0;
 }
-
 .change .bar-3 {
   transform: rotate(45deg) translate(-5px, -8px);
 }
 
+/* navigation links */
+.navbar-nav{
+  margin-left: auto;
+}
 .nav-link {
-  color: #504136;
-  font-size: 25px;
+  color: #4a4a4a;
+  font-family: Montserrat, sans-serif;
+  font-size: 15px;
+  font-weight: bold;
   padding: 10px 20px;
   border-radius: 5px;
   transition: all 2s ease;
 }
-
 .nav-link:hover {
-  background: #504136;
-  color: #F8F4E3;
+  color: #3273dc;
+  transition: all 0s ease;
 }
-
 .search-btn {
   background: #D4CDC3;
   color: #1A1423;
   transition: all 1s ease;
 }
-
 .search-btn:hover {
   background: #A49E8D;
   color: #F8F4E3;
@@ -101,30 +136,32 @@ a:hover {
 
 /* ######################## Body ############################# */
 
-section#general {
-  background-color: #F7DD72;
+section {
+  padding-top: 30px;
 }
+.section-title{
+  text-transform: uppercase;
+  font-size: 1.5rem;
+  font-family: Nunito, sans-serif;
+  font-weight: 600;
+}
+.section-subcategory{
+  color:#5581ab;
+  text-transform: uppercase;
 
-section#web-design {
-  background-color: #A5C882;
 }
-
-section#articles {
-  background-color: #5AB1BB;
+.weblink{
+  text-transform: uppercase;
+  font-size: 0.9em;
+  font-weight: 500;
+  color: #FF785A;
 }
-section#articles >* {
+.weblink:hover{
+  background-color: #FF785A;
   color: #fff;
 }
-
-section#articles  a {
-  color: #fff;
-}
-section#tools {
-  background-color: #00FFF5;
-}
-section#git-github {
-  background-color: #FF8360;
-}
-section#git-github a {
-  color: #fff;
+.desc{
+  color: #666;
+  font-family: Montserrat, sans-serif;
+  font-size: 1rem;
 }
