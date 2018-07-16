@@ -34,7 +34,8 @@
 ### Icons &amp; Graphics
 
 * [Font Awesome](https://fontawesome.com/): A large set of both free and not-free icons. You can either download the code or use their CDN links.
-[Linea](http://linea.io/): A collection of simple, free icons.
+* [Font Mfizz](http://fizzed.com/oss/font-mfizz): Font Mfizz provides scalable vector icons representing programming languages, operating systems, software engineering, and technology. It was designed as an extension to Font Awesome, it is an iconic font designed for technology and software geeks.
+* [Linea](http://linea.io/): A collection of simple, free icons.
 * [Iconfinder](https://www.iconfinder.com/): A listing of free and not-free web icons.
 * [Ionic](https://useiconic.com/): A collection of simple web icons. There is a free set of 223 icons as well as a larger set you can pay for.
 * [Octicons](https://octicons.github.com/): GitHub's free set of icons.
