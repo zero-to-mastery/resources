@@ -2,7 +2,7 @@
 
 * [Codecademy](https://www.codecademy.com/catalog/subject/web-development): A place to learn and practice web development concepts and languages.
 * [Codewars](https://www.codewars.com/): A place to challenge yourself and hone your coding skills. See if you can find any fellow ZTM students on there and team up!
-* [Code School](https://www.codeschool.com/): A number of web development tutorials, some available for free. A great place to learn coding.
+* [CodeSignal](https://www.codesignal.com): Formerly CodeFights, this site has real-world coding questions as well as challenges to keep your skills sharp and help you prepare for interviews.
 * [egghead](https://egghead.io): A place to learn new web development concepts and languages, both for free and paid.
 * [freeCodeCamp.org](https://www.freecodecamp.org): A free site for learning web development. Optionally, you can pledge to donate money to charities while you learn, giving incentive to keep working. In particular, this site features a number of JavaScript algorithms for practice and preparation for technical job interviews.
 * [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
