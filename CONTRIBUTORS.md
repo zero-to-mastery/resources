@@ -6,6 +6,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 * [@arjunkharbanda](https://github.com/arjunkharbanda)
 * [@tonydc1997](https://github.com/tonydc1997)
 * [@ashishcodes4](https://github.com/ashishcodes4)
+* [@Tanuj69](https://github.com/Tanuj69)
 * [@adamfarver](https://github.com/adamfarver)
 * [@Db12797](https://github.com/Db12797)
 * [@cloges4](https://github.com/cloges4)
