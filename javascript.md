@@ -8,6 +8,6 @@
 
 * [Javascript: The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition): This is a very solid foundation to work with, for anyone who might have struggled with the contexts and how arrow functions, local variables, and prototypes fit into the bigger picture. A quick introduction into the deeper ideas in Javascript.
 
-* [Mixu's Node Book] (http://book.mixu.net/node/): An online tutorial that received much praise for explaing Node.js in a well-structured way. It is a book that teaches you to write the code for Node.js and not only rely on third-party libraries. Anyone that wants to have a deep grasp of the Node.js framework will benefit from Mixu's book. 
+* [Mixu's Node Book](http://book.mixu.net/node/): An online tutorial that received much praise for explaing Node.js in a well-structured way. It is a book that teaches you to write the code for Node.js and not only rely on third-party libraries. Anyone that wants to have a deep grasp of the Node.js framework will benefit from Mixu's book. 
 
 * [Javascript Array Explorer](https://sdras.github.io/array-explorer/): Find the array method you need for your Javascript array without digging through the docs. A useful resource that can make using arrays easier. 
