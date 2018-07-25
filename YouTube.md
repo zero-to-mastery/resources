@@ -8,5 +8,5 @@
 6. [The Coding Train](https://www.youtube.com/user/shiffman)
 7. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 8. [Thenewboston](https://www.youtube.com/user/thenewboston)
-9. [Travesy Media](https://www.youtube.com/user/TechGuyWeb)
+9. [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 10. [sentdex](https://www.youtube.com/user/sentdex)
