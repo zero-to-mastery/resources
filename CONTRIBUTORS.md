@@ -32,3 +32,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 * [@SivaramPg](https://github.com/SivaramPg)
 * [@BurnhamG](https://github.com/BurnhamG)
 * [@ThinkAstute](https://github.com/ThinkAstute)
+* [@IgnacioRodrigues](https://github.com/IgnacioRodrigues)
