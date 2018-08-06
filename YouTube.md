@@ -1,0 +1,13 @@
+## Here is a list of YouTube channels you can checkout if you want to learn Web Development (some channels also cover CS in general)
+
+1. [CS50](https://www.youtube.com/user/cs50tv/)
+2. [Derek Banas](https://www.youtube.com/user/derekbanas)
+3. [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+4. [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
+5. [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge)
+6. [The Coding Train](https://www.youtube.com/user/shiffman)
+7. [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+8. [Thenewboston](https://www.youtube.com/user/thenewboston)
+9. [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+10. [sentdex](https://www.youtube.com/user/sentdex)
+11. [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
