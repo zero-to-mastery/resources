@@ -34,3 +34,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 * [@ThinkAstute](https://github.com/ThinkAstute)
 * [@IgnacioRodrigues](https://github.com/IgnacioRodrigues)
 * [@Dabbyd123](https://github.com/Dabbyd123)
+* [@shan5742](https://github.com/shan5742)
