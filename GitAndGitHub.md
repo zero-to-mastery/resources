@@ -8,6 +8,8 @@ used Git commands for easy reference.
   - [Git Reference Documentation](https://git-scm.com/docs): A complete listing of Git's features and commands. The documentation is also available as a free ebook titled [Pro Git](https://git-scm.com/book/en/v2).
 * [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links): Most web pages on GitHub are written using the Markdown HTML-preprocessor language. This cheat sheet includes most of the useful syntax for Markdown.
   - Another useful resource for Markdown is the [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) website.
+* [Egg Head] (https://egghead.io/lessons/javascript-introduction-to-github): Learn all you need to get started with Git and GitHub and get your first pull requests going.
+* [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud): Create a Git repository, Copy your Git repository, add files, Pull changes from your Git repository on Bitbucket Cloud, Use a Git branch to merge a file and much more to be a pro in Git and GitHub.
 
 ### Open Source Coding on GitHub
 
