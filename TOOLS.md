@@ -29,6 +29,18 @@ Things to look to see if they have implementations for them. They will make your
 
 * [Git](https://git-scm.com/): Source control is necessary. (Plugin or Builtin)
 
+* [Atom Live Server](https://atom.io/packages/atom-live-server) Launch simple development http server with live reload
+
+* [Atom tern-js](https://atom.io/packages/atom-ternjs) Javascript code intelligence for Atom - auto complete suggestion
+
+* [Atom File-icons](https://atom.io/packages/file-icons) Assigns file extension icons and colors
+
+* [Atom Minimap](https://atom.io/packages/minimap) A preview of the full source code
+
+* [Atom Pigments](https://atom.io/packages/pigments) A package to display colors in project files (CSS)
+
+* [Atom pretty-json](https://atom.io/packages/pretty-json) Package for automatically formatting JSON documents
+
 ---
 
 ## CHROME EXTENTIONS
