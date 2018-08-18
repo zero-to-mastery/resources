@@ -37,3 +37,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 * [@shan5742](https://github.com/shan5742)
 * [@StuartDaniells](https://github.com/StuartDaniells)
 * [@rjmead23](https://github.com/rjmead23)
+* [@Chris.Crowson](https://github.com/ChrisCrowson)
