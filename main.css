@@ -83,7 +83,7 @@ a:hover {
   left: 0;
   width: 0%;
   border-bottom: 2px solid #3273dc;
-  transition: all 0.3s ease-in-out 0s;
+  transition: all 0.15s ease-in-out;
 }
 .navbar-brand:hover:after {
   width: 100%;
@@ -118,11 +118,12 @@ a:hover {
   font-weight: bold;
   padding: 10px 20px;
   border-radius: 5px;
-  transition: all 2s ease;
+  transition: all .2s ease-in-out;
 }
 .nav-link:hover {
-  color: #3273dc;
-  transition: all 0s ease;
+  background-color: #3273dc;
+  color: white;
+  transform: scale(1.15);
 }
 .search-btn {
   background: #D4CDC3;
