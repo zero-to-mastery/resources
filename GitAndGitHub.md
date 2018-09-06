@@ -10,7 +10,7 @@ used Git commands for easy reference.
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud): Create a Git repository, Copy your Git repository, add files, Pull changes from your Git repository on Bitbucket Cloud, Use a Git branch to merge a file and much more to become a pro at Git.
 
 ### Markdown:
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): Most web pages (expecially the README pages) on GitHub are written using the Markdown HTML-preprocessor language. 
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): Most web pages (expecially the README) on GitHub are written using the Markdown HTML-preprocessor language. 
    - Another useful resource for Markdown is the [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) website.
 * [A useful Markdown cheat sheat](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf): Everything you need to know about Markdown layed out in a PDF format.
 * [Markdown Emoji's](https://github.com/StuartDaniells/Markdown_Emoji-s_List): One stop for all your favourate Emoji's using Markdown.
