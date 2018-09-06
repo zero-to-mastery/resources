@@ -69,7 +69,7 @@ a:hover {
 .navbar-brand {
   color: #1A1423;
   font-size: 30px;
-  transition: all 2s ease;
+  transition: all .2s ease-in-out;
   text-transform: uppercase;
 }
 .navbar-brand{
@@ -82,7 +82,7 @@ a:hover {
   bottom: 0;
   left: 0;
   width: 0%;
-  border-bottom: 2px solid #3273dc;
+  border-bottom: 2px solid #FF785A;
   transition: all 0.15s ease-in-out;
 }
 .navbar-brand:hover:after {
@@ -121,7 +121,7 @@ a:hover {
   transition: all .2s ease-in-out;
 }
 .nav-link:hover {
-  background-color: #3273dc;
+  background-color: #FF785A;
   color: white;
   transform: scale(1.15);
 }
@@ -147,7 +147,7 @@ section {
   font-weight: 600;
 }
 .section-subcategory{
-  color:#5581ab;
+  color:#6396BC;
   text-transform: uppercase;
 
 }
