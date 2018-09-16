@@ -38,3 +38,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 * [@StuartDaniells](https://github.com/StuartDaniells)
 * [@rjmead23](https://github.com/rjmead23)
 * [@Chris.Crowson](https://github.com/ChrisCrowson)
+* [@richardchalmers](https://github.com/richardchalmers)
