@@ -39,3 +39,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 * [@rjmead23](https://github.com/rjmead23)
 * [@Chris.Crowson](https://github.com/ChrisCrowson)
 * [@richardchalmers](https://github.com/richardchalmers)
+* [@jmc90](https://github.com/jmc90)
