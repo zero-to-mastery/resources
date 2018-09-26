@@ -28,7 +28,7 @@ $(document).ready(function () {
       // Offset the scroll by the height of navbar to
       // show all the section content
       scrollTop: $(target).offset().top - navHeight
-    }, 2000)
+    }, 1800)
   })
 
 
