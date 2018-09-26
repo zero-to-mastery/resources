@@ -7,3 +7,6 @@
 * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331): Some job search advice given by a recent bootcamp graduate.
 * [How to Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685): A decent article on coding interviews that has been expanded into a [free e-book](http://freebies.devmastery.com/interview-guide/) with a whole lot of online resources and sample questions.
 * [Notes for Coding Interviews](https://pulamusic.github.io/Moon/coding-interviews/): Some notes and code associated with a Udemy course titled [JavaScript Interview Prep](https://www.udemy.com/javascript-interview-prep/learn/v4/content). While the notes themselves may be useful, it is really the process of writing these type of notes that fully prepares one for a technical interview.
+
+## Other Resouces
+[Remote Dev Job Sites](http://bit.ly/2NSgGe1) Here is a list of remote development jobs sites/companies/resources compiled by Misha one of the member of our community.
