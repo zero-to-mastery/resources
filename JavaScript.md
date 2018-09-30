@@ -11,3 +11,4 @@
 * [Mixu's Node Book](http://book.mixu.net/node/): An online tutorial that received much praise for explaing Node.js in a well-structured way. It is a book that teaches you to write the code for Node.js and not only rely on third-party libraries. Anyone that wants to have a deep grasp of the Node.js framework will benefit from Mixu's book. 
 
 * [Javascript Array Explorer](https://sdras.github.io/array-explorer/): Find the array method you need for your Javascript array without digging through the docs. A useful resource that can make using arrays easier. 
+* [JavaScript30](https://javascript30.com/): A 30day coding challenge in which you will build 30 things using vanila JavaScript.
