@@ -15,3 +15,5 @@
 * [Pluralsight](https://www.pluralsight.com): Pluralsight is the leader in training for serious software developers, IT admins, and creative professionals. With 3,000+ courses and new ones added daily, Pluralsight serves as a career catalyst for customers in more than 150 countries and provides tech-savvy businesses with training on the three key areas they need to thrive.
 * [HTML Reference](https://htmlreference.io/): An online guide to HTML that features complete descriptions, and examples of usage for all HTML elements and attributes.
 * [CSS Reference](https://cssreference.io/): An online guide to CSS that features complete descriptions, examples of usage, and illustrated/animated examples of the most popular CSS properties.
+* [DevHints](https://devhints.io/): A great resources of cheat sheets for a wide range of technologies.
+* [Oh Shit Git](http://ohshitgit.com/): How to get yourself out of mistakes made with Git.
