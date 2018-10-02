@@ -40,3 +40,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 * [@Chris.Crowson](https://github.com/ChrisCrowson)
 * [@richardchalmers](https://github.com/richardchalmers)
 * [@jmc90](https://github.com/jmc90)
+* [@bankzxcv](https://github.com/bankzxcv)
