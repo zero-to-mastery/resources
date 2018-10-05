@@ -40,6 +40,8 @@
 * [Linea](http://linea.io/): A collection of simple, free icons.
 * [Iconfinder](https://www.iconfinder.com/): A listing of free and not-free web icons.
 * [Ionic](https://useiconic.com/): A collection of simple web icons. There is a free set of 223 icons as well as a larger set you can pay for.
+* [Material Icons](https://material.io/tools/icons/): Google's open source icon collection.
+* [Flaticon](https://www.flaticon.com/): A database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
 * [Octicons](https://octicons.github.com/): GitHub's free set of icons.
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/): a gallery of background patterns and their CSS code.
 * [Particles.js](https://vincentgarreau.com/particles.js/): An app for creating dynamic CSS backgrounds.
