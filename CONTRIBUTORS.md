@@ -43,3 +43,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 * [@bankzxcv](https://github.com/bankzxcv)
 * [@Edeard95](https://github.com/Edeard95)
 * [@shakib1729](https://github.com/shakib1729)
+* [@Scramblelock](https://github.com/Scramblelock)
