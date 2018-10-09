@@ -12,3 +12,4 @@
 
 * [Javascript Array Explorer](https://sdras.github.io/array-explorer/): Find the array method you need for your Javascript array without digging through the docs. A useful resource that can make using arrays easier. 
 * [JavaScript30](https://javascript30.com/): A 30day coding challenge in which you will build 30 things using vanila JavaScript.
+* [Visualize JavaScript](http://www.pythontutor.com/visualize.html#mode=edit): A helpful tool that breaks down your JavaScript code step-by-step. Helpful for identifying errors and solving errors in your code. Run your code in "Live Programming Mode" to visualize all the steps!
