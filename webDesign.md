@@ -5,9 +5,9 @@
 * [Material Design](https://material.io/): A collection of guidelines, resources, and tools for web design, all available for free. Created by Google.
 * [CSS Zen Garden](http://www.csszengarden.com/): A demonstration of what can be accomplished through CSS-based design. Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs.
 * [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
-* [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda): Part 1 of a two-part series made for anyone with a burning desire to design good-looking UI in a pinch! Created by Erik D. Kennedy, a developer-turned-UX Designer, he is chock full of experience and his down-to-earth personality brings a sense of liveliness and humor to what he teaches.
+* [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda): Part 1 of a two-part series made for anyone with a burning desire to design good-looking UI in a pinch! Created by Erik D. Kennedy, a developer-turned-UX Designer, he is chock full of experience and his down-to-earth personality brings a sense of liveliness and humour to what he teaches.
 * [7 Rules for Creating Gorgeous UI (Part 2)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96): Part 2 of a two-part series.
-* [Learn UI Design Blog](https://learnui.design/blog/): An interesting blog with Erik Kennedy's down-to-earth personality and years of experience helps the reader really understand what makes good UI/UX from a practical perspective.
+* [Learn UI Design Blog](https://learnui.design/blog/): An interesting blog with Erik Kennedy's down-to-earth personality and years of experience help the reader really understand what makes good UI/UX from a practical perspective.
 * [Flexbox Froggy](http://flexboxfroggy.com/): A fun in-browser game to help teach the powerful, complex CSS flexbox layout method.
 * [Grid Garden](https://cssgridgarden.com/): A fun in-browser game to help teach the powerful, complex CSS grid layout method.
 
@@ -21,7 +21,7 @@
 * [Pexels](https://www.pexels.com/): A source of free stock photos and videos.
 * [Gratisography](https://gratisography.com/): Another source of free stock photos.
 * [StickPNG](http://www.stickpng.com/): An excellent source for PNG images if you need something that is re-sizable and can be set to transparent.
-* [PlaceIMG](http://www.placeimg.com/): Gives you a url that generates a new random placeholder image every time.
+* [PlaceIMG](http://www.placeimg.com/): Gives you a URL that generates a new random placeholder image every time.
 
 ### Color Palettes
 
