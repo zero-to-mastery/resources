@@ -23,13 +23,13 @@ Many others are available, just search "text editors" on your search engine of c
 
 Things to look to see if they have implementations for them. They will make your life a lot easier.
 
-* [EMMET](https://emmet.io/): Use shortcuts and shorthand to get work done more quickly. (Plugin or Builtin)
+* [EMMET](https://emmet.io/): Use shortcuts and shorthand to get work done more quickly. (Plugin or Built-in)
 
-* [Code Linters](https://github.com/collections/clean-code-linters): Get immediate feedback on code logic or stylistic errors. (Plugin or Builtin)
+* [Code Linters](https://github.com/collections/clean-code-linters): Get immediate feedback on code logic or stylistic errors. (Plugin or Built-in)
 
-* [Git](https://git-scm.com/): Source control is necessary. (Plugin or Builtin)
+* [Git](https://git-scm.com/): Source control is necessary. (Plugin or Built-in)
 
-* [Atom Live Server](https://atom.io/packages/atom-live-server) Launch simple development http server with live reload
+* [Atom Live Server](https://atom.io/packages/atom-live-server) Launch simple development HTTP server with live reload
 
 * [Atom tern-js](https://atom.io/packages/atom-ternjs) Javascript code intelligence for Atom - auto complete suggestion
 
@@ -43,13 +43,13 @@ Things to look to see if they have implementations for them. They will make your
 
 ---
 
-## CHROME EXTENTIONS
+## CHROME EXTENSIONS
 
 * [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): Instantly find out what font is being used with a click. No Developer Mode required.
 
 * [Pesticide](https://chrome.google.com/webstore/search/pesticide): Make Box Modelling a breeze. Pinpoint issues, fast.
 
-* [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp): Find colors on your page with this eye dropper.
+* [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp): Find colours on your page with this eye dropper.
 
 * [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg): What technology is this site using? One click on the button and you'll know.
 
@@ -75,4 +75,4 @@ Things to look to see if they have implementations for them. They will make your
 
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/): a great resource for testing API calls in JavaScript development.
 
-* [Blend](http://colinkeany.com/blend/): This tool creates CSS code for linear gradients, taking the guess work out of the process.
+* [Blend](http://colinkeany.com/blend/): This tool creates CSS code for linear gradients, taking the guesswork out of the process.
