@@ -20,3 +20,5 @@
 * [DevHints](https://devhints.io/): A great resources of cheat sheets for a wide range of technologies.
 * [Oh Shit Git](http://ohshitgit.com/): How to get yourself out of mistakes made with Git.
 * [W3Schools](https://www.w3schools.com): A comprehensive learning resource covering HTML, CSS, Javascript and more. Has interactive tutorials as well as quizzes.
+* [HTMLCheatSheet](https://htmlcheatsheet.com/): A reference sheet for HTML, CSS, and Javascript that includes helpful code structures (e.g. for setting up a blank page, tables, charts, etc.), and helpful tools such as an RGB color picker, iframe generator, and placeholder text generator.
+
