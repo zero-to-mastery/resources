@@ -9,7 +9,7 @@ Here is a list of best resources for web developers. Feel free to add your resou
 
 * [**Git and Github**](GitandGitHub_Resources/Using_Git_and_GitHub.md): A page of resources on using Git and GitHub.
 
-* [**Contributing to Github**](GitandGitHub_Resources/Contributing_to_GitHub.md): How to contribute to GitHub.
+* [**Contributing to Github**](GitandGitHub_Resources/): How to contribute to GitHub.
 
 * [**Web Development Tools**](FreeTools.md): A page listing a number of free web development tools.
 
