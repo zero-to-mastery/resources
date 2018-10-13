@@ -21,4 +21,4 @@
 * [Oh Shit Git](http://ohshitgit.com/): How to get yourself out of mistakes made with Git.
 * [W3Schools](https://www.w3schools.com): A comprehensive learning resource covering HTML, CSS, Javascript and more. Has interactive tutorials as well as quizzes.
 * [HTMLCheatSheet](https://htmlcheatsheet.com/): A reference sheet for HTML, CSS, and Javascript that includes helpful code structures (e.g. for setting up a blank page, tables, charts, etc.), and helpful tools such as an RGB color picker, iframe generator, and placeholder text generator.
-
+* [Khan Academy](https://www.khanacademy.org/computing/computer-programming): An online resource for a variety of topics at a multitude of skill levels (from elementary school to postgraduate) that extend beyond computer science. However, their programming courses - which include interactive sandboxes in which learners can tinker with example code - focus on HTML and Javascript and teach the fundamentals of animation and web design. 
