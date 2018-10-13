@@ -15,32 +15,24 @@ Pastel Gray (light tan gray): #D4CDC3
 /* General Styles */
 body {
   font-family: 'Open Sans Condensed', sans-serif;
-  background: lightpink;
+  background: white;
 }
 
 header {
-  background: #f8f8;
-  color: aqua;
+  background: #f8f8f8;
+  color: #1A1423;
   text-align: center;
 }
 
 img{
   max-height: 300px;
-  border-radius: 1000px;/* curve  of our corner in image*/
-	max-width: 100%	;/* fixed  image*/
-	height:auto;/* depends on browser how it want as a image or responsiveness of image*/
-	opacity:2.00;/* blurring of image*/
-}
-img:hover
-{
-box-shadow: 0 0 12px 7px rgba(0,200,120,0.6);
 }
 
 header h1{
   font-family: Anton, sans-serif;
   text-transform: uppercase;
   font-size: 3rem;
-  color: aqua;
+  color: #444;
   letter-spacing: 3px;
 }
 header h4{
