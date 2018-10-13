@@ -7,7 +7,7 @@ Here is a list of best resources for web developers. Feel free to add your resou
 ## Table of Contents
 * [**General Resources for Learning Web Development**](generalResources.md): A page of mostly free resources for learning web development and coding in general.
 
-* [**Git and Github**](GitandGitHub_Resources): A page of resources on using Git and GitHub.
+* [**Git and Github**](GitandGitHub_Resources/): A page of resources on using Git and GitHub.
 
 * [**Contributing to Github**](GitandGitHub_Resources/Contributing_to_GitHub.md): How to contribute to GitHub.
 
