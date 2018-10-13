@@ -19,3 +19,4 @@
 * [CSS Reference](https://cssreference.io/): An online guide to CSS that features complete descriptions, examples of usage, and illustrated/animated examples of the most popular CSS properties.
 * [DevHints](https://devhints.io/): A great resources of cheat sheets for a wide range of technologies.
 * [Oh Shit Git](http://ohshitgit.com/): How to get yourself out of mistakes made with Git.
+* [W3Schools](https://www.w3schools.com): A comprehensive learning resource covering HTML, CSS, Javascript and more. Has interactive tutorials as well as quizzes.
