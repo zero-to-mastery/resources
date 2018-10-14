@@ -56,3 +56,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@julia-r](https://github.com/julia-r)
 - [@ribeiropdiogo](https://github.com/ribeiropdiogo)
 - [@sparkle-sparkle](https://github.com/sparkle-sparkle)
+- [@binaryflow](https://github.com/binaryflow)
