@@ -54,3 +54,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@alexroseb](https://github.com/alexroseb)
 - [@nagisahuman](https://github.com/nagisahuman)
 - [@julia-r](https://github.com/julia-r)
+- [@ribeiropdiogo](https://github.com/ribeiropdiogo)
