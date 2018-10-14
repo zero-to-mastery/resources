@@ -53,3 +53,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 -[@MsWebGirl](https://github.com/mswebgirl)
 - [@alexroseb](https://github.com/alexroseb)
 - [@nagisahuman](https://github.com/nagisahuman)
+- [@ribeiropdiogo](https://github.com/ribeiropdiogo)
