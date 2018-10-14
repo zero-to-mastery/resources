@@ -2,6 +2,7 @@
 
 ### General Web Design
 
+* [noShit](https://noshit.xyz/): A list of Free Design resources for your projects.
 * [Material Design](https://material.io/): A collection of guidelines, resources, and tools for web design, all available for free. Created by Google.
 * [CSS Zen Garden](http://www.csszengarden.com/): A demonstration of what can be accomplished through CSS-based design. Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs.
 * [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
