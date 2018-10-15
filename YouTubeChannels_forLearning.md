@@ -16,4 +16,6 @@
 14. [LevelupTuts](https://www.youtube.com/user/LevelUpTuts)
 14. [Edureka](https://www.youtube.com/user/edurekaIN)
 15. [Wes Bos](https://www.youtube.com/user/wesbos)
-
+16. [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
+17. [Neil Rowe](https://www.youtube.com/user/CodersGuide)
+18. [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
