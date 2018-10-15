@@ -29,6 +29,10 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [Git](https://git-scm.com/): Source control is necessary (Plugin or Built-in).
 
+* [Prettier](https://prettier.io/): Automatic code formatting to standardize style across the codebase (Plugin or Built-in).
+
+* [Autoprefixer](https://atom.io/packages/autoprefixer): Shortcut browser-compatibility issues for CSS/SCSS (Plugin or Built-in).
+
 * [Atom Live Server](https://atom.io/packages/atom-live-server) Launch simple development HTTP server with live reload.
 
 * [Atom tern-js](https://atom.io/packages/atom-ternjs) Javascript code intelligence for Atom - auto complete suggestion
