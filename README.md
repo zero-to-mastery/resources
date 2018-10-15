@@ -1,25 +1,29 @@
 ## Resource Pages
 
-Here is a list of best resources for web developers. Feel free to add your resources as well because sharing is caring.
+Here's a list containing the best resources for web developers. Feel free to add your resources as well, because sharing is caring.
 
 ---
 
 ## Table of Contents
-* [**General Resources for Learning Web Development**](generalResources.md): A page of mostly free resources for learning web development and coding in general.
+* [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
 
-* [**Git and Github**](GitAndGitHub.md): A page of resources on using Git and GitHub.
+* [**Git and Github**](GitandGitHub_Resources/Using_Git_and_GitHub.md): Resources page on using Git and GitHub.
 
-* [**Web Development Tools**](TOOLS.md): A page listing a number of free web development tools.
+* [**Contributing to Github**](GitandGitHub_Resources/): How to contribute to GitHub.
 
-* [**Web Design Resources**](webDesign.md): A page of resources for web design.
+* [**Web Development Tools**](FreeTools.md): A page listing a number of free web development tools.
 
-* [**Interviewing for Coding Jobs**](Interviewing.md): A page of resources for preparing for the job market.
+* [**Free Programming Books**](Free_Programming_Books.md): A list of free access books provided by ParrotOS linux distro
 
-* [**Articles**](ARTICLES.md): A page of general articles on web development.
+* [**Web Design Resources**](WebDesignLearningResources.md): A page of resources for web design.
+
+* [**Interviewing for Coding Jobs**](HowtoInterviewforCodeJobs.md): A page of resources about preparing for the job market.
+
+* [**Articles**](DevelopmentArticles.md): General articles page on web development.
 
 * [**JavaScript Resources**](JavaScript.md): A list of resources for learning JavaScript.
  
-* [**YouTube channels**](YouTube.md): A list of YouTube channels for learning web development and CS topics.
+* [**YouTube channels**](YouTubeChannels_forLearning.md): A list of YouTube channels for learning web development and CS topics.
 
 
 ---
