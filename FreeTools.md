@@ -9,9 +9,9 @@ Here is a list of text editors that may be of use to you. All have some sort of 
 
 * [Sublime Text](https://www.sublimetext.com/3): Andrei's choice but not the only one available. (WIN, MAC, LINUX) Buy it if you like it to help the developer.
 
-* [Visual Studio Code](https://code.visualstudio.com/): Open-Sourced from Microsoft. (WIN, MAC, LINUX) Free.
+* [Visual Studio Code](https://code.visualstudio.com/): Open-source from Microsoft. (WIN, MAC, LINUX) Free.
 
-* [Atom](https://atom.io/): Open-Sourced and free (WIN, MAC, LINUX).
+* [Atom](https://atom.io/): Open-source and free (WIN, MAC, LINUX).
 
 * [Brackets](http://brackets.io/): Developed by Adobe and Free (WIN, MAC, LINUX).
 
@@ -35,7 +35,7 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [Atom Live Server](https://atom.io/packages/atom-live-server) Launch simple development HTTP server with live reload.
 
-* [Atom tern-js](https://atom.io/packages/atom-ternjs) Javascript code intelligence for Atom - auto complete suggestion
+* [Atom tern-js](https://atom.io/packages/atom-ternjs) JavaScript code intelligence for Atom - auto complete suggestion
 
 * [Atom File-icons](https://atom.io/packages/file-icons) Assigns file extension icons and colors.
 
@@ -65,7 +65,7 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [Vimeo Repeat and Speed](https://chrome.google.com/webstore/detail/vimeo-repeat-speed/noonakfaafcdaagngpjehilgegefdima): Consume info at faster than normal pace.
 
-* [Built With Technology Analyzer](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US): Lets you see what tools and javascript libraries a site is using.
+* [Built With Technology Analyzer](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US): Lets you see what tools and JavaScript libraries a site is using.
 
 ---
 
