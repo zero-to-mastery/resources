@@ -14,3 +14,4 @@
 12. [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 13. [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc. 
 14. [LevelupTuts](https://www.youtube.com/user/LevelUpTuts)
+14. [Edureka](https://www.youtube.com/user/edurekaIN)
