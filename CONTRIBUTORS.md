@@ -62,3 +62,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@sparkle-sparkle](https://github.com/sparkle-sparkle)
 - [@binaryflow](https://github.com/binaryflow)
 - [@neticx](https://github.com/neticx)
+- [@512jay](https://github.com/512jay)
