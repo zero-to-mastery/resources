@@ -91,4 +91,4 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/): Generator that helps you create organic looking shapes with border radius.
 
-*[Tachyons](https://http://tachyons.io/): Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.
+* [Tachyons](https://tachyons.io/): Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.
