@@ -19,3 +19,4 @@
 16. [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
 17. [Neil Rowe](https://www.youtube.com/user/CodersGuide)
 18. [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+19. [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube)
