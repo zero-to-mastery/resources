@@ -16,3 +16,5 @@
 - [p5.js](https://p5js.org/): p5.js a JS client-side library for creating graphics and interactive experiences, based on the core principles of Processing. It has add-on libraries that make it easy to interact with other HTML5 objects, including text, input, video, webcam and sound.
 - [JavaScript-info](http://javascript.info/):
   How it's done now. From the basics to advanced topics with simple with JavaScript, but detailed explanations.
+- [art-of-node](https://github.com/maxogden/art-of-node#the-art-of-node):
+  Short introduction to Node that has some great information.
