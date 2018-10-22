@@ -65,3 +65,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@512jay](https://github.com/512jay)
 - [@dburly](https://github.com/dburly)
 - [@dziukers](https://github.com/dziukers)
+- [@toserjude](https://github.com/toserjude)
