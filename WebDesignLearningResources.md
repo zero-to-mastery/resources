@@ -10,6 +10,8 @@
 * [Learn UI Design Blog](https://learnui.design/blog/): An interesting blog with Erik Kennedy's down-to-earth personality and years of experience help the reader really understand what makes good UI/UX from a practical perspective.
 * [Flexbox Froggy](http://flexboxfroggy.com/): A fun in-browser game to help teach the powerful, complex CSS flexbox layout method.
 * [Grid Garden](https://cssgridgarden.com/): A fun in-browser game to help teach the powerful, complex CSS grid layout method.
+* [CSS dinner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
+* [Flexbox Defense](http://www.flexboxdefense.com/): Tower Defense with a twist: all towers must be positioned with CSS flexbox.
 * [Can I use... ](https://caniuse.com/): Browser support tables for modern web technologies
 
 ### Images &amp; Video
