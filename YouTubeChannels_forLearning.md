@@ -22,3 +22,5 @@
 19. [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube)
 20. [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): Almost everyday new tutorial about creating stuff in css
 21. [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites
+22. [mmtuts](https://www.youtube.com/user/TheCharmefis/featured)
+23. [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): tutorials + career/industry advice
