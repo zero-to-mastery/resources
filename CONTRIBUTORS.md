@@ -66,3 +66,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@dburly](https://github.com/dburly)
 - [@dziukers](https://github.com/dziukers)
 - [@iggyzane](https://github.com/iggyzane)
+- [@toserjude](https://github.com/toserjude)

@@ -11,10 +11,17 @@
 - [Mixu's Node Book](http://book.mixu.net/node/): An online tutorial that received much praise for explaining Node.js in a well-structured way. It is a book that teaches you to write the code for Node.js and not only rely on third-party libraries. Anyone that wants to have a deep grasp of the Node.js framework will benefit from Mixu's book.
 
 - [JavaScript Array Explorer](https://sdras.github.io/array-explorer/): Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.
+
 - [JavaScript30](https://javascript30.com/): A 30day coding challenge in which you will build 30 things using vanilla JavaScript.
+
 - [Visualize JavaScript](http://www.pythontutor.com/visualize.html#mode=edit): A helpful tool that breaks down your JavaScript code step-by-step. Helpful for identifying errors and solving errors in your code. Run your code in "Live Programming Mode" to visualize all the steps!
+
 - [p5.js](https://p5js.org/): p5.js a JS client-side library for creating graphics and interactive experiences, based on the core principles of Processing. It has add-on libraries that make it easy to interact with other HTML5 objects, including text, input, video, webcam and sound.
+
 - [JavaScript-info](http://javascript.info/):
   How it's done now. From the basics to advanced topics with simple with JavaScript, but detailed explanations.
+
 - [art-of-node](https://github.com/maxogden/art-of-node#the-art-of-node):
   Short introduction to Node that has some great information.
+
+- [JavaScript For Cats](http://jsforcats.com/): An introduction for new programmers
