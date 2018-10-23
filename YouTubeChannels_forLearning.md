@@ -24,3 +24,4 @@
 21. [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites
 22. [mmtuts](https://www.youtube.com/user/TheCharmefis/featured)
 23. [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): tutorials + career/industry advice
+24. [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Web development Tutorials (also in Hindi language)
