@@ -25,3 +25,4 @@
 22. [mmtuts](https://www.youtube.com/user/TheCharmefis/featured)
 23. [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): tutorials + career/industry advice
 24. [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Web development Tutorials (also in Hindi language)
+25. [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg)
