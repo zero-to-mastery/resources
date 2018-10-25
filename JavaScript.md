@@ -25,3 +25,9 @@
   Short introduction to Node that has some great information.
 
 - [JavaScript For Cats](http://jsforcats.com/): An introduction for new programmers
+
+- [A JavaScript Curriculum] (https://medium.freecodecamp.org/a-beginners-javascript-study-plan-27f1d698ea5e): A great curiculum for learning JavaScript from newbie to <em>You Don't Know JS</em> (see first resource above). 
+
+- [FreeCodeCamp Beginning JavaScript] (https://www.freecodecamp.org/): Learn JavaScript with an online community, examples, and tons of more advanced JavaScript topics when you are done. Certificate available too. All free. 
+
+- [Practical JavaScript] (https://watchandcode.com/p/practical-javascript): The excellent teachers at Watch and Code have released their beginning JavaScript course for free. If you haven't been able to learn elsewhere, try this tutorial. 
