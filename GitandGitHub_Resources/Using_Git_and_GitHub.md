@@ -6,6 +6,7 @@
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf): A cheat sheet that features the most important and commonly
 used Git commands for easy reference.
    - [Git Reference Documentation](https://git-scm.com/docs): A complete listing of Git's features and commands. The documentation is also available as a free ebook titled [Pro Git](https://git-scm.com/book/en/v2).
+* [Git - The simple guide](https://rogerdudler.github.io/git-guide/): A straight forward, straight to the point git guide that can serve as a quick reference point if you happen to forget something.
 * [Egg Head](https://egghead.io/lessons/javascript-introduction-to-github): Learn all you need to get started with Git and GitHub and get your first pull requests going.
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud): Create a Git repository, Copy your Git repository, add files, Pull changes from your Git repository on Bitbucket Cloud, Use a Git branch to merge a file and much more to become a pro at Git.
 * [GitHub Guide](https://github.com/antonykidis/GitHub-guide/blob/master/Git%20and%20GitHub.pdf): A pictorial guide for learning Git and Github by [Dmitry.M](https://github.com/antonykidis)
