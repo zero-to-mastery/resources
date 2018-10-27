@@ -31,3 +31,5 @@
 - [FreeCodeCamp Beginning JavaScript](https://www.freecodecamp.org/): Learn JavaScript with an online community, examples, and tons of more advanced JavaScript topics when you are done. Certificate available too. All free. 
 
 - [Practical JavaScript](https://watchandcode.com/p/practical-javascript): The excellent teachers at Watch and Code have released their beginning JavaScript course for free. If you haven't been able to learn elsewhere, try this tutorial.
+- 
+[JavaScript Jabber](https://devchat.tv/js-jabber/): A weekly podcast discussing the superb language JavaScript.
