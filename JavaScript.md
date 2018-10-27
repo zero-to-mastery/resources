@@ -31,5 +31,3 @@
 - [FreeCodeCamp Beginning JavaScript](https://www.freecodecamp.org/): Learn JavaScript with an online community, examples, and tons of more advanced JavaScript topics when you are done. Certificate available too. All free. 
 
 - [Practical JavaScript](https://watchandcode.com/p/practical-javascript): The excellent teachers at Watch and Code have released their beginning JavaScript course for free. If you haven't been able to learn elsewhere, try this tutorial.
-
-- [Syntax.fm](https://syntax.fm/): The amazing Wes Bos hosts a podcast for web developers. You can also find their episodes on Spotify!
