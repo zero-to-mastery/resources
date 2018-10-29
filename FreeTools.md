@@ -67,6 +67,10 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [Built With Technology Analyzer](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US): Lets you see what tools and JavaScript libraries a site is using.
 
+* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg): Alternative tool to Built With which detects and displays technologies used on websites.
+
+* [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp): Traffic Rank & Website Analysis tool for analyzing existing websites.
+
 ---
 
 ## General Development TOOLS
