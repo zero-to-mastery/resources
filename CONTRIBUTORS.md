@@ -28,6 +28,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@2jiwon](https://github.com/2jiwon)
 - [@WagAd22](https://github.com/WagAd22)
 - [@Ro008](https://github.com/Ro008)
+- [@SitGoFour](https://github.com/sitgofour)
 - [@ManojSilag](https://github.com/ManojSilag)
 - [@charlesmoscofian](https://github.com/charlesmoscofian)
 - [@rookie-cookie](https://github.com/rookie-cookie)
