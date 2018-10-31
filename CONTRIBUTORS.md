@@ -71,3 +71,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@DamianRivas](https://github.com/DamianRivas)
 - [@scooch1](https://github.com/scooch1)
 - [@renanreboredo](https://github.com/renanreboredo)
+- [@melaniel](https://github.com/melaniel)
