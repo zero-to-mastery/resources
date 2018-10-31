@@ -70,5 +70,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@toserjude](https://github.com/toserjude)
 - [@DamianRivas](https://github.com/DamianRivas)
 - [@scooch1](https://github.com/scooch1)
-- [@renanreboredo](https://github.com/renanreboredo)
 - [@melaniel](https://github.com/melaniel)
+- [@renanreboredo](https://github.com/renanreboredo)
+- [@ccampean](https://github.com/ccampean)
+
