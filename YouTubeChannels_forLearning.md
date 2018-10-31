@@ -26,3 +26,5 @@
 23. [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): tutorials + career/industry advice
 24. [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Web development Tutorials (also in Hindi language)
 25. [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg)
+26. [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA): Channel dedicated to post talks from JSConfs from around the world
+27. [BEAM Channel](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q) 

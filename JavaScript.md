@@ -32,6 +32,9 @@
 
 - [Practical JavaScript](https://watchandcode.com/p/practical-javascript): The excellent teachers at Watch and Code have released their beginning JavaScript course for free. If you haven't been able to learn elsewhere, try this tutorial.
 
+- [Functional Light JS](https://github.com/getify/Functional-Light-JS): Pragmatic, balanced FP in JavaScript.
+
 - [JavaScript Jabber](https://devchat.tv/js-jabber/): A weekly podcast discussing the superb language JavaScript.
 
 - [JS Fiddle](https://jsfiddle.net/): JSFiddle is an online community to test and collaborate JavaScript code snippets, known as 'fiddles'. It also allows for simulated AJAX calls. It can also be used to test HTML & CSS.
+
