@@ -24,6 +24,8 @@ Here's a list containing the best resources for web developers. Feel free to add
 * [**JavaScript Resources**](JavaScript.md): A list of resources for learning JavaScript.
  
 * [**YouTube channels**](YouTubeChannels_forLearning.md): A list of YouTube channels for learning web development and CS topics.
+  
+* [**Podcasts**](Podcasts.md): A range of podcasts from code, accesibility to design.
 
 
 ---
