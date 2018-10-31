@@ -1,9 +1,3 @@
-## Resource Pages
-
-Here's a list containing the best resources for web developers. Feel free to add your resources as well, because sharing is caring.
-
----
-
 ## Table of Contents
 * [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
 
