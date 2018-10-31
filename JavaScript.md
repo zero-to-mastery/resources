@@ -33,3 +33,5 @@
 - [Practical JavaScript](https://watchandcode.com/p/practical-javascript): The excellent teachers at Watch and Code have released their beginning JavaScript course for free. If you haven't been able to learn elsewhere, try this tutorial.
 - 
 [JavaScript Jabber](https://devchat.tv/js-jabber/): A weekly podcast discussing the superb language JavaScript.
+-
+[Functional Light JS](https://github.com/getify/Functional-Light-JS): Pragmatic, balanced FP in JavaScript.
