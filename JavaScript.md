@@ -31,5 +31,7 @@
 - [FreeCodeCamp Beginning JavaScript](https://www.freecodecamp.org/): Learn JavaScript with an online community, examples, and tons of more advanced JavaScript topics when you are done. Certificate available too. All free. 
 
 - [Practical JavaScript](https://watchandcode.com/p/practical-javascript): The excellent teachers at Watch and Code have released their beginning JavaScript course for free. If you haven't been able to learn elsewhere, try this tutorial.
-- 
-[JavaScript Jabber](https://devchat.tv/js-jabber/): A weekly podcast discussing the superb language JavaScript.
+
+- [JavaScript Jabber](https://devchat.tv/js-jabber/): A weekly podcast discussing the superb language JavaScript.
+
+- [JS Fiddle](https://jsfiddle.net/): JSFiddle is an online community to test and collaborate JavaScript code snippets, known as 'fiddles'. It also allows for simulated AJAX calls. It can also be used to test HTML & CSS.
