@@ -1,5 +1,6 @@
 ## General Resources for Learning Web Development
 
+* [BitDegree](https://www.bitdegree.org/): Website with free/paid online courses about web development, design, graphics, programming etc.
 * [Codecademy](https://www.codecademy.com/catalog/subject/web-development): A place to learn and practice web development concepts and languages.
 * [CodePen](https://www.codepen.io/): A development environment for front-end designers and developers, to showcase user-created HTML, CSS and JavaScript code snippets.
 * [Codewars](https://www.codewars.com/): A place to challenge yourself and hone your coding skills. See if you can find any fellow ZTM students on there and team up!
