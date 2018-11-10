@@ -8,6 +8,7 @@
 * [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda): Part 1 of a two-part series made for anyone with a burning desire to design good-looking UI in a pinch! Created by Erik D. Kennedy, a developer-turned-UX Designer, he is chock full of experience and his down-to-earth personality brings a sense of liveliness and humour to what he teaches.
 * [7 Rules for Creating Gorgeous UI (Part 2)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96): Part 2 of a two-part series.
 * [Learn UI Design Blog](https://learnui.design/blog/): An interesting blog with Erik Kennedy's down-to-earth personality and years of experience help the reader really understand what makes good UI/UX from a practical perspective.
+* [Sean Halpin](http://seanhalpin.io/): A professional web designer/developer's award winning portfolio website. 
 * [Flexbox Froggy](http://flexboxfroggy.com/): A fun in-browser game to help teach the powerful, complex CSS flexbox layout method.
 * [Grid Garden](https://cssgridgarden.com/): A fun in-browser game to help teach the powerful, complex CSS grid layout method.
 * [CSS dinner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
