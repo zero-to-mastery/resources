@@ -13,3 +13,18 @@
 11. [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 12. [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
 13. [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc. 
+14. [LevelupTuts](https://www.youtube.com/user/LevelUpTuts)
+14. [Edureka](https://www.youtube.com/user/edurekaIN)
+15. [Wes Bos](https://www.youtube.com/user/wesbos)
+16. [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
+17. [Neil Rowe](https://www.youtube.com/user/CodersGuide)
+18. [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+19. [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube)
+20. [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): Almost everyday new tutorial about creating stuff in css
+21. [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites
+22. [mmtuts](https://www.youtube.com/user/TheCharmefis/featured)
+23. [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): tutorials + career/industry advice
+24. [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Web development Tutorials (also in Hindi language)
+25. [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg)
+26. [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA): Channel dedicated to post talks from JSConfs from around the world
+27. [BEAM Channel](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q) 

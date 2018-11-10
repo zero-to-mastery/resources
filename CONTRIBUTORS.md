@@ -1,3 +1,7 @@
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
+
 ## Contributors
 
 This is a list showing the GitHub usernames of all who have contributed to this open-source project! **Make sure to add yourself and submit a pull request if you've contributed.**
@@ -24,6 +28,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@2jiwon](https://github.com/2jiwon)
 - [@WagAd22](https://github.com/WagAd22)
 - [@Ro008](https://github.com/Ro008)
+- [@SitGoFour](https://github.com/sitgofour)
 - [@ManojSilag](https://github.com/ManojSilag)
 - [@charlesmoscofian](https://github.com/charlesmoscofian)
 - [@rookie-cookie](https://github.com/rookie-cookie)
@@ -47,8 +52,25 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@shafali03](https://github.com/shafali03)
 - [@mk-hill](https://github.com/mk-hill)
 - [@iamxlr8](https://github.com/iamxlr8)
--[aditya-vardhann](https://github.com/aditya-vardhann)
+- [@aditya-vardhann](https://github.com/aditya-vardhann)
 - [@gilann](https://github.com/gilann)
 - [@caks42](https://github.com/caks42)
--[@MsWebGirl](https://github.com/mswebgirl)
+- [@MsWebGirl](https://github.com/mswebgirl)
 - [@alexroseb](https://github.com/alexroseb)
+- [@nagisahuman](https://github.com/nagisahuman)
+- [@julia-r](https://github.com/julia-r)
+- [@ribeiropdiogo](https://github.com/ribeiropdiogo)
+- [@sparkle-sparkle](https://github.com/sparkle-sparkle)
+- [@binaryflow](https://github.com/binaryflow)
+- [@neticx](https://github.com/neticx)
+- [@512jay](https://github.com/512jay)
+- [@dburly](https://github.com/dburly)
+- [@dziukers](https://github.com/dziukers)
+- [@iggyzane](https://github.com/iggyzane)
+- [@toserjude](https://github.com/toserjude)
+- [@DamianRivas](https://github.com/DamianRivas)
+- [@scooch1](https://github.com/scooch1)
+- [@melaniel](https://github.com/melaniel)
+- [@renanreboredo](https://github.com/renanreboredo)
+- [@ccampean](https://github.com/ccampean)
+- [@Rapcis](https://github.com/Rapcis)
