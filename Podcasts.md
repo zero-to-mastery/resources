@@ -20,6 +20,7 @@
 [https://futureofcoding.org/episodes/](Future of Coding)
 [https://realtalkjavascript.simplecast.fm/](REAL TALK Javascript)
 [https://codepodcast.com/](Code Podcast)
+[https://https://www.codenewbie.org/podcast](CodeNewbie Podcast)
 
 * History, founders on internet
 
