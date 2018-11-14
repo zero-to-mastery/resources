@@ -22,6 +22,10 @@
 	* [https://codepodcast.com/](Code Podcast)
 	* [https://www.codenewbie.org/podcast](CodeNewbie Podcast)
 
+* Apps
+	
+	* [https://appstories.net/](AppStories - exploring the world of apps)
+
 * History, founders on internet
 
 	* [https://www.redhat.com/en/command-line-heroes](Command Line Heroes)
