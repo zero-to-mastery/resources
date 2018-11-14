@@ -17,10 +17,10 @@
 
 * Code
 
-[https://futureofcoding.org/episodes/](Future of Coding)
-[https://realtalkjavascript.simplecast.fm/](REAL TALK Javascript)
-[https://codepodcast.com/](Code Podcast)
-[https://https://www.codenewbie.org/podcast](CodeNewbie Podcast)
+1. [https://futureofcoding.org/episodes/](Future of Coding)
+2. [https://realtalkjavascript.simplecast.fm/](REAL TALK Javascript)
+3. [https://codepodcast.com/](Code Podcast)
+4. [https://https://www.codenewbie.org/podcast](CodeNewbie Podcast)
 
 * History, founders on internet
 
