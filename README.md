@@ -8,7 +8,7 @@
 
 * [**Web Development Tools**](FreeTools.md): A page listing a number of free web development tools.
 
-* [**Free Programming Books**](Free_Programming_Books.md): A list of free access books provided by ParrotOS linux distro
+* [**Free Programming Books**](Free_Programming_Books.md): A list of free access books provided by ParrotOS linux distro.
 
 * [**Web Design Resources**](WebDesignLearningResources.md): A page of resources for web design.
 
@@ -20,7 +20,7 @@
 
 * [**YouTube channels**](YouTubeChannels_forLearning.md): A list of YouTube channels for learning web development and CS topics.
   
-* [**Podcasts**](Podcasts.md): A range of podcasts from code, accesibility to design.
+* [**Podcasts**](Podcasts.md): A range of podcasts from code, accessibility to design.
 
 ---
 
