@@ -2,6 +2,8 @@
 
 * [GitHub Learning Lab](https://lab.github.com/): Get the skills you need without leaving GitHub. GitHub Learning Lab takes you through a series of fun and practical projects, sharing helpful feedback along the way.
 
+* [Udacity's Git Commit Style Guide](https://udacity.github.io/git-styleguide/): A very useful and simple style guide for git commit messages (as well as JavaScript, HTML5, and CSS3) as it informs everybody on the team – including your future self if you are a solo contributor – what specific changes were made, what type they were, and why.
+
 * [Try Git](https://try.github.io/): Learn how to use Git with Code School's interactive course
 
 * [Learn Enough Git To Be Dangerous](https://www.learnenough.com/git-tutorial): A comprehensive guide to becoming very comfortable with Git and Github, provided by Michael Hartl – creator of the [Ruby on Rails tutorial](https://www.railstutorial.org/) and founder of the [Learn Enough courses](https://www.learnenough.com/story)
