@@ -37,6 +37,7 @@
 * [Color Tool](https://material.io/color/#!/?view.left=0&view.right=0): A tool associated with Google's Material Design (see above) for creating a color palette.
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
 * [Flat UI Colors](https://flatuicolors.com/): A simple website that allows you to choose from different color palettes.
+* [Picular](https://picular.co/): A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
 
 ### Icons &amp; Graphics
 
