@@ -17,16 +17,16 @@
 
 * [GitHub Guide](https://github.com/antonykidis/GitHub-guide/blob/master/Git%20and%20GitHub.pdf): A pictorial guide for learning Git and Github by [Dmitry.M](https://github.com/antonykidis)
 
-### Markdown:
+## Markdown
 
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): Most web pages (especially the README) on GitHub are written using the Markdown HTML-preprocessor language. 
    - Another useful resource for Markdown is the [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) website.
 
 * [A useful Markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf): Everything you need to know about Markdown laid out in a PDF format.
 
-* [Markdown Emoji's](https://github.com/StuartDaniells/Markdown_Emoji-s_List): One stop for all your favourite Emoji's using Markdown.
+* [Markdown Emoji's](https://github.com/StuartDaniells/Markdown_Emoji-s_List): One stop for all your favorite Emoji's using Markdown.
 
-### Open Source Coding on GitHub
+## Open Source Coding on GitHub
 
 * [Finding Open Source Projects on GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/): GitHub's advice on how to discover and contribute to open source projects.
 
