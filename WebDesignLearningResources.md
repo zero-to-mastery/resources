@@ -37,6 +37,7 @@
 * [Color Tool](https://material.io/color/#!/?view.left=0&view.right=0): A tool associated with Google's Material Design (see above) for creating a color palette.
 * [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
 * [Flat UI Colors](https://flatuicolors.com/): A simple website that allows you to choose from different color palettes.
+* [Picular](https://picular.co/): A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
 
 ### Icons &amp; Graphics
 
@@ -44,6 +45,7 @@
 * [Font Mfizz](http://fizzed.com/oss/font-mfizz): Font Mfizz provides scalable vector icons representing programming languages, operating systems, software engineering, and technology. It was designed as an extension to Font Awesome, it is an iconic font designed for technology and software geeks.
 * [Linea](http://linea.io/): A collection of simple, free icons.
 * [Iconfinder](https://www.iconfinder.com/): A listing of free and not-free web icons.
+* [Icongram](https://icongr.am/): A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms like Font Awesome, Material Design, Devicon, Clarity, Octicon and much more.
 * [Ionic](https://useiconic.com/): A collection of simple web icons. There is a free set of 223 icons as well as a larger set you can pay for.
 * [Material Icons](https://material.io/tools/icons/): Google's open source icon collection.
 * [Flaticon](https://www.flaticon.com/): A database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
