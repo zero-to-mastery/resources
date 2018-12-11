@@ -1,4 +1,5 @@
-## Interviewing for Coding Jobs
+# Interviewing for Coding Jobs
+
 ###### Based on [Andrei's list of interviewing resources](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8767388?start=0)
 
 * [How to Break Into the Tech Industry](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/): Some good, fairly detailed advice on job hunting, networking, interviewing, and negotiation.
@@ -15,5 +16,6 @@
 
 * [5 Things You Need to Know in a Programming Interview](https://medium.freecodecamp.org/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b): Several tips on preparing for an interview for a programming position as well as a list of recommended tools and resources.
 
-## Other Resouces
+## Other Resources
+
 [Remote Dev Job Sites](http://bit.ly/2NSgGe1) Here is a list of remote development jobs sites/companies/resources compiled by Misha one of the member of our community.
