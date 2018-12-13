@@ -1,4 +1,4 @@
-## Here is a list of YouTube channels you can check out if you want to learn Web Development (some channels also cover CS in general)
+# Here is a list of YouTube channels you can check out if you want to learn Web Development (some channels also cover CS in general)
 
 1. [CS50](https://www.youtube.com/user/cs50tv/)
 2. [Derek Banas](https://www.youtube.com/user/derekbanas)
