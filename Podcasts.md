@@ -1,31 +1,29 @@
-### Audio recordings to inspire you to become a better developer
+# Audio recordings to inspire you to become a better developer
 
 * Business
   
-	* [https://www.kalzumeus.com/podcast/](Kalzumeus)
+  * [https://www.kalzumeus.com/podcast/](Kalzumeus)
 
-* Design 
+* Design
 
-	* [https://www.relay.fm/presentable](Presentable)
-	* [https://www.designbetter.co/podcast](DesignBetter.Co)
-	* [https://spec.fm/podcasts/design-details](Design Details Spec)
+  * [https://www.relay.fm/presentable](Presentable)
+  * [https://www.designbetter.co/podcast](DesignBetter.Co)
+  * [https://spec.fm/podcasts/design-details](Design Details Spec)
 
-* Accesibility
+* Accessibility
   
-	* [https://a11yrules.com/](A11y Rules)
-	* [http://ebuaccesscast.libsyn.com/](EBU Access Cast)
+  * [https://a11yrules.com/](A11y Rules)
+  * [http://ebuaccesscast.libsyn.com/](EBU Access Cast)
 
 * Code
-
-	* [https://futureofcoding.org/episodes/](Future of Coding)
-	* [https://realtalkjavascript.simplecast.fm/](REAL TALK Javascript)
-	* [https://codepodcast.com/](Code Podcast)
-	* [https://www.codenewbie.org/podcast](CodeNewbie Podcast)
+  * [https://futureofcoding.org/episodes/](Future of Coding)
+  * [https://realtalkjavascript.simplecast.fm/](REAL TALK Javascript)
+  * [https://codepodcast.com/](Code Podcast)
+  * [https://www.codenewbie.org/podcast](CodeNewbie Podcast)
 
 * Apps
-	
-	* [https://appstories.net/](AppStories - exploring the world of apps)
+  * [https://appstories.net/](AppStories - exploring the world of apps)
 
 * History, founders on internet
 
-	* [https://www.redhat.com/en/command-line-heroes](Command Line Heroes)
+  * [https://www.redhat.com/en/command-line-heroes](Command Line Heroes)
