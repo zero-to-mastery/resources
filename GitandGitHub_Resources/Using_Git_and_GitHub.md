@@ -30,6 +30,8 @@
 
 ## Open Source Coding on GitHub
 
+* [Finding Open Source Projects](https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to): An open source guide created and curated by Github and contributors who want to learn "how to run and contribute to an open source project."
+
 * [Finding Open Source Projects on GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/): GitHub's advice on how to discover and contribute to open source projects.
 
 * [Zero to Mastery](https://github.com/zero-to-mastery): A listing of GitHub open-source projects associated with Andrei Neagoie's Udemy course [The Complete Web Developer in 2018: From Zero to Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/content).
