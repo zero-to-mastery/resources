@@ -34,6 +34,6 @@
 
 * [Finding Open Source Projects on GitHub](https://help.github.com/articles/finding-open-source-projects-on-github/): GitHub's advice on how to discover and contribute to open source projects.
 
-* [Zero to Mastery](https://github.com/zero-to-mastery): A listing of GitHub open-source projects associated with Andrei Neagoie's Udemy course [The Complete Web Developer in 2018: From Zero to Mastery](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/content).
+* [Zero to Mastery](https://github.com/zero-to-mastery): A treasure-trove of GitHub open-source projects - created by Andrei and maintained by our fellow students - to get started on!
 
 * [Zero to Mastery's Beginner Guide to Open Source Projects](https://github.com/zero-to-mastery/start-here-guidelines): This is a good place to start learning how to contribute to open source projects on GitHub.
