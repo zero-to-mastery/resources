@@ -30,7 +30,7 @@
 
 ## Open Source Coding on GitHub
 
-* [Finding Open Source Projects](https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to): An open source guide created and curated by Github and contributors who want to learn "how to run and contribute to an open source project."
+* [Finding Open Source Projects](https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to): An easy-to-follow open source guide created and curated by Github and fellow contributors, for those who want to learn "how to run and contribute to an open source project."
 
 * [Zero to Mastery](https://github.com/zero-to-mastery): A treasure-trove of GitHub open-source projects - created by Andrei and maintained by our fellow students - to get started on!
 
