@@ -24,7 +24,7 @@
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): Most web pages (especially the README) on GitHub are written using the Markdown HTML-preprocessor language.
    - Another useful resource for Markdown is the [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) website.
 
-* [A useful Markdown cheat sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf): Everything you need to know about Markdown laid out in a PDF format.
+* [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf): Everything you need to know about Markdown laid out in a PDF format.
 
 * [Markdown Emoji's](https://github.com/StuartDaniells/Markdown_Emoji-s_List): One stop for all your favorite Emoji's using Markdown.
 
