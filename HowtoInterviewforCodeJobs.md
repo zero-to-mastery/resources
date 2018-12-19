@@ -18,4 +18,6 @@
 
 ## Other Resources
 
+[How to Write A Killer Software Engineering Résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d): A fantastic breakdown of the essential components that make up a résumé. The impact statements within the Employment section and the Project sections in particular are especially worthwhile. Highly recommended as virtually every company requires them, whether or not you use résumés to get you your job.
+
 [Remote Dev Job Sites](http://bit.ly/2NSgGe1) Here is a list of remote development jobs sites/companies/resources compiled by Misha one of the member of our community.
