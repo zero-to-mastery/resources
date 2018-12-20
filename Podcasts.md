@@ -9,6 +9,7 @@
   * [Presentable](https://www.relay.fm/presentable)
   * [DesignBetter.Co](https://www.designbetter.co/podcast)
   * [Design Details Spec](https://spec.fm/podcasts/design-details])
+  * [Front End Happy Hour](https://frontendhappyhour.com)
 
 * Accessibility
   
