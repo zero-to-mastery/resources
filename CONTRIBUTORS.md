@@ -78,3 +78,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@simongreenuk](https://github.com/simongreenuk)
 - [@adegee](https://github.com/adegee)
 - [@jordonpo](https://github.com/jordonpo)
+- [@umair-mirza](https://github.com/umair-mirza)

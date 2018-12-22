@@ -64,3 +64,5 @@
 * [W3Schools](https://www.w3schools.com): A comprehensive learning resource covering HTML, CSS, JavaScript and more. Has interactive tutorials as well as quizzes.
 
 * [OSSU](https://github.com/ossu/computer-science): The OSSU curriculum is a **complete education in computer science** using online materials. It's not merely for career training or professional development. It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines,and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
+
+* [Bento.io](https://bento.io/): A web based platform that offers Free Web Development courses. The curriculum includes HTML, CSS, Javascript, Git, Python and SQL. A great resource for people people who want to learn Web Development starting from Beginner level.
