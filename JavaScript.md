@@ -1,14 +1,14 @@
 # Resources to Become a JavaScript Expert
 
-- [A JavaScript Curriculum](https://medium.freecodecamp.org/a-beginners-javascript-study-plan-27f1d698ea5e): A great curriculum for learning JavaScript from newbie to <em>You Don't Know JS</em> (see first resource above).
+- [A JavaScript Curriculum](https://medium.freecodecamp.org/a-beginners-javascript-study-plan-27f1d698ea5e): A great curriculum for learning JavaScript from newbie to [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 
-- [art-of-node](https://github.com/maxogden/art-of-node#the-art-of-node): Short introduction to Node that has some great information.
+- [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node): Short introduction to Node that has some great information.
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/): Eloquent JavaScript goes beyond the cut-and-paste scripts of the recipe books and teaches you to write code that's elegant and effective. You'll start with the basics of programming, and learn to use variables, control structures, functions, and data structures. Then you'll dive into the real JavaScript artistry: higher-order functions, closures, and object-oriented programming. Highly recommended.
 
 - [FreeCodeCamp Beginning JavaScript](https://www.freecodecamp.org/): Learn JavaScript with an online community, examples, and tons of more advanced JavaScript topics when you are done. Certificate available too. All free.
 
-- [Functional Light JS](https://github.com/getify/Functional-Light-JS): Pragmatic, balanced FP in JavaScript.
+- [Functional Light JS](https://github.com/getify/Functional-Light-JS): Pragmatic, balanced Functional Programming in JavaScript.
 
 - [JavaScript Cookbook](https://www.safaribooksonline.com/library/view/javascript-cookbook/9781449390211/): Why reinvent the wheel every time you run into a problem with JavaScript? This cookbook is chock-full of code recipes that address common programming tasks, as well as techniques for building web apps that work in any browser. Just copy and paste the code samples into your project—you’ll get the job done faster and learn more about JavaScript in the process.
 
@@ -16,17 +16,17 @@
 
 - [JavaScript Jabber](https://devchat.tv/js-jabber/): A weekly podcast discussing the superb language JavaScript.
 
-- [JavaScript-info](http://javascript.info/):How it's done now. From the basics to advanced topics with simple with JavaScript, but detailed explanations.
+- [JavaScript.Info](http://javascript.info/):How it's done now. From the basics to advanced topics with simple with JavaScript, but detailed explanations.
 
 - [JavaScript: The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition): This is a very solid foundation to work with, for anyone who might have struggled with the contexts and how arrow functions, local variables, and prototypes fit into the bigger picture. A quick introduction into the deeper ideas in JavaScript.
 
-- [JavaScript30](https://javascript30.com/): A 30day coding challenge in which you will build 30 things using vanilla JavaScript.
+- [JavaScript30](https://javascript30.com/): A 30-day coding challenge in which you will build 30 things using vanilla JavaScript.
 
 - [JS Fiddle](https://jsfiddle.net/): JSFiddle is an online community to test and collaborate JavaScript code snippets, known as 'fiddles'. It also allows for simulated AJAX calls. It can also be used to test HTML & CSS.
 
 - [Mixu's Node Book](http://book.mixu.net/node/): An online tutorial that received much praise for explaining Node.js in a well-structured way. It is a book that teaches you to write the code for Node.js and not only rely on third-party libraries. Anyone that wants to have a deep grasp of the Node.js framework will benefit from Mixu's book.
 
-- [Practical JavaScript](https://watchandcode.com/p/practical-javascript): The excellent teachers at Watch and Code have released their beginning JavaScript course for free. If you haven't been able to learn elsewhere, try this tutorial.
+- [Practical JavaScript](https://watchandcode.com/p/practical-javascript): The excellent teachers at **Watch and Code** have released their beginning JavaScript course for free. If you haven't been able to learn elsewhere, try this tutorial.
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. These concise yet in-depth guides take you inside core concepts that can help you become a more efficient and effective JavaScript programmer. This is a series of books diving deep into the core mechanisms of the JavaScript language.
 
