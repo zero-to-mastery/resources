@@ -35,3 +35,7 @@
 - [Visualize JavaScript](http://www.pythontutor.com/visualize.html#mode=edit): A helpful tool that breaks down your JavaScript code step-by-step. Helpful for identifying errors and solving errors in your code. Run your code in "Live Programming Mode" to visualize all the steps!
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. These concise yet in-depth guides take you inside core concepts that can help you become a more efficient and effective JavaScript programmer. This is a series of books diving deep into the core mechanisms of the JavaScript language.
+
+## Tools, Frameworks, and Libraries
+
+
