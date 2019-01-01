@@ -34,6 +34,8 @@
 
 - [JavaScript Array Explorer](https://sdras.github.io/array-explorer/): Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.
 
+- [Linting ES2015+ — ESLint with StyleGuides: Google, AirBnB, Common](https://medium.com/@uistephen/style-guides-for-linting-ecmascript-2015-eslint-common-google-airbnb-6c25fd3dff0): An excellent breakdown of linting's purpose and history while also giving a thorough analysis of some of the most common linting style-guides (Google, AirBnb, Common) as to what they do differently, what is similar and some of their best use-cases according to the project one is undertaking. A fantastic guide for those who are stuck choosing between which linting style-guide they should use.
+
 - [p5.js](https://p5js.org/): p5.js a JS client-side library for creating graphics and interactive experiences, based on the core principles of Processing. It has add-on libraries that make it easy to interact with other HTML5 objects, including text, input, video, webcam and sound.
 
 - [Visualize JavaScript](http://www.pythontutor.com/visualize.html#mode=edit): A helpful tool that breaks down your JavaScript code step-by-step. Helpful for identifying errors and solving errors in your code. Run your code in "Live Programming Mode" to visualize all the steps!
