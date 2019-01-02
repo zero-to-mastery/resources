@@ -18,6 +18,8 @@
 
 ## Other Resources
 
+* [Gainlo](http://www.gainlo.co/#!/): A free, handy tool, like [Interviewing.io](https://interviewing.io/), where one can hone their interviewing skills (technical and soft) through mock interviews with engineers from established tech companies - think Google, AirBnB, Amazon, Facebook, Dropbox, etc. - and receive real feedback on how one can improve. Great for those who care more about their privacy than they do their anonymity.
+
 * [Interviewing.io](https://interviewing.io/): An excellent, free tool to practice your interviewing skills (technical and soft) anonymously with engineers from established tech companies like Google, AWS, AirBnB, LinkedIn, Lyft, and more!
 
 * [How to Write A Killer Software Engineering Résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d): A fantastic breakdown of the essential components that make up a résumé. The impact statements within the Employment section and the Project sections in particular are especially worthwhile. Highly recommended as virtually every company requires them, whether or not you use résumés to get you your job.
