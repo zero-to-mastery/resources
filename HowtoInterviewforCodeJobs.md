@@ -2,7 +2,7 @@
 
 ###### Based on [Andrei's list of interviewing resources](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8767388?start=0)
 
-* [5 Things You Need to Know in a Programming Interview](https://medium.freecodecamp.org/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b): Several tips on preparing for an interview for a programming position as well as a list of recommended tools and resources.
+* [5 Things You Need to Know in a Programming Interview](https://medium.freecodecamp.org/the-most-important-things-you-need-to-know-for-a-programming-interview-3429ac2454b): Zhia Chong - a Twitter Software Engineer who possesses a wealth of experience as both an interviewer and interviewee - provides several tips on preparing for programming interviews as well as recommending a solid list of tools and resources (like [Cracking The Coding Interview](https://www.amazon.com/gp/product/0984782850/ref=as_li_tl?ie=UTF8&tag=zrecommended-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0984782850&linkId=86b9ff78cbd7423ea3b98d3aca1995c3)).
 
 * [How Not to Bomb Your Offer Negotiation](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea): How to negotiate a better deal for yourself in the hiring process.
 
