@@ -78,7 +78,7 @@
 
 * [Iconfinder](https://www.iconfinder.com/): A listing of free and not-free web icons.
 
-* [Icongram](https://icongr.am/): A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms like Font Awesome, Material Design, Devicon, Clarity, Octicon and much more.
+* [Icongram](https://icongr.am/): A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms like [Font Awesome](https://fontawesome.com/), [Material Design](https://material.io/tools/icons/?style=baseline), [Devicon](https://konpa.github.io/devicon/), [Clarity](https://vmware.github.io/clarity/icons/icon-sets), [Octicons](https://octicons.github.com/) and much more.
 
 * [Ionic](https://useiconic.com/): A collection of simple web icons. There is a free set of 223 icons as well as a larger set you can pay for.
 
