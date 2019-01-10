@@ -8,7 +8,7 @@
 
 * [**Web Development Tools**](FreeTools.md): A page listing a number of free web development tools.
 
-* [**Free Programming Books**](Free_Programming_Books.md): A list of free access books provided by ParrotOS linux distro.
+* [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
 
 * [**Web Design Resources**](WebDesignLearningResources.md): A page of resources for web design.
 
