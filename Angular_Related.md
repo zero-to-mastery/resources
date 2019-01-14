@@ -1,5 +1,7 @@
 # Some Angular4/5/6 Related Links
 
+- [Fireship.io is an ecosystem of detailed and practical resources for developers who want to build and ship high-quality apps.](https://fireship.io/)
+
 - [Reactive forms and form validation with Angular](https://medium.com/front-end-hacking/reactive-forms-and-form-validation-with-angular-fdcbcf98e1e8)
 
 - [Best practices for authentication and authorization in Angular without breaking RESTful principles?](https://stackoverflow.com/questions/22488393/best-practices-for-authentication-and-authorization-in-angular-without-breaking)
