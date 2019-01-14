@@ -6,6 +6,8 @@
 
 * [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
 
+* [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo): A very thorough and upbeat channel covering **_everything_** within the computer science world: from it's history to the design decisions that went into computers, how operating systems work (or don't work), how the internet works, how our smartphones are getting smarter, and the more mysterious subjects, like quantum computing or the present-day hacking. It also discusses algorithms and data structures, cryptography and cyber security, machine learning, and the singularity. Well-worth the lookup.
+
 * [CS50](https://www.youtube.com/user/cs50tv/)
 
 * [Derek Banas](https://www.youtube.com/user/derekbanas)
