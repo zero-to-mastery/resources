@@ -10,4 +10,4 @@
 
   * [Eloquent JavaScript](http://eloquentjavascript.net/)
 
-  * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series)(e)Books
+  * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series)
