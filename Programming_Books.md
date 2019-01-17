@@ -1,7 +1,5 @@
 # Programming Books
 
-## Free (e)Books
-
 * A list of free access books provided by [ParrotOS linux distro](https://archive.parrotsec.org/parrot/misc/openbooks/programming/).
 
 * [Top Free eBooks for Web Designers & Web Developers](https://medium.com/web-development-zone/top-free-ebooks-for-web-designers-web-developers-f8c6a70465ad): A Medium article showcasing free, insightful eBooks for Web Designers and Developers. Just to name a few:
@@ -14,4 +12,4 @@
 
   * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS#you-dont-know-js-book-series)
 
-## Paid (e)Books
+* [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master-ebook-dp-B003GCTQAE/dp/B003GCTQAE/ref=mt_kindle?_encoding=UTF8&me=&qid=): Ever heard of [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) or [don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)? Andrew Hunt and David Thomas popularized these ideas within their book, **_The Pragmatic Programmer_**, as they first walk the reader through the type of _mindset_ and _tools_ one should implement before _writing code_. From there they delve deep into best practices for _writing code_ (testing, refactoring, clean and performant code, using Big-O to estimate algorithm runtime, weighing costs and benefits before implementing something, etc.), followed by _project management_. Although it came out in 1999, it still holds its own as a practical and relevant book in the modern world.
