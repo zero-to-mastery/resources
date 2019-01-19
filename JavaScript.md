@@ -28,6 +28,8 @@
 
 - [Practical JavaScript](https://watchandcode.com/p/practical-javascript): The excellent teachers at **Watch and Code** have released their beginning JavaScript course for free. If you haven't been able to learn elsewhere, try this tutorial.
 
+- [State of JavaScript](https://stateofjs.com/): An annual survey of over 20,000 JavaScript developers regarding the major JavaScript libraries, frameworks, languages, and other tools. A useful resource for understanding where the industry is headed and deciding what to learn next.
+
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. These concise yet in-depth guides take you inside core concepts that can help you become a more efficient and effective JavaScript programmer. This is a series of books diving deep into the core mechanisms of the JavaScript language.
 
 ## Tools, Frameworks, and Libraries
