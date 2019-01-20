@@ -28,7 +28,7 @@
 
 * [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg)
 
-* [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA): Channel dedicated to post talks from JSConfs from around the world.
+* [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA):  A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
 
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
 
