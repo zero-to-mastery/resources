@@ -18,7 +18,7 @@
 
 * [**JavaScript Resources**](JavaScript.md): A list of resources for learning JavaScript.
 
-* [**YouTube Channels**](YouTubeChannels_forLearning.md): A list of YouTube channels for learning web development and CS topics.
+* [**YouTube Channels**](YouTubeChannels_forLearning.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
   
 * [**Podcasts**](Podcasts.md): A range of podcasts from code, accessibility to design.
 
