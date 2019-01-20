@@ -1,4 +1,4 @@
-# Here is a list of YouTube channels you can check out if you want to learn Web Development (some channels also cover CS in general)
+# YouTube Channels
 
 * [BEAM Channel](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q)
 
