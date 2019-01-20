@@ -34,7 +34,7 @@
 
 * [LevelupTuts](https://www.youtube.com/user/LevelUpTuts)
 
-* [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Web development Tutorials (also in Hindi language).
+* [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
 
 * [mmtuts](https://www.youtube.com/user/TheCharmefis/featured)
 
