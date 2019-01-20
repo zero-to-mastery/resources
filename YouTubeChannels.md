@@ -1,4 +1,4 @@
-# Here is a list of YouTube channels you can check out if you want to learn Web Development (some channels also cover CS in general)
+# YouTube Channels
 
 * [BEAM Channel](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q)
 
@@ -16,7 +16,7 @@
 
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 
-* [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): tutorials + career/industry advice.
+* [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): Tutorials + career/industry advice.
 
 * [Edureka](https://www.youtube.com/user/edurekaIN)
 
@@ -28,19 +28,19 @@
 
 * [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg)
 
-* [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA): Channel dedicated to post talks from JSConfs from around the world.
+* [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA):  A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
 
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
 
 * [LevelupTuts](https://www.youtube.com/user/LevelUpTuts)
 
-* [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Web development Tutorials (also in Hindi language).
+* [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
 
 * [mmtuts](https://www.youtube.com/user/TheCharmefis/featured)
 
 * [Neil Rowe](https://www.youtube.com/user/CodersGuide)
 
-* [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): Almost everyday new tutorial about creating stuff in css.
+* [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): **_Online Tutorials_** and its sister channel, [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A), is rich with beautiful, modular snippets of HTML5 and CSS3 design tutorials.
 
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
 
