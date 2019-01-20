@@ -32,6 +32,8 @@
 
 * [Scrimba](https://scrimba.com/): A powerful new way of learning code. Play around with the instructors code any time, right in the player.
 
+* [HackerRank](https://www.hackerrank.com/): A place where you can practice coding, prepare for interviews, and get hired.
+
 * [HTMLCheatSheet](https://htmlcheatsheet.com/): A reference sheet for HTML, CSS, and JavaScript that includes helpful code structures (e.g. for setting up a blank page, tables, charts, etc.), and helpful tools such as an RGB color picker, iframe generator, and placeholder text generator.
 
 * [HTML Reference](https://htmlreference.io/): An online guide to HTML that features complete descriptions, and examples of usage for all HTML elements and attributes.
