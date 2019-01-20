@@ -16,7 +16,7 @@
 
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 
-* [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): tutorials + career/industry advice.
+* [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): Tutorials + career/industry advice.
 
 * [Edureka](https://www.youtube.com/user/edurekaIN)
 
