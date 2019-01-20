@@ -40,7 +40,7 @@
 
 * [Neil Rowe](https://www.youtube.com/user/CodersGuide)
 
-* [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): Almost everyday new tutorial about creating stuff in css.
+* [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): **_Online Tutorials_** and its sister channel, [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A), is rich with beautiful, modular snippets of HTML5 and CSS3 design tutorials.
 
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
 
