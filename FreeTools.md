@@ -45,6 +45,20 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [Atom pretty-json](https://atom.io/packages/pretty-json) A Package for automatically formatting JSON documents.
 
+* [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) Automatically add HTML/XML close tag.
+
+* [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) Automatically rename paired HTML/XML tag.
+
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) Allows matching brackets to be identified with colors.
+
+* [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) Highlight web colors in your editor.
+
+* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) The most epic theme for your editor.
+
+* [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) A cross between Monokai and One Dark theme.
+
+* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Provides you with JavaScript and React/Redux snippets in ES7 with Babel plugin features.
+
 ---
 
 ## CHROME EXTENSIONS
