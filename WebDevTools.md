@@ -86,8 +86,6 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [Built With Technology Analyzer](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US): Lets you see what tools and JavaScript libraries a site is using.
 
-* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg): Alternative tool to Built With which detects and displays technologies used on websites.
-
 * [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp): Traffic Rank & Website Analysis tool for analyzing existing websites.
 
 ---
@@ -105,6 +103,8 @@ Things to look for if your editor has implementations for them. They will make y
 * [Blend](http://colinkeany.com/blend/): This tool creates CSS code for linear gradients, taking the guesswork out of the process.
 
 * [Border Image Generator](https://developer.mozilla.org/de/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator): A tool by Mozilla to create border images
+
+* [Clippy -- CSS clip-path maker ](https://bennettfeely.com/clippy/): A tool that helps you create shapes and generate its equivalent CSS code.
 
 * [cubic-bezier.com](http://cubic-bezier.com/#.17,.67,.83,.67): A great tool for creating bezier curve animations in CSS without having to guess at the code.
 
