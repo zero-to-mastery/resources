@@ -36,7 +36,7 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [Atom pretty-json](https://atom.io/packages/pretty-json) A Package for automatically formatting JSON documents.
 
-* [Atom tern-js](https://atom.io/packages/atom-ternjs) JavaScript code intelligence for Atom - auto complete suggestion
+* [Atom tern-js](https://atom.io/packages/atom-ternjs) JavaScript code intelligence for Atom - auto complete suggestion.
 
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) Automatically add HTML/XML close tag.
 
@@ -94,15 +94,15 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es6/): A table for checking the compatibility of modern JavaScript elements with browsers and compilers.
 
-* [JSONPlaceholder](https://jsonplaceholder.typicode.com/): a great resource for testing API calls in JavaScript development.
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/): A great resource for testing API calls in JavaScript development.
 
-* [**SweetAlert2**](https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer): some really nice looking alerts that you can use.
+* [**SweetAlert2**](https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer): Some really nice looking alerts that you can use.
 
 ### For CSS ###
 
 * [Blend](http://colinkeany.com/blend/): This tool creates CSS code for linear gradients, taking the guesswork out of the process.
 
-* [Border Image Generator](https://developer.mozilla.org/de/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator): A tool by Mozilla to create border images
+* [Border Image Generator](https://developer.mozilla.org/de/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator): A tool by Mozilla to create border images.
 
 * [Clippy -- CSS clip-path maker ](https://bennettfeely.com/clippy/): A tool that helps you create shapes and generate its equivalent CSS code.
 
