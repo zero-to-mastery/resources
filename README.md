@@ -6,7 +6,7 @@
 
 * [**Contributing to Github**](GitandGitHub_Resources/Contributing_to_GitHub.md): How to contribute to GitHub.
 
-* [**Web Development Tools**](FreeTools.md): A page listing a number of free web development tools.
+* [**Web Development Tools**](WebDevTools.md): A page listing a number of free web development tools.
 
 * [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
 
