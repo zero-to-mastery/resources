@@ -36,7 +36,7 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [Atom pretty-json](https://atom.io/packages/pretty-json) A Package for automatically formatting JSON documents.
 
-* [Atom tern-js](https://atom.io/packages/atom-ternjs) JavaScript code intelligence for Atom - auto complete suggestion
+* [Atom tern-js](https://atom.io/packages/atom-ternjs) JavaScript code intelligence for Atom - auto complete suggestion.
 
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) Automatically add HTML/XML close tag.
 
@@ -68,41 +68,41 @@ Things to look for if your editor has implementations for them. They will make y
 
 ## CHROME EXTENSIONS
 
-* [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): Instantly find out what font is being used with a click. No Developer Mode required.
-
-* [Pesticide](https://chrome.google.com/webstore/search/pesticide): Make Box Modelling a breeze. Pinpoint issues, fast.
+* [Built With Technology Analyzer](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US): Lets you see what tools and JavaScript libraries a site is using.
 
 * [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp): Find colours on your page with this eye dropper.
 
-* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg): What technology is this site using? One click on the button and you'll know.
+* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa): Just like the name says, get help with your JSON issues.
+
+* [Pesticide](https://chrome.google.com/webstore/search/pesticide): Make Box Modelling a breeze. Pinpoint issues, fast.
 
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi): Name says it all.
 
 * [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd): Yep, dev tools for Redux.
 
-* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa): Just like the name says, get help with your JSON issues.
+* [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp): Traffic Rank & Website Analysis tool for analyzing existing websites.
 
 * [Vimeo Repeat and Speed](https://chrome.google.com/webstore/detail/vimeo-repeat-speed/noonakfaafcdaagngpjehilgegefdima): Consume info at faster than normal pace.
 
-* [Built With Technology Analyzer](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US): Lets you see what tools and JavaScript libraries a site is using.
+* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg): What technology is this site using? One click on the button and you'll know.
 
-* [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp): Traffic Rank & Website Analysis tool for analyzing existing websites.
+* [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): Instantly find out what font is being used with a click. No Developer Mode required.
 
 ---
 
 ## General Development TOOLS
 
-* [**SweetAlert2**](https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer): some really nice looking alerts that you can use.
-
 * [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es6/): A table for checking the compatibility of modern JavaScript elements with browsers and compilers.
 
-* [JSONPlaceholder](https://jsonplaceholder.typicode.com/): a great resource for testing API calls in JavaScript development.
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/): A great resource for testing API calls in JavaScript development.
+
+* [**SweetAlert2**](https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer): Some really nice looking alerts that you can use.
 
 ### For CSS ###
 
 * [Blend](http://colinkeany.com/blend/): This tool creates CSS code for linear gradients, taking the guesswork out of the process.
 
-* [Border Image Generator](https://developer.mozilla.org/de/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator): A tool by Mozilla to create border images
+* [Border Image Generator](https://developer.mozilla.org/de/docs/Web/CSS/CSS_Background_and_Borders/Border-image_generator): A tool by Mozilla to create border images.
 
 * [Clippy -- CSS clip-path maker ](https://bennettfeely.com/clippy/): A tool that helps you create shapes and generate its equivalent CSS code.
 
@@ -110,8 +110,8 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [CSS Arrow Please](http://www.cssarrowplease.com/): Create and export CSS code for a custom box with an arrow extending out from the side.
 
-* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/): A CSS gradient generator, that allows multiple colorstops and different kinds of gradients. 
-
 * [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/): Generator that helps you create organic looking shapes with border radius.
 
 * [Tachyons](https://tachyons.io/): Create fast loading, highly readable, and 100% responsive interfaces with as little css as possible.
+
+* [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/): A CSS gradient generator, that allows multiple colorstops and different kinds of gradients.
