@@ -92,11 +92,11 @@ Things to look for if your editor has implementations for them. They will make y
 
 ## General Development TOOLS
 
-* [**SweetAlert2**](https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer): some really nice looking alerts that you can use.
-
 * [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es6/): A table for checking the compatibility of modern JavaScript elements with browsers and compilers.
 
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/): a great resource for testing API calls in JavaScript development.
+
+* [**SweetAlert2**](https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer): some really nice looking alerts that you can use.
 
 ### For CSS ###
 
