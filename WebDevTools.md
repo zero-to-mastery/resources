@@ -62,6 +62,8 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [Prettier](https://prettier.io/): Automatic code formatting to standardize style across the codebase (Plugin or Built-in).
 
+* [Settings Sync](https://github.com/shanalikhan/code-settings-sync/wiki/Setup-Guide): A VS Code extension allowing you to synchronize your text editor workflow from settings to snippets, themes, file icons, launch, keybindings, workspaces and extensions. Comes in handy when setting up your developer environment on a new computer (like on a company's work computer).
+
 ---
 
 ## CHROME EXTENSIONS
