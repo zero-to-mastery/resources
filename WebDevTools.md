@@ -26,21 +26,9 @@ Many others are available, just search for "text editors" on your search engine 
 
 Things to look for if your editor has implementations for them. They will make your life a lot easier.
 
-* [EMMET](https://emmet.io/): Use shortcuts and shorthand to get work done faster (Plugin or Built-in).
-
-* [Code Linters](https://github.com/collections/clean-code-linters): Get immediate feedback on code logic or stylistic errors (Plugin or Built-in).
-
-* [Git](https://git-scm.com/): Source control is necessary (Plugin or Built-in).
-
-* [Prettier](https://prettier.io/): Automatic code formatting to standardize style across the codebase (Plugin or Built-in).
-
-* [Autoprefixer](https://atom.io/packages/autoprefixer): Shortcut browser-compatibility issues for CSS/SCSS (Plugin or Built-in).
+* [Atom File-icons](https://atom.io/packages/file-icons) Assigns file extension icons and colors.
 
 * [Atom Live Server](https://atom.io/packages/atom-live-server) Launch simple development HTTP server with live reload.
-
-* [Atom tern-js](https://atom.io/packages/atom-ternjs) JavaScript code intelligence for Atom - auto complete suggestion
-
-* [Atom File-icons](https://atom.io/packages/file-icons) Assigns file extension icons and colors.
 
 * [Atom Minimap](https://atom.io/packages/minimap) A preview of the full source code.
 
@@ -48,19 +36,31 @@ Things to look for if your editor has implementations for them. They will make y
 
 * [Atom pretty-json](https://atom.io/packages/pretty-json) A Package for automatically formatting JSON documents.
 
+* [Atom tern-js](https://atom.io/packages/atom-ternjs) JavaScript code intelligence for Atom - auto complete suggestion
+
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) Automatically add HTML/XML close tag.
 
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) Automatically rename paired HTML/XML tag.
 
+* [Autoprefixer](https://atom.io/packages/autoprefixer): Shortcut browser-compatibility issues for CSS/SCSS (Plugin or Built-in).
+
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) Allows matching brackets to be identified with colors.
 
+* [Code Linters](https://github.com/collections/clean-code-linters): Get immediate feedback on code logic or stylistic errors (Plugin or Built-in).
+
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) Highlight web colors in your editor.
+
+* [EMMET](https://emmet.io/): Use shortcuts and shorthand to get work done faster (Plugin or Built-in).
+
+* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Provides you with JavaScript and React/Redux snippets in ES7 with Babel plugin features.
+
+* [Git](https://git-scm.com/): Source control is necessary (Plugin or Built-in).
 
 * [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) The most epic theme for your editor.
 
 * [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) A cross between Monokai and One Dark theme.
 
-* [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Provides you with JavaScript and React/Redux snippets in ES7 with Babel plugin features.
+* [Prettier](https://prettier.io/): Automatic code formatting to standardize style across the codebase (Plugin or Built-in).
 
 ---
 
