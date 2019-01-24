@@ -68,25 +68,25 @@ Things to look for if your editor has implementations for them. They will make y
 
 ## CHROME EXTENSIONS
 
-* [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): Instantly find out what font is being used with a click. No Developer Mode required.
-
-* [Pesticide](https://chrome.google.com/webstore/search/pesticide): Make Box Modelling a breeze. Pinpoint issues, fast.
+* [Built With Technology Analyzer](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US): Lets you see what tools and JavaScript libraries a site is using.
 
 * [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp): Find colours on your page with this eye dropper.
 
-* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg): What technology is this site using? One click on the button and you'll know.
+* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa): Just like the name says, get help with your JSON issues.
+
+* [Pesticide](https://chrome.google.com/webstore/search/pesticide): Make Box Modelling a breeze. Pinpoint issues, fast.
 
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi): Name says it all.
 
 * [Redux Dev Tools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd): Yep, dev tools for Redux.
 
-* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa): Just like the name says, get help with your JSON issues.
+* [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp): Traffic Rank & Website Analysis tool for analyzing existing websites.
 
 * [Vimeo Repeat and Speed](https://chrome.google.com/webstore/detail/vimeo-repeat-speed/noonakfaafcdaagngpjehilgegefdima): Consume info at faster than normal pace.
 
-* [Built With Technology Analyzer](https://chrome.google.com/webstore/detail/builtwith-technology-prof/dapjbgnjinbpoindlpdmhochffioedbn?hl=en-US): Lets you see what tools and JavaScript libraries a site is using.
+* [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg): What technology is this site using? One click on the button and you'll know.
 
-* [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp): Traffic Rank & Website Analysis tool for analyzing existing websites.
+* [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): Instantly find out what font is being used with a click. No Developer Mode required.
 
 ---
 
