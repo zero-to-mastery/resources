@@ -26,9 +26,9 @@
 
 * [Crash Course Computer Science](https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo): A very thorough and upbeat channel covering **_everything_** within the computer science world: from it's history to the design decisions that went into computers, how operating systems work (or don't work), how the internet works, how our smartphones are getting smarter, and the more mysterious subjects, like quantum computing or the present-day hacking. It also discusses algorithms and data structures, cryptography and cyber security, machine learning, and the singularity. Well-worth the lookup.
 
-* [CS50](https://www.youtube.com/user/cs50tv/)
+* [CS50](https://www.youtube.com/user/cs50tv/): Welcome to Harvard University's Intro to the fundamentals of computer science and the art of programming, taught with languages such as [Scratch](https://scratch.mit.edu/), [C](https://www.programiz.com/c-programming), and [Python](https://www.python.org/).
 
-* [Derek Banas](https://www.youtube.com/user/derekbanas)
+* [Derek Banas](https://www.youtube.com/user/derekbanas): (Mostly) A beginner programmer-oriented channel that teaches users the basics or fundamentals of programming languages (C++, JS, Python, etc.)
 
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites.
 
