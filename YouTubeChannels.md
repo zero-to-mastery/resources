@@ -28,7 +28,7 @@
 
 * [CS50](https://www.youtube.com/user/cs50tv/): Welcome to Harvard University's Intro to the fundamentals of computer science and the art of programming, taught with languages such as [Scratch](https://scratch.mit.edu/), [C](https://www.programiz.com/c-programming), and [Python](https://www.python.org/).
 
-* [Derek Banas](https://www.youtube.com/user/derekbanas)
+* [Derek Banas](https://www.youtube.com/user/derekbanas): (Mostly) A beginner programmer-oriented channel that teaches users the basics or fundamentals of programming languages (C++, JS, Python, etc.)
 
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites.
 
