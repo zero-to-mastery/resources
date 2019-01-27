@@ -30,9 +30,9 @@
 
 * [Derek Banas](https://www.youtube.com/user/derekbanas): (Mostly) A beginner programmer-oriented channel that teaches users the basics or fundamentals of programming languages (C++, JS, Python, etc.)
 
-* [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites.
+* [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials.
 
-* [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+* [DevTips](https://www.youtube.com/user/DevTipsForDesigners): The sister-channel of [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/about), this fun (and funny) design-oriented channel features tutorials and tips/opinions on all things design/front-end related like [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://www.javascript.com/), [React](https://reactjs.org/), [Adobe XD](https://www.adobe.com/products/xd.html), and container platforms (think [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/)).
 
 * [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): Tutorials + career/industry advice.
 
