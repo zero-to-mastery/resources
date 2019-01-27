@@ -30,7 +30,7 @@
 
 * [Derek Banas](https://www.youtube.com/user/derekbanas): (Mostly) A beginner programmer-oriented channel that teaches users the basics or fundamentals of programming languages (C++, JS, Python, etc.)
 
-* [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites.
+* [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials.
 
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
 
