@@ -54,7 +54,19 @@
 
   * Data Science and Digital Marketing
 
-* [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): An increasingly popular resource with excellent content from the open-source community of self-taught developers who enjoy contributing to non-profit organizations. Their videos cover a nice range of topics:
+
+  * Languages and Frameworks
+
+  * Game Development
+
+  * Talks
+
+  * A Day in The Life Of...
+
+  * Live Coding sessions
+
+  * Fundamentals (Computer Science and Programming)
 
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
 
