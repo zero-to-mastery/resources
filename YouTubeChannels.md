@@ -36,7 +36,23 @@
 
 * [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): Tutorials + career/industry advice.
 
-* [Edureka](https://www.youtube.com/user/edurekaIN)
+* [Edureka](https://www.youtube.com/user/edurekaIN): Features high-quality tutorials and lectures (available also in Hindi and Telugu) where they curate the following topics:
+
+  * Big Data and Hadoop
+
+  * DevOps
+  
+  * Block Chain
+
+  * Artificial Intelligence (AI)
+
+  * Angular
+
+  * Python
+
+  * AWS
+
+  * Data Science and Digital Marketing
 
 * [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 
