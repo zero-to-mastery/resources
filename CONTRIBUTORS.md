@@ -81,3 +81,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@umair-mirza](https://github.com/umair-mirza)
 - [@MrKovalski](https://github.com/MrKovalski)
 - [@siegblink](https://github.com/siegblink)
+- [@simonpankovski](https://github.com/simonpankovski)
