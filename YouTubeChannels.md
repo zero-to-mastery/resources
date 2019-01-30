@@ -68,7 +68,7 @@
 
   * Fundamentals (Computer Science and Programming)
 
-* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q)
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q): The sister channel of [DevTips](https://www.youtube.com/user/DevTipsForDesigners) – ran by the whimsical, yet informative Mattias Petter Johansson (a.k.a. MPJ) – takes a deep-dive into the realm of JavaScript while also exploring the "soft" side of programming, creativity, motivation, and career.
 
 * [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube)
 
