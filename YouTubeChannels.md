@@ -70,7 +70,7 @@
 
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q): The sister channel of [DevTips](https://www.youtube.com/user/DevTipsForDesigners) – ran by the whimsical, yet informative Mattias Petter Johansson (a.k.a. MPJ) – takes a deep-dive into the realm of JavaScript while also exploring the "soft" side of programming, creativity, motivation, and career.
 
-* [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube)
+* [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube): An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog.
 
 * [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg)
 
