@@ -6,6 +6,8 @@
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/): Eloquent JavaScript goes beyond the cut-and-paste scripts of the recipe books and teaches you to write code that's elegant and effective. You'll start with the basics of programming, and learn to use variables, control structures, functions, and data structures. Then you'll dive into the real JavaScript artistry: higher-order functions, closures, and object-oriented programming. Highly recommended.
 
+- [Exploring JS: JavaScript books for programmers](http://exploringjs.com/) by Dr. Axel Rauschmeyer: free online books that delve deep into the Javascript language - always up-to-date with new books on the latest Ecmascript features
+
 - [FreeCodeCamp Beginning JavaScript](https://www.freecodecamp.org/): Learn JavaScript with an online community, examples, and tons of more advanced JavaScript topics when you are done. Certificate available too. All free.
 
 - [Functional Light JS](https://github.com/getify/Functional-Light-JS): Pragmatic, balanced Functional Programming in JavaScript.
