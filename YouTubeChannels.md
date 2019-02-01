@@ -76,7 +76,7 @@
 
 * [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA):  A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
 
-* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy)
+* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies) with an emphasis on Front-End development.
 
 * [LevelupTuts](https://www.youtube.com/user/LevelUpTuts)
 
