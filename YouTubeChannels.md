@@ -78,7 +78,7 @@
 
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies) with an emphasis on Front-End development.
 
-* [LevelupTuts](https://www.youtube.com/user/LevelUpTuts)
+* [LevelupTuts](https://www.youtube.com/user/LevelUpTuts): Scott Tolinski – producer and maintainer of the channel, friends with the people behind [LearnCode.academy](https://www.youtube.com/user/learncodeacademy), [Josh Owens' Space Dojo](https://www.youtube.com/channel/UCjRSH4MO9CR40bJQxfZMFWQ), [DevTips](https://www.youtube.com/user/DevTipsForDesigners), and [Wes Bos](https://www.youtube.com/user/wesbos) -  aims to offer current, accessible, in-depth, high-quality content on all things web development and design with over 840+ video tutorials and counting.
 
 * [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
 
