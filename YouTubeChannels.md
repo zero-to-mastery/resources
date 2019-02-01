@@ -76,7 +76,7 @@
 
 * [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA):  A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
 
-* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies) with an emphasis on Front-End development.
+* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire development stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies).
 
 * [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts): Scott Tolinski – producer and maintainer of the channel, friends with the people behind [LearnCode.academy](https://www.youtube.com/user/learncodeacademy), [Josh Owens' Space Dojo](https://www.youtube.com/channel/UCjRSH4MO9CR40bJQxfZMFWQ), [DevTips](https://www.youtube.com/user/DevTipsForDesigners), and [Wes Bos](https://www.youtube.com/user/wesbos) -  aims to offer current, accessible, in-depth, high-quality content on all things web development and design with over 840+ video tutorials and counting.
 
