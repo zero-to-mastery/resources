@@ -84,7 +84,7 @@
 
 * [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.
 
-* [Neil Rowe](https://www.youtube.com/user/CodersGuide)
+* [Neil Rowe](https://www.youtube.com/user/CodersGuide): This channel features more Front-End tutorials (think HTML, CSS, JS, and Bootstrap) than Back-End (Java, building a Windows web server with IIS, PHP, and MySQL).
 
 * [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): **_Online Tutorials_** and its sister channel, [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A), is rich with beautiful, modular snippets of HTML5 and CSS3 design tutorials.
 
