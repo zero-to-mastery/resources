@@ -82,7 +82,7 @@
 
 * [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
 
-* [mmtuts](https://www.youtube.com/user/TheCharmefis/featured)
+* [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.
 
 * [Neil Rowe](https://www.youtube.com/user/CodersGuide)
 
