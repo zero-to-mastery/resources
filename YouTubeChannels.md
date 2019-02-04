@@ -90,7 +90,7 @@
 
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh): Code along with Mosh Hamedani – a software engineer with 18 years of experience – in his fun, upbeat, no-fluff video tutorials (free on YouTube, paid on his website [codewithmosh](https://codewithmosh.com/)) where he explores the fundamental tools needed to become a Full-Stack developer (JavaScript, Node, Angular, React, Redux, Python, C#, ASP.NET, Object-Oriented programming).
 
-* [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge)
+* [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge): This channel covers a huge breadth of languages and frameworks in the context of Full-Stack development, like Git and Github, Bootstrap, Python, JavaScript, Node, Redis, Java, C#, MongoDB, MySQL, Android, ASP.NET, and many more!
 
 * [sentdex](https://www.youtube.com/user/sentdex)
 
