@@ -88,7 +88,7 @@
 
 * [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): **_Online Tutorials_** and its sister channel, [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A), is rich with beautiful, modular snippets of HTML5 and CSS3 design tutorials.
 
-* [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)
+* [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh): Code along with Mosh Hamedani – a software engineer with 18 years of experience – in his fun, upbeat, no-fluff video tutorials (free on YouTube, paid on his website [codewithmosh](https://codewithmosh.com/)) where he explores the fundamental tools needed to become a Full-Stack developer (JavaScript, Node, Angular, React, Redux, Python, C#, ASP.NET, Object-Oriented programming).
 
 * [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge)
 
