@@ -56,13 +56,19 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Git](https://git-scm.com/): Source control is necessary (Plugin or Built-in).
 
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) This extension colorizes the indentation in front of your text alternating in four different colors on each step.
+
 - [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) The most epic theme for your editor.
 
 - [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) A cross between Monokai and One Dark theme.
 
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) Polaroid for your code. This extension helps you create a good-looking screenshot of your code snippets keeping the look and feel of your code editor.
+
 - [Prettier](https://prettier.io/): Automatic code formatting to standardize style across the codebase (Plugin or Built-in).
 
 - [Settings Sync](https://github.com/shanalikhan/code-settings-sync/wiki/Setup-Guide): A VS Code extension allowing you to synchronize your text editor workflow from settings to snippets, themes, file icons, launch, keybindings, workspaces and extensions. Comes in handy when setting up your developer environment on a new computer (like on a company's work computer).
+
+- [Waka Time](https://marketplace.visualstudio.com/items?itemName=WakaTime.WakaTime) Metrics, insights, and time tracking automatically generated from your programming activity.
 
 ---
 
