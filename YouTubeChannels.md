@@ -92,7 +92,7 @@
 
 * [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge): This channel covers a huge breadth of languages and frameworks in the context of Full-Stack development, like Git and Github, Bootstrap, Python, JavaScript, Node, Redis, Java, C#, MongoDB, MySQL, Android, ASP.NET, and many more!
 
-* [sentdex](https://www.youtube.com/user/sentdex)
+* [sentdex](https://www.youtube.com/user/sentdex): It's all about Python here folks. From learning the fundamentals to the advanced work, Harrison Kinsley walks you through areas where Python is concerned, namely: machine learning, finances, data analysis, web development, game development, robotics, and more.
 
 * [The Coding Train](https://www.youtube.com/user/shiffman)
 
