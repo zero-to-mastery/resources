@@ -8,7 +8,7 @@
 
 * [Can I use...](https://caniuse.com/): Browser support tables for modern web technologies.
 
-* [CSS dinner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
+* [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
 
 * [CSS Zen Garden](http://www.csszengarden.com/): A demonstration of what can be accomplished through CSS-based design. Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs.
 
