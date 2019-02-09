@@ -74,6 +74,8 @@
 
 * [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg): Joe Parys's channel features free content from his own website and Udemy, including, but not limited to, tutorials for various programming languages, cryptocurrency, growing an online business, videography, and Final Cut Pro X (A macOSe-exclusive video-editing software).
 
+* [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA): A channel targeting junior web developers, providing advice on gaining knowledge and experience in the field, as well as landing your first development job.
+
 * [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA):  A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
 
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire development stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies).
