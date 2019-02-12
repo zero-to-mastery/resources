@@ -83,3 +83,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@siegblink](https://github.com/siegblink)
 - [@simonpankovski](https://github.com/simonpankovski)
 - [@sophiabrandt](https://github.com/sophiabrandt/)
+- [@GaryDotten](https://github.com/GaryDotten/)
