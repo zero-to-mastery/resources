@@ -100,7 +100,7 @@
 
 * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
-* [Thenewboston](https://www.youtube.com/user/thenewboston)
+* [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)  
 
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 
