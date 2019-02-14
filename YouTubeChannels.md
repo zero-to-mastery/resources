@@ -98,9 +98,9 @@
 
 * [The Coding Train](https://www.youtube.com/user/shiffman): A seeming Jack of All Trades, Daniel Shiffman walks you through a wide range of topics like p5.js (JS, HTML, CSS), Neural Networks and Machine Learning, The Nature of Code (Simulating Natural Systems with Processing), etc. He seems to have a nice grasp on Full-Stack development and computer science.
 
-* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Inspired by the [Martial Arts](https://www.youtube.com/watch?v=-DwLvzR5_kg), Shaun focuses on getting you towards 'black-belt' mastery with his deep-dive into Full-Stack web development tutorials, featuring JavaScript (ES6, React & Redux, Vue, Angular, Node), Python (Django), GraphQL, MongoDB, Git & GitHub, HTML5, CSS3, and more.
 
-* [Thenewboston](https://www.youtube.com/user/thenewboston)
+* [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)  
 
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 
