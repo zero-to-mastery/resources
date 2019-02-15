@@ -104,4 +104,4 @@
 
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 
-* [Wes Bos](https://www.youtube.com/user/wesbos)
+* [Wes Bos](https://www.youtube.com/user/wesbos): Follow **Wes Bos** as he teaches you all about Wordpress, JavaScript, CSS3, and HTML5 in his web development tutorials.
