@@ -102,6 +102,6 @@
 
 * [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)  
 
-* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb): Brad Traversy, the man behind this channel/company, explores Full-Stack web development with his current tutorials on all things JavaScript (React, Redux, Node, Express, Vue, Angular, Gatsby), Python (Django), Ruby (Rails), Apollo, GraphQL, Docker, and more. He also features a [Developer Discussion](https://www.youtube.com/playlist?list=PLillGF-RfqbZ_hV3gQav81bUCpCANWXOu) where he talks about the 'soft' side of programming, namely, dealing with your emotions, psychology, and motivation.
 
 * [Wes Bos](https://www.youtube.com/user/wesbos): Follow **Wes Bos** as he teaches you all about Wordpress, JavaScript, CSS3, and HTML5 in his web development tutorials.
