@@ -16,6 +16,8 @@
 
 - [JavaScript For Cats](http://jsforcats.com/): An introduction for new programmers.
 
+- [JavaScript Fundamentals for Absolute Beginners](https://www.youtube.com/watch?v=YMvzfQSI6pQ&t=5032s): A 7 hour long video with detailed explanantions to give a strong foundation in JavaScript fundamentals. Taught by Bob Tabor, one of the most effective web development teachers.
+
 - [JavaScript Jabber](https://devchat.tv/js-jabber/): A weekly podcast discussing the superb language JavaScript.
 
 - [JavaScript.Info](http://javascript.info/):How it's done now. From the basics to advanced topics with simple with JavaScript, but detailed explanations.
