@@ -44,6 +44,28 @@
 
 ### Talks/Conferences
 
+* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ): A channel dedicated to republishing tech conferences from around the world and content originally published with the [Creative Commons Attribution license](https://creativecommons.org/about/). It's like [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA), but much more diverse in topics spanning from things like:
+
+  * Software Development
+
+  * Quantum Computing
+
+  * Python
+
+  * JavaScript
+
+  * Web Design
+
+  * Security
+
+  * Blockchain
+
+  * GraphQL
+
+  * and Web Assembly
+
+* [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA):  A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
+
 ### The Soft Side of Things
 
 ### Career/Industry Advice
@@ -100,30 +122,10 @@
 
 ### Back-End
 
-* [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ): A channel dedicated to republishing tech conferences from around the world and content originally published with the [Creative Commons Attribution license](https://creativecommons.org/about/). It's like [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA), but much more diverse in topics spanning from things like:
-
-  * Software Development
-
-  * Quantum Computing
-
-  * Python
-
-  * JavaScript
-
-  * Web Design
-
-  * Security
-
-  * Blockchain
-
-  * GraphQL
-
-  * and Web Assembly
-
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q): The sister channel of [DevTips](https://www.youtube.com/user/DevTipsForDesigners) – ran by the whimsical, yet informative Mattias Petter Johansson (a.k.a. MPJ) – takes a deep-dive into the realm of JavaScript while also exploring the "soft" side of programming, creativity, motivation, and career.
 
 
 * [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA): A channel targeting junior web developers, providing advice on gaining knowledge and experience in the field, as well as landing your first development job.
 
-* [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA):  A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
+
 
