@@ -123,5 +123,3 @@
 * [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): **_Online Tutorials_** and its sister channel, [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A), is rich with beautiful, modular snippets of HTML5 and CSS3 design tutorials.
 
 * [Wes Bos](https://www.youtube.com/user/wesbos): Follow **Wes Bos** as he teaches you all about Wordpress, JavaScript, CSS3, and HTML5 in his web development tutorials.
-
-### Back-End
