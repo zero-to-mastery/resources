@@ -68,6 +68,8 @@
 
 ### The Soft Side of Things
 
+* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q): The sister channel of [DevTips](https://www.youtube.com/user/DevTipsForDesigners) – ran by the whimsical, yet informative Mattias Petter Johansson (a.k.a. MPJ) – takes a deep-dive into the realm of JavaScript while also exploring the "soft" side of programming, creativity, motivation, and career.
+
 ### Career/Industry Advice
 
 ## Web Development
@@ -122,7 +124,7 @@
 
 ### Back-End
 
-* [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q): The sister channel of [DevTips](https://www.youtube.com/user/DevTipsForDesigners) – ran by the whimsical, yet informative Mattias Petter Johansson (a.k.a. MPJ) – takes a deep-dive into the realm of JavaScript while also exploring the "soft" side of programming, creativity, motivation, and career.
+
 
 
 * [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA): A channel targeting junior web developers, providing advice on gaining knowledge and experience in the field, as well as landing your first development job.
