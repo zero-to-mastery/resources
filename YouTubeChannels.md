@@ -44,9 +44,15 @@
 
 ### Front-End/Design
 
+* [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials.
+
+* [DevTips](https://www.youtube.com/user/DevTipsForDesigners): The sister-channel of [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/about), this fun (and funny) design-oriented channel features tutorials and tips/opinions on all things design/front-end related like [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://www.javascript.com/), [React](https://reactjs.org/), [Adobe XD](https://www.adobe.com/products/xd.html), and container platforms (think [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/)).
+
+* [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): **_Online Tutorials_** and its sister channel, [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A), is rich with beautiful, modular snippets of HTML5 and CSS3 design tutorials.
+
+* [Wes Bos](https://www.youtube.com/user/wesbos): Follow **Wes Bos** as he teaches you all about Wordpress, JavaScript, CSS3, and HTML5 in his web development tutorials.
+
 ### Back-End
-
-
 
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ): A channel dedicated to republishing tech conferences from around the world and content originally published with the [Creative Commons Attribution license](https://creativecommons.org/about/). It's like [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA), but much more diverse in topics spanning from things like:
 
@@ -67,15 +73,6 @@
   * GraphQL
 
   * and Web Assembly
-
-
-
-
-* [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials.
-
-* [DevTips](https://www.youtube.com/user/DevTipsForDesigners): The sister-channel of [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/about), this fun (and funny) design-oriented channel features tutorials and tips/opinions on all things design/front-end related like [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://www.javascript.com/), [React](https://reactjs.org/), [Adobe XD](https://www.adobe.com/products/xd.html), and container platforms (think [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/)).
-
-
 
 * [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): An increasingly popular resource with excellent content from the open-source community of self-taught developers who enjoy contributing to non-profit organizations. Their videos cover a nice range of topics:
 
@@ -109,7 +106,6 @@
 
 * [Neil Rowe](https://www.youtube.com/user/CodersGuide): This channel features more Front-End tutorials (think HTML, CSS, JS, and Bootstrap) than Back-End (Java, building a Windows web server with IIS, PHP, and MySQL).
 
-* [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): **_Online Tutorials_** and its sister channel, [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A), is rich with beautiful, modular snippets of HTML5 and CSS3 design tutorials.
 
 * [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh): Code along with Mosh Hamedani – a software engineer with 18 years of experience – in his fun, upbeat, no-fluff video tutorials (free on YouTube, paid on his website [codewithmosh](https://codewithmosh.com/)) where he explores the fundamental tools needed to become a Full-Stack developer (JavaScript, Node, Angular, React, Redux, Python, C#, ASP.NET, Object-Oriented programming).
 
@@ -124,5 +120,3 @@
 * [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)  
 
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb): Brad Traversy, the man behind this channel/company, explores Full-Stack web development with his current tutorials on all things JavaScript (React, Redux, Node, Express, Vue, Angular, Gatsby), Python (Django), Ruby (Rails), Apollo, GraphQL, Docker, and more. He also features a [Developer Discussion](https://www.youtube.com/playlist?list=PLillGF-RfqbZ_hV3gQav81bUCpCANWXOu) where he talks about the 'soft' side of programming, namely, dealing with your emotions, psychology, and motivation.
-
-* [Wes Bos](https://www.youtube.com/user/wesbos): Follow **Wes Bos** as he teaches you all about Wordpress, JavaScript, CSS3, and HTML5 in his web development tutorials.
