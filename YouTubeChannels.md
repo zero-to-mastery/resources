@@ -14,13 +14,39 @@
 
 ## Web Development
 
+* [BEAM Channel](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q): Follow Zachary Kessin as he shows you how to build powerful web applications using [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)), a general-purpose programming language, and [BEAM](https://en.wikipedia.org/wiki/BEAM_(Erlang_virtual_machine)), an Erlang virtual machine (Erlang is also a general-purpose programming language).
+
+* [Derek Banas](https://www.youtube.com/user/derekbanas): (Mostly) A beginner programmer-oriented channel that teaches users the basics or fundamentals of programming languages (C++, JS, Python, etc.)
+
+* [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): Tutorials + career/industry advice.
+
+* [Edureka](https://www.youtube.com/user/edurekaIN): Features high-quality tutorials and lectures (available also in Hindi and Telugu) where they curate the following topics:
+
+  * Big Data and Hadoop
+
+  * DevOps
+  
+  * Block Chain
+
+  * Artificial Intelligence (AI)
+
+  * Angular
+
+  * Python
+
+  * AWS
+
+  * Data Science and Digital Marketing
+
+* [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
+
 ### Full-Stack
 
 ### Front-End/Design
 
 ### Back-End
 
-* [BEAM Channel](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q): Follow Zachary Kessin as he shows you how to build powerful web applications using [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)), a general-purpose programming language, and [BEAM](https://en.wikipedia.org/wiki/BEAM_(Erlang_virtual_machine)), an Erlang virtual machine (Erlang is also a general-purpose programming language).
+
 
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ): A channel dedicated to republishing tech conferences from around the world and content originally published with the [Creative Commons Attribution license](https://creativecommons.org/about/). It's like [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA), but much more diverse in topics spanning from things like:
 
@@ -43,31 +69,13 @@
   * and Web Assembly
 
 
-* [Derek Banas](https://www.youtube.com/user/derekbanas): (Mostly) A beginner programmer-oriented channel that teaches users the basics or fundamentals of programming languages (C++, JS, Python, etc.)
+
 
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials.
 
 * [DevTips](https://www.youtube.com/user/DevTipsForDesigners): The sister-channel of [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q/about), this fun (and funny) design-oriented channel features tutorials and tips/opinions on all things design/front-end related like [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS), [JavaScript](https://www.javascript.com/), [React](https://reactjs.org/), [Adobe XD](https://www.adobe.com/products/xd.html), and container platforms (think [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/)).
 
-* [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): Tutorials + career/industry advice.
 
-* [Edureka](https://www.youtube.com/user/edurekaIN): Features high-quality tutorials and lectures (available also in Hindi and Telugu) where they curate the following topics:
-
-  * Big Data and Hadoop
-
-  * DevOps
-  
-  * Block Chain
-
-  * Artificial Intelligence (AI)
-
-  * Angular
-
-  * Python
-
-  * AWS
-
-  * Data Science and Digital Marketing
 
 * [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): An increasingly popular resource with excellent content from the open-source community of self-taught developers who enjoy contributing to non-profit organizations. Their videos cover a nice range of topics:
 
@@ -96,8 +104,6 @@
 * [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire development stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies).
 
 * [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts): Scott Tolinski – producer and maintainer of the channel, friends with the people behind [LearnCode.academy](https://www.youtube.com/user/learncodeacademy), [Josh Owens' Space Dojo](https://www.youtube.com/channel/UCjRSH4MO9CR40bJQxfZMFWQ), [DevTips](https://www.youtube.com/user/DevTipsForDesigners), and [Wes Bos](https://www.youtube.com/user/wesbos) -  aims to offer current, accessible, in-depth, high-quality content on all things web development and design with over 840+ video tutorials and counting.
-
-* [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
 
 * [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.
 
