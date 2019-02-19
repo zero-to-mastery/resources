@@ -42,6 +42,16 @@
 
 ### Full-Stack
 
+* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire development stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies).
+
+* [Neil Rowe](https://www.youtube.com/user/CodersGuide): This channel features more Front-End tutorials (think HTML, CSS, JS, and Bootstrap) than Back-End (Java, building a Windows web server with IIS, PHP, and MySQL).
+
+* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Inspired by the [Martial Arts](https://www.youtube.com/watch?v=-DwLvzR5_kg), Shaun focuses on getting you towards 'black-belt' mastery with his deep-dive into Full-Stack web development tutorials, featuring JavaScript (ES6, React & Redux, Vue, Angular, Node), Python (Django), GraphQL, MongoDB, Git & GitHub, HTML5, CSS3, and more.
+
+* [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh): Code along with Mosh Hamedani – a software engineer with 18 years of experience – in his fun, upbeat, no-fluff video tutorials (free on YouTube, paid on his website [codewithmosh](https://codewithmosh.com/)) where he explores the fundamental tools needed to become a Full-Stack developer (JavaScript, Node, Angular, React, Redux, Python, C#, ASP.NET, Object-Oriented programming).
+
+* [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge): This channel covers a huge breadth of languages and frameworks in the context of Full-Stack development, like Git and Github, Bootstrap, Python, JavaScript, Node, Redis, Java, C#, MongoDB, MySQL, Android, ASP.NET, and many more!
+
 ### Front-End/Design
 
 * [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials.
@@ -98,24 +108,13 @@
 
 * [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA):  A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
 
-* [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire development stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies).
-
 * [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts): Scott Tolinski – producer and maintainer of the channel, friends with the people behind [LearnCode.academy](https://www.youtube.com/user/learncodeacademy), [Josh Owens' Space Dojo](https://www.youtube.com/channel/UCjRSH4MO9CR40bJQxfZMFWQ), [DevTips](https://www.youtube.com/user/DevTipsForDesigners), and [Wes Bos](https://www.youtube.com/user/wesbos) -  aims to offer current, accessible, in-depth, high-quality content on all things web development and design with over 840+ video tutorials and counting.
 
 * [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.
 
-* [Neil Rowe](https://www.youtube.com/user/CodersGuide): This channel features more Front-End tutorials (think HTML, CSS, JS, and Bootstrap) than Back-End (Java, building a Windows web server with IIS, PHP, and MySQL).
-
-
-* [Programming with Mosh](https://www.youtube.com/user/programmingwithmosh): Code along with Mosh Hamedani – a software engineer with 18 years of experience – in his fun, upbeat, no-fluff video tutorials (free on YouTube, paid on his website [codewithmosh](https://codewithmosh.com/)) where he explores the fundamental tools needed to become a Full-Stack developer (JavaScript, Node, Angular, React, Redux, Python, C#, ASP.NET, Object-Oriented programming).
-
-* [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge): This channel covers a huge breadth of languages and frameworks in the context of Full-Stack development, like Git and Github, Bootstrap, Python, JavaScript, Node, Redis, Java, C#, MongoDB, MySQL, Android, ASP.NET, and many more!
-
 * [sentdex](https://www.youtube.com/user/sentdex): It's all about Python here folks. From learning the fundamentals to the advanced work, Harrison Kinsley walks you through areas where Python is concerned, namely: machine learning, finances, data analysis, web development, game development, robotics, and more.
 
 * [The Coding Train](https://www.youtube.com/user/shiffman): A seeming Jack of All Trades, Daniel Shiffman walks you through a wide range of topics like p5.js (JS, HTML, CSS), Neural Networks and Machine Learning, The Nature of Code (Simulating Natural Systems with Processing), etc. He seems to have a nice grasp on Full-Stack development and computer science.
-
-* [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Inspired by the [Martial Arts](https://www.youtube.com/watch?v=-DwLvzR5_kg), Shaun focuses on getting you towards 'black-belt' mastery with his deep-dive into Full-Stack web development tutorials, featuring JavaScript (ES6, React & Redux, Vue, Angular, Node), Python (Django), GraphQL, MongoDB, Git & GitHub, HTML5, CSS3, and more.
 
 * [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)  
 
