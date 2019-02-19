@@ -1,5 +1,7 @@
 # YouTube Channels
 
+## A Little of Everything (Web Dev, Computer Science, Musings, The Soft Side of Things)
+
 * [BEAM Channel](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q): Follow Zachary Kessin as he shows you how to build powerful web applications using [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)), a general-purpose programming language, and [BEAM](https://en.wikipedia.org/wiki/BEAM_(Erlang_virtual_machine)), an Erlang virtual machine (Erlang is also a general-purpose programming language).
 
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ): A channel dedicated to republishing tech conferences from around the world and content originally published with the [Creative Commons Attribution license](https://creativecommons.org/about/). It's like [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA), but much more diverse in topics spanning from things like:
