@@ -72,6 +72,8 @@
 
 ### Career/Industry Advice
 
+* [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA): A channel targeting junior web developers, providing advice on gaining knowledge and experience in the field, as well as landing your first development job.
+
 ## Web Development
 
 * [BEAM Channel](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q): Follow Zachary Kessin as he shows you how to build powerful web applications using [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)), a general-purpose programming language, and [BEAM](https://en.wikipedia.org/wiki/BEAM_(Erlang_virtual_machine)), an Erlang virtual machine (Erlang is also a general-purpose programming language).
@@ -123,11 +125,3 @@
 * [Wes Bos](https://www.youtube.com/user/wesbos): Follow **Wes Bos** as he teaches you all about Wordpress, JavaScript, CSS3, and HTML5 in his web development tutorials.
 
 ### Back-End
-
-
-
-
-* [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA): A channel targeting junior web developers, providing advice on gaining knowledge and experience in the field, as well as landing your first development job.
-
-
-
