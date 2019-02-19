@@ -42,6 +42,12 @@
 
 ## Musings
 
+### Talks/Conferences
+
+### The Soft Side of Things
+
+### Career/Industry Advice
+
 ## Web Development
 
 * [BEAM Channel](https://www.youtube.com/channel/UCMXPX2dNVZUIArP7r8PCO4Q): Follow Zachary Kessin as he shows you how to build powerful web applications using [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)), a general-purpose programming language, and [BEAM](https://en.wikipedia.org/wiki/BEAM_(Erlang_virtual_machine)), an Erlang virtual machine (Erlang is also a general-purpose programming language).
