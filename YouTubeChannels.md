@@ -2,6 +2,36 @@
 
 ## A Little of Everything (Web Dev, Computer Science, Musings, The Soft Side of Things)
 
+* [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): An increasingly popular resource with excellent content from the open-source community of self-taught developers who enjoy contributing to non-profit organizations. Their videos cover a nice range of topics:
+
+  * Languages and Frameworks
+
+  * Game Development
+
+  * Talks
+
+  * A Day in The Life Of...
+
+  * Live Coding sessions
+
+  * Fundamentals (Computer Science and Programming)
+
+* [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube): An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog.
+
+* [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg): Joe Parys's channel features free content from his own website and Udemy, including, but not limited to, tutorials for various programming languages, cryptocurrency, growing an online business, videography, and Final Cut Pro X (A macOSe-exclusive video-editing software).
+
+* [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts): Scott Tolinski – producer and maintainer of the channel, friends with the people behind [LearnCode.academy](https://www.youtube.com/user/learncodeacademy), [Josh Owens' Space Dojo](https://www.youtube.com/channel/UCjRSH4MO9CR40bJQxfZMFWQ), [DevTips](https://www.youtube.com/user/DevTipsForDesigners), and [Wes Bos](https://www.youtube.com/user/wesbos) -  aims to offer current, accessible, in-depth, high-quality content on all things web development and design with over 840+ video tutorials and counting.
+
+* [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.
+
+* [sentdex](https://www.youtube.com/user/sentdex): It's all about Python here folks. From learning the fundamentals to the advanced work, Harrison Kinsley walks you through areas where Python is concerned, namely: machine learning, finances, data analysis, web development, game development, robotics, and more.
+
+* [The Coding Train](https://www.youtube.com/user/shiffman): A seeming Jack of All Trades, Daniel Shiffman walks you through a wide range of topics like p5.js (JS, HTML, CSS), Neural Networks and Machine Learning, The Nature of Code (Simulating Natural Systems with Processing), etc. He seems to have a nice grasp on Full-Stack development and computer science.
+
+* [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)  
+
+* [Traversy Media](https://www.youtube.com/user/TechGuyWeb): Brad Traversy, the man behind this channel/company, explores Full-Stack web development with his current tutorials on all things JavaScript (React, Redux, Node, Express, Vue, Angular, Gatsby), Python (Django), Ruby (Rails), Apollo, GraphQL, Docker, and more. He also features a [Developer Discussion](https://www.youtube.com/playlist?list=PLillGF-RfqbZ_hV3gQav81bUCpCANWXOu) where he talks about the 'soft' side of programming, namely, dealing with your emotions, psychology, and motivation.
+
 ## Computer Science
 
 * [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
@@ -84,38 +114,10 @@
 
   * and Web Assembly
 
-* [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): An increasingly popular resource with excellent content from the open-source community of self-taught developers who enjoy contributing to non-profit organizations. Their videos cover a nice range of topics:
-
-  * Languages and Frameworks
-
-  * Game Development
-
-  * Talks
-
-  * A Day in The Life Of...
-
-  * Live Coding sessions
-
-  * Fundamentals (Computer Science and Programming)
-
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q): The sister channel of [DevTips](https://www.youtube.com/user/DevTipsForDesigners) – ran by the whimsical, yet informative Mattias Petter Johansson (a.k.a. MPJ) – takes a deep-dive into the realm of JavaScript while also exploring the "soft" side of programming, creativity, motivation, and career.
 
-* [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube): An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog.
-
-* [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg): Joe Parys's channel features free content from his own website and Udemy, including, but not limited to, tutorials for various programming languages, cryptocurrency, growing an online business, videography, and Final Cut Pro X (A macOSe-exclusive video-editing software).
 
 * [Joshua Fluke](https://www.youtube.com/channel/UC-91UA-Xy2Cvb98deRXuggA): A channel targeting junior web developers, providing advice on gaining knowledge and experience in the field, as well as landing your first development job.
 
 * [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA):  A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
 
-* [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts): Scott Tolinski – producer and maintainer of the channel, friends with the people behind [LearnCode.academy](https://www.youtube.com/user/learncodeacademy), [Josh Owens' Space Dojo](https://www.youtube.com/channel/UCjRSH4MO9CR40bJQxfZMFWQ), [DevTips](https://www.youtube.com/user/DevTipsForDesigners), and [Wes Bos](https://www.youtube.com/user/wesbos) -  aims to offer current, accessible, in-depth, high-quality content on all things web development and design with over 840+ video tutorials and counting.
-
-* [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.
-
-* [sentdex](https://www.youtube.com/user/sentdex): It's all about Python here folks. From learning the fundamentals to the advanced work, Harrison Kinsley walks you through areas where Python is concerned, namely: machine learning, finances, data analysis, web development, game development, robotics, and more.
-
-* [The Coding Train](https://www.youtube.com/user/shiffman): A seeming Jack of All Trades, Daniel Shiffman walks you through a wide range of topics like p5.js (JS, HTML, CSS), Neural Networks and Machine Learning, The Nature of Code (Simulating Natural Systems with Processing), etc. He seems to have a nice grasp on Full-Stack development and computer science.
-
-* [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)  
-
-* [Traversy Media](https://www.youtube.com/user/TechGuyWeb): Brad Traversy, the man behind this channel/company, explores Full-Stack web development with his current tutorials on all things JavaScript (React, Redux, Node, Express, Vue, Angular, Gatsby), Python (Django), Ruby (Rails), Apollo, GraphQL, Docker, and more. He also features a [Developer Discussion](https://www.youtube.com/playlist?list=PLillGF-RfqbZ_hV3gQav81bUCpCANWXOu) where he talks about the 'soft' side of programming, namely, dealing with your emotions, psychology, and motivation.
