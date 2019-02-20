@@ -66,7 +66,7 @@
 
 * [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA):  A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
 
-### The Soft Side of Things
+### The Soft Side of Things (Emotions, Psychology, Motivation)
 
 * [Fun Fun Function](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q): The sister channel of [DevTips](https://www.youtube.com/user/DevTipsForDesigners) – ran by the whimsical, yet informative Mattias Petter Johansson (a.k.a. MPJ) – takes a deep-dive into the realm of JavaScript while also exploring the "soft" side of programming, creativity, motivation, and career.
 
