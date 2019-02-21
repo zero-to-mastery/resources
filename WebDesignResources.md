@@ -14,11 +14,15 @@
 
 * [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
 
+* [DesignAcademy.io](https://designacademy.io/): Laura Elizabeth made this fantastic, easy-to-understand design fundamentals course for developers to learn within 6 weeks, after spending years struggling to grasp and implement design principles. She offers both a paid course as well as free resources in the form of blog posts and snippets of her course.
+
 * [Flexbox Defense](http://www.flexboxdefense.com/): Tower Defense with a twist: all towers must be positioned with CSS flexbox.
 
 * [Flexbox Froggy](http://flexboxfroggy.com/): A fun in-browser game to help teach the powerful, complex CSS flexbox layout method.
 
 * [Grid Garden](https://cssgridgarden.com/): A fun in-browser game to help teach the powerful, complex CSS grid layout method.
+
+* [Inside Design](https://www.invisionapp.com/inside-design/): Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies like Airbnb, Amazon, HBO, Netflix, Slack, Starbucks and Uber – offers free design resources and perspectives in their blog, **Inside Design**. They are also hiring for those interested.
 
 * [Learn UI Design Blog](https://learnui.design/blog/): An interesting blog with Erik Kennedy's down-to-earth personality and years of experience help the reader really understand what makes good UI/UX from a practical perspective.
 
