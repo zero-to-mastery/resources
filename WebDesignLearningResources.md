@@ -22,6 +22,8 @@
 
 * [Grid Garden](https://cssgridgarden.com/): A fun in-browser game to help teach the powerful, complex CSS grid layout method.
 
+* [Inside Design](https://www.invisionapp.com/inside-design/): Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies like Airbnb, Amazon, HBO, Netflix, Slack, Starbucks and Uber – offers free design resources and perspectives in their blog, **Inside Design**. They are also hiring for those interested.
+
 * [Learn UI Design Blog](https://learnui.design/blog/): An interesting blog with Erik Kennedy's down-to-earth personality and years of experience help the reader really understand what makes good UI/UX from a practical perspective.
 
 * [Material Design](https://material.io/): A collection of guidelines, resources, and tools for web design, all available for free. Created by Google.
