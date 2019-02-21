@@ -10,7 +10,7 @@
 
 * [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
 
-* [**Web Design Resources**](WebDesignLearningResources.md): A page of resources for web design.
+* [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
 
 * [**Interviewing for Coding Jobs**](HowtoInterviewforCodeJobs.md): A page of resources about preparing for the job market.
 
