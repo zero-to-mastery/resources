@@ -31,11 +31,11 @@
 
 ## Javascript
 
+- [Front End Happy Hour](https://frontendhappyhour.com)
 - [Future of Coding](https://futureofcoding.org/episodes/])
+- [JavaScript Jabber](https://devchat.tv/js-jabber/)
 - [REAL TALK Javascript](https://realtalkjavascript.simplecast.fm/)
 - [Syntax.fm](https://syntax.fm/): By Wes Bos & Scott Tolinksi; covers web development, front-end, but also learning and business.
-- [JavaScript Jabber](https://devchat.tv/js-jabber/)
-- [Front End Happy Hour](https://frontendhappyhour.com)
 
 ## Mindset/Self-Development
 
