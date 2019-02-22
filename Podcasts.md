@@ -1,8 +1,23 @@
 # Audio recordings to inspire you to become a better developer
 
+## Accessibility
+
+- [A11y Rules](https://a11yrules.com/)
+- [EBU Access Cast](http://ebuaccesscast.libsyn.com/)
+
+## Apps
+
+- [AppStories - exploring the world of apps](https://appstories.net/)
+
 ## Business
 
 - [Kalzumeus](https://www.kalzumeus.com/podcast/)
+
+## Code
+
+- [Code Podcast](https://codepodcast.com/)
+- [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
+- [La Vie En Code](https://www.lavieencode.net/podcast/): a podcast dedicated so self-taught web developers
 
 ## Design
 
@@ -10,16 +25,9 @@
 - [DesignBetter.Co](https://www.designbetter.co/podcast)
 - [Design Details Spec](https://spec.fm/podcasts/design-details])
 
-## Accessibility
+## History, founders on internet
 
-- [A11y Rules](https://a11yrules.com/)
-- [EBU Access Cast](http://ebuaccesscast.libsyn.com/)
-
-## Code
-
-- [Code Podcast](https://codepodcast.com/)
-- [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
-- [La Vie En Code](https://www.lavieencode.net/podcast/): a podcast dedicated so self-taught web developers
+- [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
 
 ## Javascript
 
@@ -32,11 +40,3 @@
 ## Mindset/Self-Development
 
 - [Developer Tea](https://spec.fm/podcasts/developer-tea): advice and tips on becoming a better developer
-
-## Apps
-
-- [AppStories - exploring the world of apps](https://appstories.net/)
-
-## History, founders on internet
-
-- [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
