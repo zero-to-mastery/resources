@@ -36,6 +36,8 @@
 
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS): No matter how much experience you have with JavaScript, odds are you don’t fully understand the language. These concise yet in-depth guides take you inside core concepts that can help you become a more efficient and effective JavaScript programmer. This is a series of books diving deep into the core mechanisms of the JavaScript language.
 
+- [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript): Learn JavaScript with real world, interactive challenges. Gain XP, unlock achievements and level up. It's kind of like Duolingo for learning to code.
+
 ## Tools, Frameworks, and Libraries
 
 - [JavaScript Array Explorer](https://sdras.github.io/array-explorer/): Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.
