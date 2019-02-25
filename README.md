@@ -22,6 +22,6 @@
 
 * [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 
-## Contributors
+## Contributing
 
 * [**List of Contributors**](CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
