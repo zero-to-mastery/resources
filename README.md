@@ -10,7 +10,7 @@
 
 * [**JavaScript Resources**](JavaScript.md): A list of resources for learning JavaScript.
 
-* [**Podcasts**](Podcasts.md): A range of podcasts from code, accessibility to design.
+* [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
 
 * [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
 
