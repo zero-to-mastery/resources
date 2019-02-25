@@ -22,10 +22,6 @@
   
 * [**Podcasts**](Podcasts.md): A range of podcasts from code, accessibility to design.
 
----
-
 ## Contributors
 
 * [**List of Contributors**](CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
-
----
