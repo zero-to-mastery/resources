@@ -35,7 +35,7 @@
 - [Future of Coding](https://futureofcoding.org/episodes/])
 - [JavaScript Jabber](https://devchat.tv/js-jabber/)
 - [REAL TALK Javascript](https://realtalkjavascript.simplecast.fm/)
-- [Syntax.fm](https://syntax.fm/): By Wes Bos & Scott Tolinksi; covers web development, front-end, but also learning and business.
+- [Syntax.fm](https://syntax.fm/): The amazing Wes Bos & Scott Tolinksi hosts a podcast covering web development, front-end, the process of learning, and business. You can also find their episodes on various apps like Spotify etc.
 
 ## Mindset/Self-Development
 
