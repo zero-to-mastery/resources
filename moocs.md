@@ -43,3 +43,13 @@
 - [W3Schools](https://www.w3schools.com): A comprehensive learning resource covering HTML, CSS, JavaScript and more. Has interactive tutorials as well as quizzes.
 
 ### Front-End
+
+- [CSS Reference](https://cssreference.io/): An online guide to CSS that features complete descriptions, examples of usage, and illustrated/animated examples of the most popular CSS properties.
+
+- [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
+
+- [Frontend Masters](https://frontendmasters.com/): A video tutorial website which are workshop based videos. The videos are expert-level workshops for developers that want to learn the secrets to level up their JavaScript and Node.js engineering skills and many more.
+
+- [General Assembly Dash](https://dash.generalassemb.ly/): A set of projects which teach some HTML, CSS, and JavaScript.
+
+- [HTML Reference](https://htmlreference.io/): An online guide to HTML that features complete descriptions, and examples of usage for all HTML elements and attributes.
