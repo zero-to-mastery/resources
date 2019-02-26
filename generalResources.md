@@ -24,6 +24,4 @@
 
 - [StackOverflow](https://stackoverflow.com/): A massive resource of questions and answers having to do with coding. If you have a question regarding web development or coding in general, chances are it has already been answered on StackOverflow.
 
-- [Syntax.fm](https://syntax.fm/): The amazing Wes Bos hosts a podcast for web developers. You can also find their episodes on various apps like Spotify etc.
-
 - [Think Like A Programmer](https://thecodingclassroom.teachable.com/p/think-like-a-programmer): a free online class to help new programmers to build their first projects
