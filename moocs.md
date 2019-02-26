@@ -8,7 +8,7 @@
 
 - [edX](https://www.edx.org/): A website with a variety of courses made by schools and such. This does include courses on web development, Python, and other programming languages.
 
-- [egghead](https://egghead.io): A place to learn new web development concepts and languages, both for free and paid.
+- [egghead.io](https://egghead.io): A place to learn new web development concepts and languages, both for free and paid.
 
 - [freeCodeCamp.org](https://www.freecodecamp.org): A free site for learning web development. Optionally, you can pledge to donate money to charities while you learn, giving an incentive to keep working. In particular, this site features a number of [JavaScript algorithms](https://learn.freecodecamp.org/coding-interview-prep/algorithms), [data structures](https://learn.freecodecamp.org/coding-interview-prep/data-structures), [take home projects](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects), and [Rosetta Code problems](https://learn.freecodecamp.org/coding-interview-prep/rosetta-code/) as well as a massive list of [Project Euler problems](https://learn.freecodecamp.org/coding-interview-prep/project-euler), all for practice and preparation for technical job interviews.
 
