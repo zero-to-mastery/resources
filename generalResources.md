@@ -26,6 +26,4 @@
 
 - [Syntax.fm](https://syntax.fm/): The amazing Wes Bos hosts a podcast for web developers. You can also find their episodes on various apps like Spotify etc.
 
-- [Interneting Is Hard](https://internetingishard.com/): A website with nice looking tutorials, learning HTML and CSS the right way. Especialy good tutorials are "Semantic HTML" and "Flexbox".
-
 - [Think Like A Programmer](https://thecodingclassroom.teachable.com/p/think-like-a-programmer): a free online class to help new programmers to build their first projects
