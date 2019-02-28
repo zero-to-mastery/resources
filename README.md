@@ -2,6 +2,8 @@
 
 * [**Articles**](DevelopmentArticles.md): General articles page on web development.
 
+* [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
+
 * [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
 
 * [**Git and Github**](GitandGitHub_Resources/Using_Git_and_GitHub.md): Resources page on using Git and GitHub.
