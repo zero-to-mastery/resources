@@ -4,9 +4,7 @@
 
 * [Git - The simple guide](https://rogerdudler.github.io/git-guide/): A straight forward, straight to the point git guide that can serve as a quick reference point if you happen to forget something.
 
-* [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf): A cheat sheet that features the most important and commonly used Git commands for easy reference.
-
-  * [Git Reference Documentation](https://git-scm.com/docs): A complete listing of Git's features and commands. The documentation is also available as a free ebook titled [Pro Git](https://git-scm.com/book/en/v2).
+* [Git Reference Documentation](https://git-scm.com/docs): A complete listing of Git's features and commands. The documentation is also available as a free ebook titled [Pro Git](https://git-scm.com/book/en/v2).
 
 * [GitHub Guide](https://github.com/antonykidis/GitHub-guide/blob/master/Git%20and%20GitHub.pdf): A pictorial guide for learning Git and Github by [Dmitry.M](https://github.com/antonykidis).
 
@@ -27,8 +25,6 @@
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): Most web pages (especially the README) on GitHub are written using the Markdown HTML-preprocessor language.
 
   * Another useful resource for Markdown is the [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) website.
-
-* [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf): Everything you need to know about Markdown laid out in a PDF format.
 
 * [Markdown Emoji's](https://github.com/StuartDaniells/Markdown_Emoji-s_List): One stop for all your favorite Emoji's using Markdown.
 
