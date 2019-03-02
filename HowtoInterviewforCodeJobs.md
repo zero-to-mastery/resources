@@ -18,6 +18,13 @@
 
 ## Other Resources
 
+### Coding Challenges
+
+### Guides
+
+### Interviewing Preparation
+
+
 * [Gainlo](http://www.gainlo.co/#!/): A free tool, similar to [Interviewing.io](https://interviewing.io/), where one can hone their interviewing skills (technical and soft) through mock interviews with engineers from established tech companies - think Google, AirBnB, Amazon, Facebook, Dropbox, etc. - and receive real feedback on how one can improve. Great for those who care more about their privacy than they do their anonymity.
 
 * [Interviewing.io](https://interviewing.io/): An excellent, free tool to practice your interviewing skills (technical and soft) anonymously with engineers from established tech companies like Google, AWS, AirBnB, LinkedIn, Lyft, and more!
