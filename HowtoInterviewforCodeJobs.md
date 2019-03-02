@@ -36,7 +36,7 @@
   * Non-Technical Questions
   * "Non-Google" Interviews
 
-### Interviewing Preparation
+### Interviewing Tools
 
 * [Gainlo](http://www.gainlo.co/#!/): A free tool, similar to [Interviewing.io](https://interviewing.io/), where one can hone their interviewing skills (technical and soft) through mock interviews with engineers from established tech companies - think Google, AirBnB, Amazon, Facebook, Dropbox, etc. - and receive real feedback on how one can improve. Great for those who care more about their privacy than they do their anonymity.
 
