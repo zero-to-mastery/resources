@@ -20,14 +20,6 @@
 
 * [Remote Dev Job Sites](http://bit.ly/2NSgGe1) Here is a list of remote development jobs sites/companies/resources compiled by Misha, a member/contributor from our community.
 
-### Coding Challenges
-
-* [Codewars](https://www.codewars.com/): A place to challenge yourself and hone your coding skills. See if you can find any fellow ZTM students on there and team up!
-
-* [CodeSignal](https://www.codesignal.com): Formerly CodeFights, this site has real-world coding questions as well as challenges to keep your skills sharp and help you prepare for interviews.
-
-* [HackerRank](https://www.hackerrank.com/): A place where you can practice coding, prepare for interviews, and get hired.
-
 ### Guides
 
 * [How to Write A Killer Software Engineering Résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d): A fantastic breakdown of the essential components that make up a résumé. The impact statements within the **_Employment_** and **_Project_** sections in particular are especially worthwhile. Highly recommended as virtually every company requires them, whether or not you use résumés to get your job.
@@ -49,3 +41,11 @@
 * [Gainlo](http://www.gainlo.co/#!/): A free tool, similar to [Interviewing.io](https://interviewing.io/), where one can hone their interviewing skills (technical and soft) through mock interviews with engineers from established tech companies - think Google, AirBnB, Amazon, Facebook, Dropbox, etc. - and receive real feedback on how one can improve. Great for those who care more about their privacy than they do their anonymity.
 
 * [Interviewing.io](https://interviewing.io/): An excellent, free tool to practice your interviewing skills (technical and soft) anonymously with engineers from established tech companies like Google, AWS, AirBnB, LinkedIn, Lyft, and more!
+
+#### Coding Challenges
+
+* [Codewars](https://www.codewars.com/): A place to challenge yourself and hone your coding skills. See if you can find any fellow ZTM students on there and team up!
+
+* [CodeSignal](https://www.codesignal.com): Formerly CodeFights, this site has real-world coding questions as well as challenges to keep your skills sharp and help you prepare for interviews.
+
+* [HackerRank](https://www.hackerrank.com/): A place where you can practice coding, prepare for interviews, and get hired.
