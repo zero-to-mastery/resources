@@ -18,6 +18,8 @@
 
 ## Other Resources
 
+* [Remote Dev Job Sites](http://bit.ly/2NSgGe1) Here is a list of remote development jobs sites/companies/resources compiled by Misha, a member/contributor from our community.
+
 ### Coding Challenges
 
 ### Guides
