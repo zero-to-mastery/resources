@@ -98,7 +98,7 @@ Things to look for if your editor has implementations for them. They will make y
 
 ## ONLINE EDITORS
 
-- [Codepen](https://codepen.io/): front-end code editor for HTML, CSS, and Javascript
+- [Codepen](https://codepen.io/): A development environment for front-end designers and developers, to showcase user-created HTML, CSS and JavaScript code snippets.
 - [Glitch](https://glitch.com/): online editor where you can mix and collaborate on code
 - [Repl.it](https://repl.it/): online REPL for different languages
 - [Glot.io](https://glot.io/): open-source pastebin for different languages
