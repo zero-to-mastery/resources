@@ -1,6 +1,6 @@
 # General Resources for Learning Web Development
 
-- [Scrimba](https://scrimba.com/): A powerful new way of learning code. Play around with the instructors code any time, right in the player.
+- [Scrimba](https://scrimba.com/): A powerful, free way of learning how to code. Similar to a (Andrei's) Udemy course, play around with the instructors code any time in Scrimba's online editor.
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/): A resource for developers, maintained by the community of developers and technical writers and hosting many documents on a wide variety of subjects, such as: HTML, CSS, HTTP, JavaScript, Web APIs, Web components, Graphics, Audio, video and multimedia, MathML.
 
