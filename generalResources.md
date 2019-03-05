@@ -6,4 +6,4 @@
 
 - [StackOverflow](https://stackoverflow.com/): A massive resource of questions and answers having to do with coding. If you have a question regarding web development or coding in general, chances are it has already been answered on StackOverflow.
 
-- [Think Like A Programmer](https://thecodingclassroom.teachable.com/p/think-like-a-programmer): a free online class to help new programmers to build their first projects
+- [Think Like A Programmer](https://thecodingclassroom.teachable.com/p/think-like-a-programmer): A free online class to help new programmers to build their first projects from scratch. Using specific strategies, it focuses on the process of problem-solving as well as the "soft" side of things (think motivation, productivity, etc.).
