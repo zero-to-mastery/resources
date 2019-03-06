@@ -18,6 +18,10 @@
 
 - [Pluralsight](https://www.pluralsight.com): Pluralsight is the leader in training for serious software developers, IT admins, and creative professionals. With 3,000+ courses and new ones added daily, Pluralsight serves as a career catalyst for customers in more than 150 countries and provides tech-savvy businesses with training on the three key areas they need to thrive.
 
+- [Scrimba](https://scrimba.com/): A powerful, free way of learning how to code. Similar to a (Andrei's) Udemy course, play around with the instructors code any time in Scrimba's online editor.
+
+- [Think Like A Programmer](https://thecodingclassroom.teachable.com/p/think-like-a-programmer): A free online class to help new programmers to build their first projects from scratch. Using specific strategies, it focuses on the process of problem-solving as well as the "soft" side of things (think motivation, productivity, etc.).
+
 - [Udacity](https://www.udacity.com/): A website for learning different concepts of computer science.
 
 - [Udemy](https://www.udemy.com/): A website for learning anything that you want to learn. They have many courses in technology, general topics etc...
