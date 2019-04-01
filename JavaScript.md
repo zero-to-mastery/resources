@@ -38,6 +38,8 @@
 
 - [Edabit JavaScript Challenges](https://edabit.com/challenges/javascript): Learn JavaScript with real world, interactive challenges. Gain XP, unlock achievements and level up. It's kind of like Duolingo for learning to code.
 
+- [JS Tips - A JavaScript tip per day!](https://www.jstips.co/): JS Tips is a collection of useful daily JavaScript tips that will allow you to improve your code writing.
+
 ## Tools, Frameworks, and Libraries
 
 - [JavaScript Array Explorer](https://sdras.github.io/array-explorer/): Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.
