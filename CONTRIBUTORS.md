@@ -86,3 +86,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@GaryDotten](https://github.com/GaryDotten/)
 - [@KyeDavey](https://github.com/kyedavey)
 - [@N8Brown](https://github.com/N8Brown)
+- [@JasonHoffman](https://github.com/JasonMarcHoffman)
