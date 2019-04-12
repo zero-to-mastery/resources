@@ -18,6 +18,8 @@
 
 - [Flavio Copes: Javascript, React, Node, Express, Vue](https://flaviocopes.com/page/ebooks/): signup to an email newsletter required
 
+- [JavaScript & JQuery by Jon Duckett](http://www.javascriptbook.com): A well-designed visual guide to javaScript and jQuery. Exercise files are available to help the reader work through the examples provided in the book.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
