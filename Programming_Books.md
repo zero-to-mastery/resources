@@ -20,6 +20,13 @@
 
 - [JavaScript & JQuery by Jon Duckett](http://www.javascriptbook.com): A well-designed visual guide to javaScript and jQuery. Exercise files are available to help the reader work through the examples provided in the book.
 
+- [JavaScript: The good parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742): Well-articulated book explaining the fundamentals of JS
+
+- [JavaScript: The definitive guide by David Flanagan](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides-ebook/dp/B004XQX4K0/): Reference guide focusing on core JavaScript language internals.
+
+- [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/): Extremely well-written book demonstrating software design patterns with the help of JavaScript
+
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
