@@ -26,6 +26,8 @@
 
 - [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/): Extremely well-written book demonstrating software design patterns with the help of JavaScript
 
+- [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground/): A book that takes you step by step from writing your first line of HTML to creating interesting and attractive web pages. 
+
 
 ## React
 
