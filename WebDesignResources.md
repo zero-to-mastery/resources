@@ -30,6 +30,8 @@
 
 * [Sean Halpin](http://seanhalpin.io/): A professional web designer/developer's award winning portfolio website.
 
+* [devdocs](https://devdocs.io/): DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
+
 ## Images &amp; Video
 
 * [AllTheFreeStock](http://allthefreestock.com/): A central place to search for free stock photos and videos.
