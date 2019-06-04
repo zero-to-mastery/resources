@@ -89,3 +89,5 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@JasonHoffman](https://github.com/JasonMarcHoffman)
 - [@mViolet](https://github.com/mViolet)
 - [@henri-webdev](https://github.com/henri-webdev)
+- [@gmagnenat](https://github.com/gmagnenat)
+
