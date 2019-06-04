@@ -49,3 +49,7 @@
 - [p5.js](https://p5js.org/): p5.js a JS client-side library for creating graphics and interactive experiences, based on the core principles of Processing. It has add-on libraries that make it easy to interact with other HTML5 objects, including text, input, video, webcam and sound.
 
 - [Visualize JavaScript](http://www.pythontutor.com/visualize.html#mode=edit): A helpful tool that breaks down your JavaScript code step-by-step. Helpful for identifying errors and solving errors in your code. Run your code in "Live Programming Mode" to visualize all the steps!
+
+- [BrowserList](https://browserl.ist/): A great tool helps you know the specific browsers with "browserslist search query". You can see the usage in [here](https://github.com/ai/browserslist#queries).
+
+- [keyboard events](http://keycode.info/) A great site helps you know the event key of the keyboard.
