@@ -90,4 +90,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@mViolet](https://github.com/mViolet)
 - [@henri-webdev](https://github.com/henri-webdev)
 - [@gmagnenat](https://github.com/gmagnenat)
-
+- [@AshrafPatel](https://github.com/AshrafPatel)
