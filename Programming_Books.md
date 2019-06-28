@@ -33,3 +33,5 @@
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
 - [30 Days of React](https://www.fullstackreact.com/30-days-of-react/): email newsletter and free 300+ pages ebook on React
+- [Pure React ](https://s3.amazonaws.com/daveceddia.com/Pure+React+-+sample+chapters.pdf):Write your first app with React
+• Learn to carve a UI mockup into components, then code them
