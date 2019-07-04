@@ -130,6 +130,12 @@ Things to look for if your editor has implementations for them. They will make y
 
 ---
 
+## Web Publishing
+
+- [Surge](https://surge.sh/): Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
+
+---
+
 ## General Development Tools
 
 - [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es6/): A table for checking the compatibility of modern JavaScript elements with browsers and compilers.
