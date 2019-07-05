@@ -40,6 +40,10 @@
 
 - [JS Tips - A JavaScript tip per day!](https://www.jstips.co/): JS Tips is a collection of useful daily JavaScript tips that will allow you to improve your code writing.
 
+## Advanced Javascript Articles
+
+- [Exploring Async/Await Functions in JavaScript](https://alligator.io/js/async-functions): Async/await functions, a new addition with ES2017 (ES8), help us even more in allowing us to write completely synchronous-looking code while performing asynchronous tasks behind the scenes.
+
 ## Tools, Frameworks, and Libraries
 
 - [JavaScript Array Explorer](https://sdras.github.io/array-explorer/): Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.
