@@ -16,3 +16,4 @@
 
 - [CSS Grid Cheatsheet](http://grid.malven.co): Learn all about the properties available in CSS Grid Layout through simple visual examples.
 
+- [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/): The most relevant Emmet syntax for faster HTML coding
