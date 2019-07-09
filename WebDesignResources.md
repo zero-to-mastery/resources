@@ -32,6 +32,8 @@
 
 * [devdocs](https://devdocs.io/): DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
 
+* [CSS Visual Dictionary](http://www.javascriptgrammar.com/?v=bio): CSS Visual Dictionary is a beginner-friendly book that takes a practical approach towards introducing web designers and developers to the basic concepts in CSS.
+
 ## Images &amp; Video
 
 * [AllTheFreeStock](http://allthefreestock.com/): A central place to search for free stock photos and videos.
