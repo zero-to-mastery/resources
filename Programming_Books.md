@@ -28,6 +28,7 @@
 
 - [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground/): A book that takes you step by step from writing your first line of HTML to creating interesting and attractive web pages. 
 
+- [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide/): A book that covers the most important scenarios and challenges for object design and sets out best practices for designing objects that apply regardless of the object-oriented programming language you choose.
 
 ## React
 
