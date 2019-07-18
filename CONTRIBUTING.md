@@ -1,6 +1,6 @@
 # Contributors' Guide
 
-💪👍 First off, thanks for taking your time to contribute, you are amazing! 👍💪
+💪👍 First off, thanks for taking the time to contribute, you are amazing! 👍💪
 
 This is a growing list of **resources** for learning and improving as a developer and/or designer and we want to make contributing as easy and transparent as possible, whether it is:
 
@@ -39,7 +39,7 @@ This is a growing list of **resources** for learning and improving as a develope
 
 3.  Add your resources at the end, follow the pattern of the already existing resources. It should include:
     * **Name** of the resources (as a link to the resource page)
-    * **A brief description** of it's content and other related information.
+    * **A brief description** of its content and other related information.
 
     Here are **some examples**: <br>
     ```
@@ -60,7 +60,7 @@ If ever noticed a bug or anything worth fixing, feel free to [**open an issue**]
 
 ## Proposing New Features
 
-Have some new exciting features you'd like to add? Let our maintainers know first; [**open an issue**](https://github.com/zero-to-mastery/resources/issues) describing this new features and why you think it should be included!
+Have some new exciting features you'd like to add? Let our maintainers know first; [**open an issue**](https://github.com/zero-to-mastery/resources/issues) describing this new feature and why you think it should be included!
 
 ## Helpful Resources
 
