@@ -48,7 +48,7 @@ This is a growing list of **resources** for learning and improving as a develope
 
 4.  If you want to create a new category for your resources, kindly [**open an issue**](https://github.com/zero-to-mastery/resources/issues) to let the project maintainers know of this new category before creating one.
 
-5.  Open a [**pull request**](https://yangsu.github.io/pull-request-tutorial/), with a short descriptive `branch name` and `commit messages` 
+5.  Open a **pull request**, with a short descriptive `branch name` and `commit messages` 
 
 
 ## Submitting a Fix
