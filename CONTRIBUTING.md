@@ -42,13 +42,9 @@ This is a growing list of **resources** for learning and improving as a develope
     * **A brief description** of its content and other related information.
 
     Here are **some examples**: <br>
-    ```
-    [JavaScript30](https://javascript30.com/): A 30-day coding challenge in which you will build 30 things using vanilla JavaScript
-    ```
+    `[JavaScript30](https://javascript30.com/): A 30-day coding challenge in which you will build 30 things using vanilla JavaScript`
 
-    ```
-    [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.
-    ```
+    `[mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.`
 
 4.  If you want to create a new category for your resources, kindly [**open an issue**](https://github.com/zero-to-mastery/resources/issues) to let the project maintainers know of this new category before creating one.
 
