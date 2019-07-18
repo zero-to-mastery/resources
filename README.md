@@ -26,6 +26,6 @@
 
 ## Contributing
 
-* [**Contributing to Github**](GitandGitHub_Resources/Contributing_to_GitHub.md): How to contribute to GitHub.
+* You are always welcome to contribute to this project, kindly visit our [**Contributors' Guide**](CONTRIBUTING.md) before opening a pull request
 
 * [**List of Contributors**](CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
