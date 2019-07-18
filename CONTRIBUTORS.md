@@ -93,3 +93,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@AshrafPatel](https://github.com/AshrafPatel)
 - [@Sehnsucht-codeCabin](https://github.com/Sehnsucht-codeCabin)
 - [@UcheSylvester](https://github.com/UcheSylvester)
+- [@vinpearland](https://github.com/vinpearland)
