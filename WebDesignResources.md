@@ -34,6 +34,9 @@
 
 * [CSS Visual Dictionary](http://www.javascriptgrammar.com/?v=bio): CSS Visual Dictionary is a beginner-friendly book that takes a practical approach towards introducing web designers and developers to the basic concepts in CSS. Follow the instructions in the link above to get your copy!
 
+* [Frontend Mentor](https://www.frontendmentor.io/): A platform where you can practice your web design skills using HTML, CSS & JS and design modern websites.
+
+
 ## Images &amp; Video
 
 * [AllTheFreeStock](http://allthefreestock.com/): A central place to search for free stock photos and videos.
