@@ -26,6 +26,9 @@
 
 * [Sean Halpin](http://seanhalpin.io/): A professional web designer/developer's award winning portfolio website.
 
+* [Frontend Mentor](https://www.frontendmentor.io/): A platform where you can practice your web design skills using HTML, CSS & JS and design modern websites.
+
+
 ## Images &amp; Video
 
 * [AllTheFreeStock](http://allthefreestock.com/): A central place to search for free stock photos and videos.
