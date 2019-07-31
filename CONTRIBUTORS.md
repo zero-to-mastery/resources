@@ -16,6 +16,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@cloges4](https://github.com/cloges4)
 - [@ijohnst13](https://github.com/ijohnst13)
 - [@mi5ul](https://github.com/mi5ul)
+- [@charleslukes](https://github.com/charleslukes)
 - [@SamirJouni](https://github.com/SamirJouni)
 - [@jessijean](https://github.com/jessijean)
 - [@jamilxt](https://github.com/jamilxt)
@@ -94,3 +95,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@Sehnsucht-codeCabin](https://github.com/Sehnsucht-codeCabin)
 - [@UcheSylvester](https://github.com/UcheSylvester)
 - [@vinpearland](https://github.com/vinpearland)
+- [@agpt8](https://github.com/agpt8)

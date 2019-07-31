@@ -40,6 +40,8 @@
 
 * [CS50](https://www.youtube.com/user/cs50tv/): Welcome to Harvard University's Intro to the fundamentals of computer science and the art of programming, taught with languages such as [Scratch](https://scratch.mit.edu/), [C](https://www.programiz.com/c-programming), and [Python](https://www.python.org/).
 
+* [GeeksforGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ): GeeksforGeeks is one of the largest portal for computer science students and professional housing nearly every concept in great detail in data structure, algorithms, operating systems, languages like C++, Java etc. Check out the website [GeekforGeeks](www.geeksforgeeks.org)
+
 ## Musings
 
 ### Talks/Conferences
