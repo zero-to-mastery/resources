@@ -69,3 +69,4 @@ Have some new exciting features you'd like to add? Let our maintainers know firs
 ## Licence
 [MIT](https://opensource.org/licenses/MIT)
 
+[@imsualeh](https://github.com/imsualeh)
