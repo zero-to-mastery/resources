@@ -30,6 +30,8 @@
 
 - [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide/): A book that covers the most important scenarios and challenges for object design and sets out best practices for designing objects that apply regardless of the object-oriented programming language you choose.
 
+- [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity): This book teaches functional programming from first principles, using real-world scenarios, and using JavaScript for all code excamples.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
