@@ -97,3 +97,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@vinpearland](https://github.com/vinpearland)
 - [@agpt8](https://github.com/agpt8)
 - [@satendrachowdhary](https://github.com/satendrachowdhary)
+- [@jesscxc](https://github.com/jesscxc)
