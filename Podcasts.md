@@ -29,13 +29,19 @@
 
 - [Command Line Heroes](https://www.redhat.com/en/command-line-heroes)
 
-## Javascript
+## JavaScript
 
+- [Devchat.tv](https://devchat.tv): Big podcast network for more and more developer communities.
 - [Front End Happy Hour](https://frontendhappyhour.com)
-- [Future of Coding](https://futureofcoding.org/episodes/])
+- [Future of Coding](https://futureofcoding.org/episodes/)
 - [JavaScript Jabber](https://devchat.tv/js-jabber/)
-- [REAL TALK Javascript](https://realtalkjavascript.simplecast.fm/)
+- [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm/)
 - [Syntax.fm](https://syntax.fm/): The amazing Wes Bos & Scott Tolinksi hosts a podcast covering web development, front-end, the process of learning, and business. You can also find their episodes on various apps like Spotify etc.
+
+## React (JavaScript framework)
+
+- [React Round Up](https://devchat.tv/react-round-up/)
+- [React Native Radio](https://devchat.tv/react-native-radio/)
 
 ## Mindset/Self-Development
 
