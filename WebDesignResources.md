@@ -102,3 +102,5 @@
 * [Particles.js](https://vincentgarreau.com/particles.js/): An app for creating dynamic CSS backgrounds.
 
 * Note that as of the most recent version of [Bootstrap](https://getbootstrap.com/), they no longer support their own glyphicons.
+  
+* [World Vector Logo](https://worldvectorlogo.com): A large collection of free SVG logos for a variety of brands.
