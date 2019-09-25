@@ -98,4 +98,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@agpt8](https://github.com/agpt8)
 - [@satendrachowdhary](https://github.com/satendrachowdhary)
 - [@jesscxc](https://github.com/jesscxc)
-- [@jesscxc](https://github.com/alex-engelmann)
+- [@alex-engelmann](https://github.com/alex-engelmann)
