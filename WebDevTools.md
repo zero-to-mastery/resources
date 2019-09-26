@@ -143,3 +143,5 @@ Things to look for if your editor has implementations for them. They will make y
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com/): A great resource for testing API calls in JavaScript development.
 
 - [**SweetAlert2**](https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer): Some really nice looking alerts that you can use.
+
+- [FrontEnd Tools](http://frontendtools.com/): A curated repository of Tools for FrontEnd developers.
