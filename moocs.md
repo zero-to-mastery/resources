@@ -46,6 +46,8 @@
 
 - [W3Schools](https://www.w3schools.com): A comprehensive learning resource covering HTML, CSS, JavaScript and more. Has interactive tutorials as well as quizzes.
 
+- [FullStackOpen](https://fullstackopen.com/en/): This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. Learn React, Redux, Node.js, MongoDB, and GraphQL in one go!
+
 ### Front-End
 
 - [CSS Reference](https://cssreference.io/): An online guide to CSS that features complete descriptions, examples of usage, and illustrated/animated examples of the most popular CSS properties.
