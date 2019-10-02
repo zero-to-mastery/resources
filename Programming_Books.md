@@ -26,16 +26,18 @@
 
 - [Learning JavaScript Design Patterns by Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/): Extremely well-written book demonstrating software design patterns with the help of JavaScript
 
-- [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground/): A book that takes you step by step from writing your first line of HTML to creating interesting and attractive web pages. 
+- [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground/): A book that takes you step by step from writing your first line of HTML to creating interesting and attractive web pages.
 
 - [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide/): A book that covers the most important scenarios and challenges for object design and sets out best practices for designing objects that apply regardless of the object-oriented programming language you choose.
 - [Designing APIs with Swagger and OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi/): A book that will teach you the best practices for describing and designing RESTful APIs using OpenAPI and Swagger through a design-first paradigm.
 
 - [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity): This book teaches functional programming from first principles, using real-world scenarios, and using JavaScript for all code excamples.
 
+- [Your first Year in Code](https://leanpub.com/firstyearincode): A complete guide for new & aspiring developers by Isaac Lyman.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
 - [30 Days of React](https://www.fullstackreact.com/30-days-of-react/): email newsletter and free 300+ pages ebook on React
 - [Pure React ](https://s3.amazonaws.com/daveceddia.com/Pure+React+-+sample+chapters.pdf):Write your first app with React
-• Learn to carve a UI mockup into components, then code them
+  • Learn to carve a UI mockup into components, then code them

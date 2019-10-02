@@ -99,3 +99,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@satendrachowdhary](https://github.com/satendrachowdhary)
 - [@jesscxc](https://github.com/jesscxc)
 - [@alex-engelmann](https://github.com/alex-engelmann)
+- [@lbeul](https://github.com/LBeul)
