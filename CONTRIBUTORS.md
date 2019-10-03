@@ -100,4 +100,5 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@jesscxc](https://github.com/jesscxc)
 - [@alex-engelmann](https://github.com/alex-engelmann)
 - [@lbeul](https://github.com/LBeul)
+- [@pau-lo](https://github.com/pau-lo)
 - [@cynthiaw89](https://github.com/cynthiaw89)

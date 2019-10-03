@@ -38,6 +38,7 @@
 - [JavaScript Jabber](https://devchat.tv/js-jabber/)
 - [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm/)
 - [Syntax.fm](https://syntax.fm/): The amazing Wes Bos & Scott Tolinksi hosts a podcast covering web development, front-end, the process of learning, and business. You can also find their episodes on various apps like Spotify etc.
+- [JS Party](https://changelog.com/jsparty): A community celebration of JavaScript and the web.  Created by the Changelog Developer Community.  It records live every Thursday at 1 pm Eastern / 10 am Pacific U.S. time.
 
 ## React (JavaScript framework)
 
