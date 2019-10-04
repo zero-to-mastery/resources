@@ -17,3 +17,4 @@
 - [CSS Reference](https://cssreference.io/): An online guide to CSS that features complete descriptions, examples of usage, and illustrated/animated examples of the most popular CSS properties.
 - [DevHints](https://devhints.io/): A great resources of cheat sheets for a wide range of technologies.
 - [Oh Shit Git](http://ohshitgit.com/): How to get yourself out of mistakes made with Git.
+- [Frontend News](https://frontendfoc.us/): Webpage worth of visiting everyday to catch fresh news, gossips and articles from world of css, html and javascript.
