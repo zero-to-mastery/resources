@@ -5,3 +5,5 @@
 - [Python Programming with SentDex](https://pythonprogramming.net): Beginner through ton advanced python tutorials covering ML, webdev, robotics and more
 
 - [TalkPython Courses](https://talkpython.fm): Mostly paid however some free courses or python for web dev, including with mongoDB, flash, django and more.
+
+- [Python For Everybody](https://www.py4e.com/): Free course to learn python for all the basic requirement like datastrucuture, Database, networking, OOPS, etc. 
