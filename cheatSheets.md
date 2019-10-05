@@ -19,3 +19,5 @@
 - [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/): The most relevant Emmet syntax for faster HTML coding
 
 - [CSS Cheatsheet](http://overapi.com/css): List of elements, selectors, and styles with relevent links to thier MDN pages.
+
+- [JS Regex Cheat Sheet](https://devinduct.com/cheatsheet/10/regex): Helpful resource when you need to use Regex in your JS Code.

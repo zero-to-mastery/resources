@@ -125,3 +125,7 @@
 * [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog): **_Online Tutorials_** and its sister channel, [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A), is rich with beautiful, modular snippets of HTML5 and CSS3 design tutorials.
 
 * [Wes Bos](https://www.youtube.com/user/wesbos): Follow **Wes Bos** as he teaches you all about Wordpress, JavaScript, CSS3, and HTML5 in his web development tutorials, his javascript30 course in which he builds 30 different projects everyday, is very popular and is  recommended by many famous developers on twitter.
+
+* [Kevin Powell](https://www.youtube.com/user/KepowOb/featured): "With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."
+
+* [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag/featured): Hosted by **Jen Simmons**. Learn what's now possible in graphic design on the web — layout, CSS Grid, and more. A series for designers and web developers.

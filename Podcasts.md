@@ -48,3 +48,7 @@
 ## Mindset/Self-Development
 
 - [Developer Tea](https://spec.fm/podcasts/developer-tea): Provides advice and tips on becoming a better developer.
+
+## InfoSec / CyberSecurity
+
+- [Darknet Diaries](https://darknetdiaries.com/): Darknet Diaries is a podcast covering true stories from the dark side of the Internet. Stories about hackers, defenders, threats, malware, botnets, breaches, and privacy.
