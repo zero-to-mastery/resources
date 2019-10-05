@@ -21,3 +21,5 @@
 - [CSS Cheatsheet](http://overapi.com/css): List of elements, selectors, and styles with relevent links to thier MDN pages.
 
 - [JS Regex Cheat Sheet](https://devinduct.com/cheatsheet/10/regex): Helpful resource when you need to use Regex in your JS Code.
+
+- [Angular Cheat Sheet](https://angular.io/guide/cheatsheet): Official Cheat Sheet for Angular, covers all the important topics alongwith examples.
