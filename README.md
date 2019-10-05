@@ -18,6 +18,8 @@
 
 * [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
 
+* [**Python Resources**](Python.md): A list of resources for learning Python.
+
 * [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
 
 * [**Web Development Tools**](WebDevTools.md): A page listing a number of free web development tools.
