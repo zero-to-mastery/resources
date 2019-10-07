@@ -1,5 +1,0 @@
-Chrome useful plugins
-
-ColorZilla - To find the color which a certain site uses
-WhatFont - To find the font used on sites
-Pesticide - To toggle block layout and see how much space each element takes
