@@ -1,5 +1,20 @@
+# Created by https://www.gitignore.io/api/linux,macos,windows,sublimetext,visualstudiocode
+# Edit at https://www.gitignore.io/?templates=linux,macos,windows,sublimetext,visualstudiocode
 
-# Created by https://www.gitignore.io/api/macos,windows,sublimetext
+### Linux ###
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
 
 ### macOS ###
 # General
@@ -61,9 +76,21 @@ bh_unicode_properties.cache
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
 
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
+Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
 
@@ -85,6 +112,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-.idea
 
-# End of https://www.gitignore.io/api/macos,windows,sublimetext
+# End of https://www.gitignore.io/api/linux,macos,windows,sublimetext,visualstudiocode
