@@ -105,3 +105,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@cynthiaw89](https://github.com/cynthiaw89)
 - [@hvijaycse](https://github.com/hvijaycse)
 - [@pablowbk](https://github.com/pablowbk)
+- [@csingam](https://github.com/csingam)
