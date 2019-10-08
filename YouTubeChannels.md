@@ -129,3 +129,5 @@
 * [Kevin Powell](https://www.youtube.com/user/KepowOb/featured): "With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."
 
 * [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag/featured): Hosted by **Jen Simmons**. Learn what's now possible in graphic design on the web — layout, CSS Grid, and more. A series for designers and web developers.
+
+* [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw): DarkCode is a channel for Learning Web Designs, Websites Building, Ui Designs Using Only HTML5 And CSS3 and some Javascript. If you love creative designs and amazing animations, please do follow him.
