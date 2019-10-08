@@ -10,8 +10,7 @@ script: ./script/cibuild
 
 branches:
   only:
-  - gh-pages
-  - /pages-(.*)/
+  - master
 
 env:
   global:
