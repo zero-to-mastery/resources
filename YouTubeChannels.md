@@ -42,6 +42,8 @@
 
 * [GeeksforGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ): GeeksforGeeks is one of the largest portal for computer science students and professional housing nearly every concept in great detail in data structure, algorithms, operating systems, languages like C++, Java etc. Check out the website [GeekforGeeks](www.geeksforgeeks.org)
 
+* [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): CS Dojo is a channel with mostly programming and computer science videos. [CS Dojo](https://www.csdojo.io/)
+
 ## Musings
 
 ### Talks/Conferences
