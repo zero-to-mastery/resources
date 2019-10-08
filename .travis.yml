@@ -21,4 +21,9 @@ addons:
     packages:
     - libcurl4-openssl-dev
 
+sudo: false
+
 cache: bundler
+
+notifications:
+  email: false
