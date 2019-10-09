@@ -1,7 +1,4 @@
-[![Build Status](https://travis-ci.com/zero-to-mastery/resources.svg?branch=master)](https://travis-ci.com/zero-to-mastery/resources)
-![GitHub forks](https://img.shields.io/github/forks/zero-to-mastery/resources?style=social)
-![GitHub](https://img.shields.io/github/license/zero-to-mastery/resources)
-![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fzero-to-mastery%2Fresources)
+# A List of Useful Resources for Developers
 
 ## Table of Contents
 
