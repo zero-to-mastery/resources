@@ -1,0 +1,29 @@
+language: ruby
+rvm:
+  - 2.6.3
+
+before_script:
+ - chmod +x ./script/cibuild
+
+
+script: ./script/cibuild
+
+branches:
+  only:
+  - master
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+
+addons:
+  apt:
+    packages:
+    - libcurl4-openssl-dev
+
+sudo: false
+
+cache: bundler
+
+notifications:
+  email: false

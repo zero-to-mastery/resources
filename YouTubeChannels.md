@@ -28,7 +28,7 @@
 
 * [The Coding Train](https://www.youtube.com/user/shiffman): A seeming Jack of All Trades, Daniel Shiffman walks you through a wide range of topics like p5.js (JS, HTML, CSS), Neural Networks and Machine Learning, The Nature of Code (Simulating Natural Systems with Processing), etc. He seems to have a nice grasp on Full-Stack development and computer science.
 
-* [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)  
+* [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)
 
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb): Brad Traversy, the man behind this channel/company, explores Full-Stack web development with his current tutorials on all things JavaScript (React, Redux, Node, Express, Vue, Angular, Gatsby), Python (Django), Ruby (Rails), Apollo, GraphQL, Docker, and more. He also features a [Developer Discussion](https://www.youtube.com/playlist?list=PLillGF-RfqbZ_hV3gQav81bUCpCANWXOu) where he talks about the 'soft' side of programming, namely, dealing with your emotions, psychology, and motivation.
 
@@ -40,7 +40,9 @@
 
 * [CS50](https://www.youtube.com/user/cs50tv/): Welcome to Harvard University's Intro to the fundamentals of computer science and the art of programming, taught with languages such as [Scratch](https://scratch.mit.edu/), [C](https://www.programiz.com/c-programming), and [Python](https://www.python.org/).
 
-* [GeeksforGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ): GeeksforGeeks is one of the largest portal for computer science students and professional housing nearly every concept in great detail in data structure, algorithms, operating systems, languages like C++, Java etc. Check out the website [GeekforGeeks](www.geeksforgeeks.org)
+* [GeeksforGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ): GeeksforGeeks is one of the largest portal for computer science students and professional housing nearly every concept in great detail in data structure, algorithms, operating systems, languages like C++, Java etc. Check out the website [GeekforGeeks](https://www.geeksforgeeks.org)
+
+* [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): CS Dojo is a channel with mostly programming and computer science videos. [CS Dojo](https://www.csdojo.io/)
 
 ## Musings
 
@@ -89,7 +91,7 @@
   * Big Data and Hadoop
 
   * DevOps
-  
+
   * Block Chain
 
   * Artificial Intelligence (AI)
@@ -129,3 +131,5 @@
 * [Kevin Powell](https://www.youtube.com/user/KepowOb/featured): "With a new video every Wednesday, I'll be bringing you How Tos and Tutorials, and well as simple tips and tricks. I'm mostly looking to help people who are new to the world of web development."
 
 * [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag/featured): Hosted by **Jen Simmons**. Learn what's now possible in graphic design on the web — layout, CSS Grid, and more. A series for designers and web developers.
+
+* [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw): DarkCode is a channel for Learning Web Designs, Websites Building, Ui Designs Using Only HTML5 And CSS3 and some Javascript. If you love creative designs and amazing animations, please do follow him.

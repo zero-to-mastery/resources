@@ -35,6 +35,8 @@
 
 - [Your first Year in Code](https://leanpub.com/firstyearincode): A complete guide for new & aspiring developers by Isaac Lyman.
 
+- [Programming Notes](https://books.goalkicker.com/): A huge collection of Programming Notes for Professionals books
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
