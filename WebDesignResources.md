@@ -1,4 +1,4 @@
-**[:arrow_left:](/README.md/)**
+**[Back](/README.md/)**
 # Resources for Web Design
 
 ## General Web Design
