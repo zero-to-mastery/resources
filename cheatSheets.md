@@ -1,4 +1,4 @@
-**[:arrow_left:](/README.md/)**
+**[Back](/README.md/)**
 # Cheat Sheets
 
 - [DevHints](https://devhints.io/): A great resource of cheat sheets for a wide range of technologies.
