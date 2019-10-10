@@ -107,5 +107,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@hvijaycse](https://github.com/hvijaycse)
 - [@pablowbk](https://github.com/pablowbk)
 - [@csingam](https://github.com/csingam)
-- [@amila1986](https://github.com/amila1986)
 - [@Kushiya](https://github.com/Kushiya)
