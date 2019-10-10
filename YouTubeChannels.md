@@ -135,3 +135,13 @@
 * [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag/featured): Hosted by **Jen Simmons**. Learn what's now possible in graphic design on the web — layout, CSS Grid, and more. A series for designers and web developers.
 
 * [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw): DarkCode is a channel for Learning Web Designs, Websites Building, Ui Designs Using Only HTML5 And CSS3 and some Javascript. If you love creative designs and amazing animations, please do follow him.
+
+## Data Structures and Algorithms
+
+### Programming Interview Preparation
+
+* [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
+* [Tushar Roy - Coding Made Simple](https://www.youtube.com/user/tusharroy2525)
+* [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
+* [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
+* [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
