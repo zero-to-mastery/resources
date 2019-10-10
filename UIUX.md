@@ -1,4 +1,4 @@
-# Resourcess for UI/UX 
+# Resources for UI/UX 
 
 - [Learn UI Design: The Complete Online Video Course.](https://learnui.design/)
 
