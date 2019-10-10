@@ -59,6 +59,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@caks42](https://github.com/caks42)
 - [@MsWebGirl](https://github.com/mswebgirl)
 - [@alexroseb](https://github.com/alexroseb)
+- [@AjayAgAI](https://github.com/AjayAgAI)
 - [@nagisahuman](https://github.com/nagisahuman)
 - [@julia-r](https://github.com/julia-r)
 - [@ribeiropdiogo](https://github.com/ribeiropdiogo)
@@ -106,3 +107,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@hvijaycse](https://github.com/hvijaycse)
 - [@pablowbk](https://github.com/pablowbk)
 - [@csingam](https://github.com/csingam)
+- [@Kushiya](https://github.com/Kushiya)
