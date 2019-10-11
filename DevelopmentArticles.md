@@ -18,3 +18,7 @@
 * [**Productivity: How I am so productive - Kent C. Dodds**](https://blog.kentcdodds.com/how-i-am-so-productive-fb86eb583b0d): In this article, Kent sharing his daily activity that makes him so productive.
 
 * [**The Cost of Javascript - Addy Osmani**](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4): Article about being mindful of what and how we use javascript in our applications.
+
+* [**How The Web Works - Maximilian Schwarzmüller**](https://www.academind.com/learn/web-dev/how-the-web-works/): An introduction on how the web actually works.
+
+* [**Static vs Dynamic vs SPA - Maximilian Schwarzmüller**](https://www.academind.com/learn/web-dev/dynamic-vs-static-vs-spa/): In this article the author explains different techniques on how to build modern web pages and the pros & cons of each.
