@@ -8,7 +8,7 @@
 
 * [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
 
-* [**Git and Github**](GitandGitHub_Resources/Using_Git_and_GitHub.md): Resources page on using Git and GitHub.
+* [**Git and Github**](Using_Git_and_GitHub.md): Resources page on using Git and GitHub.
 
 * [**Interviewing for Coding Jobs**](HowtoInterviewforCodeJobs.md): A page of resources about preparing for the job market.
 
@@ -30,6 +30,6 @@
 
 ## Contributing
 
-* You are always welcome to contribute to this project, kindly visit our [**Contributors' Guide**](CONTRIBUTING.md) before opening a pull request
+* You are always welcome to contribute to this project, kindly visit our [**Contributors' Guide**](https://github.com/zero-to-mastery/resources/blob/master/CONTRIBUTING.md) before opening a pull request
 
 * [**List of Contributors**](CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
