@@ -18,27 +18,27 @@ This is a growing list of **resources** for learning and improving as a develope
 
 ## Getting Started
 
-1.  If you are new to Git and Github, it is advisable you go through
+1. If you are new to Git and Github, it is advisable you go through
     [**GitHub For Beginners**](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) and [**Basic Git WorkFlow**](https://guides.github.com/introduction/flow/index.html)
 
-2.  New to open source contributions? we've got you covered: [**Contributing to Github**](GitandGitHub_Resources/Contributing_to_GitHub.md)
+2. New to open source contributions? we've got you covered: [**Contributing to Github**](Contributing_to_GitHub.md)
     
-3.  Fork this Repository [**here**](https://github.com/zero-to-mastery/resources/fork)
+3. Fork this Repository [**here**](https://github.com/zero-to-mastery/resources/fork)
 
-4.  Clone the forked Repository <br>
+4. Clone the forked Repository <br>
     `git clone https://github.com/Your-GitHub-Username/resources.git`
 
-5.  Open the cloned directory in your Code Editor.
+5. Open the cloned directory in your Code Editor.
 
 6. Add your name to the [**Contributors List**](CONTRIBUTORS.md).
 
 ## Adding Learning Resources
 
-1.  We have created a list of markdown (`.md`) files for different categories of learning resources. Find the category/categories related to the resources you want to add in the root directory
+1. We have created a list of markdown (`.md`) files for different categories of learning resources. Find the category/categories related to the resources you want to add in the root directory
 
-2.  Check if the resources you want to add is already included. If not, then you can proceed!
+2. Check if the resources you want to add is already included. If not, then you can proceed!
 
-3.  Add your resources at the end, follow the pattern of the already existing resources. It should include:
+3. Add your resources at the end, follow the pattern of the already existing resources. It should include:
     * **Name** of the resources (as a link to the resource page)
     * **A brief description** of its content and other related information.
 
@@ -47,9 +47,9 @@ This is a growing list of **resources** for learning and improving as a develope
 
     `- [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.`
 
-4.  If you want to create a new category for your resources, kindly [**open an issue**](https://github.com/zero-to-mastery/resources/issues) to let the project maintainers know of this new category before creating one.
+4. If you want to create a new category for your resources, kindly [**open an issue**](https://github.com/zero-to-mastery/resources/issues) to let the project maintainers know of this new category before creating one.
 
-5.  Open a **pull request**, with a short descriptive `branch name` and `commit messages` 
+5. Open a **pull request**, with a short descriptive `branch name` and `commit messages` 
 
 
 ## Submitting a Fix
@@ -69,5 +69,3 @@ Have some new exciting features you'd like to add? Let our maintainers know firs
 
 ## Licence
 [MIT](https://opensource.org/licenses/MIT)
-
-[@imsualeh](https://github.com/imsualeh)
