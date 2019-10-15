@@ -33,6 +33,8 @@
 
 * [Traversy Media](https://www.youtube.com/user/TechGuyWeb): Brad Traversy, the man behind this channel/company, explores Full-Stack web development with his current tutorials on all things JavaScript (React, Redux, Node, Express, Vue, Angular, Gatsby), Python (Django), Ruby (Rails), Apollo, GraphQL, Docker, and more. He also features a [Developer Discussion](https://www.youtube.com/playlist?list=PLillGF-RfqbZ_hV3gQav81bUCpCANWXOu) where he talks about the 'soft' side of programming, namely, dealing with your emotions, psychology, and motivation.
 
+* [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw): Colt is a developer with a serious love for teaching. Colt spent a few years teaching people to program at 2 different immersive bootcamps where he helped hundreds of people become web developers and changed their lives. His graduates work at companies like Google, Salesforce, and Square. In 2016 Colt launched his Web Developer Bootcamp course, which has since gone on to become one of the best selling and top rated courses on Udemy. He was also voted Udemy’s Best New Instructor of 2016.
+
 ## Computer Science
 
 * [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
