@@ -23,4 +23,4 @@
 
 - [JS Regex Cheat Sheet](https://devinduct.com/cheatsheet/10/regex): Helpful resource when you need to use Regex in your JS Code.
 
-- [Angular Cheat Sheet](https://angular.io/guide/cheatsheet): Official Cheat Sheet for Angular, covers all the important topics alongwith examples.
+- [Angular Cheat Sheet](https://angular.io/guide/cheatsheet): Official Cheat Sheet for Angular, covers all the important topics along with examples.
