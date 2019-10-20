@@ -146,3 +146,5 @@ Things to look for if your editor has implementations for them. They will make y
 - [**SweetAlert2**](https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer): Some really nice looking alerts that you can use.
 
 - [FrontEnd Tools](http://frontendtools.com/): A curated repository of Tools for FrontEnd developers.
+
+- [ExtendsClass](https://extendsclass.com/): An online toolbox for developers: Playgrounds (XPath, Regex, JavaScript and SQL), HTTP clients (SOAP, REST), formatters, converters and encoders.

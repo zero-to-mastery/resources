@@ -113,4 +113,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@Dhaval1403](https://github.com/Dhaval1403)
 - [@PaulBillings](https://github.com/paulbillings)
 - [@thomasm18](https://github.com/thomasm18)
-
+- [@cyrilbois](https://github.com/cyrilbois)
