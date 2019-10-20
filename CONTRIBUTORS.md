@@ -112,4 +112,5 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@Kushiya](https://github.com/Kushiya)
 - [@Dhaval1403](https://github.com/Dhaval1403)
 - [@PaulBillings](https://github.com/paulbillings)
+- [@cyrilbois](https://github.com/cyrilbois)
 
