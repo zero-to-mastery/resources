@@ -15,6 +15,8 @@
 
 * [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
 
+* [CSS Reference](https://cssreference.io): A visual representation, and demonstration of all native CSS3 rules and how they work, with clear documentation and examples.
+
 * [DesignAcademy.io](https://designacademy.io/): Laura Elizabeth made this fantastic, easy-to-understand design fundamentals course for developers to learn within 6 weeks, after spending years struggling to grasp and implement design principles. She offers both a paid course as well as free resources in the form of blog posts and snippets of her course.
 
 * [Flexbox Defense](http://www.flexboxdefense.com/): Tower Defense with a twist: all towers must be positioned with CSS flexbox.
@@ -103,5 +105,5 @@
 * [Particles.js](https://vincentgarreau.com/particles.js/): An app for creating dynamic CSS backgrounds.
 
 * Note that as of the most recent version of [Bootstrap](https://getbootstrap.com/), they no longer support their own glyphicons.
-  
+
 * [World Vector Logo](https://worldvectorlogo.com): A large collection of free SVG logos for a variety of brands.
