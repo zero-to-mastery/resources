@@ -15,6 +15,7 @@
 - [Kalzumeus](https://www.kalzumeus.com/podcast/)
 
 ## Code
+- [Coder Radio](https://coder.show/)
 - [Full Stack Radio](http://www.fullstackradio.com/)
 - [Recode](https://www.vox.com/recode-podcasts)
 - [Code Podcast](https://codepodcast.com/)
