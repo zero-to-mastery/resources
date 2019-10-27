@@ -53,6 +53,8 @@
 
 ## Musings
 
+* [Computerphile](https://www.youtube.com/user/Computerphile): Host Brady Haran interviews experts about topics in computer science. 
+
 ### Talks/Conferences
 
 * [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ): A channel dedicated to republishing tech conferences from around the world and content originally published with the [Creative Commons Attribution license](https://creativecommons.org/about/). It's like [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA), but much more diverse in topics spanning from things like:
