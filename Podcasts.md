@@ -15,6 +15,7 @@
 - [Kalzumeus](https://www.kalzumeus.com/podcast/)
 
 ## Code
+- [SE Radio](https://www.se-radio.net/)
 - [PHP Roundtable](https://www.phproundtable.com/)
 - [PHP Architects](https://www.phparch.com/podcast/)
 - [DevMode.fm](https://devmode.fm/)
