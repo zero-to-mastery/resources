@@ -73,6 +73,7 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Waka Time](https://marketplace.visualstudio.com/items?itemName=WakaTime.WakaTime) Metrics, insights, and time tracking automatically generated from your programming activity.
 
+- [Visual studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode) Visual Studio IntelliCode (IntelliCode) is a set of AI-assisted capabilities that improve developer productivity with features like contextual IntelliSense, argument completion, code formatting, and style rule inference
 ---
 
 ## Online Editors
