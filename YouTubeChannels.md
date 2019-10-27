@@ -2,6 +2,8 @@
 # YouTube Channels
 
 ## A Little of Everything (Web Dev, Computer Science, and Musings)
+* [Tom Scott](https://www.youtube.com/user/enyay): A science and tech focused vlog, with a general focus on computer science topics (given that the host is/was a computer programmer). 
+
 
 * [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): An increasingly popular resource with excellent content from the open-source community of self-taught developers who enjoy contributing to non-profit organizations. Their videos cover a nice range of topics:
 
@@ -50,6 +52,8 @@
 * [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): Siraj Raval is on a mission of data literacy. Artificial Intelligence, Mathematics, Science, Technology, he simplfies these topics to help you understand how they work. Using his knowledge you can build wealth and live a happier, more meaningful life. He is the part of the fastest growing AI community in the world! He is also a Data Scientist, AI Educator, Rapper, Author, Speaker, and Founder of the School of AI.
 
 ## Musings
+
+* [Computerphile](https://www.youtube.com/user/Computerphile): Host Brady Haran interviews experts about topics in computer science. 
 
 ### Talks/Conferences
 

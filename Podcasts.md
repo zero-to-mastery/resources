@@ -15,6 +15,13 @@
 - [Kalzumeus](https://www.kalzumeus.com/podcast/)
 
 ## Code
+- [SE Radio](https://www.se-radio.net/)
+- [PHP Roundtable](https://www.phproundtable.com/)
+- [PHP Architects](https://www.phparch.com/podcast/)
+- [DevMode.fm](https://devmode.fm/)
+- [Coding Blocks](https://www.codingblocks.net/)
+- [Coder Radio](https://coder.show/)
+- [Full Stack Radio](http://www.fullstackradio.com/)
 - [Recode](https://www.vox.com/recode-podcasts)
 - [Code Podcast](https://codepodcast.com/)
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
