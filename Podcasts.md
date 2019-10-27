@@ -15,6 +15,7 @@
 - [Kalzumeus](https://www.kalzumeus.com/podcast/)
 
 ## Code
+- [DevMode.fm](https://devmode.fm/)
 - [Coding Blocks](https://www.codingblocks.net/)
 - [Coder Radio](https://coder.show/)
 - [Full Stack Radio](http://www.fullstackradio.com/)
