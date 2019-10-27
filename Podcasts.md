@@ -16,6 +16,7 @@
 
 ## Code
 - [Full Stack Radio](http://www.fullstackradio.com/)
+- [Recode](https://www.vox.com/recode-podcasts)
 - [Code Podcast](https://codepodcast.com/)
 - [CodeNewbie Podcast](https://www.codenewbie.org/podcast)
 - [La Vie En Code](https://www.lavieencode.net/podcast/): A podcast dedicated so self-taught web developers.
