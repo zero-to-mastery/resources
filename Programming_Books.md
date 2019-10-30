@@ -38,6 +38,8 @@
 
 - [Programming Notes](https://books.goalkicker.com/): A huge collection of Programming Notes for Professionals books
 
+- [Functional-Light-JS](https://github.com/getify/Functional-Light-JS): A uniquely pragmatic approach to explaining core functional programming concepts WITHOUT wading through mathematical notation or heavy terminology.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
