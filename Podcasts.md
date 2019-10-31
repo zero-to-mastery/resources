@@ -60,3 +60,11 @@
 ## InfoSec / CyberSecurity
 
 - [Darknet Diaries](https://darknetdiaries.com/): Darknet Diaries is a podcast covering true stories from the dark side of the Internet. Stories about hackers, defenders, threats, malware, botnets, breaches, and privacy.
+
+## Python
+
+- [Talk Python To Me](https://talkpython.fm/): The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
+The format is a casual 45 minute conversation with industry experts.
+- [Python Bytes](https://pythonbytes.fm/): If you are looking for a 15 minute conversation on the topical items of the week in the Python ecosystem, be sure to jump over to Python Bytes.
+- [Podcast.__init__](https://www.pythonpodcast.com/): Every week a new episode provides useful and informative insights into the projects, platforms, and practices that engineers, business leaders, and data scientists need to know about to learn and grow in their career.
+
