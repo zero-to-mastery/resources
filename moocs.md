@@ -27,7 +27,9 @@
 
 - [Udemy](https://www.udemy.com/): A website for learning anything that you want to learn. They have many courses in technology, general topics etc...
 
--[Rithm School Free Courses](https://www.rithmschool.com/courses): Looking to learn some web development skills on your own? We love that. Our team has created these resources to guide you through a handful of computer programming topics. Whether you're learning this material for the first time or brushing up on your skills, we hope that you'll find these tutorials, screencasts and exercises useful.
+- [Rithm School Free Courses](https://www.rithmschool.com/courses): Looking to learn some web development skills on your own? We love that. Our team has created these resources to guide you through a handful of computer programming topics. Whether you're learning this material for the first time or brushing up on your skills, we hope that you'll find these tutorials, screencasts and exercises useful.
+
+- [MOOC.FI](https://www.mooc.fi/en/): The courses are offered by University of Helsinki's Department of Computer Science. No prior knowledge is required-beginners can start to learn programming basics from the Programming with Java course, or start to get familiar with artificial intelligence from the course Elements of Ai.
 
 ## Computer Science
 
