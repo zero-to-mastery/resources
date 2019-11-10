@@ -68,3 +68,6 @@ The format is a casual 45 minute conversation with industry experts.
 - [Python Bytes](https://pythonbytes.fm/): If you are looking for a 15 minute conversation on the topical items of the week in the Python ecosystem, be sure to jump over to Python Bytes.
 - [Podcast.__init__](https://www.pythonpodcast.com/): Every week a new episode provides useful and informative insights into the projects, platforms, and practices that engineers, business leaders, and data scientists need to know about to learn and grow in their career.
 
+## Computer Science topics
+ - [Base.cs Podcast](https://www.codenewbie.org/basecs): Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
+
