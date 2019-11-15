@@ -17,4 +17,4 @@
 
 - [Full Stack Python](https://www.fullstackpython.com/web-development.html): A great article which gives you an insight on how to become a full stack python web developer with plethora of resources.
 
-- [Python Crash Course 2nd Edition](https://tinyurl.com/yg5n5t34): An excellent book for learning Python with downloadable exercise solutions.
+- [Python Crash Course 2nd Edition](https://tinyurl.com/yg5n5t34): An excellent book available in print or Kindle for learning Python with downloadable exercise solutions.
