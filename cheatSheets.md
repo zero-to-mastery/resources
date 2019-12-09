@@ -24,3 +24,5 @@
 - [JS Regex Cheat Sheet](https://devinduct.com/cheatsheet/10/regex): Helpful resource when you need to use Regex in your JS Code.
 
 - [Angular Cheat Sheet](https://angular.io/guide/cheatsheet): Official Cheat Sheet for Angular, covers all the important topics along with examples.
+
+- [React Cheat Sheet](https://ihatetomatoes.net/wp-content/uploads/2017/01/react-cheat-sheet.pdf): Basic syntax: import, render method, stateless components, class, rendering methods, conditional rendering.

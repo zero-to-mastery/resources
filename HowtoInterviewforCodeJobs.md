@@ -43,6 +43,8 @@
 
 * [Interviewing.io](https://interviewing.io/): An excellent, free tool to practice your interviewing skills (technical and soft) anonymously with engineers from established tech companies like Google, AWS, AirBnB, LinkedIn, Lyft, and more!
 
+* [30 seconds of interviews](https://30secondsofinterviews.org/): A collection of common interview questions that will help you prepare for your next interview!
+
 #### Coding Challenges
 
 * [Codewars](https://www.codewars.com/): A place to challenge yourself and hone your coding skills. See if you can find any fellow ZTM students on there and team up!
@@ -54,3 +56,4 @@
 * [CoderByte](https://www.coderbyte.com/): A site for coding challenges and interview prep (including examples of real-world coding challenges/interview questions from various tech companies, including Google, Facebook, and the like). 
 
 * [LeetCode](https://leetcode.com/): LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+
