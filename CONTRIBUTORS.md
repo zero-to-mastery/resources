@@ -119,3 +119,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@MrAFerreira](https://github.com/MrAFerreira)
 - [@Yoavbenzvi](https://github.com/Yoavbenzvi)
 - [@darnvisages](https://github.com/darnvisages)
+- [@Blusoup](https://github.com/Blusoup)
