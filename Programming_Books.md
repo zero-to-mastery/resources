@@ -44,3 +44,7 @@
 - [30 Days of React](https://www.fullstackreact.com/30-days-of-react/): email newsletter and free 300+ pages ebook on React
 - [Pure React ](https://s3.amazonaws.com/daveceddia.com/Pure+React+-+sample+chapters.pdf):Write your first app with React
   • Learn to carve a UI mockup into components, then code them
+
+## Coding Interviews
+
+- [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?keywords=cracking+the+coding+interview&qid=1576284109&sr=8-2): A thorough walkthrough on coding interview topics with a good range of easy-to-difficult interview questions and solutions with in-depth explanations.
