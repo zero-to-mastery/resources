@@ -114,6 +114,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@PaulBillings](https://github.com/paulbillings)
 - [@thomasm18](https://github.com/thomasm18)
 - [@cyrilbois](https://github.com/cyrilbois)
+- [@iamvalentin23](https://github.com/iamvalentin23)
 - [@TheProrok29](https://github.com/TheProrok29)
 - [@christine-aqui](https://github.com/christine-aqui)
 - [@MrAFerreira](https://github.com/MrAFerreira)

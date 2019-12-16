@@ -27,6 +27,10 @@
 
 - [Udemy](https://www.udemy.com/): A website for learning anything that you want to learn. They have many courses in technology, general topics etc...
 
+- [Rithm School Free Courses](https://www.rithmschool.com/courses): Looking to learn some web development skills on your own? We love that. Our team has created these resources to guide you through a handful of computer programming topics. Whether you're learning this material for the first time or brushing up on your skills, we hope that you'll find these tutorials, screencasts and exercises useful.
+
+- [MOOC.FI](https://www.mooc.fi/en/): The courses are offered by University of Helsinki's Department of Computer Science. No prior knowledge is required-beginners can start to learn programming basics from the Programming with Java course, or start to get familiar with artificial intelligence from the course Elements of Ai.
+
 ## Computer Science
 
 - [OSSU](https://github.com/ossu/computer-science): The OSSU curriculum is a **complete education in computer science** using online materials. It's not merely for career training or professional development. It's for those who want a proper, _well-rounded_ grounding in concepts fundamental to all computing disciplines,and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
@@ -48,6 +52,9 @@
 - [W3Schools](https://www.w3schools.com): A comprehensive learning resource covering HTML, CSS, JavaScript and more. Has interactive tutorials as well as quizzes.
 
 - [FullStackOpen](https://fullstackopen.com/en/): This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. Learn React, Redux, Node.js, MongoDB, and GraphQL in one go!
+
+- [INTRO TO WEB DEV V2](https://btholt.github.io/intro-to-web-dev-v2/): Welcome to an intro to web development. I'm really excited to teach you a bit about how to become a web developer. In this course we assume you know absolutely nothing about writing code. We do assume that you have a basic grasp of how to operate your computer: how to browse the Internet, how to operate your operating system, how to use a keyboard and mouse, etc.
+
 
 ### Front-End
 

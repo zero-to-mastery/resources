@@ -55,6 +55,7 @@
 
 * [HackerRank](https://www.hackerrank.com/): A place where you can practice coding, prepare for interviews, and get hired.
 
-* [CoderByte](https://www.coderbyte.com/): A site for coding challenges and interview prep (including examples of real-world coding challenges/interview questions from various tech companies, including Google, Facebook, and the like).
+* [CoderByte](https://www.coderbyte.com/): A site for coding challenges and interview prep (including examples of real-world coding challenges/interview questions from various tech companies, including Google, Facebook, and the like). 
 
-* [leetcode](https://leetcode.com/): LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+* [LeetCode](https://leetcode.com/): LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+
