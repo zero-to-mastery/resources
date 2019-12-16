@@ -45,6 +45,8 @@
 
 * [30 seconds of interviews](https://30secondsofinterviews.org/): A collection of common interview questions that will help you prepare for your next interview!
 
+* [Pramp](https://www.pramp.com/): A free tool built to provide the complete interview practice you need from Technical to behavioral interviews.
+
 #### Coding Challenges
 
 * [Codewars](https://www.codewars.com/): A place to challenge yourself and hone your coding skills. See if you can find any fellow ZTM students on there and team up!
