@@ -38,6 +38,8 @@
 * [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw): Colt is a developer with a serious love for teaching. Colt spent a few years teaching people to program at 2 different immersive bootcamps where he helped hundreds of people become web developers and changed their lives. His graduates work at companies like Google, Salesforce, and Square. In 2016 Colt launched his Web Developer Bootcamp course, which has since gone on to become one of the best selling and top rated courses on Udemy. He was also voted Udemy’s Best New Instructor of 2016.
 
 * [Real Tough Candy](https://www.youtube.com/realtoughcandy): Real Tough Candy combines technical expertise with soft skills in this vlog oriented channel. Besides discussing the latest technologies and trends, RTC offers an insight into her career, delving into topics such as freelancing, work ethics, and a lot of tips for beginners. There is a video for everyone in her vast catalog.
+* [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w):There's always something to learn!
+Whether you want to have look at Angular Tutorials or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else - you're probably right!.
 
 ## Computer Science
 
