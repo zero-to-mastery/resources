@@ -80,6 +80,8 @@
 
 * [Picular](https://picular.co/): A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
 
+* [Color Hunt](https://colorhunt.co/): A color schemes website that allows you to search the themes including its HEX code.
+
 ## Icons &amp; Graphics
 
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/): a gallery of background patterns and their CSS code.

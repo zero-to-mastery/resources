@@ -123,4 +123,5 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@Blusoup](https://github.com/Blusoup)
 - [@wroblewskim95](https://github.com/wroblewskim95)
 - [@sruthik27](https://github.com/sruthik27)
+- [@TIGGERKUB](https://github.com/TIGGERKUB)
 
