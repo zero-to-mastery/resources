@@ -40,6 +40,8 @@
 
 - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS): A uniquely pragmatic approach to explaining core functional programming concepts WITHOUT wading through mathematical notation or heavy terminology.
 
+- [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition): Supplementing textbook for MIT's 6.0001 Introduction to Computer Science course which is open source. This is book teaches Python programming alongside fundamental computer science theories
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
