@@ -42,6 +42,8 @@
 
 - [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition): Supplementing textbook for MIT's 6.0001 Introduction to Computer Science course which is open source. This is book teaches Python programming alongside fundamental computer science theories
 
+- [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/): A (Free!) book that compiles programming knowledge and principles from the Original Creators of Unix and other prominent people that have worked on Unix, Linux, C, and more. If you want many, many years of programming wisdom concentrated into one book, this is a good one to pick.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
