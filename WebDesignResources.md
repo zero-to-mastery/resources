@@ -82,6 +82,8 @@
 
 * [Color Hunt](https://colorhunt.co/): A color schemes website that allows you to search the themes including its HEX code.
 
+* [ColorZilla CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/): A CSS Gradient Editor that creates a cross-browser CSS3 gradients.
+
 ## Icons &amp; Graphics
 
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/): a gallery of background patterns and their CSS code.
@@ -109,3 +111,5 @@
 * Note that as of the most recent version of [Bootstrap](https://getbootstrap.com/), they no longer support their own glyphicons.
 
 * [World Vector Logo](https://worldvectorlogo.com): A large collection of free SVG logos for a variety of brands.
+
+* [CONVERTICO](https://convertico.com/): A free online PNG to ICO file converter.
