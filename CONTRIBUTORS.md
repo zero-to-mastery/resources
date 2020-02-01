@@ -126,4 +126,5 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@TIGGERKUB](https://github.com/TIGGERKUB)
 - [@ubaydillah77](https://github.com/ubaydillah77)
 - [@jjrobbertson14](https://github.com/jjrobertson14)
+- [@DiklaG](https://github.com/DiklaG)
 
