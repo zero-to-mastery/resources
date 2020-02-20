@@ -1,4 +1,5 @@
 **[Back](/README.md/)**
+
 # Audio recordings to inspire you to become a better developer
 
 ## Accessibility
@@ -15,6 +16,7 @@
 - [Kalzumeus](https://www.kalzumeus.com/podcast/)
 
 ## Code
+
 - [SE Radio](https://www.se-radio.net/)
 - [PHP Roundtable](https://www.phproundtable.com/)
 - [PHP Architects](https://www.phparch.com/podcast/)
@@ -28,6 +30,8 @@
 - [La Vie En Code](https://www.lavieencode.net/podcast/): A podcast dedicated so self-taught web developers.
 - [UndefinedFM](https://undefined.fm/): The only engineering podcast with a 2 drink minimum. Hosted by Ken Wheeler and Jared Palmer.
 - [Learn To Code With Me](https://learntocodewith.me/podcast/)
+- [Shop Talk Show](https://shoptalkshow.com/): A podcast about building websites starring Dave Rupert and Chris Coyier. Development, design, performance, accessibility, tooling, a little bit of everything!
+- [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/): Daily interviews about technical software topics.
 
 ## Design
 
@@ -47,7 +51,7 @@
 - [JavaScript Jabber](https://devchat.tv/js-jabber/)
 - [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm/)
 - [Syntax.fm](https://syntax.fm/): The amazing Wes Bos & Scott Tolinksi hosts a podcast covering web development, front-end, the process of learning, and business. You can also find their episodes on various apps like Spotify etc.
-- [JS Party](https://changelog.com/jsparty): A community celebration of JavaScript and the web.  Created by the Changelog Developer Community.  It records live every Thursday at 1 pm Eastern / 10 am Pacific U.S. time.
+- [JS Party](https://changelog.com/jsparty): A community celebration of JavaScript and the web. Created by the Changelog Developer Community. It records live every Thursday at 1 pm Eastern / 10 am Pacific U.S. time.
 
 ## React (JavaScript framework)
 
@@ -65,10 +69,10 @@
 ## Python
 
 - [Talk Python To Me](https://talkpython.fm/): The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
-The format is a casual 45 minute conversation with industry experts.
+  The format is a casual 45 minute conversation with industry experts.
 - [Python Bytes](https://pythonbytes.fm/): If you are looking for a 15 minute conversation on the topical items of the week in the Python ecosystem, be sure to jump over to Python Bytes.
-- [Podcast.__init__](https://www.pythonpodcast.com/): Every week a new episode provides useful and informative insights into the projects, platforms, and practices that engineers, business leaders, and data scientists need to know about to learn and grow in their career.
+- [Podcast.**init**](https://www.pythonpodcast.com/): Every week a new episode provides useful and informative insights into the projects, platforms, and practices that engineers, business leaders, and data scientists need to know about to learn and grow in their career.
 
 ## Computer Science topics
- - [Base.cs Podcast](https://www.codenewbie.org/basecs): Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
 
+- [Base.cs Podcast](https://www.codenewbie.org/basecs): Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
