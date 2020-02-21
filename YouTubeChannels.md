@@ -41,6 +41,8 @@
 * [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): There's always something to learn!
 Whether you want to have look at Angular Tutorials or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else - you're probably right!.
 
+* [Ben Awad](https://www.youtube.com/benawad97): Ben is a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.
+
 ## Computer Science
 
 * [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
