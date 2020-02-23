@@ -1,115 +1,117 @@
 **[Back](/README.md/)**
+
 # Resources for Web Design
 
 ## General Web Design
 
-* [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda): Part 1 of a two-part series made for anyone with a burning desire to design good-looking UI in a pinch! Created by Erik D. Kennedy, a developer-turned-UX Designer, he is chock full of experience and his down-to-earth personality brings a sense of liveliness and humour to what he teaches.
+- [7 Rules for Creating Gorgeous UI (Part 1)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda): Part 1 of a two-part series made for anyone with a burning desire to design good-looking UI in a pinch! Created by Erik D. Kennedy, a developer-turned-UX Designer, he is chock full of experience and his down-to-earth personality brings a sense of liveliness and humour to what he teaches.
 
-* [7 Rules for Creating Gorgeous UI (Part 2)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96): Part 2 of a two-part series.
+- [7 Rules for Creating Gorgeous UI (Part 2)](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96): Part 2 of a two-part series.
 
-* [Can I use...](https://caniuse.com/): Browser support tables for modern web technologies.
+- [Can I use...](https://caniuse.com/): Browser support tables for modern web technologies.
 
-* [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
+- [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
 
-* [CSS Zen Garden](http://www.csszengarden.com/): A demonstration of what can be accomplished through CSS-based design. Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs.
+- [CSS Zen Garden](http://www.csszengarden.com/): A demonstration of what can be accomplished through CSS-based design. Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs.
 
-* [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
+- [CSS Reference](https://cssreference.io): A visual representation, and demonstration of all native CSS3 rules and how they work, with clear documentation and examples.
 
-* [CSS Reference](https://cssreference.io): A visual representation, and demonstration of all native CSS3 rules and how they work, with clear documentation and examples.
+- [CSS Visual Dictionary](http://www.javascriptgrammar.com/?v=bio): CSS Visual Dictionary is a beginner-friendly book that takes a practical approach towards introducing web designers and developers to the basic concepts in CSS. Follow the instructions in the link above to get your copy!
 
-* [DesignAcademy.io](https://designacademy.io/): Laura Elizabeth made this fantastic, easy-to-understand design fundamentals course for developers to learn within 6 weeks, after spending years struggling to grasp and implement design principles. She offers both a paid course as well as free resources in the form of blog posts and snippets of her course.
+- [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
 
-* [Flexbox Defense](http://www.flexboxdefense.com/): Tower Defense with a twist: all towers must be positioned with CSS flexbox.
+- [DesignAcademy.io](https://designacademy.io/): Laura Elizabeth made this fantastic, easy-to-understand design fundamentals course for developers to learn within 6 weeks, after spending years struggling to grasp and implement design principles. She offers both a paid course as well as free resources in the form of blog posts and snippets of her course.
 
-* [Flexbox Froggy](http://flexboxfroggy.com/): A fun in-browser game to help teach the powerful, complex CSS flexbox layout method.
+- [devdocs](https://devdocs.io/): DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
 
-* [Grid Garden](https://cssgridgarden.com/): A fun in-browser game to help teach the powerful, complex CSS grid layout method.
+- [Flexbox Defense](http://www.flexboxdefense.com/): Tower Defense with a twist: all towers must be positioned with CSS flexbox.
 
-* [Inside Design](https://www.invisionapp.com/inside-design/): Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies like Airbnb, Amazon, HBO, Netflix, Slack, Starbucks and Uber – offers free design resources and perspectives in their blog, **Inside Design**. They are also hiring for those interested.
+- [Flexbox Froggy](http://flexboxfroggy.com/): A fun in-browser game to help teach the powerful, complex CSS flexbox layout method.
 
-* [Learn UI Design Blog](https://learnui.design/blog/): An interesting blog with Erik Kennedy's down-to-earth personality and years of experience help the reader really understand what makes good UI/UX from a practical perspective.
+- [Frontend Mentor](https://www.frontendmentor.io/): A platform where you can practice your web design skills using HTML, CSS & JS and design modern websites.
 
-* [Material Design](https://material.io/): A collection of guidelines, resources, and tools for web design, all available for free. Created by Google.
+- [Grid Garden](https://cssgridgarden.com/): A fun in-browser game to help teach the powerful, complex CSS grid layout method.
 
-* [Sean Halpin](http://seanhalpin.io/): A professional web designer/developer's award winning portfolio website.
+- [Inside Design](https://www.invisionapp.com/inside-design/): Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies like Airbnb, Amazon, HBO, Netflix, Slack, Starbucks and Uber – offers free design resources and perspectives in their blog, **Inside Design**. They are also hiring for those interested.
 
-* [devdocs](https://devdocs.io/): DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
+- [Learn UI Design Blog](https://learnui.design/blog/): An interesting blog with Erik Kennedy's down-to-earth personality and years of experience help the reader really understand what makes good UI/UX from a practical perspective.
 
-* [CSS Visual Dictionary](http://www.javascriptgrammar.com/?v=bio): CSS Visual Dictionary is a beginner-friendly book that takes a practical approach towards introducing web designers and developers to the basic concepts in CSS. Follow the instructions in the link above to get your copy!
+- [Material Design](https://material.io/): A collection of guidelines, resources, and tools for web design, all available for free. Created by Google.
 
-* [Frontend Mentor](https://www.frontendmentor.io/): A platform where you can practice your web design skills using HTML, CSS & JS and design modern websites.
-
+- [Sean Halpin](http://seanhalpin.io/): A professional web designer/developer's award winning portfolio website.
 
 ## Images &amp; Video
 
-* [AllTheFreeStock](http://allthefreestock.com/): A central place to search for free stock photos and videos.
+- [AllTheFreeStock](http://allthefreestock.com/): A central place to search for free stock photos and videos.
 
-* [Coverr](https://coverr.co/): Free stock videos to add to your websites.
+- [Coverr](https://coverr.co/): Free stock videos to add to your websites.
 
-* [Gratisography](https://gratisography.com/): Another source of free stock photos.
+- [Gratisography](https://gratisography.com/): Another source of free stock photos.
 
-* [Pexels](https://www.pexels.com/): A source of free stock photos and videos.
+- [Pexels](https://www.pexels.com/): A source of free stock photos and videos.
 
-* [Pixabay](https://pixabay.com/videos/): Free stock videos.
+- [Pixabay](https://pixabay.com/videos/): Free stock videos.
 
-* [PlaceIMG](http://www.placeimg.com/): Gives you a URL that generates a new random placeholder image every time.
+- [PlaceIMG](http://www.placeimg.com/): Gives you a URL that generates a new random placeholder image every time.
 
-* [StickPNG](http://www.stickpng.com/): An excellent source for PNG images if you need something that is re-sizable and can be set to transparent.
+- [StickPNG](http://www.stickpng.com/): An excellent source for PNG images if you need something that is re-sizable and can be set to transparent.
 
-* [TinyPNG](https://tinypng.com/): An online tool that can compress PNGs and JPGs to reduce filesize. Also available as Photoshop and Wordpress Plugin.
+- [TinyPNG](https://tinypng.com/): An online tool that can compress PNGs and JPGs to reduce filesize. Also available as Photoshop and Wordpress Plugin.
 
-* [Unsplash](https://unsplash.com/): Free stock photos, all in JPEG format.
+- [unDraw](https://undraw.co/) Free vector illustrations that can be downloaded in SVG or PNG format.
 
-* [Videvo](https://www.videvo.net/): Free stock videos.
+- [Unsplash](https://unsplash.com/): Free stock photos, all in JPEG format.
+
+- [Videvo](https://www.videvo.net/): Free stock videos.
 
 ## Color Palettes
 
-* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
 
-* [Color Tool](https://material.io/color/#!/?view.left=0&view.right=0): A tool associated with Google's Material Design (see above) for creating a color palette.
+- [Color Hunt](https://colorhunt.co/): A color schemes website that allows you to search the themes including its HEX code.
 
-* [Colormind](http://colormind.io/): A color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art.
+- [Color Tool](https://material.io/color/#!/?view.left=0&view.right=0): A tool associated with Google's Material Design (see above) for creating a color palette.
 
-* [Coolors.co](https://coolors.co/): An excellent resource for working out a simple matching color palette for web pages. The site generates matching color schemes along with their hex and RGB values.
+- [Colormind](http://colormind.io/): A color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art.
 
-* [CSS Color Names](http://www.crockford.com/wrrrld/color.html): A simple chart that lists all of the color names that can be used in CSS.
+- [ColorZilla CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/): A CSS Gradient Editor that creates a cross-browser CSS3 gradients.
 
-* [Flat UI Colors](https://flatuicolors.com/): A simple website that allows you to choose from different color palettes.
+- [Coolors.co](https://coolors.co/): An excellent resource for working out a simple matching color palette for web pages. The site generates matching color schemes along with their hex and RGB values.
 
-* [Paletton](http://www.paletton.com/): A color palette generator that allows for much more fine-tuning than most other generators.
+- [CSS Color Names](http://www.crockford.com/wrrrld/color.html): A simple chart that lists all of the color names that can be used in CSS.
 
-* [Picular](https://picular.co/): A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
+- [Flat UI Colors](https://flatuicolors.com/): A simple website that allows you to choose from different color palettes.
 
-* [Color Hunt](https://colorhunt.co/): A color schemes website that allows you to search the themes including its HEX code.
+- [Paletton](http://www.paletton.com/): A color palette generator that allows for much more fine-tuning than most other generators.
 
-* [ColorZilla CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/): A CSS Gradient Editor that creates a cross-browser CSS3 gradients.
+- [Picular](https://picular.co/): A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
 
 ## Icons &amp; Graphics
 
-* [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/): a gallery of background patterns and their CSS code.
+- [CONVERTICO](https://convertico.com/): A free online PNG to ICO file converter.
 
-* [Flaticon](https://www.flaticon.com/): A database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
+- [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/): a gallery of background patterns and their CSS code.
 
-* [Font Awesome](https://fontawesome.com/): A large set of both free and not-free icons. You can either download the code or use their CDN links.
+- [Flaticon](https://www.flaticon.com/): A database of free icons available in PNG, SVG, EPS, PSD and BASE 64 formats.
 
-* [Font Mfizz](http://fizzed.com/oss/font-mfizz): Font Mfizz provides scalable vector icons representing programming languages, operating systems, software engineering, and technology. It was designed as an extension to Font Awesome, it is an iconic font designed for technology and software geeks.
+- [Font Awesome](https://fontawesome.com/): A large set of both free and not-free icons. You can either download the code or use their CDN links.
 
-* [Iconfinder](https://www.iconfinder.com/): A listing of free and not-free web icons.
+- [Font Mfizz](http://fizzed.com/oss/font-mfizz): Font Mfizz provides scalable vector icons representing programming languages, operating systems, software engineering, and technology. It was designed as an extension to Font Awesome, it is an iconic font designed for technology and software geeks.
 
-* [Icongram](https://icongr.am/): A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms like [Font Awesome](https://fontawesome.com/), [Material Design](https://material.io/tools/icons/?style=baseline), [Devicon](https://konpa.github.io/devicon/), [Clarity](https://vmware.github.io/clarity/icons/icon-sets), [Octicons](https://octicons.github.com/) and much more.
+- [Iconfinder](https://www.iconfinder.com/): A listing of free and not-free web icons.
 
-* [Ionic](https://useiconic.com/): A collection of simple web icons. There is a free set of 223 icons as well as a larger set you can pay for.
+- [Icongram](https://icongr.am/): A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms like [Font Awesome](https://fontawesome.com/), [Material Design](https://material.io/tools/icons/?style=baseline), [Devicon](https://konpa.github.io/devicon/), [Clarity](https://vmware.github.io/clarity/icons/icon-sets), [Octicons](https://octicons.github.com/) and much more.
 
-* [Linea](http://linea.io/): A collection of simple, free icons.
+- [Ionic](https://useiconic.com/): A collection of simple web icons. There is a free set of 223 icons as well as a larger set you can pay for.
 
-* [Material Icons](https://material.io/tools/icons/): Google's open source icon collection.
+- [Linea](http://linea.io/): A collection of simple, free icons.
 
-* [Octicons](https://octicons.github.com/): GitHub's free set of icons.
+- [Material Icons](https://material.io/tools/icons/): Google's open source icon collection.
 
-* [Particles.js](https://vincentgarreau.com/particles.js/): An app for creating dynamic CSS backgrounds.
+- [Octicons](https://octicons.github.com/): GitHub's free set of icons.
 
-* Note that as of the most recent version of [Bootstrap](https://getbootstrap.com/), they no longer support their own glyphicons.
+- [Particles.js](https://vincentgarreau.com/particles.js/): An app for creating dynamic CSS backgrounds.
 
-* [World Vector Logo](https://worldvectorlogo.com): A large collection of free SVG logos for a variety of brands.
+- Note that as of the most recent version of [Bootstrap](https://getbootstrap.com/), they no longer support their own glyphicons.
 
-* [CONVERTICO](https://convertico.com/): A free online PNG to ICO file converter.
+- [World Vector Logo](https://worldvectorlogo.com): A large collection of free SVG logos for a variety of brands.
