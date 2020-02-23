@@ -130,3 +130,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@minshinkhant](https://github.com/minshinkhant)
 - [@rojasleon](https://github.com/rojasleon)
 - [@frostillicus](https://github.com/frostillicus)
+- [@rodsnts](https://github.com/rodsnts)
