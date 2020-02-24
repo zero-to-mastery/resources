@@ -151,6 +151,11 @@ Whether you want to have look at Angular Tutorials or Guides, Vue.js, other Fron
 
 ## Data Structures and Algorithms
 
+## Machine Learning and Data Science
+
+* [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw):
+3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective(this channel has very good explaination about deep nural Network and CNN)
+
 ### Programming Interview Preparation
 
 * [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
