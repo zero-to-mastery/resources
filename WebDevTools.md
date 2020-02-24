@@ -132,6 +132,8 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/): A CSS gradient generator, that allows multiple colorstops and different kinds of gradients.
 
+- [Easings.net](https://easings.net/): This page helps you choose the right easing function for your CSS animations.
+
 ---
 
 ## Web Publishing
