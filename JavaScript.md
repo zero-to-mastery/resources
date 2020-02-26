@@ -1,4 +1,5 @@
 **[Back](/README.md/)**
+
 # Resources to Become a JavaScript Expert
 
 - [A JavaScript Curriculum](https://medium.freecodecamp.org/a-beginners-javascript-study-plan-27f1d698ea5e): A great curriculum for learning JavaScript from newbie to [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
@@ -23,7 +24,7 @@
 
 - [JavaScript Jabber](https://devchat.tv/js-jabber/): A weekly podcast discussing the superb language JavaScript.
 
-- [JavaScript.Info](http://javascript.info/):How it's done now. From the basics to advanced topics with simple with JavaScript, but detailed explanations.
+- [JavaScript.Info](http://javascript.info/): How it's done now. From the basics to advanced topics with simple with JavaScript, but detailed explanations.
 
 - [JavaScript: The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition): This is a very solid foundation to work with, for anyone who might have struggled with the contexts and how arrow functions, local variables, and prototypes fit into the bigger picture. A quick introduction into the deeper ideas in JavaScript.
 
@@ -61,8 +62,8 @@
 
 - [BrowserList](https://browserl.ist/): A great tool helps you know the specific browsers with "browserslist search query". You can see the usage in [here](https://github.com/ai/browserslist#queries).
 
-- [keyboard events](http://keycode.info/) A great site helps you know the event key of the keyboard.
+- [JavaScript Event Keycodes](http://keycode.info/): A great site helps you know the event key of the keyboard.
 
-- [Gatsby.js](https://www.gatsbyjs.org/) Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
+- [Gatsby.js](https://www.gatsbyjs.org/): Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
 
-- [JavaScript Grammar](http://www.javascriptgrammar.com/?v=bio) JavaScript Grammar is a free e-book created by [JavaScript Teacher](https://twitter.com/js_tut?lang=en). It takes a deep dive into JavaScript fundamentals, discussing concepts like Primitive Types in JavaScript, Type Coercion, Scope, Closures Higher-order Function, Loops, Object Oriented Programming in JavaScript and lots more! Follow the instructions in the link above to get your copy.
+- [JavaScript Grammar](http://www.javascriptgrammar.com/?v=bio): JavaScript Grammar is a free e-book created by [JavaScript Teacher](https://twitter.com/js_tut?lang=en). It takes a deep dive into JavaScript fundamentals, discussing concepts like Primitive Types in JavaScript, Type Coercion, Scope, Closures Higher-order Function, Loops, Object Oriented Programming in JavaScript and lots more! Follow the instructions in the link above to get your copy.

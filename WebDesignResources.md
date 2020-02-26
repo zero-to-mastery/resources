@@ -58,7 +58,7 @@
 
 - [TinyPNG](https://tinypng.com/): An online tool that can compress PNGs and JPGs to reduce filesize. Also available as Photoshop and Wordpress Plugin.
 
-- [unDraw](https://undraw.co/) Free vector illustrations that can be downloaded in SVG or PNG format.
+- [unDraw](https://undraw.co/): Free vector illustrations that can be downloaded in SVG or PNG format.
 
 - [Unsplash](https://unsplash.com/): Free stock photos, all in JPEG format.
 
