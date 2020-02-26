@@ -1,4 +1,5 @@
 **[Back](/README.md/)**
+
 # WEB DEVELOPMENT TOOLS
 
 ## Free Tools For Students
@@ -29,51 +30,52 @@ Many others are available, just search for "text editors" on your search engine 
 
 Things to look for if your editor has implementations for them. They will make your life a lot easier.
 
-- [Atom File-icons](https://atom.io/packages/file-icons) Assigns file extension icons and colors.
+- [Atom File-icons](https://atom.io/packages/file-icons): Assigns file extension icons and colors.
 
-- [Atom Live Server](https://atom.io/packages/atom-live-server) Launch simple development HTTP server with live reload.
+- [Atom Live Server](https://atom.io/packages/atom-live-server): Launch simple development HTTP server with live reload.
 
-- [Atom Minimap](https://atom.io/packages/minimap) A preview of the full source code.
+- [Atom Minimap](https://atom.io/packages/minimap): A preview of the full source code.
 
-- [Atom Pigments](https://atom.io/packages/pigments) A package to display colors in project files (CSS).
+- [Atom Pigments](https://atom.io/packages/pigments): A package to display colors in project files (CSS).
 
-- [Atom pretty-json](https://atom.io/packages/pretty-json) A Package for automatically formatting JSON documents.
+- [Atom pretty-json](https://atom.io/packages/pretty-json): A Package for automatically formatting JSON documents.
 
-- [Atom tern-js](https://atom.io/packages/atom-ternjs) JavaScript code intelligence for Atom - auto complete suggestion.
+- [Atom tern-js](https://atom.io/packages/atom-ternjs): JavaScript code intelligence for Atom - auto complete suggestion.
 
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) Automatically add HTML/XML close tag.
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag): Automatically add HTML/XML close tag.
 
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) Automatically rename paired HTML/XML tag.
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): Automatically rename paired HTML/XML tag.
 
 - [Autoprefixer](https://atom.io/packages/autoprefixer): Shortcut browser-compatibility issues for CSS/SCSS (Plugin or Built-in).
 
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) Allows matching brackets to be identified with colors.
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer): Allows matching brackets to be identified with colors.
 
 - [Code Linters](https://github.com/collections/clean-code-linters): Get immediate feedback on code logic or stylistic errors (Plugin or Built-in).
 
-- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) Highlight web colors in your editor.
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight): Highlight web colors in your editor.
 
 - [EMMET](https://emmet.io/): Use shortcuts and shorthand to get work done faster (Plugin or Built-in).
 
-- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Provides you with JavaScript and React/Redux snippets in ES7 with Babel plugin features.
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets): Provides you with JavaScript and React/Redux snippets in ES7 with Babel plugin features.
 
 - [Git](https://git-scm.com/): Source control is necessary (Plugin or Built-in).
 
-- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) This extension colorizes the indentation in front of your text alternating in four different colors on each step.
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow): This extension colorizes the indentation in front of your text alternating in four different colors on each step.
 
-- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) The most epic theme for your editor.
+- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme): The most epic theme for your editor.
 
-- [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) A cross between Monokai and One Dark theme.
+- [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai): A cross between Monokai and One Dark theme.
 
-- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) Polaroid for your code. This extension helps you create a good-looking screenshot of your code snippets keeping the look and feel of your code editor.
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode): Polaroid for your code. This extension helps you create a good-looking screenshot of your code snippets keeping the look and feel of your code editor.
 
 - [Prettier](https://prettier.io/): Automatic code formatting to standardize style across the codebase (Plugin or Built-in).
 
 - [Settings Sync](https://github.com/shanalikhan/code-settings-sync/wiki/Setup-Guide): A VS Code extension allowing you to synchronize your text editor workflow from settings to snippets, themes, file icons, launch, keybindings, workspaces and extensions. Comes in handy when setting up your developer environment on a new computer (like on a company's work computer).
 
-- [Waka Time](https://marketplace.visualstudio.com/items?itemName=WakaTime.WakaTime) Metrics, insights, and time tracking automatically generated from your programming activity.
+- [Waka Time](https://marketplace.visualstudio.com/items?itemName=WakaTime.WakaTime): Metrics, insights, and time tracking automatically generated from your programming activity.
 
-- [Visual studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode) Visual Studio IntelliCode (IntelliCode) is a set of AI-assisted capabilities that improve developer productivity with features like contextual IntelliSense, argument completion, code formatting, and style rule inference
+- [Visual studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode): Visual Studio IntelliCode (IntelliCode) is a set of AI-assisted capabilities that improve developer productivity with features like contextual IntelliSense, argument completion, code formatting, and style rule inference
+
 ---
 
 ## Online Editors

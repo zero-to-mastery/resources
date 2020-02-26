@@ -14,7 +14,7 @@
 
 - [**Modern Development Environment for Windows**](https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows): Setting up a windows computer for front-end development.
 
-- [**React vs Vue.JS: Which Front-end Framework to Choose in 2018**](https://expertise.jetruby.com/react-vs-vue-js-which-front-end-framework-to-choose-in-2018-2a62a1fe76f9) : In this article, we’ll briefly consider the status quo in the world of modern JavaScript frameworks, comparing React and Vue.JS.
+- [**React vs Vue.JS: Which Front-end Framework to Choose in 2018**](https://expertise.jetruby.com/react-vs-vue-js-which-front-end-framework-to-choose-in-2018-2a62a1fe76f9): In this article, we’ll briefly consider the status quo in the world of modern JavaScript frameworks, comparing React and Vue.JS.
 
 - [**Productivity: How I am so productive - Kent C. Dodds**](https://blog.kentcdodds.com/how-i-am-so-productive-fb86eb583b0d): In this article, Kent sharing his daily activity that makes him so productive.
 
