@@ -10,27 +10,11 @@
 
 - [Can I use...](https://caniuse.com/): Browser support tables for modern web technologies.
 
-- [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
-
-- [CSS Zen Garden](http://www.csszengarden.com/): A demonstration of what can be accomplished through CSS-based design. Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs.
-
-- [CSS Reference](https://cssreference.io): A visual representation, and demonstration of all native CSS3 rules and how they work, with clear documentation and examples.
-
-- [CSS Visual Dictionary](http://www.javascriptgrammar.com/?v=bio): CSS Visual Dictionary is a beginner-friendly book that takes a practical approach towards introducing web designers and developers to the basic concepts in CSS. Follow the instructions in the link above to get your copy!
-
-- [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
-
 - [DesignAcademy.io](https://designacademy.io/): Laura Elizabeth made this fantastic, easy-to-understand design fundamentals course for developers to learn within 6 weeks, after spending years struggling to grasp and implement design principles. She offers both a paid course as well as free resources in the form of blog posts and snippets of her course.
 
 - [devdocs](https://devdocs.io/): DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
 
-- [Flexbox Defense](http://www.flexboxdefense.com/): Tower Defense with a twist: all towers must be positioned with CSS flexbox.
-
-- [Flexbox Froggy](http://flexboxfroggy.com/): A fun in-browser game to help teach the powerful, complex CSS flexbox layout method.
-
 - [Frontend Mentor](https://www.frontendmentor.io/): A platform where you can practice your web design skills using HTML, CSS & JS and design modern websites.
-
-- [Grid Garden](https://cssgridgarden.com/): A fun in-browser game to help teach the powerful, complex CSS grid layout method.
 
 - [Inside Design](https://www.invisionapp.com/inside-design/): Invision, one of the most prolific and wildly successful design company in the world – whose products/workflow are used by companies like Airbnb, Amazon, HBO, Netflix, Slack, Starbucks and Uber – offers free design resources and perspectives in their blog, **Inside Design**. They are also hiring for those interested.
 
