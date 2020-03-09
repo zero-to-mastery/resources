@@ -22,6 +22,8 @@
 
 - [Grid Garden](https://cssgridgarden.com/): A fun in-browser game to help teach the powerful, complex CSS grid layout method.
 
+- [Flexbox Zombies](https://mastery.games/p/flexbox-zombies): A fun comprehensive in-browser game to help you learn CSS flexbox while fighting zombies.
+
 ## CSS Tools
 
 - [Clippy](https://bennettfeely.com/clippy/): A tool for creating CSS clip paths of various shapes.
