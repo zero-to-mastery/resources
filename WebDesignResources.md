@@ -70,6 +70,8 @@
 
 - [Picular](https://picular.co/): A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
 
+- [Bootstrap Colors](https://getbootstrap.com/docs/4.4/getting-started/theming/#available-variables) Ever wanted the exact hex codes for Bootstrap's "primary", "warning", "danger", etc. classes? Here they are!
+
 ## Icons &amp; Graphics
 
 - [CONVERTICO](https://convertico.com/): A free online PNG to ICO file converter.
@@ -99,3 +101,7 @@
 - Note that as of the most recent version of [Bootstrap](https://getbootstrap.com/), they no longer support their own glyphicons.
 
 - [World Vector Logo](https://worldvectorlogo.com): A large collection of free SVG logos for a variety of brands.
+
+- [Blobmaker](https://www.blobmaker.app/): A free generative design tool to help you quickly create random, unique, organic-looking SVG shapes. 
+
+- [GetWaves](https://getwaves.io/): Create SVG waves to use in your websites. 
