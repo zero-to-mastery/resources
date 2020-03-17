@@ -17,3 +17,5 @@
 * [**CSS-Tricks**](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
 
 * [**CodePen**](https://codepen.io/): A development environement for front-end designers and developers, to showcasing user-created HTML, CSS and JavaScript code snippets.
+
+* [**Codrops**](https://tympanus.net/codrops/): A website to find cutting edge modern web development templates, useful tutorials and snippets for your next web project
