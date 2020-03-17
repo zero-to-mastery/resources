@@ -1,0 +1,2 @@
+exclude: [vendor]
+theme: jekyll-theme-hacker
