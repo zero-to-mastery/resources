@@ -22,3 +22,7 @@
 
 * [Python Crash Course 2nd Edition](https://tinyurl.com/yg5n5t34): An excellent book available in print or Kindle for learning Python with downloadable exercise solutions.
 * [Python Basic](https://pythonbasics.org/): Learn python 3 from the basic, from how you write the code with python. The site including OOP, Web Framework with Flask, Desktop App with Tkinter/PyQT, Machine Learning, and much more.
+
+ - [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm): MIT's course on learning computer science and Programming using python.
+
+- [Google's Python Classes](https://developers.google.com/edu/python/?hl=de-DE&csw=1) Learn Python from GOOGLE classes
