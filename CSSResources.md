@@ -31,3 +31,7 @@
 - [Cubic-Bezier](https://cubic-bezier.com/): A tool for generating bezier curves for CSS transitions and animations.
 
 - [Dark-Mode Toggle Tutorial](https://fluvixx.dev/posts/how-to-build-a-dark-mode.html): How to build a dark-mode toggle!
+
+- [CSS Code Generator](https://html-css-js.com/css/generator/): See and adjust colour gradient/border,shadow... visualy and get the code as outcome!
+
+[CSS Cheat Sheet](https://htmlcheatsheet.com/css/): Interactive CSS cheat sheet - selectors, font generator, button generator, reseting codes, shadows...
