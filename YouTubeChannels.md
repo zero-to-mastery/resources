@@ -43,6 +43,8 @@ Whether you want to have look at Angular Tutorials or Guides, Vue.js, other Fron
 
 * [Ben Awad](https://www.youtube.com/benawad97): Ben is a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.
 
+* [Scaler Academy](https://www.youtube.com/ScalerAcademy): Accelerate Your Tech Career. Learn computer programming concepts, Data Sturcutres & Algorithms from Ex-Google, Ex-Facebook instructors. Also, watch tech talks from tech leaders, live coding sessions & more.
+
 ## Computer Science
 
 * [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
