@@ -1,6 +1,6 @@
 # Useful Resources for Developers
 
-A list of student collated resources deemed to be useful for every developer and catergorised. Andrei has a hand picked list of his favourite resources which you can find [here](https://zerotomastery.io/resources?utm_source=github&utm_medium=resources).
+A list of student-collated resources deemed to be useful for every developer and categorised. Andrei has a hand-picked list of his favourite resources which you can find [here](https://zerotomastery.io/resources?utm_source=github&utm_medium=resources).
 
 ## Table of Contents
 
