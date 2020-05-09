@@ -22,6 +22,8 @@ Here is a list of text editors that may be of use to you. All have some sort of 
 
 - [Visual Studio Code](https://code.visualstudio.com/): Open-source from Microsoft. (WIN, MAC, LINUX) Free.
 
+- [Web Storm](https://www.jetbrains.com/webstorm/): A lightweight and intelligent IDE for front-end development and server-side JavaScript.
+
 Many others are available, just search for "text editors" on your search engine of choice.
 
 ---
