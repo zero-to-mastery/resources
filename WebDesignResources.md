@@ -107,3 +107,5 @@
 - [Blobmaker](https://www.blobmaker.app/): A free generative design tool to help you quickly create random, unique, organic-looking SVG shapes. 
 
 - [GetWaves](https://getwaves.io/): Create SVG waves to use in your websites. 
+
+- [Favicon Generator](https://realfavicongenerator.net/): Generate multiple favicons for multiple platforms.
