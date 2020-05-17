@@ -26,3 +26,7 @@
  - [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm): MIT's course on learning computer science and Programming using python.
 
 - [Google's Python Classes](https://developers.google.com/edu/python/?hl=de-DE&csw=1) Learn Python from GOOGLE classes
+
+- [Fluent Python](https://evanli.github.io/programming-book-3/Python/Fluent%20Python.pdf) A classic book by Luciano Ramalho published by O'REILLY. It is full of useful programming tricks for intermediate to advanced Python coders who want to push the boundaries. 
+
+- [Python Cookbook](https://github.com/tomarraj008/data_books/raw/master/Python%20Cookbook%2C%203rd%20Edition.pdf) This 3rd Edition provides complete recipes for more than a dozen topics, covering the core Python language as well as tasks common to a wide variety of application domains. Each recipe contains code samples you can use in your projects right away, along with a discussion about how and why the solution works 
