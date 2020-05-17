@@ -140,3 +140,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@Anonster](https://github.com/Anonster)
 - [@mismail-541](https://github.com/mismail-541)
 - [@joeldiffo](https://github.com/joeldiffo)
+- [@lindholmen](https://github.com/lindholmen)
