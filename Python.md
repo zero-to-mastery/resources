@@ -33,4 +33,4 @@
 
 - [Full Stack Python (video)](http://pyvideo.org/pycon-us-2014/so-you-want-to-be-a-full-stack-developer-how-to.html) This is a talk about building full-stack python web applications where you manage every part of the application yourself. I will walk through how to setup a production server with your web application code, a local development environment using vagrant, and how to deploy from your local environment to production. I will also walk through python and Django libraries that will make your life easier.
 
--[Codecademy Learn Python](https://www.codecademy.com/learn/python) This course is a great introduction to both fundamental programming concepts and the Python programming language. By the end, you’ll be comfortable programming in Python and taking your skills off the Codecademy platform and onto your own computer.
+- [Codecademy Learn Python](https://www.codecademy.com/learn/python) This course is a great introduction to both fundamental programming concepts and the Python programming language. By the end, you’ll be comfortable programming in Python and taking your skills off the Codecademy platform and onto your own computer.
