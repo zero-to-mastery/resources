@@ -109,3 +109,17 @@
 - [GetWaves](https://getwaves.io/): Create SVG waves to use in your websites. 
 
 - [Favicon Generator](https://realfavicongenerator.net/): Generate multiple favicons for multiple platforms.
+
+- [Avataars](https://avataaars.com/): Mix and Match avatar illustrations.
+
+## Illustrations
+
+- [Stories By Freepik](http://stories.freepik.com/): Get Customised illustrations.
+
+- [Freepik](https://freepik.com): Free vectors and stock images.
+
+- [Ouch](https://icons8.com/ouch/): Illustrations by Icons8 Community.
+
+- [Open Doddles](https://www.opendoodles.com/): A library of sketchy illustrations of people free for personal and commercial use.
+
+- [Humaaans](https://www.humaaans.com/): Mix-&-match illustrations of people with a design library.
