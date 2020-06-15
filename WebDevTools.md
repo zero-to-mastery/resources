@@ -157,3 +157,5 @@ Things to look for if your editor has implementations for them. They will make y
 - [FrontEnd Tools](http://frontendtools.com/): A curated repository of Tools for FrontEnd developers.
 
 - [ExtendsClass](https://extendsclass.com/): An online toolbox for developers: Playgrounds (XPath, Regex, JavaScript and SQL), HTTP clients (SOAP, REST), formatters, converters and encoders.
+
+- [Pageclip](https://pageclip.co/): A server for your static websites and HTML forms.
