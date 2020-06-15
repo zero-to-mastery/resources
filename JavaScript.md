@@ -44,6 +44,8 @@
 
 - [JS Tips - A JavaScript tip per day!](https://www.jstips.co/): JS Tips is a collection of useful daily JavaScript tips that will allow you to improve your code writing.
 
+- [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/10788532?start=0#overview) A comprehensive video course from beginner to mastery with real world projects.
+
 ## Advanced Javascript Articles
 
 - [Exploring Async/Await Functions in JavaScript](https://alligator.io/js/async-functions): Async/await functions, a new addition with ES2017 (ES8), help us even more in allowing us to write completely synchronous-looking code while performing asynchronous tasks behind the scenes.
