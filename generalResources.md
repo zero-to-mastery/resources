@@ -1,12 +1,14 @@
 **[Back](/README.md/)**
 # General Resources for Learning Web Development
 
-- [MDN Web Docs](https://developer.mozilla.org/en-US/): A resource for developers, maintained by the community of developers and technical writers and hosting many documents on a wide variety of subjects, such as: HTML, CSS, HTTP, JavaScript, Web APIs, Web components, Graphics, Audio, video and multimedia, MathML.
+* [**Blackbird School**](https://blackbird.school): A web-based platform where you can learn to code from scratch.
 
-- [W3Schools](https://www.w3schools.com): A great resource for web developers with tutorials( with good examples ) and references on web development. This resource covers
+- [**MDN Web Docs**](https://developer.mozilla.org/en-US/): A resource for developers, maintained by the community of developers and technical writers and hosting many documents on a wide variety of subjects, such as: HTML, CSS, HTTP, JavaScript, Web APIs, Web components, Graphics, Audio, video and multimedia, MathML.
+
+- [**W3Schools**](https://www.w3schools.com): A great resource for web developers with tutorials( with good examples ) and references on web development. This resource covers
 subjects such as: HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, W3.CSS, and Bootstrap, covering most aspects of web programming.
 
-- [StackOverflow](https://stackoverflow.com/): A massive resource of questions and answers having to do with coding. If you have a question regarding web development or coding in general, chances are it has already been answered on StackOverflow.
+- [**StackOverflow**](https://stackoverflow.com/): A massive resource of questions and answers having to do with coding. If you have a question regarding web development or coding in general, chances are it has already been answered on StackOverflow.
 
 * [**Code School**](https://www.codeschool.com/): A number of web development tutorials, some available for free. A great place to learn coding.
 
