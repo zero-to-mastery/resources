@@ -28,4 +28,4 @@ subjects such as: HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, W3.CSS,
 
 * [**Codrops**](https://tympanus.net/codrops/): A website to find cutting edge modern web development templates, useful tutorials and snippets for your next web project
 
-- [StackExchange](https://stackexchange.com/): StackOverflow's less specialized (and oft-overlooked) cousin. Depending on what you're looking for, you can often find help on one of the more specialized StackExchange forums, including the exisitng forums for Aruduino, superusers, and programming challenges (known as "code golf"). 
+- [**StackExchange**](https://stackexchange.com/): StackOverflow's less specialized (and oft-overlooked) cousin. Depending on what you're looking for, you can often find help on one of the more specialized StackExchange forums, including the exisitng forums for Aruduino, superusers, and programming challenges (known as "code golf"). 
