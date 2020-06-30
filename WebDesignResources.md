@@ -123,3 +123,5 @@
 - [Open Doddles](https://www.opendoodles.com/): A library of sketchy illustrations of people free for personal and commercial use.
 
 - [Humaaans](https://www.humaaans.com/): Mix-&-match illustrations of people with a design library.
+
+- [UX Design] (https://uxdesign.cc/): A really nice blog that provides curated stories on UX, Visual & Product Design.
