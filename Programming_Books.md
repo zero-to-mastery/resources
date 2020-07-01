@@ -45,6 +45,12 @@
 
 - [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/): A (Free!) book that compiles programming knowledge and principles from the Original Creators of Unix and other prominent people that have worked on Unix, Linux, C, and more. If you want many, many years of programming wisdom concentrated into one book, this is a good one to pick.
 
+* Here is an article with a bunch of [free eBooks for Web Designers & Web Developers](https://medium.com/web-development-zone/top-free-ebooks-for-web-designers-web-developers-f8c6a70465ad).
+
+- Here is an article with [10 Free Programming Books](https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018).
+
+- Several programming books by Al Sweigart can be read online for free. Most are for python. [Invent with Python](https://inventwithpython.com/)
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
