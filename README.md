@@ -12,8 +12,6 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**CSS Resources**](CSSResources.md): A list of resources for learning CSS.
 
-- [**Free Programming Books**](Free_Programming_Books.md): Find free programming ebooks here (please post only legal content!)
-
 - [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
 
 - [**Git and Github**](Using_Git_and_GitHub.md): Resources page on using Git and GitHub.
@@ -28,7 +26,7 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
 
-- [**Raspberyy Pi**](RaspberryPi.md): Resources for the Raspberry Pi.
+- [**Raspberry Pi**](RaspberryPi.md): Resources for the Raspberry Pi.
 
 - [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
 
