@@ -1,6 +1,6 @@
 **[Back](/README.md/)**
 
-# WEB DEVELOPMENT TOOLS
+# Web Development Tools
 
 ## Free Tools For Students
 
