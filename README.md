@@ -4,17 +4,15 @@ A list of student-collated resources deemed to be useful for every developer and
 
 ## Table of Contents
 
-- [**Free Programming Books**](Free_Programming_Books.md): Find free programming ebooks here (please post only legal content!)
+- [**Algorithms & Data Structures**](AlgorithmsDataStructures.md): Resources for tackling algorithms.
 
 - [**Articles**](DevelopmentArticles.md): General articles page on web development.
-
-- [**Mobile App Development**](MobileAppDevelopment.md): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system
-
-- [**Algorithms & Data Structures**](AlgorithmsDataStructures.md): Resources for tackling algorithms.
 
 - [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
 
 - [**CSS Resources**](CSSResources.md): A list of resources for learning CSS.
+
+- [**Free Programming Books**](Free_Programming_Books.md): Find free programming ebooks here (please post only legal content!)
 
 - [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
 
@@ -26,6 +24,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**MOOCs (Massive Open Online Courses)**](moocs.md): Showcasing effective online courses that covers areas such as Full-Stack development, Front-End development, Computer Science, or even a little of everything!
 
+- [**Mobile App Development**](MobileAppDevelopment.md): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system
+
 - [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
 
 - [**Raspberyy Pi**](RaspberryPi.md): Resources for the Raspberry Pi.
@@ -34,13 +34,14 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Python Resources**](Python.md): A list of resources for learning Python.
 
+- [**Unix**](Unix.md): Resources for Unix systems (Linux, MacOS, etc.).
+
 - [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
 
 - [**Web Development Tools**](WebDevTools.md): A page listing a number of free web development tools.
 
 - [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 
-- [**Unix**](Unix.md): Resources for Unix systems (Linux, MacOS, etc.).
 
 ## Contributing
 
