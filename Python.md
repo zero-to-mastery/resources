@@ -41,4 +41,4 @@
 
 
 
-- [Coding in Python] (https://www.amazon.com/Creative-Coding-Python-Programming-Projects/dp/1631595814) Creative Coding in Python presents over 30 creative projects that teach how to code in the easy and intuitive programming language, Python.
+- [Coding in Python](https://www.amazon.com/Creative-Coding-Python-Programming-Projects/dp/1631595814) Creative Coding in Python presents over 30 creative projects that teach how to code in the easy and intuitive programming language, Python.
