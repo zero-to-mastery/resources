@@ -41,4 +41,8 @@
 
 
 
+- [Programiz](https://www.programiz.com/) Learn to code with these beginner-friendly tutorials and examples. Read tutorials, try examples, write programs, and learn to code.
+
+
 - [Coding in Python](https://www.amazon.com/Creative-Coding-Python-Programming-Projects/dp/1631595814) Creative Coding in Python presents over 30 creative projects that teach how to code in the easy and intuitive programming language, Python.
+
