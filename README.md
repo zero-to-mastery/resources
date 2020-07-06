@@ -6,6 +6,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Algorithms & Data Structures**](AlgorithmsDataStructures.md): Resources for tackling algorithms.
 
+- [**Angular Resources**](Angular.md): A list of resources for learning Angular.
+
 - [**Articles**](DevelopmentArticles.md): General articles page on web development.
 
 - [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
