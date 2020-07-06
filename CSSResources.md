@@ -35,3 +35,5 @@
 - [CSS Code Generator](https://html-css-js.com/css/generator/): See and adjust colour gradient/border,shadow... visualy and get the code as outcome!
 
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/): Interactive CSS cheat sheet - selectors, font generator, button generator, reseting codes, shadows...
+
+- [CSS Counters](https://www.freecodecamp.org/news/numbering-with-css-counters/): CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using `counter-reset`), and these variables can then be incremented by CSS rules.
