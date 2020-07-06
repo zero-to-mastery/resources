@@ -147,3 +147,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@JoconDC](https://github.com/JoconDC)
 - [@TheGalekxy](https://github.com/TheGalekxy)
 - [@morrme](https://github.com/morrme)
+- [@Adeola-Adesoba](https://github.com/Adeola-Adesoba)
