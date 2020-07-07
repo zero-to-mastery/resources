@@ -145,6 +145,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@smith-mw](https://github.com/smith-mw)
 - [@rohithv07](https://github.com/Rohithv07)
 - [@JoconDC](https://github.com/JoconDC)
+- [@sabarish98](https://github.com/sabarish98)
 - [@TheGalekxy](https://github.com/TheGalekxy)
 - [@morrme](https://github.com/morrme)
 - [@Adeola-Adesoba](https://github.com/Adeola-Adesoba)
