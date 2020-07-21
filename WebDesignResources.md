@@ -124,4 +124,4 @@
 
 - [Humaaans](https://www.humaaans.com/): Mix-&-match illustrations of people with a design library.
 
-- [UX Design] (https://uxdesign.cc/): A really nice blog that provides curated stories on UX, Visual & Product Design.
+- [UX Design](https://uxdesign.cc/): A really nice blog that provides curated stories on UX, Visual & Product Design.
