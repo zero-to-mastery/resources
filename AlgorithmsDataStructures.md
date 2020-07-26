@@ -4,7 +4,7 @@
 
 ## Videos
 
-- [Abdul Bari: YouTubeChannel for Algorithms](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw)
+- [Abdul Bari: YouTubeChannel for Algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s)
 
 ## GitBook
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
