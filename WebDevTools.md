@@ -162,3 +162,5 @@ Things to look for if your editor has implementations for them. They will make y
 - [Pageclip](https://pageclip.co/): A server for your static websites and HTML forms.
 
 - [RegExr](https://regexr.com/): An online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+
+- [React Spinners](https://github.com/davidhu2000/react-spinners): Really cool collection of loading spinners with React.js 
