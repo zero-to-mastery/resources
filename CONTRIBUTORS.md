@@ -154,3 +154,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@girishsontakke](https://github.com/girishsontakke)
 - [@calerbucci](https://github.com/calerbucci)
 - [@harshcut](https://github.com/harshcut)
+- [@l-white](https://github.com/l-white)
