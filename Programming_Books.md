@@ -51,6 +51,8 @@
 
 - Several programming books by Al Sweigart can be read online for free. Most are for python. [Invent with Python](https://inventwithpython.com/)
 
+- [Database of Free Tech Books](https://www.freetechbooks.com/): Collection of books that are free to download digitally. Includes textbooks, notes and research papers.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
