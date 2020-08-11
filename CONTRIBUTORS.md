@@ -155,3 +155,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@calerbucci](https://github.com/calerbucci)
 - [@harshcut](https://github.com/harshcut)
 - [@l-white](https://github.com/l-white)
+- [@valdaarhun](https://github.com/valdaarhun)
