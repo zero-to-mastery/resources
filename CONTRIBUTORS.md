@@ -133,6 +133,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@rodsnts](https://github.com/rodsnts)
 - [@ShimShon1](https://github.com/ShimShon1)
 - [@rhutomo](http://github.com/rhutomo)
+- [@valdaarhun](https://github.com/valdaarhun)
 - [@MMAcode](https://github.com/MMAcode)
 - [@spctr01](http://github.com/spctr01)
 - [@dylan-ztm](http://github.com/dylan-ztm)
