@@ -71,3 +71,5 @@
 - [JavaScript Grammar](http://www.javascriptgrammar.com/?v=bio): JavaScript Grammar is a free e-book created by [JavaScript Teacher](https://twitter.com/js_tut?lang=en). It takes a deep dive into JavaScript fundamentals, discussing concepts like Primitive Types in JavaScript, Type Coercion, Scope, Closures Higher-order Function, Loops, Object Oriented Programming in JavaScript and lots more! Follow the instructions in the link above to get your copy.
 
 - [Learn React with Tic Ta Toe](https://reactjs.org/tutorial/tutorial.html): This is a very powerful and useful tutorial to get started with ReactJs. You will be emplementing a tic tac toe game in less than 1 hour. Enyoy your learning!
+
+- [JavaScript 101](https://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0): This is more kind of JavaScript Docs with simple definition with examples for variables, types, arrays, operators, type conversions, statements, variable scope, etc.,
