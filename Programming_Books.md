@@ -51,6 +51,8 @@
 
 - Several programming books by Al Sweigart can be read online for free. Most are for python. [Invent with Python](https://inventwithpython.com/)
 
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-1.html): SICP is unique in its ability—at least potentially—to alter your fundamental beliefs about computers and programming. Not everybody will experience this. Some will hate the book, others won't get past the first few pages. But the potential reward makes it worth trying.
+
 - [Database of Free Tech Books](https://www.freetechbooks.com/): Collection of books that are free to download digitally. Includes textbooks, notes and research papers.
 
 ## React
