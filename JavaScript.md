@@ -20,6 +20,8 @@
 
 - [JavaScript For Cats](http://jsforcats.com/): An introduction for new programmers.
 
+- [JavaScript Fundamentals on Codecademy](https://www.codecademy.com/learn/introduction-to-javascript): You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment.
+
 - [JavaScript Fundamentals for Absolute Beginners](https://www.youtube.com/watch?v=ei2HLyHwt-k): A 7 hour long video with detailed explanations to give a strong foundation in JavaScript fundamentals. Taught by Bob Tabor, one of the most effective web development teachers.
 
 - [JavaScript Jabber](https://devchat.tv/js-jabber/): A weekly podcast discussing the superb language JavaScript.
