@@ -12,6 +12,8 @@
 
 - [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
 
+- [CSS-Codecademy](https://www.codecademy.com/learn/learn-css): You will learn many aspects of styling web pages! You’ll be able to set up the correct file structure, edit text and colors, and create attractive layouts. With these skills, you’ll be able to customize the appearance of your web pages to suit your every need!
+
 ## CSS Games
 
 - [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
