@@ -75,3 +75,5 @@
 - [Learn React with Tic Ta Toe](https://reactjs.org/tutorial/tutorial.html): This is a very powerful and useful tutorial to get started with ReactJs. You will be emplementing a tic tac toe game in less than 1 hour. Enyoy your learning!
 
 - [JavaScript 101](https://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0): This is more kind of JavaScript Docs with simple definition with examples for variables, types, arrays, operators, type conversions, statements, variable scope, etc.,
+
+- [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/): This tutorial covers all basic features of JavaScript programming, including ways to make your website more interactive, create change website content, validate forms, create cookies, and so much more.
