@@ -160,4 +160,6 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@GideonBabu](https://github.com/GideonBabu)
 - [@abu-hasib](https://github.com/abu-hasib)
 - [@AnkitaMandal](https://github.com/GoGi2712)
+- [@vipul1298](https://github.com/vipul1298)
+
 
