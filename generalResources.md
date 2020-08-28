@@ -28,3 +28,5 @@ subjects such as: HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, W3.CSS,
 - [StackExchange](https://stackexchange.com/): StackOverflow's less specialized (and oft-overlooked) cousin. Depending on what you're looking for, you can often find help on one of the more specialized StackExchange forums, including the exisitng forums for Aruduino, superusers, and programming challenges (known as "code golf"). 
 
 * [**Educative.io**](https://www.educative.io/learn): A website to find online course at a very cheap price with an interactive way of teaching, reading and practice what you've learned.
+
+* [**Linkedin Learning**](https://www.linkedin.com/learning/me?trk=nav_neptune_learning): Linkedin supplies courses through Linkedin learning that instruct a potpourri of topics which include HTML, CSS, JS etc. Requires Linkedin account.
