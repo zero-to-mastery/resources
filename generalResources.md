@@ -13,8 +13,6 @@ subjects such as: HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, W3.CSS,
 
 * [**freeCodeCamp.org**](https://www.freecodecamp.org): A free site for learning web development. Optionally, you can pledge to donate money to charities while you learn, giving incentive to keep working. In particular, this site features a number of JavaScript algorithms for practice and preparation for technical job interviews.
 
-* [**StackOverflow**](https://stackoverflow.com/): A massive resource of questions and answers having to do with coding. If you have a question regarding web development or coding in general, chances are it has already been answered on StackOverflow.
-
 * [**Udacity**](https://www.udacity.com/): A website for learning different concepts of computer science.
 
 * [**CSS-Tricks**](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
