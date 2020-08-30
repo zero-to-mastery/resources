@@ -6,6 +6,10 @@
 
 - [Abdul Bari: YouTubeChannel for Algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s)
 
+- [Data Structures and algorithms](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
+
+
+
 ## GitBook
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
 
