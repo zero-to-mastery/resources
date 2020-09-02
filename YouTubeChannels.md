@@ -136,6 +136,8 @@
 
 - [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge): This channel covers a huge breadth of languages and frameworks in the context of Full-Stack development, like Git and Github, Bootstrap, Python, JavaScript, Node, Redis, Java, C#, MongoDB, MySQL, Android, ASP.NET, and many more!
 
+- [Web Dev Simplified](https://www.youtube.com/user/https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Kyle Cook's channel is full of videos about the most useful tools in modern web development, from HTML and CSS to database structure and even AI development for web pages; but it focuses heavily on Javascript and all the tools related with it: NodeJS, React, Express, MongoDB, the recent Deno and many more.
+
 ### Front-End/Design
 
 - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials.
