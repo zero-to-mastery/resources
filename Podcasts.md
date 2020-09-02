@@ -32,6 +32,9 @@
 - [Learn To Code With Me](https://learntocodewith.me/podcast/)
 - [Shop Talk Show](https://shoptalkshow.com/): A podcast about building websites starring Dave Rupert and Chris Coyier. Development, design, performance, accessibility, tooling, a little bit of everything!
 - [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/): Daily interviews about technical software topics.
+- [Tech JR](https://techjr.dev/): A podcast hosted by two bootcamp grads to help early career developers navigate the tech industry. Topics include programming languages, technologies and frameworks, job search strategies and soft skills.
+- [FreeCodeCamp Podcast](https://freecodecamp.libsyn.com/): An interview based podcast talking about different software developers journeys into the tech industry.
+- [Self-Taught or Not](https://www.selftaughtornot.com/): A podcast covering the do's and don'ts of software development, hosted by two software developers; one self-taught, and one not. Topics include advice for developers, technologies, interviews, and more.
 
 ## Design
 

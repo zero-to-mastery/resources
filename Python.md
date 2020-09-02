@@ -40,4 +40,3 @@
 - [Real Python](https://realpython.com/python-keras-text-classification) Reading the mood from text with machine learning is called sentiment analysis, and it is one of the prominent use cases in text classification and here we will find how to do it.
 
 
--[GitHub](https://github.com/ytdl-org/youtube-dl#embedding-youtube-dl) Youtube-dl: Python package to download YouTube videos (also a command line tool). .

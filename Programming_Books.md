@@ -1,4 +1,5 @@
 **[Back](/README.md/)**
+
 # Programming Books
 
 - A list of free access books provided by [ParrotOS linux distro](https://archive.parrotsec.org/parrot/misc/openbooks/programming/).
@@ -43,6 +44,18 @@
 - [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition): Supplementing textbook for MIT's 6.0001 Introduction to Computer Science course which is open source. This is book teaches Python programming alongside fundamental computer science theories
 
 - [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/): A (Free!) book that compiles programming knowledge and principles from the Original Creators of Unix and other prominent people that have worked on Unix, Linux, C, and more. If you want many, many years of programming wisdom concentrated into one book, this is a good one to pick.
+
+* Here is an article with a bunch of [free eBooks for Web Designers & Web Developers](https://medium.com/web-development-zone/top-free-ebooks-for-web-designers-web-developers-f8c6a70465ad).
+
+- Here is an article with [10 Free Programming Books](https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018).
+
+- Several programming books by Al Sweigart can be read online for free. Most are for python. [Invent with Python](https://inventwithpython.com/)
+
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-1.html): SICP is unique in its ability—at least potentially—to alter your fundamental beliefs about computers and programming. Not everybody will experience this. Some will hate the book, others won't get past the first few pages. But the potential reward makes it worth trying.
+
+- [Database of Free Tech Books](https://www.freetechbooks.com/): Collection of books that are free to download digitally. Includes textbooks, notes and research papers.
+
+- [Domain-Specific Languages Made Easy](https://www.manning.com/books/domain-specific-languages-made-easy): An early-accses book that shows you how to design and build modern DSLs for business users.
 
 ## React
 

@@ -61,3 +61,7 @@
 - [CoderByte](https://www.coderbyte.com/): A site for coding challenges and interview prep (including examples of real-world coding challenges/interview questions from various tech companies, including Google, Facebook, and the like).
 
 - [LeetCode](https://leetcode.com/): LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews.
+
+- [Hackerearth](https://www.hackerearth.com/for-developers): Explore different programming tracks, solve thousands of coding problems, and crack your coding interview.Participate in coding contests ranging from beginner level to week-long coding marathons.Solve real-world problems and business challenges. Win exciting rewards.
+
+- [CodeChef](https://www.codechef.com/): CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests.
