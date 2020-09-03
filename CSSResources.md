@@ -12,6 +12,8 @@
 
 - [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
 
+- [CSS-Codecademy](https://www.codecademy.com/learn/learn-css): You will learn many aspects of styling web pages! You’ll be able to set up the correct file structure, edit text and colors, and create attractive layouts. With these skills, you’ll be able to customize the appearance of your web pages to suit your every need!
+
 ## CSS Games
 
 - [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
@@ -22,7 +24,7 @@
 
 - [Grid Garden](https://cssgridgarden.com/): A fun in-browser game to help teach the powerful, complex CSS grid layout method.
 
-- [Flexbox Zombies](https://mastery.games/p/flexbox-zombies): A fun comprehensive in-browser game to help you learn CSS flexbox while fighting zombies.
+- [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies/): A fun comprehensive in-browser game to help you learn CSS flexbox while fighting zombies.
 
 ## CSS Tools
 
@@ -35,5 +37,8 @@
 - [CSS Code Generator](https://html-css-js.com/css/generator/): See and adjust colour gradient/border,shadow... visualy and get the code as outcome!
 
 - [CSS Cheat Sheet](https://htmlcheatsheet.com/css/): Interactive CSS cheat sheet - selectors, font generator, button generator, reseting codes, shadows...
+- [CSS Matic](https://www.cssmatic.com/): CSS Matic is a tool that generates gradients, box-shadows, border-radius, noise texture without writing CSS codes.
 
-- [CSS Counters](https://www.freecodecamp.org/news/numbering-with-css-counters/): CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using `counter-reset`), and these variables can then be incremented by CSS rules.
+- [Shape Divider](https://www.shapedivider.app/): Shape Divider lets you generate custom shapes to use on your web pages.
+
+- [CSS Counters](https://www.freecodecamp.org/news/numbering-with-css-counters/): CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using `counter-reset`), and these variables can then be incremented by CSS rule

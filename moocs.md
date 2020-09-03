@@ -1,4 +1,5 @@
 **[Back](/README.md/)**
+
 # MOOC's (Massive Open Online Courses)
 
 ## A Little of Everything
@@ -14,8 +15,6 @@
 - [freeCodeCamp.org](https://www.freecodecamp.org): A free site for learning web development. Optionally, you can pledge to donate money to charities while you learn, giving an incentive to keep working. In particular, this site features a number of [JavaScript algorithms](https://learn.freecodecamp.org/coding-interview-prep/algorithms), [data structures](https://learn.freecodecamp.org/coding-interview-prep/data-structures), [take home projects](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects), and [Rosetta Code problems](https://learn.freecodecamp.org/coding-interview-prep/rosetta-code/) as well as a massive list of [Project Euler problems](https://learn.freecodecamp.org/coding-interview-prep/project-euler), all for practice and preparation for technical job interviews.
 
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming): An online resource for a variety of topics at a multitude of skill levels (from elementary school to postgraduate) that extend beyond computer science. However, their programming courses - which include interactive sandboxes in which learners can tinker with example code - focus on HTML and JavaScript and teach the fundamentals of animation and web design.
-
-- [Microsoft Virtual Academy](https://mva.microsoft.com/): A website with many video courses created by Microsoft. These courses teach a variety of languages, including JavaScript and variants of C.
 
 - [Pluralsight](https://www.pluralsight.com): Pluralsight is the leader in training for serious software developers, IT admins, and creative professionals. With 3,000+ courses and new ones added daily, Pluralsight serves as a career catalyst for customers in more than 150 countries and provides tech-savvy businesses with training on the three key areas they need to thrive.
 
@@ -55,7 +54,6 @@
 
 - [INTRO TO WEB DEV V2](https://btholt.github.io/intro-to-web-dev-v2/): Welcome to an intro to web development. I'm really excited to teach you a bit about how to become a web developer. In this course we assume you know absolutely nothing about writing code. We do assume that you have a basic grasp of how to operate your computer: how to browse the Internet, how to operate your operating system, how to use a keyboard and mouse, etc.
 
-
 ### Front-End
 
 - [CSS Reference](https://cssreference.io/): An online guide to CSS that features complete descriptions, examples of usage, and illustrated/animated examples of the most popular CSS properties.
@@ -67,3 +65,4 @@
 - [General Assembly Dash](https://dash.generalassemb.ly/): A set of projects which teach some HTML, CSS, and JavaScript.
 
 - [HTML Reference](https://htmlreference.io/): An online guide to HTML that features complete descriptions, and examples of usage for all HTML elements and attributes.
+- [Developer Roadmaps](https://roadmap.sh/roadmaps): This is one of the biggest mistake that many of us in the community is making by not fixing a goal. Here is the link I supposed that will help you down the road to achieve your goal of being a developer. 

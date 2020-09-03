@@ -39,4 +39,16 @@
 
 - [Real Python](https://realpython.com/python-keras-text-classification) Reading the mood from text with machine learning is called sentiment analysis, and it is one of the prominent use cases in text classification and here we will find how to do it.
 
-- [Python Tutorials](https://morioh.com/p/032f01561163) Build A Smart AI Chat Bot Using Python & Machine Learning.
+- [Programiz](https://www.programiz.com/) Learn to code with these beginner-friendly tutorials and examples. Read tutorials, try examples, write programs, and learn to code.
+
+
+- [Coding in Python](https://www.amazon.com/Creative-Coding-Python-Programming-Projects/dp/1631595814) Creative Coding in Python presents over 30 creative projects that teach how to code in the easy and intuitive programming language, Python.
+
+
+- [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) This free Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own!
+
+
+- [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) Data visualization is the graphical representation o
+
+- [Python Tutorials](https://morioh.com/p/032f01561163) Build A Smart AI Chat Bot Using Python & Machine learning   with Python course, you'll learn how to create interesting graphics and charts and customize them to make them more effective and more pleasing to your audience.
+
