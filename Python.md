@@ -38,3 +38,5 @@
 
 
 - [Real Python](https://realpython.com/python-keras-text-classification) Reading the mood from text with machine learning is called sentiment analysis, and it is one of the prominent use cases in text classification and here we will find how to do it.
+
+- [Python Tutorials](https://morioh.com/p/032f01561163) Build A Smart AI Chat Bot Using Python & Machine Learning.
