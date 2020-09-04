@@ -1,3 +1,6 @@
+os: linux
+arch: arm64
+dist: bionic
 language: ruby
 rvm:
   - 2.6.3
@@ -20,8 +23,6 @@ addons:
   apt:
     packages:
     - libcurl4-openssl-dev
-
-sudo: false
 
 cache: bundler
 

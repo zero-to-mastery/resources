@@ -20,6 +20,8 @@
 
 - [JavaScript For Cats](http://jsforcats.com/): An introduction for new programmers.
 
+- [JavaScript Fundamentals on Codecademy](https://www.codecademy.com/learn/introduction-to-javascript): You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment.
+
 - [JavaScript Fundamentals for Absolute Beginners](https://www.youtube.com/watch?v=ei2HLyHwt-k): A 7 hour long video with detailed explanations to give a strong foundation in JavaScript fundamentals. Taught by Bob Tabor, one of the most effective web development teachers.
 
 - [JavaScript Jabber](https://devchat.tv/js-jabber/): A weekly podcast discussing the superb language JavaScript.
@@ -44,6 +46,8 @@
 
 - [JS Tips - A JavaScript tip per day!](https://www.jstips.co/): JS Tips is a collection of useful daily JavaScript tips that will allow you to improve your code writing.
 
+- [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/10788532?start=0#overview) A comprehensive video course from beginner to mastery with real world projects.
+
 ## Advanced Javascript Articles
 
 - [Exploring Async/Await Functions in JavaScript](https://alligator.io/js/async-functions): Async/await functions, a new addition with ES2017 (ES8), help us even more in allowing us to write completely synchronous-looking code while performing asynchronous tasks behind the scenes.
@@ -67,3 +71,9 @@
 - [Gatsby.js](https://www.gatsbyjs.org/): Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
 
 - [JavaScript Grammar](http://www.javascriptgrammar.com/?v=bio): JavaScript Grammar is a free e-book created by [JavaScript Teacher](https://twitter.com/js_tut?lang=en). It takes a deep dive into JavaScript fundamentals, discussing concepts like Primitive Types in JavaScript, Type Coercion, Scope, Closures Higher-order Function, Loops, Object Oriented Programming in JavaScript and lots more! Follow the instructions in the link above to get your copy.
+
+- [Learn React with Tic Ta Toe](https://reactjs.org/tutorial/tutorial.html): This is a very powerful and useful tutorial to get started with ReactJs. You will be emplementing a tic tac toe game in less than 1 hour. Enyoy your learning!
+
+- [JavaScript 101](https://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0): This is more kind of JavaScript Docs with simple definition with examples for variables, types, arrays, operators, type conversions, statements, variable scope, etc.,
+
+- [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/): This tutorial covers all basic features of JavaScript programming, including ways to make your website more interactive, create change website content, validate forms, create cookies, and so much more.
