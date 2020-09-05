@@ -65,3 +65,5 @@
 - [Hackerearth](https://www.hackerearth.com/for-developers): Explore different programming tracks, solve thousands of coding problems, and crack your coding interview.Participate in coding contests ranging from beginner level to week-long coding marathons.Solve real-world problems and business challenges. Win exciting rewards.
 
 - [CodeChef](https://www.codechef.com/): CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests.
+
+- [Medium Article](https://medium.com/swlh/interview-preparation-that-helped-me-get-multiple-offers-during-the-lockdown-54675bae8bed): Medium article about interview experience.
