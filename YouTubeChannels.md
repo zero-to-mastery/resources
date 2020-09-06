@@ -22,6 +22,13 @@
 
 * [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube): An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog.
 
+* [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn.
+At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com.
+
+* [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): All type of fun content and also he left Google.
+
+* [Tech With Tim](https://www.youtube.com/c/TechWithTim/featured): Python Programming, Game Development, Pygame, Java Tutorials and Machine Learning. This is a list of a few of the things I love to post on my channel. My goal is share my knowledge of programming with you and allow everyone access to education for FREE.
+
 * [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg): Joe Parys's channel features free content from his own website and Udemy, including, but not limited to, tutorials for various programming languages, cryptocurrency, growing an online business, videography, and Final Cut Pro X (A macOSe-exclusive video-editing software).
 
 * [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts): Scott Tolinski – producer and maintainer of the channel, friends with the people behind [LearnCode.academy](https://www.youtube.com/user/learncodeacademy), [Josh Owens' Space Dojo](https://www.youtube.com/channel/UCjRSH4MO9CR40bJQxfZMFWQ), [DevTips](https://www.youtube.com/user/DevTipsForDesigners), and [Wes Bos](https://www.youtube.com/user/wesbos) - aims to offer current, accessible, in-depth, high-quality content on all things web development and design with over 840+ video tutorials and counting.
@@ -45,6 +52,8 @@
 * [Ben Awad](https://www.youtube.com/benawad97): Ben is a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.
 
 * [Scaler Academy](https://www.youtube.com/ScalerAcademy): Accelerate Your Tech Career. Learn computer programming concepts, Data Sturcutres & Algorithms from Ex-Google, Ex-Facebook instructors. Also, watch tech talks from tech leaders, live coding sessions & more.
+
+* [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw): CJ does live streams about full stack web development showcasing a wide variety of frameworks and technologies. In the streams, he shows step by step how to use those tools in creating projects. He also has tutorials about topics related to web development.
 
 ## Computer Science
 
@@ -157,6 +166,9 @@
 ## Data Structures and Algorithms
 
 - [mycodeschool](https://www.youtube.com/user/mycodeschool): MyCodeSchool is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++.
+
+- [Apni Kaksha](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s): Apni kaksha is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++ and all interview related stuffs.
+
 
 ## Machine Learning and Data Science
 
