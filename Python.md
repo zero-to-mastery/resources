@@ -35,11 +35,7 @@
 
 - [Codecademy Learn Python](https://www.codecademy.com/learn/python) This course is a great introduction to both fundamental programming concepts and the Python programming language. By the end, you’ll be comfortable programming in Python and taking your skills off the Codecademy platform and onto your own computer.
 
-
-
 - [Real Python](https://realpython.com/python-keras-text-classification) Reading the mood from text with machine learning is called sentiment analysis, and it is one of the prominent use cases in text classification and here we will find how to do it.
-
-
 
 - [Programiz](https://www.programiz.com/) Learn to code with these beginner-friendly tutorials and examples. Read tutorials, try examples, write programs, and learn to code.
 
@@ -51,4 +47,3 @@
 
 
 - [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) Data visualization is the graphical representation of data in order to interactively and efficiently convey insights to clients, customers, and stakeholders in general. It is a way to summarize your findings and display it in a form that facilitates interpretation and can help in identifying patterns or trends. In this Data Visualization with Python course, you'll learn how to create interesting graphics and charts and customize them to make them more effective and more pleasing to your audience.
-
