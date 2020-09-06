@@ -45,5 +45,8 @@
 
 - [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) This free Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own!
 
+- [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) Data visualization is the graphical representation o
+
+- [Python Tutorials](https://morioh.com/p/032f01561163) Build A Smart AI Chat Bot Using Python & Machine learning   with Python course, you'll learn how to create interesting graphics and charts and customize them to make them more effective and more pleasing to your audience.
 
 - [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) Data visualization is the graphical representation of data in order to interactively and efficiently convey insights to clients, customers, and stakeholders in general. It is a way to summarize your findings and display it in a form that facilitates interpretation and can help in identifying patterns or trends. In this Data Visualization with Python course, you'll learn how to create interesting graphics and charts and customize them to make them more effective and more pleasing to your audience.
