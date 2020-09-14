@@ -2,6 +2,8 @@
 
 # Cheat Sheets
 
+- [HTTP Status Codes](https://www.abstractapi.com/http-status-codes): An overview of every HTTP Status Code and what they mean.
+
 - [DevHints](https://devhints.io/): A great resource of cheat sheets for a wide range of technologies.
 
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf): A cheat sheet that features the most important and commonly used Git commands for easy reference.
