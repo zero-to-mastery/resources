@@ -165,3 +165,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@ellojess](https://github.com/ellojess)
 - [@olexandrch](https://github.com/olexandrch)
 - [@Rage-ops](https://github.com/Rage-ops)
+- [@RobertoCroesy](https://github.com/RobertoCroesy)
