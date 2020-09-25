@@ -1,4 +1,6 @@
-# WEB DEVELOPMENT TOOLS
+**[Back](/README.md/)**
+
+# Web Development Tools
 
 ## Free Tools For Students
 
@@ -20,6 +22,8 @@ Here is a list of text editors that may be of use to you. All have some sort of 
 
 - [Visual Studio Code](https://code.visualstudio.com/): Open-source from Microsoft. (WIN, MAC, LINUX) Free.
 
+- [Web Storm](https://www.jetbrains.com/webstorm/): A lightweight and intelligent IDE for front-end development and server-side JavaScript.
+
 Many others are available, just search for "text editors" on your search engine of choice.
 
 ---
@@ -28,49 +32,51 @@ Many others are available, just search for "text editors" on your search engine 
 
 Things to look for if your editor has implementations for them. They will make your life a lot easier.
 
-- [Atom File-icons](https://atom.io/packages/file-icons) Assigns file extension icons and colors.
+- [Atom File-icons](https://atom.io/packages/file-icons): Assigns file extension icons and colors.
 
-- [Atom Live Server](https://atom.io/packages/atom-live-server) Launch simple development HTTP server with live reload.
+- [Atom Live Server](https://atom.io/packages/atom-live-server): Launch simple development HTTP server with live reload.
 
-- [Atom Minimap](https://atom.io/packages/minimap) A preview of the full source code.
+- [Atom Minimap](https://atom.io/packages/minimap): A preview of the full source code.
 
-- [Atom Pigments](https://atom.io/packages/pigments) A package to display colors in project files (CSS).
+- [Atom Pigments](https://atom.io/packages/pigments): A package to display colors in project files (CSS).
 
-- [Atom pretty-json](https://atom.io/packages/pretty-json) A Package for automatically formatting JSON documents.
+- [Atom pretty-json](https://atom.io/packages/pretty-json): A Package for automatically formatting JSON documents.
 
-- [Atom tern-js](https://atom.io/packages/atom-ternjs) JavaScript code intelligence for Atom - auto complete suggestion.
+- [Atom tern-js](https://atom.io/packages/atom-ternjs): JavaScript code intelligence for Atom - auto complete suggestion.
 
-- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) Automatically add HTML/XML close tag.
+- [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag): Automatically add HTML/XML close tag.
 
-- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) Automatically rename paired HTML/XML tag.
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag): Automatically rename paired HTML/XML tag.
 
 - [Autoprefixer](https://atom.io/packages/autoprefixer): Shortcut browser-compatibility issues for CSS/SCSS (Plugin or Built-in).
 
-- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) Allows matching brackets to be identified with colors.
+- [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer): Allows matching brackets to be identified with colors.
 
 - [Code Linters](https://github.com/collections/clean-code-linters): Get immediate feedback on code logic or stylistic errors (Plugin or Built-in).
 
-- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) Highlight web colors in your editor.
+- [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight): Highlight web colors in your editor.
 
 - [EMMET](https://emmet.io/): Use shortcuts and shorthand to get work done faster (Plugin or Built-in).
 
-- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) Provides you with JavaScript and React/Redux snippets in ES7 with Babel plugin features.
+- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets): Provides you with JavaScript and React/Redux snippets in ES7 with Babel plugin features.
 
 - [Git](https://git-scm.com/): Source control is necessary (Plugin or Built-in).
 
-- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) This extension colorizes the indentation in front of your text alternating in four different colors on each step.
+- [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow): This extension colorizes the indentation in front of your text alternating in four different colors on each step.
 
-- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) The most epic theme for your editor.
+- [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme): The most epic theme for your editor.
 
-- [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) A cross between Monokai and One Dark theme.
+- [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai): A cross between Monokai and One Dark theme.
 
-- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) Polaroid for your code. This extension helps you create a good-looking screenshot of your code snippets keeping the look and feel of your code editor.
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode): Polaroid for your code. This extension helps you create a good-looking screenshot of your code snippets keeping the look and feel of your code editor.
 
 - [Prettier](https://prettier.io/): Automatic code formatting to standardize style across the codebase (Plugin or Built-in).
 
 - [Settings Sync](https://github.com/shanalikhan/code-settings-sync/wiki/Setup-Guide): A VS Code extension allowing you to synchronize your text editor workflow from settings to snippets, themes, file icons, launch, keybindings, workspaces and extensions. Comes in handy when setting up your developer environment on a new computer (like on a company's work computer).
 
-- [Waka Time](https://marketplace.visualstudio.com/items?itemName=WakaTime.WakaTime) Metrics, insights, and time tracking automatically generated from your programming activity.
+- [Waka Time](https://marketplace.visualstudio.com/items?itemName=WakaTime.WakaTime): Metrics, insights, and time tracking automatically generated from your programming activity.
+
+- [Visual studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.VSIntelliCode): Visual Studio IntelliCode (IntelliCode) is a set of AI-assisted capabilities that improve developer productivity with features like contextual IntelliSense, argument completion, code formatting, and style rule inference
 
 ---
 
@@ -83,6 +89,8 @@ Things to look for if your editor has implementations for them. They will make y
 - [Glot.io](https://glot.io/): An open-source paste-bin with runnable snippets and API.
 
 - [Repl.it](https://repl.it/): An instant IDE to learn, build, collaborate, and host all in one place.
+
+- [Codesandbox.io](https://codesandbox.io/): An online code editor and prototyping tool that makes creating and sharing web apps faster.
 
 ---
 
@@ -128,6 +136,9 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/): A CSS gradient generator, that allows multiple colorstops and different kinds of gradients.
 
+- [Easings.net](https://easings.net/): This page helps you choose the right easing function for your CSS animations.
+
+- [Responsively App](https://responsively.app/): This app helps you to get preview all target screens in a single window side-by-side.
 ---
 
 ## Web Publishing
@@ -145,3 +156,11 @@ Things to look for if your editor has implementations for them. They will make y
 - [**SweetAlert2**](https://sweetalert2.github.io/?utm_content=buffer5396d&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer): Some really nice looking alerts that you can use.
 
 - [FrontEnd Tools](http://frontendtools.com/): A curated repository of Tools for FrontEnd developers.
+
+- [ExtendsClass](https://extendsclass.com/): An online toolbox for developers: Playgrounds (XPath, Regex, JavaScript and SQL), HTTP clients (SOAP, REST), formatters, converters and encoders.
+
+- [Pageclip](https://pageclip.co/): A server for your static websites and HTML forms.
+
+- [RegExr](https://regexr.com/): An online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+
+- [React Spinners](https://github.com/davidhu2000/react-spinners): Really cool collection of loading spinners with React.js 

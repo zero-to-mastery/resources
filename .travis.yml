@@ -1,3 +1,6 @@
+os: linux
+arch: arm64
+dist: bionic
 language: ruby
 rvm:
   - 2.6.3
@@ -8,13 +11,9 @@ before_script:
 
 script: ./script/cibuild
 
-deploy:
-  provider: pages
-  skip_cleanup: true
-  github_token: $github_token
-  local_dir: build
-  on:
-    branch: master
+branches:
+  only:
+  - master
 
 env:
   global:
@@ -26,3 +25,6 @@ addons:
     - libcurl4-openssl-dev
 
 cache: bundler
+
+notifications:
+  email: false
