@@ -11,3 +11,5 @@
 - [Python For Everybody](https://www.py4e.com/): Free course to learn python for all the basic requirement like datastrucuture, Database, networking, OOPS, etc. 
 
 - [Learn Python](https://www.learnpython.org/): Get started learning Python with DataCamp's free Intro to Python tutorial. Learn Data Science by completing interactive coding challenges and watching videos by expert instructors.
+
+- [Cracking Codes with Python](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language. The book features the source code to several ciphers and hacking programs for these ciphers.
