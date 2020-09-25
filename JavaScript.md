@@ -77,3 +77,5 @@
 - [JavaScript 101](https://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0): This is more kind of JavaScript Docs with simple definition with examples for variables, types, arrays, operators, type conversions, statements, variable scope, etc.,
 
 - [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/): This tutorial covers all basic features of JavaScript programming, including ways to make your website more interactive, create change website content, validate forms, create cookies, and so much more.
+
+- [Head First Javascript](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/): This brain-friendly guide teaches you everything from JavaScript language fundamentals to advanced topics, including objects, functions, and the browser’s document object model by playing games, solving puzzles and interacting with javascript. Using the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, Head First JavaScript Programming uses a visually rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep.
