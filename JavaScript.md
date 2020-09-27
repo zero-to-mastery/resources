@@ -70,7 +70,7 @@
 
 - [Gatsby.js](https://www.gatsbyjs.org/): Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
 
--[Gatsby.js Course Free (4 hrs)](https://www.youtube.com/watch?v=8t0vNu2fCCM): Gatsby is a framework for creating blazing fast websites and web applications. Powered by React and GraphQL, Gatsby gives you everything you need to build and launch your next project. 
+- [Gatsby.js Course Free (4 hrs)](https://www.youtube.com/watch?v=8t0vNu2fCCM): Gatsby is a framework for creating blazing fast websites and web applications. Powered by React and GraphQL, Gatsby gives you everything you need to build and launch your next project. 
 
 - [JavaScript Grammar](http://www.javascriptgrammar.com/?v=bio): JavaScript Grammar is a free e-book created by [JavaScript Teacher](https://twitter.com/js_tut?lang=en). It takes a deep dive into JavaScript fundamentals, discussing concepts like Primitive Types in JavaScript, Type Coercion, Scope, Closures Higher-order Function, Loops, Object Oriented Programming in JavaScript and lots more! Follow the instructions in the link above to get your copy.
 
