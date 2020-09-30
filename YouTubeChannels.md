@@ -186,4 +186,8 @@ The goes of this channel is to get you to become as creative you can be! So if y
 - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
 
+### Pentesting
+
+- [HackerSploit](https://m.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
+
 **[Back To Top](#youtube-channels)**
