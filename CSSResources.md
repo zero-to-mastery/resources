@@ -44,5 +44,9 @@
 
 - [Shape Divider](https://www.shapedivider.app/): Shape Divider lets you generate custom shapes to use on your web pages.
 
+- [CSS Nector](https://cssnectar.com/):CSS Nectar is a css website design showcase for web designers and developers. Every day we select the best of the web design and add it to our gallery.
+
+
+- [SEGA LOGO FONT](https://www.cufonfonts.com/font/sega-logo-font): The logo of Sega is simply its logotype in dark blue with a white line running through the middle of each letter, which is similar to the logo of CNN. A font called Sega is very similar to the lettering of its logotype. The font is available only in capital letters. You can download the font for free here.
 
 
