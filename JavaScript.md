@@ -70,6 +70,8 @@
 
 - [Gatsby.js](https://www.gatsbyjs.org/): Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
 
+- [Gatsby.js Course Free (4 hrs)](https://www.youtube.com/watch?v=8t0vNu2fCCM): Gatsby is a framework for creating blazing fast websites and web applications. Powered by React and GraphQL, Gatsby gives you everything you need to build and launch your next project. 
+
 - [JavaScript Grammar](http://www.javascriptgrammar.com/?v=bio): JavaScript Grammar is a free e-book created by [JavaScript Teacher](https://twitter.com/js_tut?lang=en). It takes a deep dive into JavaScript fundamentals, discussing concepts like Primitive Types in JavaScript, Type Coercion, Scope, Closures Higher-order Function, Loops, Object Oriented Programming in JavaScript and lots more! Follow the instructions in the link above to get your copy.
 
 - [Learn React with Tic Ta Toe](https://reactjs.org/tutorial/tutorial.html): This is a very powerful and useful tutorial to get started with ReactJs. You will be emplementing a tic tac toe game in less than 1 hour. Enyoy your learning!
@@ -77,3 +79,7 @@
 - [JavaScript 101](https://hsablonniere.github.io/markleft/prezas/javascript-101.html#1.0): This is more kind of JavaScript Docs with simple definition with examples for variables, types, arrays, operators, type conversions, statements, variable scope, etc.,
 
 - [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/): This tutorial covers all basic features of JavaScript programming, including ways to make your website more interactive, create change website content, validate forms, create cookies, and so much more.
+
+- [Head First Javascript](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/): This brain-friendly guide teaches you everything from JavaScript language fundamentals to advanced topics, including objects, functions, and the browser’s document object model by playing games, solving puzzles and interacting with javascript. Using the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, Head First JavaScript Programming uses a visually rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep.
+
+- [Javascript API House](https://apihouse.now.sh/): Open source project made by [rutikwankhade](https://github.com/rutikwankhade) that lists several different API's based on what you want. Very useful to give a first approach on how to obtain data in a given category.

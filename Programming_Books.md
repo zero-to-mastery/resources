@@ -55,6 +55,8 @@
 
 - [Database of Free Tech Books](https://www.freetechbooks.com/): Collection of books that are free to download digitally. Includes textbooks, notes and research papers.
 
+- [Domain-Specific Languages Made Easy](https://www.manning.com/books/domain-specific-languages-made-easy): An early-accses book that shows you how to design and build modern DSLs for business users.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
