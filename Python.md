@@ -18,37 +18,4 @@
 
 - [Learn Python](https://www.learnpython.org/): Get started learning Python with DataCamp's free Intro to Python tutorial. Learn Data Science by completing interactive coding challenges and watching videos by expert instructors.
 
-- [Full Stack Python](https://www.fullstackpython.com/web-development.html): A great article which gives you an insight on how to become a full stack python web developer with plethora of resources.
-
-* [Python Crash Course 2nd Edition](https://tinyurl.com/yg5n5t34): An excellent book available in print or Kindle for learning Python with downloadable exercise solutions.
-* [Python Basic](https://pythonbasics.org/): Learn python 3 from the basic, from how you write the code with python. The site including OOP, Web Framework with Flask, Desktop App with Tkinter/PyQT, Machine Learning, and much more.
-
- - [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/index.htm): MIT's course on learning computer science and Programming using python.
-
-- [Google's Python Classes](https://developers.google.com/edu/python/?hl=de-DE&csw=1) Learn Python from GOOGLE classes
-
-- [Fluent Python](https://evanli.github.io/programming-book-3/Python/Fluent%20Python.pdf) A classic book by Luciano Ramalho published by O'REILLY. It is full of useful programming tricks for intermediate to advanced Python coders who want to push the boundaries. 
-
-- [Python Cookbook](https://github.com/tomarraj008/data_books/raw/master/Python%20Cookbook%2C%203rd%20Edition.pdf) This 3rd Edition provides complete recipes for more than a dozen topics, covering the core Python language as well as tasks common to a wide variety of application domains. Each recipe contains code samples you can use in your projects right away, along with a discussion about how and why the solution works 
-
-- [Full Stack Python (video)](http://pyvideo.org/pycon-us-2014/so-you-want-to-be-a-full-stack-developer-how-to.html) This is a talk about building full-stack python web applications where you manage every part of the application yourself. I will walk through how to setup a production server with your web application code, a local development environment using vagrant, and how to deploy from your local environment to production. I will also walk through python and Django libraries that will make your life easier.
-
-- [Codecademy Learn Python](https://www.codecademy.com/learn/python) This course is a great introduction to both fundamental programming concepts and the Python programming language. By the end, you’ll be comfortable programming in Python and taking your skills off the Codecademy platform and onto your own computer.
-
-
-
-- [Real Python](https://realpython.com/python-keras-text-classification) Reading the mood from text with machine learning is called sentiment analysis, and it is one of the prominent use cases in text classification and here we will find how to do it.
-
-
-
-- [Programiz](https://www.programiz.com/) Learn to code with these beginner-friendly tutorials and examples. Read tutorials, try examples, write programs, and learn to code.
-
-
-- [Coding in Python](https://www.amazon.com/Creative-Coding-Python-Programming-Projects/dp/1631595814) Creative Coding in Python presents over 30 creative projects that teach how to code in the easy and intuitive programming language, Python.
-
-
-- [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) This free Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own!
-
-
-- [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) Data visualization is the graphical representation of data in order to interactively and efficiently convey insights to clients, customers, and stakeholders in general. It is a way to summarize your findings and display it in a form that facilitates interpretation and can help in identifying patterns or trends. In this Data Visualization with Python course, you'll learn how to create interesting graphics and charts and customize them to make them more effective and more pleasing to your audience.
-
+- [Cracking Codes with Python](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language. The book features the source code to several ciphers and hacking programs for these ciphers.
