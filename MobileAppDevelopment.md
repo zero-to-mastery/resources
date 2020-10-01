@@ -21,3 +21,10 @@
 - [100 Days of Swift](https://www.hackingwithswift.com/100): A free collection of videos, tutorials, tests, and more, to learn and master Swift
 
 ## Windows
+
+## Cross platform app development
+- [Flutter](https://flutter.dev/): Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase(flutter windows is now in alpha).
+- [Dart](https://dart.dev/): Dart is the programming language used in flutter.
+- [Dart tutorials](https://dart.dev/tutorials): These tutorials teach you how to use the Dart language, tools, and APIs to build applications.
+- [How to do this in flutter](https://howtodothisinflutter.com/): This site provide cheat sheets for flutter and dart.
+- [Free flutter resources](https://github.com/londonappbrewery/Flutter-Course-Resources): Demo apps to get you started.                                     
