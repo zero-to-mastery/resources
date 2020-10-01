@@ -52,6 +52,8 @@
 
 - [Exploring Async/Await Functions in JavaScript](https://alligator.io/js/async-functions): Async/await functions, a new addition with ES2017 (ES8), help us even more in allowing us to write completely synchronous-looking code while performing asynchronous tasks behind the scenes.
 
+- [A simple guide to help you understand closures in JavaScript](https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4): A closure is a function that has access to its outer function scope even after the return of the outer function (For better understanding head inside the blog).
+
 ## Tools, Frameworks, and Libraries
 
 - [JavaScript Array Explorer](https://sdras.github.io/array-explorer/): Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.
