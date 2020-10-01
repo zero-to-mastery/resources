@@ -2,7 +2,7 @@
 
 # Resources to learn Python
 
-- [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-EWsXVwAaMEhFVWjqaqOk8Q&utm_medium=udemyads&utm_source=aff-campaign): A Quick and Easy Intro into Python Programming. 
+- [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/): A Quick and Easy Intro into Python Programming. 
 
 - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/): Free introductory Python programming book available under a Creative Commons license in both PDF and HTML formats. It is also available as an O'Reilly-published paperback, available for purchase on Amazon.
 
