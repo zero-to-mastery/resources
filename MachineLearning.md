@@ -13,5 +13,24 @@
 
 - [Machine Learning With Python](https://pythonizame.s3.amazonaws.com/media/Book/machine-learning-python-essential-techniques-predictive-analysis/file/008c0aac-9784-11e5-964d-04015fb6ba01.pdf): In this e-book, you will learn essential techniques of machine learning in predictive analysis using Python programming language.
 
+PREREQUISITES FOR ML
+1.statistics knowledge
+2.Matrix
+3.probability 
+if you dont know any of these topics i say go and take the course of maths for ml from coursera {https://www.coursera.org/specializations/mathematics-machine-learning}
+
+after you are clear with the prerequisites then i say learn python 
+for learning python you can go through any youtube course
+
+(dont spend more than a week in learning prerequisites and python)
+it is very simple and requires only few hours
+after learning python take a course i would say to take ml 2020 course on udemy first before taking andrew ngs ML course on coursera as you will get the basics cleared first.
+
+After that you will have sufficient knowledge about ML and can start working on your own project
+
+PS. dont forget to make notes in your class as you will be refering it again.
+Thankyou.
+hope this topic helped you.
+
 
 
