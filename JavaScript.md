@@ -52,6 +52,8 @@
 
 - [Exploring Async/Await Functions in JavaScript](https://alligator.io/js/async-functions): Async/await functions, a new addition with ES2017 (ES8), help us even more in allowing us to write completely synchronous-looking code while performing asynchronous tasks behind the scenes.
 
+- [A simple guide to help you understand closures in JavaScript](https://medium.com/@prashantramnyc/javascript-closures-simplified-d0d23fa06ba4): A closure is a function that has access to its outer function scope even after the return of the outer function (For better understanding head inside the blog).
+
 ## Tools, Frameworks, and Libraries
 
 - [JavaScript Array Explorer](https://sdras.github.io/array-explorer/): Find the array method you need for your JavaScript array without digging through the docs. A useful resource that can make using arrays easier.
@@ -81,3 +83,9 @@
 - [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/): This tutorial covers all basic features of JavaScript programming, including ways to make your website more interactive, create change website content, validate forms, create cookies, and so much more.
 
 - [Head First Javascript](https://www.oreilly.com/library/view/head-first-javascript/9781449340124/): This brain-friendly guide teaches you everything from JavaScript language fundamentals to advanced topics, including objects, functions, and the browser’s document object model by playing games, solving puzzles and interacting with javascript. Using the latest research in cognitive science and learning theory to craft a multi-sensory learning experience, Head First JavaScript Programming uses a visually rich format designed for the way your brain works, not a text-heavy approach that puts you to sleep.
+
+- [Javascript API House](https://apihouse.now.sh/): Open source project made by [rutikwankhade](https://github.com/rutikwankhade) that lists several different API's based on what you want. Very useful to give a first approach on how to obtain data in a given category.
+
+- [Prototypes in JS](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b): This article describes about Protypes and its use in JavaScript by Rupesh Mishra
+
+- [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ): Event loop is the secret behind JavaScript’s asynchronous programming. JS executes all operations on a single thread, but using a few smart data structures and gives us the illusion of multi-threading. 
