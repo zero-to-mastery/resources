@@ -40,6 +40,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Web Development Tools**](WebDevTools.md): A page listing a number of free web development tools.
 
+- [**Game Development Resources**](GameDev.md):A page which lists out the resources which helps you go from zero to mastery in game development.
+
 - [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 
 
