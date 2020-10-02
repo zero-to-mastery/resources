@@ -21,3 +21,5 @@
 - [Learn Python](https://www.learnpython.org/): Get started learning Python with DataCamp's free Intro to Python tutorial. Learn Data Science by completing interactive coding challenges and watching videos by expert instructors.
 
 - [Cracking Codes with Python](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language. The book features the source code to several ciphers and hacking programs for these ciphers.
+
+- [Practice with 100 programming Exercises](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended): Learn Python by practicing it daily. This repository has been divided into 25 days, so you can daily practice and learn practically. These exercises will immensely help you, especially if you are a beginner.
