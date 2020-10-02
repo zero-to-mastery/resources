@@ -11,6 +11,8 @@ Game Development is not only about coding but also the story,design,music and gr
 ### Documentations/Community:
 - [Official Unity Website](https://docs.unity3d.com/Manual/index.html): Documentation for C#/JavaScript and Unity.
 - [How Did They Code It](https://www.reddit.com/r/howdidtheycodeit/): A sub-reddit for begginers/intermediate game developers where you can ask by sharing videos/links of specific game events, it will really help you in learning game development.
+- [Indie Game Developers](https://www.facebook.com/groups/IndieGameDevs/about/): A facebook group with 120k+ members who help you if your stuck in your project or for networking and get to know about their stories.
+- [gamedev](https://www.reddit.com/r/gamedev/): A subreddit with 490k+ members ,where you get to know about game development, programming, design, writing, math, art, jams, postmortems, marketing.
 
 ### Youtube Channels:
 - [Brackeys](https://www.youtube.com/user/Brackeys): Best for beginners, where one can learn basic stuff and also this channel as projects which can be the base for many projects.
@@ -25,10 +27,22 @@ Game Development is not only about coding but also the story,design,music and gr
 - [Mix and Jam](https://www.youtube.com/channel/UCLyVUwlB_Hahir_VsKkGPIA): A channel which recreates popular scenes and mechanics in games.
 - [Adam Millard](https://www.youtube.com/user/Thefearalcarrot): Get to know how to plan your big projects,more about system design of games.
 - [Filmstorm](https://www.youtube.com/channel/UCH1svLGqmyVuCnHCHDr0EXw): Intermediate to Advanced tutorials.
+- [Dev Duck](https://www.youtube.com/channel/UCKCTmact-90hXpV2ns8GSsA): A channel for organizing your projects and planning it.
 - [Ask Gamedev](https://www.youtube.com/channel/UCd_lJ4zSp9wZDNyeKCWUstg): All about Game industry,facts and tips to get into it.
 - [Brookes Eggleston](https://www.youtube.com/channel/UCJklo0Zl5tLV9kkk_Jd81EA): All about the design,dedicated especilly to the character design.
 - [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ): Game Developers Conference Videos,Insights from the people in the industry.
 - [2PlayerProductions](https://www.youtube.com/user/2PlayerProductions): Documentaries of the game industry, get inspired.
+- [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U): Best for learning Blender which is used for making 3D models.
+- [CG Geek](https://www.youtube.com/user/Blenderfan93): Tutorials on animations,visual effects and Blender.
+- [Ian Hubert](https://www.youtube.com/user/mrdodobird): The man behind the loading screen of the latest blender(2.9), he is popular for his one minute tutorials which are for intermediate to advanced blender users.
+
+### Resources for Beginners:
+- [Mixamo](https://www.mixamo.com/#/): For Rigging your 3D models and animating them by selecting the templates in it.
+- [Bosca Ceoil](https://boscaceoil.net/): For making SFX and music for your games.
+- [GIMP](gimp.org): For making 2D art.
+- [Blender](https://www.blender.org/): For 3D art, this is not only used by beginners but also for the AAA level games in the industry.
+
+
 
 
 
