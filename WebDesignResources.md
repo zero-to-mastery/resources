@@ -112,6 +112,10 @@
 
 - [Avataars](https://avataaars.com/): Mix and Match avatar illustrations.
 
+- [CoolBackgrounds](https://coolbackgrounds.io/): Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites. Beyond backgrounds, the images generated can be used as 🖥 desktop wallpapers or cropped for 📱 mobile wallpapers.
+
+- [CSS Matic](https://www.cssmatic.com/): The ultimate CSS tools for web designers. Tools to create gradient generator, border radius, noise texture, and box shadow.
+
 ## Illustrations
 
 - [Stories By Freepik](http://stories.freepik.com/): Get Customised illustrations.
