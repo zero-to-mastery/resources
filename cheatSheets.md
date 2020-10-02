@@ -2,6 +2,8 @@
 
 # Cheat Sheets
 
+- [HTTP Status Codes](https://www.abstractapi.com/http-status-codes): An overview of every HTTP Status Code and what they mean.
+
 - [DevHints](https://devhints.io/): A great resource of cheat sheets for a wide range of technologies.
 
 - [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf): A cheat sheet that features the most important and commonly used Git commands for easy reference.
@@ -27,3 +29,5 @@
 - [Angular Cheat Sheet](https://angular.io/guide/cheatsheet): Official Cheat Sheet for Angular, covers all the important topics along with examples.
 
 - [React Cheat Sheet](https://ihatetomatoes.net/wp-content/uploads/2017/01/react-cheat-sheet.pdf): Basic syntax: import, render method, stateless components, class, rendering methods, conditional rendering.
+
+-[Vue Essential Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf): Official & Essential Cheat Sheet from Vue Mastery, cover all important syntax with basic examples.
