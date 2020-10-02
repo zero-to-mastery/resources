@@ -7,7 +7,7 @@
 Game Development is not only about coding but also the story,design,music and graphics.
 
 ## Unity:
-- [Official Unity Website](https://docs.unity3d.com/Manual/index.html): Documentation for C#/JavaScript and Unity.
+- [Official Unity Website](https://docs.unity3d.com/Manual/index.html): Documentation for C#/JavaScript and Unity Engine.
 - [Unity Learn](https://learn.unity.com/):Tutorials from beginner to advanced level on various topics.
 
 ## Unreal Engine:
