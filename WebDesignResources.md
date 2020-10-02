@@ -50,6 +50,8 @@
 
 - [Videvo](https://www.videvo.net/): Free stock videos.
 
+- [Image Colorizer](https://imagecolorizer.com/): Picture Colorizer that adds color to your black and white pictures.
+
 ## Color Palettes
 
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
@@ -104,13 +106,15 @@
 
 - [World Vector Logo](https://worldvectorlogo.com): A large collection of free SVG logos for a variety of brands.
 
-- [Blobmaker](https://www.blobmaker.app/): A free generative design tool to help you quickly create random, unique, organic-looking SVG shapes. 
+- [Blobmaker](https://www.blobmaker.app/): A free generative design tool to help you quickly create random, unique, organic-looking SVG shapes.
 
-- [GetWaves](https://getwaves.io/): Create SVG waves to use in your websites. 
+- [GetWaves](https://getwaves.io/): Create SVG waves to use in your websites.
 
 - [Favicon Generator](https://realfavicongenerator.net/): Generate multiple favicons for multiple platforms.
 
 - [Avataars](https://avataaars.com/): Mix and Match avatar illustrations.
+
+- [Trianglify.io](https://trianglify.io/): Tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
 
 ## Illustrations
 
