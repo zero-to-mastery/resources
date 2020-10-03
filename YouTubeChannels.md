@@ -166,7 +166,7 @@
 
 - [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw): DarkCode is a channel for Learning Web Designs, Websites Building, Ui Designs Using Only HTML5 And CSS3 and some Javascript. If you love creative designs and amazing animations, please do follow him.
 
-- [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw): Codevolutionis a channel for learning front end web development.The React series on this channel is one of the best react tutorials out there.It also has tutorials on Angular, ES6 and basic HTML & CSS please do follow him.
+- [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw): Codevolution is a channel for learning front end web development.The React series on this channel is one of the best react tutorials out there.It also has tutorials on Angular, ES6 and basic HTML & CSS please do follow him.
 
 ## Data Structures and Algorithms
 
