@@ -201,4 +201,11 @@
 
 - [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
 
+- [John Hammond](https://www.youtube.com/c/JohnHammond010): John Hammond creates educational content like walkthroughs of CTF challenges.
+
+
+### Bug Bounties
+
+- [STÖK](https://www.youtube.com/c/STOKfredrik/): STÖK is a beginner-friendly channel for those who are looking to get started in bug bounty hunting.
+
 **[Back To Top](#youtube-channels)**
