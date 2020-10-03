@@ -4,8 +4,6 @@
 
 ## An organized list of useful resources for Game Development which helps you in going from zero to mastery.
 
-Game Development is not only about coding but also the story,design,music and graphics.
-
 ## Unity:
 - [Official Unity Website](https://docs.unity3d.com/Manual/index.html): Documentation for C#/JavaScript and Unity Engine.
 - [Unity Learn](https://learn.unity.com/):Tutorials from beginner to advanced level on various topics.
