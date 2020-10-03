@@ -48,7 +48,7 @@
 
 - [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/10788532?start=0#overview) A comprehensive video course from beginner to mastery with real world projects.
 
-- [JavaScript for Complete Beginners - Interactive TTutorial](https://www.learn-js.org/): A short interactive website which has exercises for introducing new programmers to the primary concepts in JavaScript.
+- [JavaScript for Complete Beginners - Interactive Tutorial](https://www.learn-js.org/): A short interactive website which has exercises for introducing new programmers to the primary concepts in JavaScript.
 
 - [JavaScript ES6: Scrimba](https://scrimba.com/learn/introtoes6): Learn JavaScript ES6 concepts with this short, interactive course at Scrimba. This includes interactive screencasts so you can learn along with the teacher. This is a pretty unique way of instruction. 
 
