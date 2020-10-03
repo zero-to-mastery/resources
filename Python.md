@@ -2,6 +2,8 @@
 
 # Resources to learn Python
 
+- [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/): A Quick and Easy Intro into Python Programming. 
+
 - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/): Free introductory Python programming book available under a Creative Commons license in both PDF and HTML formats. It is also available as an O'Reilly-published paperback, available for purchase on Amazon.
 
 - [Head First Python book](https://epdf.pub/index.php/head-first-python.html): Best helpful book for beginners and intermediates of python
@@ -17,6 +19,7 @@
 - [Python For Everybody](https://www.py4e.com/): Free course to learn python for all the basic requirement like datastrucuture, Database, networking, OOPS, etc.
 
 - [Learn Python](https://www.learnpython.org/): Get started learning Python with DataCamp's free Intro to Python tutorial. Learn Data Science by completing interactive coding challenges and watching videos by expert instructors.
+
 
 - [Full Stack Python](https://www.fullstackpython.com/web-development.html): A great article which gives you an insight on how to become a full stack python web developer with plethora of resources.
 
@@ -52,6 +55,12 @@
 
 
 - [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) Data visualization is the graphical representation of data in order to interactively and efficiently convey insights to clients, customers, and stakeholders in general. It is a way to summarize your findings and display it in a form that facilitates interpretation and can help in identifying patterns or trends. In this Data Visualization with Python course, you'll learn how to create interesting graphics and charts and customize them to make them more effective and more pleasing to your audience.
+
+
+- [Cracking Codes with Python](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language. The book features the source code to several ciphers and hacking programs for these ciphers.
+
+
+- [Practice with 100 programming Exercises](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended):Learn Python by practicing it daily. This repository has been divided into 25 days, so you can daily practice and learn practically. These exercises will immensely help you, especially if you are a beginner.
 
 - [Common Python Data Structures](https://realpython.com/python-data-structures) Data structures are the fundamental constructs around which you build your programs. Each data structure provides a particular way of organizing data so it can be accessed efficiently, depending on your use case. Python ships with an extensive set of data structures in its standard library.
 

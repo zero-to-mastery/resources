@@ -8,10 +8,12 @@
 
 This is a list showing the GitHub usernames of all who have contributed to this open-source project! **Make sure to add yourself and submit a pull request if you've contributed.**
 
+- [@bhantsi](https://github.com/bhantsi)
 - [@arjunkharbanda](https://github.com/arjunkharbanda)
 - [@salex11](https://github.com/salex11)
 - [@tonydc1997](https://github.com/tonydc1997)
 - [@ashishcodes4](https://github.com/ashishcodes4)
+- [@mehul1011](https://github.com/mehul1011)
 - [@Tanuj69](https://github.com/Tanuj69)
 - [@adamfarver](https://github.com/adamfarver)
 - [@Db12797](https://github.com/Db12797)
@@ -56,6 +58,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@shafali03](https://github.com/shafali03)
 - [@mk-hill](https://github.com/mk-hill)
 - [@iamxlr8](https://github.com/iamxlr8)
+- [@rtrumpie](https://github.com/rtrumpie)
 - [@aditya-vardhann](https://github.com/aditya-vardhann)
 - [@gilann](https://github.com/gilann)
 - [@caks42](https://github.com/caks42)
@@ -163,5 +166,13 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@vipul1298](https://github.com/vipul1298)
 - [@asouthard1012](https://github.com/asouthard1012)
 - [@ellojess](https://github.com/ellojess)
-
-
+- [@olexandrch](https://github.com/olexandrch)
+- [@Rage-ops](https://github.com/Rage-ops)
+- [@RobertoCroesy](https://github.com/RobertoCroesy)
+- [@Prajakta-collab](https://github.com/Prajakta-collab)
+- [@saurabh-00](https://github.com/saurabh-00)
+- [@coballester](https://github.com/coballester)
+- [@cassiogroh](https://github.com/cassiogroh)
+- [@vishwajeetraj11](https://github.com/vishwajeetraj11)
+- [@yehezkielgunawan](https://github.com/yehezkielgunawan)
+- [@adamstok](https://github.com/adamstok)
