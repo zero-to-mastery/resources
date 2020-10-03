@@ -175,4 +175,6 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@cassiogroh](https://github.com/cassiogroh)
 - [@vishwajeetraj11](https://github.com/vishwajeetraj11)
 - [@yehezkielgunawan](https://github.com/yehezkielgunawan)
+- [@adamstok](https://github.com/adamstok)
 - [@vivekboss99](https://github.com/vivekboss99)
+

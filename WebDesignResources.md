@@ -104,13 +104,15 @@
 
 - [World Vector Logo](https://worldvectorlogo.com): A large collection of free SVG logos for a variety of brands.
 
-- [Blobmaker](https://www.blobmaker.app/): A free generative design tool to help you quickly create random, unique, organic-looking SVG shapes. 
+- [Blobmaker](https://www.blobmaker.app/): A free generative design tool to help you quickly create random, unique, organic-looking SVG shapes.
 
-- [GetWaves](https://getwaves.io/): Create SVG waves to use in your websites. 
+- [GetWaves](https://getwaves.io/): Create SVG waves to use in your websites.
 
 - [Favicon Generator](https://realfavicongenerator.net/): Generate multiple favicons for multiple platforms.
 
 - [Avataars](https://avataaars.com/): Mix and Match avatar illustrations.
+
+- [SVG Artista](https://svgartista.net/): Create web loader of your own logo.
 
 ## Illustrations
 
