@@ -53,4 +53,5 @@
 
 - [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) Data visualization is the graphical representation of data in order to interactively and efficiently convey insights to clients, customers, and stakeholders in general. It is a way to summarize your findings and display it in a form that facilitates interpretation and can help in identifying patterns or trends. In this Data Visualization with Python course, you'll learn how to create interesting graphics and charts and customize them to make them more effective and more pleasing to your audience.
 
+- [Common Python Data Structures](https://realpython.com/python-data-structures) Data structures are the fundamental constructs around which you build your programs. Each data structure provides a particular way of organizing data so it can be accessed efficiently, depending on your use case. Python ships with an extensive set of data structures in its standard library.
 
