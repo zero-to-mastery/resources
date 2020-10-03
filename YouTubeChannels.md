@@ -23,7 +23,7 @@
 * [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube): An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog.
 
 * [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn.
-At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com.
+  At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com.
 
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): All type of fun content and also he left Google.
 
@@ -54,6 +54,10 @@ At Code With Harry, he provide a quick and to the point demo along with resource
 * [Scaler Academy](https://www.youtube.com/ScalerAcademy): Accelerate Your Tech Career. Learn computer programming concepts, Data Sturcutres & Algorithms from Ex-Google, Ex-Facebook instructors. Also, watch tech talks from tech leaders, live coding sessions & more.
 
 * [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw): CJ does live streams about full stack web development showcasing a wide variety of frameworks and technologies. In the streams, he shows step by step how to use those tools in creating projects. He also has tutorials about topics related to web development.
+
+* [Corey Schafer](https://www.youtube.com/c/Coreyms): Has tutorials for (mostly) python. But it has a bunch of other useful gems as well, like SQL, Git, termial, and a few others. H
+
+* [Java Brains](https://www.youtube.com/c/JavaBrainsChannel): Has Java & Javascript tutorials.
 
 ## Computer Science
 
@@ -148,7 +152,7 @@ At Code With Harry, he provide a quick and to the point demo along with resource
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw/): Kyle Cook's channel is full of videos about the most useful tools in modern web development, from HTML and CSS to database structure and even AI development for web pages; but it focuses heavily on Javascript and all the tools related with it: NodeJS, React, Express, MongoDB, the recent Deno and many more.
 
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q): Learn web development, web design, 3d modelling, tools like figma and more without getting bored!
-The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!
+  The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!
 
 ### Front-End/Design
 
@@ -166,12 +170,13 @@ The goes of this channel is to get you to become as creative you can be! So if y
 
 - [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw): DarkCode is a channel for Learning Web Designs, Websites Building, Ui Designs Using Only HTML5 And CSS3 and some Javascript. If you love creative designs and amazing animations, please do follow him.
 
+- [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw): Codevolution is a channel for learning front end web development.The React series on this channel is one of the best react tutorials out there.It also has tutorials on Angular, ES6 and basic HTML & CSS please do follow him.
+
 ## Data Structures and Algorithms
 
 - [mycodeschool](https://www.youtube.com/user/mycodeschool): MyCodeSchool is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++.
 
 - [Apni Kaksha](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s): Apni kaksha is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++ and all interview related stuffs.
-
 
 ## Machine Learning and Data Science
 
@@ -193,6 +198,14 @@ The goes of this channel is to get you to become as creative you can be! So if y
 - [HackerSploit](https://m.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 
 ### Capture the Flag
+
 - [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
+
+- [John Hammond](https://www.youtube.com/c/JohnHammond010): John Hammond creates educational content like walkthroughs of CTF challenges.
+
+
+### Bug Bounties
+
+- [STÖK](https://www.youtube.com/c/STOKfredrik/): STÖK is a beginner-friendly channel for those who are looking to get started in bug bounty hunting.
 
 **[Back To Top](#youtube-channels)**
