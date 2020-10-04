@@ -8,9 +8,13 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Angular Resources**](Angular.md): A list of resources for learning Angular.
 
+- [**Arduino**](Arduino.md): A list of resources for the Arduino micro-controller.
+
 - [**Articles**](DevelopmentArticles.md): General articles page on web development.
 
 - [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
+
+- [**Cloud**](Cloud.md): Cloud Learning Resources to kickstart your career.
 
 - [**CSS Resources**](CSSResources.md): A list of resources for learning CSS.
 
@@ -26,6 +30,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Mobile App Development**](MobileAppDevelopment.md): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system
 
+- [**Practice Resources**](PracticeResources.md): A list of exercises and gamified resources for web development.
+
 - [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
 
 - [**Raspberry Pi**](RaspberryPi.md): Resources for the Raspberry Pi.
@@ -34,11 +40,15 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Python Resources**](Python.md): A list of resources for learning Python.
 
+- [**Search Engine Optimization**](SearchEngineOptimization.md): A list of resources for learning Search Engine Optimization(SEO).
+
 - [**Unix**](Unix.md): Resources for Unix systems (Linux, MacOS, etc.).
 
 - [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
 
 - [**Web Development Tools**](WebDevTools.md): A page listing a number of free web development tools.
+
+- [**Game Development Resources**](GameDev.md): A page which lists out the resources which helps you go from zero to mastery in game development.
 
 - [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 

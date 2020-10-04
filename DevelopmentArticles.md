@@ -25,3 +25,5 @@
 - [**Static vs Dynamic vs SPA - Maximilian Schwarzmüller**](https://www.academind.com/learn/web-dev/dynamic-vs-static-vs-spa/): In this article the author explains different techniques on how to build modern web pages and the pros & cons of each.
 
 - [**Introduction to Source Maps -- Matt West**](https://blog.teamtreehouse.com/introduction-source-maps ): Article explains about how the source map works.
+
+- [**What is Software Development? -- IBM**](https://www.ibm.com/topics/software-development): A more academic explanation of the software development process from tech juggernaut IBM. 
