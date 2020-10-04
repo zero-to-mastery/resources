@@ -64,3 +64,6 @@
 
 - [Common Python Data Structures](https://realpython.com/python-data-structures) Data structures are the fundamental constructs around which you build your programs. Each data structure provides a particular way of organizing data so it can be accessed efficiently, depending on your use case. Python ships with an extensive set of data structures in its standard library.
 
+- [Python Basic To Advance Concepts](https://www.codewithharry.com/videos/) This guy has got you covered in all aspects and branches of python. Do give a try and enjoy it in hindi language too. PS: he provides source code to every tutorial.
+
+- [Python Tutorial: Python Online Course](https://www.python-course.eu/python3_course.php) This tutorial provides a comprehensive and in-depth introduction to the Python language. The course is aimed at both beginners and intermediate to experienced programmers or developers who are looking for differences to other programming languages.

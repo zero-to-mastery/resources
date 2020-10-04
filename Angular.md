@@ -55,3 +55,5 @@
   (https://angular.io/guide/rx-library)
 
 - [Angular 7 Tutorial Series](https://medium.com/techiediaries-com/angular-6-tutorial-series-jwt-auth-rxjs-6-httpclient-bootstrap-4-material-design-routing-and-f80f29ffcb6d)
+
+- [What is Angular?](https://www.w3schools.com/whatis/whatis_angularjs.asp): A W3Schools tutorial series for newbies. 
