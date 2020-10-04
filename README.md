@@ -8,6 +8,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Angular Resources**](Angular.md): A list of resources for learning Angular.
 
+- [**API**](API.md): A list of resources for learning how to use APIs.
+
 - [**Arduino**](Arduino.md): A list of resources for the Arduino micro-controller.
 
 - [**Articles**](DevelopmentArticles.md): General articles page on web development.
