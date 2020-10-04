@@ -95,3 +95,4 @@
 
 - [Base.cs Podcast](https://www.codenewbie.org/basecs): Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
 - [Software Engineering daily](https://softwareengineeringdaily.com/) Software development topics including technical interviews.
+- [No BS Engineering](https://nobsengineering.com/): General career advice for beginner to intermediate-level coders. 
