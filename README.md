@@ -34,6 +34,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Python Resources**](Python.md): A list of resources for learning Python.
 
+- [**Search Engine Optimization**](SearchEngineOptimization.md): A list of resources for learning Search Engine Optimization(SEO).
+
 - [**Unix**](Unix.md): Resources for Unix systems (Linux, MacOS, etc.).
 
 - [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
