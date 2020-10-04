@@ -8,9 +8,13 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Angular Resources**](Angular.md): A list of resources for learning Angular.
 
+- [**Arduino**](Arduino.md): A list of resources for the Arduino micro-controller.
+
 - [**Articles**](DevelopmentArticles.md): General articles page on web development.
 
 - [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
+
+- [**Cloud**](Cloud.md): Cloud Learning Resources to kickstart your career.
 
 - [**CSS Resources**](CSSResources.md): A list of resources for learning CSS.
 
@@ -26,6 +30,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Mobile App Development**](MobileAppDevelopment.md): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system
 
+- [**Practice Resources**](PracticeResources.md): A list of exercises and gamified resources for web development.
+
 - [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
 
 - [**Raspberry Pi**](RaspberryPi.md): Resources for the Raspberry Pi.
@@ -33,6 +39,8 @@ A list of student-collated resources deemed to be useful for every developer and
 - [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
 
 - [**Python Resources**](Python.md): A list of resources for learning Python.
+
+- [**Search Engine Optimization**](SearchEngineOptimization.md): A list of resources for learning Search Engine Optimization(SEO).
 
 - [**Unix**](Unix.md): Resources for Unix systems (Linux, MacOS, etc.).
 
