@@ -95,3 +95,4 @@
 
 - [Base.cs Podcast](https://www.codenewbie.org/basecs): Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
 - [Software Engineering daily](https://softwareengineeringdaily.com/) Software development topics including technical interviews.
+- [Ctrl+Click Cast](https://www.ctrlclickcast.com/): web programming and design, app development, and user experience design. 
