@@ -9,3 +9,4 @@ The Raspberry Pi is a series of small single-board computers developed in the Un
 - [Raspberry Pi](https://cognitiveclass.ai/courses/robots-are-coming)
 - [Homepage](https://www.raspberrypi.org)
 - [Projects](https://projects.raspberrypi.org/en/projects)
+- [Python for Raspberry Pi](https://pythonprogramming.net/introduction-raspberry-pi-tutorials/): A guide to doing Python programming on a Raspberry Pi. 
