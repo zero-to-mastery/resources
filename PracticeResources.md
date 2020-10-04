@@ -9,3 +9,5 @@
 - [Grid Garden](https://cssgridgarden.com): Practise CSS Grid by playing this game. Welcome to Grid Garden, where you write CSS code to grow your carrot garden!
 
 - [CSS Diner](https://flukeout.github.io): Practise CSS selectors by playing this game. It's a fun game to learn and practice CSS selectors.
+
+- [HTML exercises](http://www.landofcode.com/html-exercises/): Practice your HTML/XHTML skills with small exercises. The website provides answers and an interactive sandbox as well. 
