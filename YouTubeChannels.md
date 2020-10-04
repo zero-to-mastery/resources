@@ -22,7 +22,7 @@
 
 * [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube): An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog.
 
-* [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn.
+* [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn (Mostly Hindi Tutorials).
   At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com.
 
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): All type of fun content and also he left Google.
@@ -59,6 +59,7 @@
 
 * [Java Brains](https://www.youtube.com/c/JavaBrainsChannel): Has Java & Javascript tutorials.
 
+* [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) Mostly does React tutorial. High quality content (English)
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
