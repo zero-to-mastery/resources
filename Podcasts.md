@@ -42,6 +42,7 @@
 
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/): The Google Cloud Platform Podcast, discussing everything on Google Cloud Platform from App Engine to Big Query. Coming to you every week.
 - [Kubernetes Podcast from Google](https://kubernetespodcast.com/): A weekly podcast focused on what's happening in the Kubernetes community covering Kubernetes, cloud-native applications, and other developments in the Kubernetes community. Co-hosts Adam Glick and Craig Box. 
+- [Microsoft Cloud Show](http://www.microsoftcloudshow.com/podcast): A weekly podcast on Microsoft Cloud and its applications. 
 
 ## Design
 
