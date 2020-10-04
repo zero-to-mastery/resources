@@ -176,3 +176,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@vishwajeetraj11](https://github.com/vishwajeetraj11)
 - [@yehezkielgunawan](https://github.com/yehezkielgunawan)
 - [@adamstok](https://github.com/adamstok)
+- [@ZombiMigz](https://github.com/ZombiMigz)
