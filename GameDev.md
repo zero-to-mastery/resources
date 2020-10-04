@@ -49,7 +49,7 @@
 ### Resources for Beginners:
 - [Mixamo](https://www.mixamo.com/#/): For Rigging your 3D models and animating them by selecting the templates in it.
 - [Bosca Ceoil](https://boscaceoil.net/): For making SFX and music for your games.
-- [GIMP](gimp.org): For making 2D art.
+- [GIMP](https://gimp.org): For making 2D art.
 - [Blender](https://www.blender.org/): For 3D art, this is not only used by beginners but also for the AAA level games in the industry.
 
 
