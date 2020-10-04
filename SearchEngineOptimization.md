@@ -13,7 +13,7 @@ Search Engine Optimization is the practice of modifying your website's code and 
 - [How to Learn SEO in 2020](https://www.youtube.com/watch?v=pBD1C5JxRho): Explains how SEO is in 2020 and how to beat the competition.
 - [SEO Full Course for Beginners (Google Analytics)](https://www.youtube.com/watch?v=OYRkIGaP80M): Long course on SEO, particularly by using Google Analytics.
 
-##Courses
+## Courses
 - [SEO for Beginners](https://www.udemy.com/course/seo-tutorial/)
 - [SEO Training Course](https://www.udemy.com/course/whiteboard-seo/)
 - [Learn SEO Basics & Optimize Your Website](https://www.udemy.com/course/what-is-seo/)
