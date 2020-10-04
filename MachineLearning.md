@@ -13,6 +13,6 @@
 
 - [Machine Learning With Python](https://pythonizame.s3.amazonaws.com/media/Book/machine-learning-python-essential-techniques-predictive-analysis/file/008c0aac-9784-11e5-964d-04015fb6ba01.pdf): In this e-book, you will learn essential techniques of machine learning in predictive analysis using Python programming language.
 - [TensorFlow 2.0](https://www.freecodecamp.org/news/massive-tensorflow-2-0-free-course/): This is a free 7-hour TensorFlow 2.0 course designed for Python programmers covering: core learning algorithms, deep learning with neural networks, computer vision, natural language processing and reinforcement learning.
-
+- [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning): This is a fully online Coursera course offered by Stanford University. The course can be audited (i.e. you can view all the course materials) for free, and should take ~60 hours to complete. 
 
 
