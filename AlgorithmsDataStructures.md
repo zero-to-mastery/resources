@@ -8,7 +8,7 @@
 
 - [Data Structures and algorithms](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
 
-
+- [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ## GitBook
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)

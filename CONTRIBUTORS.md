@@ -8,6 +8,7 @@
 
 This is a list showing the GitHub usernames of all who have contributed to this open-source project! **Make sure to add yourself and submit a pull request if you've contributed.**
 
+- [@nnhhiilliisstt](https://github.com/nnhhiilliisstt)
 - [@bhantsi](https://github.com/bhantsi)
 - [@arjunkharbanda](https://github.com/arjunkharbanda)
 - [@salex11](https://github.com/salex11)
@@ -177,3 +178,5 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@yehezkielgunawan](https://github.com/yehezkielgunawan)
 - [@hulyak](https://github.com/hulyak)
 - [@adamstok](https://github.com/adamstok)
+- [@vivekboss99](https://github.com/vivekboss99)
+- [@ZombiMigz](https://github.com/ZombiMigz)

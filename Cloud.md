@@ -6,3 +6,5 @@
 - [Cloud Academy](https://cloudacademy.com/)
 - [AWS Training](https://aws.amazon.com/training/)
 - [DataFlair's Cloud Computing Tutorial](https://data-flair.training/blogs/cloud-computing-tutorial/)
+- [Coursera](https://www.coursera.org/promo/cloud-technology-free-courses): A series of online courses on cloud tech. 
+
