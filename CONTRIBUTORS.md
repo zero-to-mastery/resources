@@ -178,6 +178,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@yehezkielgunawan](https://github.com/yehezkielgunawan)
 - [@hulyak](https://github.com/hulyak)
 - [@adamstok](https://github.com/adamstok)
+- [@raptorchief](https://github.com/raptorchief)
 - [@vivekboss99](https://github.com/vivekboss99)
 - [@ZombiMigz](https://github.com/ZombiMigz)
 - [@hr1shu](https://github.com/hr1shu)
