@@ -52,3 +52,4 @@
 
 - [CSS Counters](https://www.freecodecamp.org/news/numbering-with-css-counters/): CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using `counter-reset`), and these variables can then be incremented by CSS rule
 
+- [CSS Minifier](https://cssminifier.com/): CSS Minifier is an easy way to Minify/Compress your CSS Files. Simple Quick, Fast and absolutely FREE.
