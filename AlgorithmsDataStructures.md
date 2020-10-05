@@ -29,3 +29,6 @@
 - [Master the Coding Interview: Big Tech (FAANG) Interviews](https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep) Course by Andrei and his team.
 
 - [Common Python Data Structures](https://realpython.com/python-data-structures) Data structures are the fundamental constructs around which you build your programs. Each data structure provides a particular way of organizing data so it can be accessed efficiently, depending on your use case. Python ships with an extensive set of data structures in its standard library.
+
+- [Fork CPP] (https://www.geeksforgeeks.org/fork-cpp-course-structure)
+- [EDU] (https://codeforces.com/edu/course/2)
