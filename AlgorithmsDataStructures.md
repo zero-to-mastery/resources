@@ -8,6 +8,8 @@
 
 - [Data Structures and algorithms](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
 
+- [Data Structures and algorithms Course](https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9)
+
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 
 ## GitBook
