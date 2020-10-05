@@ -112,7 +112,9 @@
 
 - [Avataars](https://avataaars.com/): Mix and Match avatar illustrations.
 
-- [SVG Artista](https://svgartista.net/): Create web loader of your own logo.
+- [CoolBackgrounds](https://coolbackgrounds.io/): Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites. 
+
+- [CSS Matic](https://www.cssmatic.com/): The ultimate CSS tools for web designers. Tools to create gradient generator, border radius, noise texture, and box shadow.
 
 ## Illustrations
 
