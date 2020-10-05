@@ -104,15 +104,15 @@
 
 - [World Vector Logo](https://worldvectorlogo.com): A large collection of free SVG logos for a variety of brands.
 
-- [Blobmaker](https://www.blobmaker.app/): A free generative design tool to help you quickly create random, unique, organic-looking SVG shapes. 
+- [Blobmaker](https://www.blobmaker.app/): A free generative design tool to help you quickly create random, unique, organic-looking SVG shapes.
 
-- [GetWaves](https://getwaves.io/): Create SVG waves to use in your websites. 
+- [GetWaves](https://getwaves.io/): Create SVG waves to use in your websites.
 
 - [Favicon Generator](https://realfavicongenerator.net/): Generate multiple favicons for multiple platforms.
 
 - [Avataars](https://avataaars.com/): Mix and Match avatar illustrations.
 
-- [CoolBackgrounds](https://coolbackgrounds.io/): Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites. Beyond backgrounds, the images generated can be used as 🖥 desktop wallpapers or cropped for 📱 mobile wallpapers.
+- [CoolBackgrounds](https://coolbackgrounds.io/): Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites. 
 
 - [CSS Matic](https://www.cssmatic.com/): The ultimate CSS tools for web designers. Tools to create gradient generator, border radius, noise texture, and box shadow.
 
