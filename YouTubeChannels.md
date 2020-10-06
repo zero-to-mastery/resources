@@ -177,6 +177,8 @@
 
 - [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw): Codevolution is a channel for learning front end web development.The React series on this channel is one of the best react tutorials out there.It also has tutorials on Angular, ES6 and basic HTML & CSS please do follow him.
 
+- [Online web ustaad](https://www.youtube.com/channel/UC8xTHK97Ng__KZvGcO_K7CA): A great channel for learning various 'Web Design & Development' skills. A channel where you can boost up your creativity and learn to build some High end Creative websites.
+
 ## Data Structures and Algorithms
 
 - [mycodeschool](https://www.youtube.com/user/mycodeschool): MyCodeSchool is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++.
