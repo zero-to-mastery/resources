@@ -60,6 +60,7 @@
 * [Java Brains](https://www.youtube.com/c/JavaBrainsChannel): Has Java & Javascript tutorials.
 
 * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) Mostly does React tutorial. High quality content (English)
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
@@ -73,6 +74,9 @@
 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): CS Dojo is a channel with mostly programming and computer science videos. [CS Dojo](https://www.csdojo.io/)
 
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): Siraj Raval is on a mission of data literacy. Artificial Intelligence, Mathematics, Science, Technology, he simplfies these topics to help you understand how they work. Using his knowledge you can build wealth and live a happier, more meaningful life. He is the part of the fastest growing AI community in the world! He is also a Data Scientist, AI Educator, Rapper, Author, Speaker, and Founder of the School of AI.
+
+- [Code with Ania Kubów #JavaScriptGames](https://www.youtube.com/c/AniaKub%C3%B3w): Learn JavaScript,
+  React, Html, CSS and Express by making retro game in these tutorials.
 
 ## Musings
 
@@ -203,7 +207,6 @@
 - [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
 
 - [John Hammond](https://www.youtube.com/c/JohnHammond010): John Hammond creates educational content like walkthroughs of CTF challenges.
-
 
 ### Bug Bounties
 
