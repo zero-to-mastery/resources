@@ -13,3 +13,5 @@
 - [HTML exercises](http://www.landofcode.com/html-exercises/): Practice your HTML/XHTML skills with small exercises. The website provides answers and an interactive sandbox as well. 
 
 - [Dev Challenges](https://devchallenges.io/): Practice HTML / CSS with projects.
+
+- [Frontend Mentor](https://www.frontendmentor.io/): Practice with projects to improve your skills.
