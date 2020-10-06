@@ -14,6 +14,10 @@
 
 - [CSS-Codecademy](https://www.codecademy.com/learn/learn-css): You will learn many aspects of styling web pages! You’ll be able to set up the correct file structure, edit text and colors, and create attractive layouts. With these skills, you’ll be able to customize the appearance of your web pages to suit your every need!
 
+- [CSS-Animations](https://scrimba.com/learn/cssanimations#): Learn CSS animations using unique courses from Scrimba which involve interactive screencasts so that you can learn along with the teacher. This is a short 2-hour course.
+
+- [CSS-Tailwind CSS](https://scrimba.com/learn/tailwind): You can learn Tailwind CSS, one of the most popular CSS frameworks at Scrimba. This is best suited for intermediate-level programmers who are familiar with the fundamentals of CSS. Tailwind CSS is a utility-first framework, which focuses on speed and conciseness of code. 
+
 ## CSS Games
 
 - [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
@@ -47,3 +51,5 @@
 - [SEGA LOGO FONT](https://www.cufonfonts.com/font/sega-logo-font): The logo of Sega is simply its logotype in dark blue with a white line running through the middle of each letter, which is similar to the logo of CNN. A font called Sega is very similar to the lettering of its logotype. The font is available only in capital letters. You can download the font for free here.
 
 - [CSS Counters](https://www.freecodecamp.org/news/numbering-with-css-counters/): CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using `counter-reset`), and these variables can then be incremented by CSS rule
+
+- [CSS Minifier](https://cssminifier.com/): CSS Minifier is an easy way to Minify/Compress your CSS Files. Simple Quick, Fast and absolutely FREE.
