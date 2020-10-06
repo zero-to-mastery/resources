@@ -50,6 +50,8 @@
 
 - [Videvo](https://www.videvo.net/): Free stock videos.
 
+- [Image Colorizer](https://imagecolorizer.com/): Picture Colorizer that adds color to your black and white pictures.
+
 ## Color Palettes
 
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
@@ -115,6 +117,9 @@
 - [CoolBackgrounds](https://coolbackgrounds.io/): Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites. 
 
 - [CSS Matic](https://www.cssmatic.com/): The ultimate CSS tools for web designers. Tools to create gradient generator, border radius, noise texture, and box shadow.
+
+- [Trianglify.io](https://trianglify.io/): Tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
+
 
 ## Illustrations
 
