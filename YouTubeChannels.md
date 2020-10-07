@@ -214,4 +214,12 @@
 
 - [STÖK](https://www.youtube.com/c/STOKfredrik/): STÖK is a beginner-friendly channel for those who are looking to get started in bug bounty hunting.
 
+### Blockchain and Blockchain development
+
+- [Telusko](https://www.youtube.com/watch?v=UqQMSVfugFA&list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-): Telusko is a channel where the speaker, Naveen Reddy, speaks about, and teaches various technologies. In the link to the playlist provided above, one can start learning the basics of Blockchain.
+
+-[99Bitcoins](https://www.youtube.com/channel/UCQQ_fGcMDxlKre3SEqEWrLA): This is a perfect channel for the one's who are keen to learn more about cryptocurrencies like Bitcoin, Ether, etc.
+
+- [DappUniversity](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ): Dapp university is for those who are heading towards Blockchain development, that is, the development of Decentralized Applications(Dapps).These are basically websites built over blockchain.
+
 **[Back To Top](#youtube-channels)**

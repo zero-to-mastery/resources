@@ -183,3 +183,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@ZombiMigz](https://github.com/ZombiMigz)
 - [@Tanish2207](https://github.com/Tanish2207)
 - [@deni404](https://github.com/deni404)
+- [@taniyahinduja](https://github.com/taniyahinduja)
