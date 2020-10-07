@@ -62,6 +62,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@rtrumpie](https://github.com/rtrumpie)
 - [@aditya-vardhann](https://github.com/aditya-vardhann)
 - [@gilann](https://github.com/gilann)
+- [@siddharth2016](https://github.com/siddharth2016)
 - [@caks42](https://github.com/caks42)
 - [@MsWebGirl](https://github.com/mswebgirl)
 - [@alexroseb](https://github.com/alexroseb)
