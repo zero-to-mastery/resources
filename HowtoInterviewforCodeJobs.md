@@ -42,7 +42,7 @@
 
 ### Interviewing Tools
 
-- [Adaface](https://www/adaface.com/pair-pro): Remote pair programming interviewing tool with shared code editor, compiler and video conferencing. 
+- [Adaface](https://www/adaface.com/pair-pro): Remote pair programming interviewing tool with shared code editor, compiler and video conferencing.
 
 - [Gainlo](http://www.gainlo.co/#!/): A free tool, similar to [Interviewing.io](https://interviewing.io/), where one can hone their interviewing skills (technical and soft) through mock interviews with engineers from established tech companies - think Google, AirBnB, Amazon, Facebook, Dropbox, etc. - and receive real feedback on how one can improve. Great for those who care more about their privacy than they do their anonymity.
 
@@ -69,3 +69,5 @@
 - [CodeChef](https://www.codechef.com/): CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests.
 
 - [Medium Article](https://medium.com/swlh/interview-preparation-that-helped-me-get-multiple-offers-during-the-lockdown-54675bae8bed): Medium article about interview experience.
+
+-[Edabit](https://edabit.com): A beginner friendly platform for starting out with code challenges.
