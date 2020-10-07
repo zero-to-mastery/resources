@@ -8,6 +8,7 @@
 
 This is a list showing the GitHub usernames of all who have contributed to this open-source project! **Make sure to add yourself and submit a pull request if you've contributed.**
 
+- [@nnhhiilliisstt](https://github.com/nnhhiilliisstt)
 - [@bhantsi](https://github.com/bhantsi)
 - [@arjunkharbanda](https://github.com/arjunkharbanda)
 - [@salex11](https://github.com/salex11)
@@ -61,6 +62,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@rtrumpie](https://github.com/rtrumpie)
 - [@aditya-vardhann](https://github.com/aditya-vardhann)
 - [@gilann](https://github.com/gilann)
+- [@siddharth2016](https://github.com/siddharth2016)
 - [@caks42](https://github.com/caks42)
 - [@MsWebGirl](https://github.com/mswebgirl)
 - [@alexroseb](https://github.com/alexroseb)
@@ -178,3 +180,9 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@hulyak](https://github.com/hulyak)
 - [@adamstok](https://github.com/adamstok)
 - [@mama42](https://github.com/mama42)
+- [@raptorchief](https://github.com/raptorchief)
+- [@vivekboss99](https://github.com/vivekboss99)
+- [@ZombiMigz](https://github.com/ZombiMigz)
+- [@Tanish2207](https://github.com/Tanish2207)
+- [@deni404](https://github.com/deni404)
+- [@taniyahinduja](https://github.com/taniyahinduja)

@@ -139,11 +139,13 @@ Things to look for if your editor has implementations for them. They will make y
 - [Easings.net](https://easings.net/): This page helps you choose the right easing function for your CSS animations.
 
 - [Responsively App](https://responsively.app/): This app helps you to get preview all target screens in a single window side-by-side.
+
 ---
 
 ## Web Publishing
 
 - [Surge](https://surge.sh/): Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
+- [Netlify](https://www.netlify.com/): Most used free plateform for static website hosting. Your static website can be anything ranging from simple HTML, CSS, JS site, React, Vue, Angular, Nuxt.js and many more. You can also install netlify-cli with which you can deploy your site from command line.You can also host your site residing on github as repo. 
 
 ---
 
@@ -163,4 +165,6 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [RegExr](https://regexr.com/): An online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
 
-- [React Spinners](https://github.com/davidhu2000/react-spinners): Really cool collection of loading spinners with React.js 
+- [React Spinners](https://github.com/davidhu2000/react-spinners): Really cool collection of loading spinners with React.js
+
+- [Blobs](https://blobs.app/): Generate beautiful blob shapes for web and flutter apps.
