@@ -27,4 +27,5 @@
 - [Dart](https://dart.dev/): Dart is the programming language used in flutter.
 - [Dart tutorials](https://dart.dev/tutorials): These tutorials teach you how to use the Dart language, tools, and APIs to build applications.
 - [How to do this in flutter](https://howtodothisinflutter.com/): This site provide cheat sheets for flutter and dart.
-- [Free flutter resources](https://github.com/londonappbrewery/Flutter-Course-Resources): Demo apps to get you started.                                     
+- [Free flutter resources](https://github.com/londonappbrewery/Flutter-Course-Resources): Demo apps to get you started.    
+- [Bloc pattern](https://www.raywenderlich.com/4074597-getting-started-with-the-bloc-pattern): Flutter architectural pattern used to make the code scalable.This is a state management handling practice.                                 
