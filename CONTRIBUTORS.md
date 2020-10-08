@@ -183,6 +183,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@raptorchief](https://github.com/raptorchief)
 - [@vivekboss99](https://github.com/vivekboss99)
 - [@ZombiMigz](https://github.com/ZombiMigz)
+- [@hr1shu](https://github.com/hr1shu)
 - [@Tanish2207](https://github.com/Tanish2207)
 - [@deni404](https://github.com/deni404)
 - [@taniyahinduja](https://github.com/taniyahinduja)
