@@ -40,6 +40,8 @@
 
 - [PlaceIMG](http://www.placeimg.com/): Gives you a URL that generates a new random placeholder image every time.
 
+- [Public Domain Vectors](https://publicdomainvectors.org/en/): Free vector images in the public domain, searchable by category or keyword, includes svg generator
+
 - [StickPNG](http://www.stickpng.com/): An excellent source for PNG images if you need something that is re-sizable and can be set to transparent.
 
 - [TinyPNG](https://tinypng.com/): An online tool that can compress PNGs and JPGs to reduce filesize. Also available as Photoshop and Wordpress Plugin.
