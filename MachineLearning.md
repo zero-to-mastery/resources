@@ -16,3 +16,6 @@
 - [Coursera's Machine Learning course](https://www.coursera.org/learn/machine-learning): This is a fully online Coursera course offered by Stanford University. The course can be audited (i.e. you can view all the course materials) for free, and should take ~60 hours to complete. 
 
 
+-[ Applied machine learning in Python](https://www.coursera.org/learn/python-machine-learning): This is a online coursera specialization which consists of total 5 courses which covers from basics data manipulation to text analysis. This course is great for beginners and exercises are good as well.
+
+-[ Orielly Python for data analysis](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf): This book is one of the best books out there for data analysis and python.
