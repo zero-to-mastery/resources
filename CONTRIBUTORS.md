@@ -189,3 +189,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@taniyahinduja](https://github.com/taniyahinduja)
 - [@adymoko](https://github.com/adymoko)
 - [@kirstenbolda](https://github.com/KirstenBolda)
+- [@rishik-00](https://github.com/rishik-00)
