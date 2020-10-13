@@ -140,6 +140,8 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Responsively App](https://responsively.app/): This app helps you to get preview all target screens in a single window side-by-side.
 
+- [Doodad Pattern Generator](https://doodad.dev/pattern-generator/): Highly customizable pattern generator. Can create unique patterns and has a nice shuffle function also.
+
 ---
 
 ## Web Publishing

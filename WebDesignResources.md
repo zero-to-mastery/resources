@@ -26,6 +26,8 @@
 
 - [Tailwind Css](https://tailwindcss.com/): Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 
+-[Atomic Design book](https://atomicdesign.bradfrost.com): You can order or read the book online. ...creating and maintaining robust design systems, higher quality, more consistent UIs. This book introduces a methodology for thinking of our UIs as thoughtful hierarchies, discusses the qualities of effective pattern libraries, and showcases techniques to transform your team's design and development workflow.
+
 ## Images &amp; Video
 
 - [AllTheFreeStock](http://allthefreestock.com/): A central place to search for free stock photos and videos.
@@ -40,6 +42,8 @@
 
 - [PlaceIMG](http://www.placeimg.com/): Gives you a URL that generates a new random placeholder image every time.
 
+- [Public Domain Vectors](https://publicdomainvectors.org/en/): Free vector images in the public domain, searchable by category or keyword, includes svg generator
+
 - [StickPNG](http://www.stickpng.com/): An excellent source for PNG images if you need something that is re-sizable and can be set to transparent.
 
 - [TinyPNG](https://tinypng.com/): An online tool that can compress PNGs and JPGs to reduce filesize. Also available as Photoshop and Wordpress Plugin.
@@ -51,6 +55,8 @@
 - [Videvo](https://www.videvo.net/): Free stock videos.
 
 - [Image Colorizer](https://imagecolorizer.com/): Picture Colorizer that adds color to your black and white pictures.
+
+-[NASA Image and Video Library](https://images.nasa.gov): Nasa released a huge free library of their high-resolution photos, videos and sounds.
 
 ## Color Palettes
 

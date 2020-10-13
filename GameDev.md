@@ -51,6 +51,7 @@
 - [Bosca Ceoil](https://boscaceoil.net/): For making SFX and music for your games.
 - [GIMP](https://gimp.org): For making 2D art.
 - [Blender](https://www.blender.org/): For 3D art, this is not only used by beginners but also for the AAA level games in the industry.
+- [Free3D](https://free3d.com): A huge library with ready-made 3D models - a lot are free, usefull not only for blender or in gaming.
 
 
 
