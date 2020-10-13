@@ -67,3 +67,5 @@
 - [Python Basic To Advance Concepts](https://www.codewithharry.com/videos/) This guy has got you covered in all aspects and branches of python. Do give a try and enjoy it in hindi language too. PS: he provides source code to every tutorial.
 
 - [Python Tutorial: Python Online Course](https://www.python-course.eu/python3_course.php) This tutorial provides a comprehensive and in-depth introduction to the Python language. The course is aimed at both beginners and intermediate to experienced programmers or developers who are looking for differences to other programming languages.
+
+- [Data Structures with Python](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) This guy has got you covered in all aspects and branches of python. Do give a try and enjoy it. The roadmap to every career related to python is explained too.
