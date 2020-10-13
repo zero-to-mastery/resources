@@ -26,6 +26,8 @@
 
 - [Tailwind Css](https://tailwindcss.com/): Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
 
+-[Atomic Design book](https://atomicdesign.bradfrost.com): You can order or read the book online. ...creating and maintaining robust design systems, higher quality, more consistent UIs. This book introduces a methodology for thinking of our UIs as thoughtful hierarchies, discusses the qualities of effective pattern libraries, and showcases techniques to transform your team's design and development workflow.
+
 ## Images &amp; Video
 
 - [AllTheFreeStock](http://allthefreestock.com/): A central place to search for free stock photos and videos.
