@@ -67,3 +67,5 @@
 - [Python Basic To Advance Concepts](https://www.codewithharry.com/videos/) This guy has got you covered in all aspects and branches of python. Do give a try and enjoy it in hindi language too. PS: he provides source code to every tutorial.
 
 - [Python Tutorial: Python Online Course](https://www.python-course.eu/python3_course.php) This tutorial provides a comprehensive and in-depth introduction to the Python language. The course is aimed at both beginners and intermediate to experienced programmers or developers who are looking for differences to other programming languages.
+
+-[Python Crash Course, 2nd Edition: A Hands-On, Project-Based Introduction to Programming](pdfdrive.com/python-crash-coursepdf-e33417142.html) This book is great to revise concepts and there are some projects which are really great for beginners. The exercise are really easy but the content is real gold
