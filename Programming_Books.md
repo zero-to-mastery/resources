@@ -18,6 +18,8 @@
 
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master-ebook-dp-B003GCTQAE/dp/B003GCTQAE/ref=mt_kindle?_encoding=UTF8&me=&qid=): Ever heard of [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) or [don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)? Andrew Hunt and David Thomas popularized these ideas within their book, **_The Pragmatic Programmer_**, as they first walk the reader through the type of _mindset_ and _tools_ one should implement before _writing code_. From there they delve deep into best practices for _writing code_ (testing, refactoring, clean and performant code, using Big-O to estimate algorithm runtime, weighing costs and benefits before implementing something, etc.), followed by _project management_. Although it came out in 1999, it still holds its own as a practical and relevant book in the modern world.
 
+- [Street Coder](https://www.manning.com/books/street-coder): Aims to teach beginners and mid-level programmers to identify the gaps between your learning path and your actual career (the streets), with examples in C#.
+
 - [Flavio Copes: Javascript, React, Node, Express, Vue](https://flaviocopes.com/page/ebooks/): signup to an email newsletter required
 
 - [JavaScript & JQuery by Jon Duckett](http://www.javascriptbook.com): A well-designed visual guide to javaScript and jQuery. Exercise files are available to help the reader work through the examples provided in the book.
