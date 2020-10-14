@@ -190,3 +190,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@hr1shu](https://github.com/hr1shu)
 - [@adymoko](https://github.com/adymoko)
 - [@kirstenbolda](https://github.com/KirstenBolda)
+- [@ssg](https://github.com/ssg)
