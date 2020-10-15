@@ -35,3 +35,5 @@
 -[Vue Essential Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf): Official & Essential Cheat Sheet from Vue Mastery, cover all important syntax with basic examples.
 
 -[Python Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Python-Cheat-Sheet-by-CodeConquestDOTcom.jpg): An unoffical guide to the essentials of coding in Python
+
+-[Big O Cheat Sheet](http://biercoff.com/content/images/2016/07/Screenshot-2016-07-15-16-16-10.png): Big O chart and data structures operation, Everything here.
