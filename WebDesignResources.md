@@ -24,9 +24,13 @@
 
 - [Sean Halpin](http://seanhalpin.io/): A professional web designer/developer's award winning portfolio website.
 
-- [Tailwind Css](https://tailwindcss.com/): Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+- [Tailwind CSS](https://tailwindcss.com/): Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+
+- [Tailblocks](https://mertjf.github.io/tailblocks/): Ready-to-use Tailwind CSS blocks. This project provides multiple templates built using Tailwind CSS that you can use in your own projects.
 
 -[Atomic Design book](https://atomicdesign.bradfrost.com): You can order or read the book online. ...creating and maintaining robust design systems, higher quality, more consistent UIs. This book introduces a methodology for thinking of our UIs as thoughtful hierarchies, discusses the qualities of effective pattern libraries, and showcases techniques to transform your team's design and development workflow.
+
+- [FontPair](https://fontpair.co/): Font Pair is a typography website with a variety of font pairing suggestions.
 
 ## Images &amp; Video
 
@@ -82,6 +86,11 @@
 
 - [Bootstrap Colors](https://getbootstrap.com/docs/4.4/getting-started/theming/#available-variables) Ever wanted the exact hex codes for Bootstrap's "primary", "warning", "danger", etc. classes? Here they are!
 
+- [ColorSpace](https://mycolor.space/): A color palette generator. Enter a color code and generate a variety of color palettes and gradients. 
+
+
+
+
 ## Icons &amp; Graphics
 
 - [CONVERTICO](https://convertico.com/): A free online PNG to ICO file converter.
@@ -125,6 +134,8 @@
 - [CSS Matic](https://www.cssmatic.com/): The ultimate CSS tools for web designers. Tools to create gradient generator, border radius, noise texture, and box shadow.
 
 - [Trianglify.io](https://trianglify.io/): Tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
+
+- [Icons8](https://icons8.com/): Free icons, photos, and other. Ideal for finding icons with consistent and editable style.
 
 
 ## Illustrations
