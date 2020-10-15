@@ -17,4 +17,4 @@
 
 -[ Applied machine learning in Python](https://www.coursera.org/learn/python-machine-learning): This is a online coursera specialization which consists of total 5 courses which covers from basics data manipulation to text analysis. This course is great for beginners and exercises are good as well.
 
--[ Orielly Python for data analysis](https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf): This book is one of the best books out there for data analysis and python.
+-[ Orielly Python for data analysis](https://www.oreilly.com/library/view/python-for-data/9781491957653/): This book is one of the best books out there for data analysis and python.
