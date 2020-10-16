@@ -28,4 +28,5 @@
 - [Dart tutorials](https://dart.dev/tutorials): These tutorials teach you how to use the Dart language, tools, and APIs to build applications.
 - [How to do this in flutter](https://howtodothisinflutter.com/): This site provide cheat sheets for flutter and dart.
 - [Free flutter resources](https://github.com/londonappbrewery/Flutter-Course-Resources): Demo apps to get you started.    
-- [Bloc pattern](https://www.raywenderlich.com/4074597-getting-started-with-the-bloc-pattern): Flutter architectural pattern used to make the code scalable.This is a state management handling practice.                                 
+- [Bloc pattern](https://www.raywenderlich.com/4074597-getting-started-with-the-bloc-pattern): Flutter architectural pattern used to make the code scalable.This is a state management handling practice.  
+- [Factory method](https://medium.com/flutter-community/flutter-design-patterns-10-factory-method-c53ad11d863f): Factory method design pattern is a good practice to instantiate the class based on the parameters.                              
