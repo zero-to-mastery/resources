@@ -37,3 +37,7 @@
 -[Python Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Python-Cheat-Sheet-by-CodeConquestDOTcom.jpg): An unoffical guide to the essentials of coding in Python
 
 -[Big O Cheat Sheet](http://biercoff.com/content/images/2016/07/Screenshot-2016-07-15-16-16-10.png): Big O chart and data structures operation, Everything here.
+
+-[Windows CMD Cheat Sheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf): Windows command line cheat sheat.
+
+-[Unix Cheat Sheet](http://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/unix_cheatsheet.html): Unix Cheat Sheet.

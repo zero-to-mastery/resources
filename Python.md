@@ -69,3 +69,7 @@
 - [Python Tutorial: Python Online Course](https://www.python-course.eu/python3_course.php) This tutorial provides a comprehensive and in-depth introduction to the Python language. The course is aimed at both beginners and intermediate to experienced programmers or developers who are looking for differences to other programming languages.
 
 - [Data Structures with Python](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) This guy has got you covered in all aspects and branches of python. Do give a try and enjoy it. The roadmap to every career related to python is explained too.
+
+- [Data Structures and Algorithms with Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ) Rachit Jain has worked with Microsoft, Flipkart, Grofers, HackerEarth, Codechef and also delivered lectures in IIIT-H about problem solving and logical reasoning. Do give a try and enjoy it.
+
+- [System Design with Gaurav Sen](https://www.youtube.com/c/GauravSensei/) Gaurav Sen is a experienced guy in the System Design and Competitive Programming. He teaches basics and advances of System Design. Do give a try and enjoy it.
