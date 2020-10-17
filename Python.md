@@ -70,6 +70,8 @@
 
 - [Data Structures with Python](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) This guy has got you covered in all aspects and branches of python. Do give a try and enjoy it. The roadmap to every career related to python is explained too.
 
+- [Python for Beginners] (https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) Absolute beginner-friendly course
+
 - [Data Structures and Algorithms with Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ) Rachit Jain has worked with Microsoft, Flipkart, Grofers, HackerEarth, Codechef and also delivered lectures in IIIT-H about problem solving and logical reasoning. Do give a try and enjoy it.
 
 - [System Design with Gaurav Sen](https://www.youtube.com/c/GauravSensei/) Gaurav Sen is a experienced guy in the System Design and Competitive Programming. He teaches basics and advances of System Design. Do give a try and enjoy it.
