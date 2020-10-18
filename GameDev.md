@@ -54,6 +54,9 @@
 - [Free3D](https://free3d.com): A huge library with ready-made 3D models - a lot are free, usefull not only for blender or in gaming.
 
 
+- [Snake game for beginners] (https://codewithharry.com/videos/python-game-development-1): Beginner friendly tutorials.
+
+
 
 
 
