@@ -12,7 +12,10 @@
 
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 
+- [MIT 6.006: Intro to Algorithms(2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+
 ## GitBook
+
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
 
 ## Books
