@@ -28,6 +28,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
 
+- [**Newsletter**](Newsletter.md): A list of developer newsletter straight into your inbox to keep you in the loop of what's happening in the industry.
+
 - [**Raspberry Pi**](RaspberryPi.md): Resources for the Raspberry Pi.
 
 - [**Programming Books**](Programming_Books.md): Featuring a list of insightful programming books, both free and paid versions.
