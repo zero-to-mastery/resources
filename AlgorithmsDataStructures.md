@@ -12,6 +12,9 @@
 
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
 
+- [Data structures by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)Pre-requisite for this lesson is good understanding of pointers in C.
+
+
 ## GitBook
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
 
