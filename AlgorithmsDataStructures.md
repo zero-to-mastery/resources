@@ -14,8 +14,11 @@
 
 - [Data structures by mycodeschool](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)Pre-requisite for this lesson is good understanding of pointers in C.
 
+- [MIT 6.006: Intro to Algorithms(2011)](https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
+
 
 ## GitBook
+
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
 
 ## Books
@@ -39,3 +42,5 @@
 - [Fork CPP](https://www.geeksforgeeks.org/fork-cpp-course-structure) A good course for beginners
 
 - [EDU](https://codeforces.com/edu/course/2) Advanced course
+
+- [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) Learn features and constructs for C++

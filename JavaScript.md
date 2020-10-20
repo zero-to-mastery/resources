@@ -99,3 +99,9 @@
 - [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ): Event loop is the secret behind JavaScript’s asynchronous programming. JS executes all operations on a single thread, but using a few smart data structures and gives us the illusion of multi-threading.
 
 - [threejs](https://threejs.org/): three js documentation and examples
+
+- [Next.js](https://nextjs.org): A top notch framework for React. Covering a lot of features for small and large scale projects. Especially for hybrid static and server-side rendering.
+
+- [Babel](https://babeljs.io): Babel is a JavaScript compiler. Used in almost all JavaScripts projects today.
+
+- [Rome](https://romefrontend.dev): A new frontend toolchain designed to replace Babel, ESLint, webpack, Prettier, Jest, and others. From the creator of Babel and Yarn, Sebastian McKenzie.
