@@ -45,6 +45,7 @@
 - [Blender Guru](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U): Best for learning Blender which is used for making 3D models.
 - [CG Geek](https://www.youtube.com/user/Blenderfan93): Tutorials on animations,visual effects and Blender.
 - [Ian Hubert](https://www.youtube.com/user/mrdodobird): The man behind the loading screen of the latest blender(2.9), he is popular for his one minute tutorials which are for intermediate to advanced blender users.
+- [Complete Unity - Beginner Platformer Series](https://www.youtube.com/playlist?list=PLpj8TZGNIBNy51EtRuyix-NYGmcfkNAuH): This series is aimed at beginners, to really give them a hands-on approach to pursuing mediocre programming skills.
 
 ### Resources for Beginners:
 - [Mixamo](https://www.mixamo.com/#/): For Rigging your 3D models and animating them by selecting the templates in it.
@@ -54,7 +55,8 @@
 - [Free3D](https://free3d.com): A huge library with ready-made 3D models - a lot are free, usefull not only for blender or in gaming.
 
 
-- [Snake game for beginners] (https://codewithharry.com/videos/python-game-development-1): Beginner friendly tutorials.
+- [Snake game for beginners](https://codewithharry.com/videos/python-game-development-1): Beginner friendly tutorials.
+
 
 
 
