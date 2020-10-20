@@ -102,6 +102,6 @@
 
 - [Next.js](https://nextjs.org): A top notch framework for React. Covering a lot of features for small and large scale projects. Especially for hybrid static and server-side rendering.
 
-- [Babel](https://babeljs.io): Babel is a JavaScript framework. Used in almost all JavaScripts projects today.
+- [Babel](https://babeljs.io): Babel is a JavaScript compiler. Used in almost all JavaScripts projects today.
 
 - [Rome](https://romefrontend.dev): A new frontend toolchain designed to replace Babel, ESLint, webpack, Prettier, Jest, and others. From the creator of Babel and Yarn, Sebastian McKenzie.
