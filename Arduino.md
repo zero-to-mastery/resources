@@ -15,3 +15,4 @@ Arduino is an open-source hardware and software company, project and user commun
 ## Video Tutorials
 
 - [Arduino course for absolute beginners](https://www.youtube.com/playlist?list=PLYutciIGBqC34bfijBdYch49oyU-B_ttH) For beginners
+- [Arduino Lessons](https://www.youtube.com/watch?v=d8_xXNcGYgo&list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-) Arduino Course
