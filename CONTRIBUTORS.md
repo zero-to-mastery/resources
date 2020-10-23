@@ -196,3 +196,5 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@dekisr](https://github.com/dekisr)
 - [@kadhirash](https://github.com/kadhirash)
 - [@deetoo](https://github.com/deetoo)
+- [@chintans357](https://github.com/chintans357)
+- [@JZerman2018](https://github.com/JZerman2018)
