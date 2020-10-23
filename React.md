@@ -1,6 +1,6 @@
 **[Back](/README.md/)**
 
-# React (Argubaly the most popular JavaScript framework)
+# React (Arguably the most popular JavaScript framework)
 
 ## Platforms (Website)
 
@@ -9,6 +9,7 @@
 ## Repos (Collections of github repositories of best react learning resources)
 
 -[Awesome React](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem.
+-[React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap): Comprehensive roadmap chart for becoming a React developer.
 
 ## React Video course(Free)
 

@@ -16,7 +16,9 @@
 
 - [CSS-Animations](https://scrimba.com/learn/cssanimations#): Learn CSS animations using unique courses from Scrimba which involve interactive screencasts so that you can learn along with the teacher. This is a short 2-hour course.
 
-- [CSS-Tailwind CSS](https://scrimba.com/learn/tailwind): You can learn Tailwind CSS, one of the most popular CSS frameworks at Scrimba. This is best suited for intermediate-level programmers who are familiar with the fundamentals of CSS. Tailwind CSS is a utility-first framework, which focuses on speed and conciseness of code. 
+- [CSS-Tailwind CSS](https://scrimba.com/learn/tailwind): You can learn Tailwind CSS, one of the most popular CSS frameworks at Scrimba. This is best suited for intermediate-level programmers who are familiar with the fundamentals of CSS. Tailwind CSS is a utility-first framework, which focuses on speed and conciseness of code.
+
+- [CSS-Bulma](https://scrimba.com/learn/bulma): Bulma is a free, open source CSS framework based on Flexbox. You can learn Bulma CSS at Scrimba in a 1 hour lesson that includes 14 short videos.
 
 ## CSS Games
 
