@@ -19,6 +19,7 @@
 
 - [SE Radio](https://www.se-radio.net/)
 - [PHP Roundtable](https://www.phproundtable.com/)
+- [Laravel Portugal Live](https://laravelportugal.simplecast.fm/) - @joselaborges
 - [PHP Architects](https://www.phparch.com/podcast/)
 - [DevMode.fm](https://devmode.fm/)
 - [Coding Blocks](https://www.codingblocks.net/)
