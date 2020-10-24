@@ -15,3 +15,5 @@
 - [Dev Challenges](https://devchallenges.io/): Practice HTML / CSS with projects.
 
 - [Frontend Mentor](https://www.frontendmentor.io/): Practice with projects to improve your skills.
+
+- [CSSBattle](https://cssbattle.dev/): A Code-Golfing platform for CSS. Its like competitive programming in frontend development.
