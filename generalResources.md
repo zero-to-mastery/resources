@@ -30,3 +30,5 @@ subjects such as: HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, W3.CSS,
 * [**Educative.io**](https://www.educative.io/learn): A website to find online course at a very cheap price with an interactive way of teaching, reading and practice what you've learned.
 
 * [**Linkedin Learning**](https://www.linkedin.com/learning/me?trk=nav_neptune_learning): Linkedin supplies courses through Linkedin learning that instruct a potpourri of topics which include HTML, CSS, JS etc. Requires Linkedin account.
+
+* [**SoloLearn**] (https://www.sololearn.com/Courses/) : Great free resource to learn several different programming languages. Along with community support, challenges, and coaching now also. 
