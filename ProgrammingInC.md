@@ -38,6 +38,3 @@
 
 - [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) Learn features and constructs for C++
 
-### Free Mentor
-
-- [Free Mentorship ask him any question related to C](https://www.github.com/kunalp78/issues)
