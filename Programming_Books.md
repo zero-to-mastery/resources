@@ -57,6 +57,8 @@
 
 - [Domain-Specific Languages Made Easy](https://www.manning.com/books/domain-specific-languages-made-easy): An early-accses book that shows you how to design and build modern DSLs for business users.
 
+- [High Performance Python for Data Analytics](https://www.manning.com/books/high-performance-python-for-data-analytics/): A book that takes a holistic approach to Python performance, showing you how your code, libraries, and computing architecture interact and can be optimized together.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
