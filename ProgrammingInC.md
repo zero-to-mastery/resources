@@ -1,6 +1,6 @@
 **[Back](/README.md/)**
 
-# Programming in C
+# C Programming
 
 ## Videos
 
