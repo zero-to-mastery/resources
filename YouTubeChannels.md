@@ -189,13 +189,13 @@
 
 - [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w): Jenny’s Lectures CS/IT NET&JRF is a Free YouTube Channel providing Computer Science / Information Technology / Computer-related tutorials including Important Computer Science Tutorials and much more. Their Data Structure and Algorithms playlist is outstanding. It is covered using C Language. The explanation is in such a manner that any newbie can easily grasp the concepts.
 
+- [Inside Code](https://www.youtube.com/channel/UCvLEP7Hu6SHd5a2CWeQXalg/videos): Inside Code creates content about Data Structures and Algorithms in Python programming language.
 
 ## Machine Learning and Data Science
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw):
   3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective(this channel has very good explaination about deep nural Network and CNN)
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q): This channel provides Data Science contents consisting of explainer videos and practical tutorials by Chanin Nantasenamat, Ph.D.
-  
 
 ### Programming Interview Preparation
 
