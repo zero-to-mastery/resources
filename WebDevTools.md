@@ -142,12 +142,14 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Doodad Pattern Generator](https://doodad.dev/pattern-generator/): Highly customizable pattern generator. Can create unique patterns and has a nice shuffle function also.
 
+- [Neumorphism](https://neumorphism.io/): A tool to generate soft-UI CSS code for neumorphic card designs.
+
 ---
 
 ## Web Publishing
 
 - [Surge](https://surge.sh/): Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
-- [Netlify](https://www.netlify.com/): Most used free plateform for static website hosting. Your static website can be anything ranging from simple HTML, CSS, JS site, React, Vue, Angular, Nuxt.js and many more. You can also install netlify-cli with which you can deploy your site from command line.You can also host your site residing on github as repo. 
+- [Netlify](https://www.netlify.com/): Most used free plateform for static website hosting. Your static website can be anything ranging from simple HTML, CSS, JS site, React, Vue, Angular, Nuxt.js and many more. You can also install netlify-cli with which you can deploy your site from command line.You can also host your site residing on github as repo.
 
 ---
 
