@@ -30,6 +30,8 @@
 
 - [MOOC.FI](https://www.mooc.fi/en/): The courses are offered by University of Helsinki's Department of Computer Science. No prior knowledge is required-beginners can start to learn programming basics from the Programming with Java course, or start to get familiar with artificial intelligence from the course Elements of Ai.
 
+- [700 Free Online Programming & Computer Science Courses You Can Start This October](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/free-online-programming-cs-courses/amp/): This frequently updated site provides a plethora of online programming and computer science courses that you can start today. Courses are provided by a global range of universities and learning resources such as Rice University, Tel Aviv University, Coursera, W3C, and so much more!  
+
 ## Computer Science
 
 - [OSSU](https://github.com/ossu/computer-science): The OSSU curriculum is a **complete education in computer science** using online materials. It's not merely for career training or professional development. It's for those who want a proper, _well-rounded_ grounding in concepts fundamental to all computing disciplines,and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
