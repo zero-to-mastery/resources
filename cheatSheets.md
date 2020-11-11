@@ -45,3 +45,5 @@
 
 -[Unix Cheat Sheet](http://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/unix_cheatsheet.html): Unix Cheat Sheet.
 
+-[Flutter Cheat Sheet](https://howtodothisinflutter.com/): basic flutter commands and sample code
+
