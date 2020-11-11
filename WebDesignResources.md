@@ -32,6 +32,8 @@
 
 - [FontPair](https://fontpair.co/): Font Pair is a typography website with a variety of font pairing suggestions.
 
+- [Devchallenges](https://devchallenges.io/): A platform where you can practice your web design skills using HTML, CSS & Javascript as an individual or as a team, submitting your solutions and give feedback.
+
 ## Images &amp; Video
 
 - [AllTheFreeStock](http://allthefreestock.com/): A central place to search for free stock photos and videos.
@@ -60,7 +62,43 @@
 
 - [Image Colorizer](https://imagecolorizer.com/): Picture Colorizer that adds color to your black and white pictures.
 
--[NASA Image and Video Library](https://images.nasa.gov): Nasa released a huge free library of their high-resolution photos, videos and sounds.
+- [NASA Image and Video Library](https://images.nasa.gov): Nasa released a huge free library of their high-resolution photos, videos and sounds.
+
+- [Pxfuel](https://www.pxfuel.com/): Royalty free stock photos free & unlimited download
+
+- [Stocksy](https://www.stocksy.com/): Relentlessly Creative Stock Photos and Videos.
+
+- [Openphoto](https://www.openphoto.net): Curated Open source photos.
+
+- [Rawpixel](https://www.rawpixel.com):
+  Free Stock Images, Vectors & PSD Mockups.
+
+- [Stocksnap.io](https://stocksnap.io/): Beautiful free stock photos.
+
+- [Isorepublic](https://isorepublic.com/): Thousands of Free High-Resolution CC0 Photos and Videos.
+
+- [Plixs](https://wallpapers.io/):
+  Beautiful High Definition HD Wallpapers.
+
+- [Librestock](https://librestock.com/): Thousands of Free High-Resolution CC0 Photos and Videos.
+
+- [Visualhunt](https://visualhunt.com/): Free high quality stock photos.
+
+- [Reshot](https://www.reshot.com):
+  : Uniquely Free Photos -
+  Find tons of handpicked, non-stocky images.
+
+- [Negativespace](https://negativespace.co/):
+  : Beautiful, High-Resolution Free Stock Photos
+
+- [Altphotos](https://altphotos.com/):
+  : Beautiful high quality free photos to visually empower their projects.
+
+- [Freephotos](https://freephotos.cc):
+  : Free beautiful stock photos with Creative Commons (CC) licensing
+
+- [Stockio](https://www.stockio.com/):
+  : Free Photos, Vectors, Icons, Fonts and Videos for personal and commercial use
 
 ## Color Palettes
 
@@ -86,10 +124,7 @@
 
 - [Bootstrap Colors](https://getbootstrap.com/docs/4.4/getting-started/theming/#available-variables) Ever wanted the exact hex codes for Bootstrap's "primary", "warning", "danger", etc. classes? Here they are!
 
-- [ColorSpace](https://mycolor.space/): A color palette generator. Enter a color code and generate a variety of color palettes and gradients. 
-
-
-
+- [ColorSpace](https://mycolor.space/): A color palette generator. Enter a color code and generate a variety of color palettes and gradients.
 
 ## Icons &amp; Graphics
 
@@ -129,14 +164,13 @@
 
 - [Avataars](https://avataaars.com/): Mix and Match avatar illustrations.
 
-- [CoolBackgrounds](https://coolbackgrounds.io/): Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites. 
+- [CoolBackgrounds](https://coolbackgrounds.io/): Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites.
 
 - [CSS Matic](https://www.cssmatic.com/): The ultimate CSS tools for web designers. Tools to create gradient generator, border radius, noise texture, and box shadow.
 
 - [Trianglify.io](https://trianglify.io/): Tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
 
 - [Icons8](https://icons8.com/): Free icons, photos, and other. Ideal for finding icons with consistent and editable style.
-
 
 ## Illustrations
 
