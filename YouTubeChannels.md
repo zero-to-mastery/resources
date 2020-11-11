@@ -61,6 +61,8 @@
 
 * [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) Mostly does React tutorial. High quality content (English)
 
+* [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA): Short videos about almost all modern tech like GraphQL, Fauna, React etc.
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
@@ -159,6 +161,8 @@
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q): Learn web development, web design, 3d modelling, tools like figma and more without getting bored!
   The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!
 
+- [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ): These guys teach Full-Stack Web Development through a Project based approach.
+
 ### Front-End/Design
 
 - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials.
@@ -229,5 +233,11 @@
 -[99Bitcoins](https://www.youtube.com/channel/UCQQ_fGcMDxlKre3SEqEWrLA): This is a perfect channel for the one's who are keen to learn more about cryptocurrencies like Bitcoin, Ether, etc.
 
 - [DappUniversity](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ): Dapp university is for those who are heading towards Blockchain development, that is, the development of Decentralized Applications(Dapps).These are basically websites built over blockchain.
+
+## Game Development
+
+- [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA): Talks about implementations of C++ in Game Development, Networking and many more.
+
+- [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw): Focuses mainly on Game Development and related topics like C++ and Git.
 
 **[Back To Top](#youtube-channels)**
