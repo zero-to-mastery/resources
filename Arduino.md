@@ -11,6 +11,7 @@ Arduino is an open-source hardware and software company, project and user commun
 - [ElectronicsHub](https://www.electronicshub.org/arduino-tutorial/): Example projects and basic Arduino tutorials. 
 - [Arduino forums](https://forum.arduino.cc/): Official Arduino forums
 - [StackExchange](https://arduino.stackexchange.com/) Ask questions and get guidance from a wide community of Arduino enthusiasts. 
+- [Arduino Projects for Beginners to Advanced](https://create.arduino.cc/projecthub): Provides a list of really cool and fun projects for programmers and engineers of all levels to try.
 
 ## Video Tutorials
 
