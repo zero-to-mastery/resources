@@ -14,3 +14,6 @@
 ## React Video course(Free)
 
 -[The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react): This course is for React newbies and anyone looking to build a solid foundation. It’s designed to teach you everything you need to start building web applications in React right away.
+
+## Articles
+-[Setting up React Redux App For Production](https://medium.com/@gobindathakur/setting-up-react-redux-application-for-production-and-hosting-in-aws-ec2-8bbb8bf3c643): Setting up React Redux application for production and hosting in AWS EC2.
