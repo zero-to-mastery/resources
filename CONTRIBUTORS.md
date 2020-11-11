@@ -198,3 +198,6 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@chintans357](https://github.com/chintans357)
 - [@JZerman2018](https://github.com/JZerman2018)
 - [@NorahJC](https://github.com/NorahJC)
+- [@TR-1000](http://github.com/TR-1000)
+- [@parresh77](https://github.com/parresh77)
+- [@deetoo](https://github.com/deetoo)
