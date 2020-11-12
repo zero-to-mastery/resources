@@ -17,3 +17,6 @@
 
 ## Articles
 -[Setting up React Redux App For Production](https://medium.com/@gobindathakur/setting-up-react-redux-application-for-production-and-hosting-in-aws-ec2-8bbb8bf3c643): Setting up React Redux application for production and hosting in AWS EC2.
+
+## React Tutorial for Beginners(Free)
+-[React Tutorial For Beginners](https://www.youtube.com/watch?v=dGcsHMXbSOA&list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE&pbjreload=101): This react video is aimed for beginners, so if you have never worked with react before this will be a good start.

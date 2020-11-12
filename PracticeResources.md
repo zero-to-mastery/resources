@@ -17,3 +17,5 @@
 - [Frontend Mentor](https://www.frontendmentor.io/): Practice with projects to improve your skills.
 
 - [Dash by General Assembly](https://dash.generalassemb.ly/): Learn to code awesome websites in HTML, CSS, and JavaScript.
+
+- [CSSBattle](https://cssbattle.dev/): A Code-Golfing platform for CSS. Its like competitive programming in frontend development.
