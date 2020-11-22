@@ -41,8 +41,8 @@
 
 - [Common Python Data Structures](https://realpython.com/python-data-structures) Data structures are the fundamental constructs around which you build your programs. Each data structure provides a particular way of organizing data so it can be accessed efficiently, depending on your use case. Python ships with an extensive set of data structures in its standard library.
 
-- [Fork CPP](https://www.geeksforgeeks.org/fork-cpp-course-structure) A good course for beginners
+- [Fork CPP](https://www.geeksforgeeks.org/fork-cpp-course-structure) A good course for beginners.
 
-- [EDU](https://codeforces.com/edu/course/2) Advanced course
+- [EDU](https://codeforces.com/edu/course/2) Advanced course.
 
-- [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) Learn features and constructs for C++
+- [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) Learn features and constructs for C++.

@@ -204,3 +204,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@TR-1000](http://github.com/TR-1000)
 - [@parresh77](https://github.com/parresh77)
 - [@deetoo](https://github.com/deetoo)
+- [@Loriel-S](https://github.com/Loriel-S)
