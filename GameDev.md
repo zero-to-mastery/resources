@@ -19,7 +19,7 @@
 ### Documentations/Community:
 - [How Did They Code It](https://www.reddit.com/r/howdidtheycodeit/): A sub-reddit for begginers/intermediate game developers where you can ask by sharing videos/links of specific game events, it will really help you in learning game development.
 - [Indie Game Developers](https://www.facebook.com/groups/IndieGameDevs/about/): A facebook group with 120k+ members who help you if your stuck in your project or for networking and get to know about their stories.
-- [gamedev](https://www.reddit.com/r/gamedev/): A subreddit with 490k+ members ,where you get to know about game development, programming, design, writing, math, art, jams, postmortems, marketing.
+- [gamedev](https://www.reddit.com/r/gamedev/): A subreddit with 490k+ members ,where you get to know about game development, programming, design, writing, math, art, jams, postmortems and marketing.
 - [Mirror Networking](https://mirror-networking.com/docs/): Netwokring documentations which are best to learn how to implement multiplayer game features in your project.
 - [ARCore](https://developers.google.com/ar/develop/unity): Documentation to implement AR using Unity.
 - [ML Agents](https://www.immersivelimit.com/tutorials/unity-ml-agents-tutorial-list): Tutorials on ML agents.

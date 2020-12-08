@@ -14,13 +14,13 @@
 
 - [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf): Everything you need to know about Markdown laid out in a PDF format.
 
-- [GitHub Emoji Cheatsheet](https://gist.github.com/rxaviers/7360908): A complete list of GitHub markdown emoji markup (for use in your comments, repo description, GitHub status etc.). 
+- [GitHub Emoji Cheatsheet](https://gist.github.com/rxaviers/7360908): A complete list of GitHub markdown emoji markup (for use in your comments, repo description, GitHub status etc). 
 
 - [Flexbox Cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html): A brilliant visual resource for mastering CSS flexbox.
 
 - [CSS Grid Cheatsheet](http://grid.malven.co): Learn all about the properties available in CSS Grid Layout through simple visual examples.
 
-- [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/): The most relevant Emmet syntax for faster HTML coding
+- [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/): The most relevant Emmet syntax for faster HTML coding.
 
 - [CSS Cheatsheet](http://overapi.com/css): List of elements, selectors, and styles with relevent links to thier MDN pages.
 
@@ -45,5 +45,5 @@
 
 -[Unix Cheat Sheet](http://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/unix_cheatsheet.html): Unix Cheat Sheet.
 
--[Flutter Cheat Sheet](https://howtodothisinflutter.com/): basic flutter commands and sample code
+-[Flutter Cheat Sheet](https://howtodothisinflutter.com/): Basic flutter commands and sample code
 
