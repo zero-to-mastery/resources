@@ -34,6 +34,8 @@
 
 - [Markdown Emoji's](https://github.com/StuartDaniells/Markdown_Emoji-s_List): One stop for all your favorite Emoji's using Markdown.
 
+- [Syntax Highlighting in Markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown): A list of languages that support syntax highlighting in Markdown fenced code blocks.
+
 ## Open Source Coding on GitHub
 
 - [Choose A License](https://choosealicense.com/): A brief guide / repository of various licenses one could use in their open source projects.
