@@ -205,3 +205,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@parresh77](https://github.com/parresh77)
 - [@deetoo](https://github.com/deetoo)
 - [@Loriel-S](https://github.com/Loriel-S)
+- [@coolphynix](https://github.com/coolphynix)
