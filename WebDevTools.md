@@ -151,6 +151,10 @@ Things to look for if your editor has implementations for them. They will make y
 - [Surge](https://surge.sh/): Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
 - [Netlify](https://www.netlify.com/): Most used free plateform for static website hosting. Your static website can be anything ranging from simple HTML, CSS, JS site, React, Vue, Angular, Nuxt.js and many more. You can also install netlify-cli with which you can deploy your site from command line.You can also host your site residing on github as repo.
 
+- [Vercel](https://vercel.com/): A cloud platform to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.
+
+- [Heroku](https://www.heroku.com/): Another cloud platform to deploy, manage and scale modern web apps.
+
 ---
 
 ## General Development Tools
