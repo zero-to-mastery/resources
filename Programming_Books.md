@@ -59,6 +59,8 @@
 
 - [Domain-Specific Languages Made Easy](https://www.manning.com/books/domain-specific-languages-made-easy): An early-accses book that shows you how to design and build modern DSLs for business users.
 
+- [The Programmer's Brain](https://www.manning.com/books/the-programmers-brain): An early-accses book that explains what cognitive processes happen in your brain when you program. The book teaches a wide variety of techniques to improve programming skills based on cognitive science.
+
 - [High Performance Python for Data Analytics](https://www.manning.com/books/high-performance-python-for-data-analytics/): A book that takes a holistic approach to Python performance, showing you how your code, libraries, and computing architecture interact and can be optimized together.
 
 ## React
