@@ -34,3 +34,5 @@ subjects such as: HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, W3.CSS,
 * [**SoloLearn**] (https://www.sololearn.com/Courses/) : Great free resource to learn several different programming languages. Along with community support, challenges, and coaching now also. 
 
 * [**Visualize Code Execution**](http://pythontutor.com/): Visualize Python, Java, JavaScript, C, C++, Ruby code execution.
+
+* [**Internetingishard.com**](https://www.internetingishard.com/): Friendly web development tutorials for complete beginners; Learn HTML & CSS for free.
