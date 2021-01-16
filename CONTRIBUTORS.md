@@ -206,3 +206,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@deetoo](https://github.com/deetoo)
 - [@Loriel-S](https://github.com/Loriel-S)
 - [@coolphynix](https://github.com/coolphynix)
+- [@PugConDoin](https://github.com/pugcondoin)
