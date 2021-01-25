@@ -172,6 +172,16 @@
 
 - [Icons8](https://icons8.com/): Free icons, photos, and other. Ideal for finding icons with consistent and editable style.
 
+## Page and Button Effects, Hover effects
+
+- [Frosted Glass Effect] (https://www.google.com/search?q=how+to+make+a+page+frosted+using+css&rlz=1C1CHBF_enUS795US796&oq=how+to+make+a+page+frosted+using+css&aqs=chrome..69i57.8310j1j15&sourceid=chrome&ie=UTF-8) : How to make the frosted glass effect on web pages using CSS.
+
+- [Shiny glass button hover effects] (https://codepen.io/bikashpanda/pen/MMqWBO) and (https://www.youtube.com/watch?v=uNjfslp6Qnc&list=PLFUX-tuB333av2MQWAeLIBRnRn5SZt8sm&index=89) : Two links to show how to make a nice glass button hover effect. The second link is a video.
+
+- [Shiny Button Hover Effects] (https://www.youtube.com/watch?v=XYZlMVocjwE) : A different Shiny glass looking hover effect for buttons instructional video.
+
+- [Button hover diagnonal shine effect] (https://www.youtube.com/watch?v=JB6AEy3PCdw) : This video shows you how to create a diagonal glass shimmer effect on buttons when hovering.
+
 ## Illustrations
 
 - [Stories By Freepik](http://stories.freepik.com/): Get Customised illustrations.
