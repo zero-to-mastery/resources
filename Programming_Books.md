@@ -63,6 +63,10 @@
 
 - [High Performance Python for Data Analytics](https://www.manning.com/books/high-performance-python-for-data-analytics/): A book that takes a holistic approach to Python performance, showing you how your code, libraries, and computing architecture interact and can be optimized together.
 
+- [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally-ebook/dp/B01M01YDQA/ref=sr_1_2?crid=273PAXIGYP2RO&dchild=1&keywords=the+self+taught+programmer&qid=1610951473&sprefix=the+self+taugh%2Caps%2C288&sr=8-2): A book about a self-taught python developer who managed to study programming on his own and get a job at eBay after a year. This book includes basic information about python as well as some more advanced topics. There are examples of code, the writer helps you create fun programs and teaches you what they do. This is a great book for entry level python developers, however it may be handy even for more advanced readers.
+
+- [Introduction to Programming in Java: An Interdisciplinary Approach](https://www.amazon.com/Introduction-Programming-Java-Interdisciplinary-Approach/dp/0672337843/ref=as_li_ss_tl?ie=UTF8&qid=1513867682&sr=8-1-fkmr0&keywords=intro+to+java+programming+sedgewick&linkCode=sl1&tag=introcs-20&linkId=3a3c7675a2dcd617dc61653624f721a3): An amazing book that teaches the reader basics of programming. The book teaches Java language, however the knowledge gained from the book can be applied in most languages. This book is amazing because it teaches not only how to write code, but goes deeper in explaning how computers work and why they do what they do. The book assumes that the reader has some knowledge of mathematics, so if you don't know math it may be slightly difficult.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
