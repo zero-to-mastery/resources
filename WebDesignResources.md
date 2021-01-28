@@ -99,7 +99,10 @@
 
 - [Stockio](https://www.stockio.com/):
   : Free Photos, Vectors, Icons, Fonts and Videos for personal and commercial use
-
+  
+- [Imageonline.com](https://crop-circle.imageonline.co/):
+  : Free circular crop tool at link. Must use JPEG files for image editing, plus many more free tools!
+  
 ## Color Palettes
 
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
