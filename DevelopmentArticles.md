@@ -27,3 +27,5 @@
 - [**Introduction to Source Maps -- Matt West**](https://blog.teamtreehouse.com/introduction-source-maps ): Article explains about how the source map works.
 
 - [**What is Software Development? -- IBM**](https://www.ibm.com/topics/software-development): A more academic explanation of the software development process from tech juggernaut IBM. 
+
+- [Rest API](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/): Best practices for REST API design 
