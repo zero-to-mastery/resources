@@ -75,8 +75,6 @@
 
 - [GeeksforGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ): GeeksforGeeks is one of the largest portal for computer science students and professional housing nearly every concept in great detail in data structure, algorithms, operating systems, languages like C++, Java etc. Check out the website [GeekforGeeks](https://www.geeksforgeeks.org)
 
-- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): CS Dojo is a channel with mostly programming and computer science videos. [CS Dojo](https://www.csdojo.io/)
-
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): Siraj Raval is on a mission of data literacy. Artificial Intelligence, Mathematics, Science, Technology, he simplfies these topics to help you understand how they work. Using his knowledge you can build wealth and live a happier, more meaningful life. He is the part of the fastest growing AI community in the world! He is also a Data Scientist, AI Educator, Rapper, Author, Speaker, and Founder of the School of AI.
 
 - [Code with Ania Kubów #JavaScriptGames](https://www.youtube.com/c/AniaKub%C3%B3w): Learn JavaScript,
@@ -84,7 +82,6 @@
 
 ## Musings
 
-- [Computerphile](https://www.youtube.com/user/Computerphile): Host Brady Haran interviews experts about topics in computer science.
 
 ### Talks/Conferences
 

@@ -36,8 +36,6 @@
 
 - [Python Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Python-Cheat-Sheet-by-CodeConquestDOTcom.jpg): An unoffical guide to the essentials of coding in Python
 
-- [Big O Cheat Sheet](http://biercoff.com/content/images/2016/07/Screenshot-2016-07-15-16-16-10.png): Big O chart and data structures operation, Everything here
-
 - [Pycharm cheat sheet](https://www.pngkey.com/maxpic/u2e6w7q8r5w7q8o0/): Be a pycharm master with these helpful stuffs present in there.
 
 - [Big O Cheat Sheet](http://biercoff.com/content/images/2016/07/Screenshot-2016-07-15-16-16-10.png): Big O chart and data structures operation, Everything here.
