@@ -24,6 +24,8 @@
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/): Carefully curated content to help you ace your next technical interview!
+
 ### Guides
 
 - [How to Write A Killer Software Engineering Résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d): A fantastic breakdown of the essential components that make up a résumé. The impact statements within the **_Employment_** and **_Project_** sections in particular are especially worthwhile. Highly recommended as virtually every company requires them, whether or not you use résumés to get your job.
@@ -42,7 +44,7 @@
 
 ### Interviewing Tools
 
-- [Adaface](https://www/adaface.com/pair-pro): Remote pair programming interviewing tool with shared code editor, compiler and video conferencing. 
+- [Adaface](https://www/adaface.com/pair-pro): Remote pair programming interviewing tool with shared code editor, compiler and video conferencing.
 
 - [Gainlo](http://www.gainlo.co/#!/): A free tool, similar to [Interviewing.io](https://interviewing.io/), where one can hone their interviewing skills (technical and soft) through mock interviews with engineers from established tech companies - think Google, AirBnB, Amazon, Facebook, Dropbox, etc. - and receive real feedback on how one can improve. Great for those who care more about their privacy than they do their anonymity.
 
@@ -69,3 +71,7 @@
 - [CodeChef](https://www.codechef.com/): CodeChef was created as a platform to help programmers make it big in the world of algorithms, computer programming, and programming contests.
 
 - [Medium Article](https://medium.com/swlh/interview-preparation-that-helped-me-get-multiple-offers-during-the-lockdown-54675bae8bed): Medium article about interview experience.
+
+-[Edabit](https://edabit.com): A beginner friendly platform for starting out with code challenges.
+
+-[Coding Bat](https://codingbat.com/java): A beginner friendly platform to start out programming challenges in Java and/or Python!

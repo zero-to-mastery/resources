@@ -19,6 +19,7 @@
 
 - [SE Radio](https://www.se-radio.net/)
 - [PHP Roundtable](https://www.phproundtable.com/)
+- [Laravel Portugal Live](https://laravelportugal.simplecast.fm/) - @joselaborges
 - [PHP Architects](https://www.phparch.com/podcast/)
 - [DevMode.fm](https://devmode.fm/)
 - [Coding Blocks](https://www.codingblocks.net/)
@@ -42,6 +43,7 @@
 
 - [Google Cloud Platform Podcast](https://www.gcppodcast.com/): The Google Cloud Platform Podcast, discussing everything on Google Cloud Platform from App Engine to Big Query. Coming to you every week.
 - [Kubernetes Podcast from Google](https://kubernetespodcast.com/): A weekly podcast focused on what's happening in the Kubernetes community covering Kubernetes, cloud-native applications, and other developments in the Kubernetes community. Co-hosts Adam Glick and Craig Box. 
+- [Microsoft Cloud Show](http://www.microsoftcloudshow.com/podcast): A weekly podcast on Microsoft Cloud and its applications. 
 
 ## Design
 
@@ -95,3 +97,4 @@
 
 - [Base.cs Podcast](https://www.codenewbie.org/basecs): Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
 - [Software Engineering daily](https://softwareengineeringdaily.com/) Software development topics including technical interviews.
+- [No BS Engineering](https://nobsengineering.com/): General career advice for beginner to intermediate-level coders. 

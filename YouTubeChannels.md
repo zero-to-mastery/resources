@@ -22,8 +22,8 @@
 
 * [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube): An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog.
 
-* [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn.
-At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com.
+* [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn (Mostly Hindi Tutorials).
+  At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com.
 
 * [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): All type of fun content and also he left Google.
 
@@ -55,6 +55,16 @@ At Code With Harry, he provide a quick and to the point demo along with resource
 
 * [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw): CJ does live streams about full stack web development showcasing a wide variety of frameworks and technologies. In the streams, he shows step by step how to use those tools in creating projects. He also has tutorials about topics related to web development.
 
+* [Corey Schafer](https://www.youtube.com/c/Coreyms): Has tutorials for (mostly) python. But it has a bunch of other useful gems as well, like SQL, Git, termial, and a few others. H
+
+* [Java Brains](https://www.youtube.com/c/JavaBrainsChannel): Has Java & Javascript tutorials.
+
+* [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) Mostly does React tutorial. High quality content (English)
+
+* [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA): Short videos about almost all modern tech like GraphQL, Fauna, React etc.
+
+* [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ): Different topics related to programming such as python, java, linux, etc. The channel doesn't feature many tutorials, however Kalle gives ideas, motivation and quality videos.
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
@@ -65,13 +75,13 @@ At Code With Harry, he provide a quick and to the point demo along with resource
 
 - [GeeksforGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ): GeeksforGeeks is one of the largest portal for computer science students and professional housing nearly every concept in great detail in data structure, algorithms, operating systems, languages like C++, Java etc. Check out the website [GeekforGeeks](https://www.geeksforgeeks.org)
 
-- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): CS Dojo is a channel with mostly programming and computer science videos. [CS Dojo](https://www.csdojo.io/)
-
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): Siraj Raval is on a mission of data literacy. Artificial Intelligence, Mathematics, Science, Technology, he simplfies these topics to help you understand how they work. Using his knowledge you can build wealth and live a happier, more meaningful life. He is the part of the fastest growing AI community in the world! He is also a Data Scientist, AI Educator, Rapper, Author, Speaker, and Founder of the School of AI.
+
+- [Code with Ania Kubów #JavaScriptGames](https://www.youtube.com/c/AniaKub%C3%B3w): Learn JavaScript,
+  React, Html, CSS and Express by making retro game in these tutorials.
 
 ## Musings
 
-- [Computerphile](https://www.youtube.com/user/Computerphile): Host Brady Haran interviews experts about topics in computer science.
 
 ### Talks/Conferences
 
@@ -148,7 +158,9 @@ At Code With Harry, he provide a quick and to the point demo along with resource
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw/): Kyle Cook's channel is full of videos about the most useful tools in modern web development, from HTML and CSS to database structure and even AI development for web pages; but it focuses heavily on Javascript and all the tools related with it: NodeJS, React, Express, MongoDB, the recent Deno and many more.
 
 - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q): Learn web development, web design, 3d modelling, tools like figma and more without getting bored!
-The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!
+  The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!
+
+- [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ): These guys teach Full-Stack Web Development through a Project based approach.
 
 ### Front-End/Design
 
@@ -166,17 +178,28 @@ The goes of this channel is to get you to become as creative you can be! So if y
 
 - [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw): DarkCode is a channel for Learning Web Designs, Websites Building, Ui Designs Using Only HTML5 And CSS3 and some Javascript. If you love creative designs and amazing animations, please do follow him.
 
+- [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw): Codevolution is a channel for learning front end web development.The React series on this channel is one of the best react tutorials out there.It also has tutorials on Angular, ES6 and basic HTML & CSS please do follow him.
+
+- [Online web ustaad](https://www.youtube.com/channel/UC8xTHK97Ng__KZvGcO_K7CA): A great channel for learning various 'Web Design & Development' skills. A channel where you can boost up your creativity and learn to build some High end Creative websites.
+
 ## Data Structures and Algorithms
 
 - [mycodeschool](https://www.youtube.com/user/mycodeschool): MyCodeSchool is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++.
 
 - [Apni Kaksha](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s): Apni kaksha is a channel for Learning Data structures, Programming Interview Questions, Algorithms, Recursion, Time Complexity Analysis, Mathematics for Programmers and pointers in c/c++ and all interview related stuffs.
 
+- [Naresh i Technologies](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j): Naresh i Technologies is a channel to learn various programming languages and these video tutorials are used to learn and to be good at all the Data Structure Algorithms with their implementations in C programming language in a very clear manner.
 
+- [Jenny's lectures CS/IT NET&JRF](https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w): Jenny’s Lectures CS/IT NET&JRF is a Free YouTube Channel providing Computer Science / Information Technology / Computer-related tutorials including Important Computer Science Tutorials and much more. Their Data Structure and Algorithms playlist is outstanding. It is covered using C Language. The explanation is in such a manner that any newbie can easily grasp the concepts.
+
+- [Inside Code](https://www.youtube.com/channel/UCvLEP7Hu6SHd5a2CWeQXalg/videos): Inside Code creates content about Data Structures and Algorithms in Python programming language.
+
+- [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA): Apna College is a channel for Data structure and algorithms in c++ and web development. 
 ## Machine Learning and Data Science
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw):
   3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective(this channel has very good explaination about deep nural Network and CNN)
+- [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q): This channel provides Data Science contents consisting of explainer videos and practical tutorials by Chanin Nantasenamat, Ph.D.
 
 ### Programming Interview Preparation
 
@@ -185,6 +208,7 @@ The goes of this channel is to get you to become as creative you can be! So if y
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
+- [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
 - [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 
 ## Cybersecurity and Capture the Flag
@@ -194,8 +218,8 @@ The goes of this channel is to get you to become as creative you can be! So if y
 - [HackerSploit](https://m.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
 
 ### Capture the Flag
-- [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
 
+- [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
 
 
 **[Back To Top](#youtube-channels)**

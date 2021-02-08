@@ -12,6 +12,7 @@
 - [Android Kotlin Fundamentals](https://developer.android.com/courses/kotlin-android-fundamentals/overview): In the course, you learn Android Kotlin programming concepts and build a variety of apps.
 - [Material Design](https://material.io/design): Documentation for designing Layout in android.It helps to build high quality experience for Android.Do you want to make a beautiful UI? ,Start here!
 - [Launch Mode](https://android.jlelse.eu/android-activity-launch-mode-e0df1aa72242): Instructions for Android OS which specifies how the activity should be launched.
+- [Kotlin Coroutine](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb): Best practice to simplify async code in android.
 
 ## iOS
 - [Apple Doc](https://developer.apple.com/documentation/): Browse the latest developer documentation, including tutorials, sample code, articles, and API reference.
@@ -27,4 +28,6 @@
 - [Dart](https://dart.dev/): Dart is the programming language used in flutter.
 - [Dart tutorials](https://dart.dev/tutorials): These tutorials teach you how to use the Dart language, tools, and APIs to build applications.
 - [How to do this in flutter](https://howtodothisinflutter.com/): This site provide cheat sheets for flutter and dart.
-- [Free flutter resources](https://github.com/londonappbrewery/Flutter-Course-Resources): Demo apps to get you started.                                     
+- [Free flutter resources](https://github.com/londonappbrewery/Flutter-Course-Resources): Demo apps to get you started.    
+- [Bloc pattern](https://www.raywenderlich.com/4074597-getting-started-with-the-bloc-pattern): Flutter architectural pattern used to make the code scalable.This is a state management handling practice.  
+- [Factory method](https://medium.com/flutter-community/flutter-design-patterns-10-factory-method-c53ad11d863f): Factory method design pattern is a good practice to instantiate the class based on the parameters.                              

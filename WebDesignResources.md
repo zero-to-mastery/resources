@@ -24,7 +24,15 @@
 
 - [Sean Halpin](http://seanhalpin.io/): A professional web designer/developer's award winning portfolio website.
 
-- [Tailwind Css](https://tailwindcss.com/): Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+- [Tailwind CSS](https://tailwindcss.com/): Tailwind CSS is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+
+- [Tailblocks](https://mertjf.github.io/tailblocks/): Ready-to-use Tailwind CSS blocks. This project provides multiple templates built using Tailwind CSS that you can use in your own projects.
+
+-[Atomic Design book](https://atomicdesign.bradfrost.com): You can order or read the book online. ...creating and maintaining robust design systems, higher quality, more consistent UIs. This book introduces a methodology for thinking of our UIs as thoughtful hierarchies, discusses the qualities of effective pattern libraries, and showcases techniques to transform your team's design and development workflow.
+
+- [FontPair](https://fontpair.co/): Font Pair is a typography website with a variety of font pairing suggestions.
+
+- [Devchallenges](https://devchallenges.io/): A platform where you can practice your web design skills using HTML, CSS & Javascript as an individual or as a team, submitting your solutions and give feedback.
 
 ## Images &amp; Video
 
@@ -40,6 +48,8 @@
 
 - [PlaceIMG](http://www.placeimg.com/): Gives you a URL that generates a new random placeholder image every time.
 
+- [Public Domain Vectors](https://publicdomainvectors.org/en/): Free vector images in the public domain, searchable by category or keyword, includes svg generator
+
 - [StickPNG](http://www.stickpng.com/): An excellent source for PNG images if you need something that is re-sizable and can be set to transparent.
 
 - [TinyPNG](https://tinypng.com/): An online tool that can compress PNGs and JPGs to reduce filesize. Also available as Photoshop and Wordpress Plugin.
@@ -50,6 +60,49 @@
 
 - [Videvo](https://www.videvo.net/): Free stock videos.
 
+- [Image Colorizer](https://imagecolorizer.com/): Picture Colorizer that adds color to your black and white pictures.
+
+- [NASA Image and Video Library](https://images.nasa.gov): Nasa released a huge free library of their high-resolution photos, videos and sounds.
+
+- [Pxfuel](https://www.pxfuel.com/): Royalty free stock photos free & unlimited download
+
+- [Stocksy](https://www.stocksy.com/): Relentlessly Creative Stock Photos and Videos.
+
+- [Openphoto](https://www.openphoto.net): Curated Open source photos.
+
+- [Rawpixel](https://www.rawpixel.com):
+  Free Stock Images, Vectors & PSD Mockups.
+
+- [Stocksnap.io](https://stocksnap.io/): Beautiful free stock photos.
+
+- [Isorepublic](https://isorepublic.com/): Thousands of Free High-Resolution CC0 Photos and Videos.
+
+- [Plixs](https://wallpapers.io/):
+  Beautiful High Definition HD Wallpapers.
+
+- [Librestock](https://librestock.com/): Thousands of Free High-Resolution CC0 Photos and Videos.
+
+- [Visualhunt](https://visualhunt.com/): Free high quality stock photos.
+
+- [Reshot](https://www.reshot.com):
+  : Uniquely Free Photos -
+  Find tons of handpicked, non-stocky images.
+
+- [Negativespace](https://negativespace.co/):
+  : Beautiful, High-Resolution Free Stock Photos
+
+- [Altphotos](https://altphotos.com/):
+  : Beautiful high quality free photos to visually empower their projects.
+
+- [Freephotos](https://freephotos.cc):
+  : Free beautiful stock photos with Creative Commons (CC) licensing
+
+- [Stockio](https://www.stockio.com/):
+  : Free Photos, Vectors, Icons, Fonts and Videos for personal and commercial use
+  
+- [Imageonline.com](https://crop-circle.imageonline.co/):
+  : Free circular crop tool at link. Must use JPEG files for image editing, plus many more free tools!
+  
 ## Color Palettes
 
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
@@ -73,6 +126,8 @@
 - [Picular](https://picular.co/): A Pinterest-style website that allows you to search for any color either through text or HEX color value. It's like, "Google, but for colors."
 
 - [Bootstrap Colors](https://getbootstrap.com/docs/4.4/getting-started/theming/#available-variables) Ever wanted the exact hex codes for Bootstrap's "primary", "warning", "danger", etc. classes? Here they are!
+
+- [ColorSpace](https://mycolor.space/): A color palette generator. Enter a color code and generate a variety of color palettes and gradients.
 
 ## Icons &amp; Graphics
 
@@ -112,7 +167,23 @@
 
 - [Avataars](https://avataaars.com/): Mix and Match avatar illustrations.
 
-- [SVG Artista](https://svgartista.net/): Create web loader of your own logo.
+- [CoolBackgrounds](https://coolbackgrounds.io/): Cool Backgrounds is a collection of tools to create compelling, colorful images for blogs, social media, and websites.
+
+- [CSS Matic](https://www.cssmatic.com/): The ultimate CSS tools for web designers. Tools to create gradient generator, border radius, noise texture, and box shadow.
+
+- [Trianglify.io](https://trianglify.io/): Tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
+
+- [Icons8](https://icons8.com/): Free icons, photos, and other. Ideal for finding icons with consistent and editable style.
+
+## Page and Button Effects, Hover effects
+
+- [Frosted Glass Effect](https://www.google.com/search?q=how+to+make+a+page+frosted+using+css&rlz=1C1CHBF_enUS795US796&oq=how+to+make+a+page+frosted+using+css&aqs=chrome..69i57.8310j1j15&sourceid=chrome&ie=UTF-8): How to make the frosted glass effect on web pages using CSS.
+
+- [Shiny glass button hover effects](https://codepen.io/bikashpanda/pen/MMqWBO) (and [YouTube link](https://www.youtube.com/watch?v=uNjfslp6Qnc)): Two links to show how to make a nice glass button hover effect. The second link is a video.
+
+- [Shiny Button Hover Effects](https://www.youtube.com/watch?v=XYZlMVocjwE): A different Shiny glass looking hover effect for buttons instructional video.
+
+- [Button hover diagonal shine effect](https://www.youtube.com/watch?v=JB6AEy3PCdw): This video shows you how to create a diagonal glass shimmer effect on buttons when hovering.
 
 ## Illustrations
 

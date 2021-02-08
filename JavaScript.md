@@ -48,6 +48,14 @@
 
 - [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/learn/lecture/10788532?start=0#overview) A comprehensive video course from beginner to mastery with real world projects.
 
+- [Superhero.js](http://superherojs.com/): This page is a collection of the best articles, videos and presentations related to JavaScript.
+
+- [a smarter way to learn ](http://www.asmarterwaytolearn.com/js/index-of-exercises.html): javascript exercises for beginners
+
+- [JavaScript for Complete Beginners - Interactive Tutorial](https://www.learn-js.org/): A short interactive website which has exercises for introducing new programmers to the primary concepts in JavaScript.
+
+- [JavaScript ES6: Scrimba](https://scrimba.com/learn/introtoes6): Learn JavaScript ES6 concepts with this short, interactive course at Scrimba. This includes interactive screencasts so you can learn along with the teacher. This is a pretty unique way of instruction. 
+
 ## Advanced Javascript Articles
 
 - [Exploring Async/Await Functions in JavaScript](https://alligator.io/js/async-functions): Async/await functions, a new addition with ES2017 (ES8), help us even more in allowing us to write completely synchronous-looking code while performing asynchronous tasks behind the scenes.
@@ -72,7 +80,7 @@
 
 - [Gatsby.js](https://www.gatsbyjs.org/): Gatsby is a free and open source framework based on React that helps developers build blazing fast websites and apps.
 
-- [Gatsby.js Course Free (4 hrs)](https://www.youtube.com/watch?v=8t0vNu2fCCM): Gatsby is a framework for creating blazing fast websites and web applications. Powered by React and GraphQL, Gatsby gives you everything you need to build and launch your next project. 
+- [Gatsby.js Course Free (4 hrs)](https://www.youtube.com/watch?v=8t0vNu2fCCM): Gatsby is a framework for creating blazing fast websites and web applications. Powered by React and GraphQL, Gatsby gives you everything you need to build and launch your next project.
 
 - [JavaScript Grammar](http://www.javascriptgrammar.com/?v=bio): JavaScript Grammar is a free e-book created by [JavaScript Teacher](https://twitter.com/js_tut?lang=en). It takes a deep dive into JavaScript fundamentals, discussing concepts like Primitive Types in JavaScript, Type Coercion, Scope, Closures Higher-order Function, Loops, Object Oriented Programming in JavaScript and lots more! Follow the instructions in the link above to get your copy.
 
@@ -88,4 +96,12 @@
 
 - [Prototypes in JS](https://hackernoon.com/prototypes-in-javascript-5bba2990e04b): This article describes about Protypes and its use in JavaScript by Rupesh Mishra
 
-- [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ): Event loop is the secret behind JavaScript’s asynchronous programming. JS executes all operations on a single thread, but using a few smart data structures and gives us the illusion of multi-threading. 
+- [What the heck is the event loop?](https://www.youtube.com/watch?v=8aGhZQkoFbQ): Event loop is the secret behind JavaScript’s asynchronous programming. JS executes all operations on a single thread, but using a few smart data structures and gives us the illusion of multi-threading.
+
+- [threejs](https://threejs.org/): three js documentation and examples
+
+- [Next.js](https://nextjs.org): A top notch framework for React. Covering a lot of features for small and large scale projects. Especially for hybrid static and server-side rendering.
+
+- [Babel](https://babeljs.io): Babel is a JavaScript compiler. Used in almost all JavaScripts projects today.
+
+- [Rome](https://romefrontend.dev): A new frontend toolchain designed to replace Babel, ESLint, webpack, Prettier, Jest, and others. From the creator of Babel and Yarn, Sebastian McKenzie.

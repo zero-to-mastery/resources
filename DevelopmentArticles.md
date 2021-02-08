@@ -25,3 +25,9 @@
 - [**Static vs Dynamic vs SPA - Maximilian Schwarzmüller**](https://www.academind.com/learn/web-dev/dynamic-vs-static-vs-spa/): In this article the author explains different techniques on how to build modern web pages and the pros & cons of each.
 
 - [**Introduction to Source Maps -- Matt West**](https://blog.teamtreehouse.com/introduction-source-maps ): Article explains about how the source map works.
+
+- [**What is Software Development? -- IBM**](https://www.ibm.com/topics/software-development): A more academic explanation of the software development process from tech juggernaut IBM. 
+
+- [Rest API](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/): Best practices for REST API design 
+
+- [Error Message Guidelines](https://www.nngroup.com/articles/error-message-guidelines/): Established wisdom holds that good error messages are polite, precise, and constructive.

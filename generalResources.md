@@ -19,14 +19,20 @@ subjects such as: HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, W3.CSS,
 
 * [**CodePen**](https://codepen.io/): A development environement for front-end designers and developers, to showcasing user-created HTML, CSS and JavaScript code snippets.
 
-* [**CodeShare**](https://codeshare.io/): Quickly share a piece of code with team members in a matter of seconds. 
+* [**CodeShare**](https://codeshare.io/): Quickly share a piece of code with team members in a matter of seconds.
 
 * [**Trello**](https://trello.com/): A web-based Kanban-style application. Manage the objectives, tasks and deadlines in all your projects on a user friendly interface.
 
 * [**Codrops**](https://tympanus.net/codrops/): A website to find cutting edge modern web development templates, useful tutorials and snippets for your next web project
 
-- [StackExchange](https://stackexchange.com/): StackOverflow's less specialized (and oft-overlooked) cousin. Depending on what you're looking for, you can often find help on one of the more specialized StackExchange forums, including the exisitng forums for Aruduino, superusers, and programming challenges (known as "code golf"). 
+- [StackExchange](https://stackexchange.com/): StackOverflow's less specialized (and oft-overlooked) cousin. Depending on what you're looking for, you can often find help on one of the more specialized StackExchange forums, including the exisitng forums for Aruduino, superusers, and programming challenges (known as "code golf").
 
 * [**Educative.io**](https://www.educative.io/learn): A website to find online course at a very cheap price with an interactive way of teaching, reading and practice what you've learned.
 
 * [**Linkedin Learning**](https://www.linkedin.com/learning/me?trk=nav_neptune_learning): Linkedin supplies courses through Linkedin learning that instruct a potpourri of topics which include HTML, CSS, JS etc. Requires Linkedin account.
+
+* [**SoloLearn**] (https://www.sololearn.com/Courses/) : Great free resource to learn several different programming languages. Along with community support, challenges, and coaching now also. 
+
+* [**Visualize Code Execution**](http://pythontutor.com/): Visualize Python, Java, JavaScript, C, C++, Ruby code execution.
+
+* [**Internetingishard.com**](https://www.internetingishard.com/): Friendly web development tutorials for complete beginners; Learn HTML & CSS for free.
