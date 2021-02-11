@@ -45,6 +45,11 @@
 
 - [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition): Supplementing textbook for MIT's 6.0001 Introduction to Computer Science course which is open source. This is book teaches Python programming alongside fundamental computer science theories
 
+- Python For Everybody
+  - [Hardcover](https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126)
+  
+  - [PDF](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
+  
 - [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/): A (Free!) book that compiles programming knowledge and principles from the Original Creators of Unix and other prominent people that have worked on Unix, Linux, C, and more. If you want many, many years of programming wisdom concentrated into one book, this is a good one to pick.
 
 * Here is an article with a bunch of [free eBooks for Web Designers & Web Developers](https://medium.com/web-development-zone/top-free-ebooks-for-web-designers-web-developers-f8c6a70465ad).
