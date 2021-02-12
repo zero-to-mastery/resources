@@ -162,6 +162,8 @@
 
 - [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ): These guys teach Full-Stack Web Development through a Project based approach.
 
+- [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey): With the goal of "making learning C# easier" Tim Corey provides tutorials focusing mainly on .NET discussing a variety of basic to advanced topics along with some project based Full-Stack tutorials. He ensures to explain every single line of code in his tutorials making it extremely easier to follow along with a good understanding. He also has a weekly segment named "dev questions" where he addresses general topics related to programming and about .NET in general.
+
 ### Front-End/Design
 
 - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials.
