@@ -143,6 +143,8 @@
 
 - [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
 
+
+
 ### Full-Stack
 
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire development stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies).
@@ -163,6 +165,10 @@
 - [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ): These guys teach Full-Stack Web Development through a Project based approach.
 
 - [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey): With the goal of "making learning C# easier" Tim Corey provides tutorials focusing mainly on .NET discussing a variety of basic to advanced topics along with some project based Full-Stack tutorials. He ensures to explain every single line of code in his tutorials making it extremely easier to follow along with a good understanding. He also has a weekly segment named "dev questions" where he addresses general topics related to programming and about .NET in general.
+
+
+-[Academind] (https://www.youtube.com/c/Academind/): Featuring full stack web development tutorials every week (Javascript, NodeJS, VueJS,ReactJS). A beginner friendly channel that explain  prerequisites needed for each topic. The videos are short and concised with good command of english. He  explains the nitty gritty of the topic and creative. Always fun to watch.
+
 
 ### Front-End/Design
 
