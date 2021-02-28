@@ -31,3 +31,5 @@
 - [Rest API](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/): Best practices for REST API design 
 
 - [Error Message Guidelines](https://www.nngroup.com/articles/error-message-guidelines/): Established wisdom holds that good error messages are polite, precise, and constructive.
+
+- [Building a Modern React App from Scratch](https://github.com/yakkomajuri/react-from-scratch#readme): Step-by-step tutorial to building a modern React app completely from scratch, using no boilerplate.
