@@ -79,6 +79,8 @@
 
 - [Code with Ania Kubów #JavaScriptGames](https://www.youtube.com/c/AniaKub%C3%B3w): Learn JavaScript,
   React, Html, CSS and Express by making retro game in these tutorials.
+  
+- [Eddie Jaoude](https://www.youtube.com/c/eddiejaoude): Learn about contribution to Open Source and Gitub. Everything according to the motto "Collaboration first, Code second".
 
 ## Musings
 
