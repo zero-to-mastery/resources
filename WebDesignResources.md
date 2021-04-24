@@ -34,6 +34,9 @@
 
 - [Devchallenges](https://devchallenges.io/): A platform where you can practice your web design skills using HTML, CSS & Javascript as an individual or as a team, submitting your solutions and give feedback.
 
+- [Design Checklist](https://www.checklist.design/): A checklist for your design projects.
+
+
 ## Images &amp; Video
 
 - [AllTheFreeStock](http://allthefreestock.com/): A central place to search for free stock photos and videos.
@@ -99,10 +102,10 @@
 
 - [Stockio](https://www.stockio.com/):
   : Free Photos, Vectors, Icons, Fonts and Videos for personal and commercial use
-  
+
 - [Imageonline.com](https://crop-circle.imageonline.co/):
   : Free circular crop tool at link. Must use JPEG files for image editing, plus many more free tools!
-  
+
 ## Color Palettes
 
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
