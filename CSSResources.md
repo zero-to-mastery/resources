@@ -48,10 +48,12 @@
 
 - [Shape Divider](https://www.shapedivider.app/): Shape Divider lets you generate custom shapes to use on your web pages.
 
-- [CSS Nector](https://cssnectar.com/):CSS Nectar is a css website design showcase for web designers and developers. Every day we select the best of the web design and add it to our gallery.
+- [CSS Nector](https://cssnectar.com/):CSS Nectar clearis a css website design showcase for web designers and developers. Every day we select the best of the web design and add it to our gallery.
 
 - [SEGA LOGO FONT](https://www.cufonfonts.com/font/sega-logo-font): The logo of Sega is simply its logotype in dark blue with a white line running through the middle of each letter, which is similar to the logo of CNN. A font called Sega is very similar to the lettering of its logotype. The font is available only in capital letters. You can download the font for free here.
 
-- [CSS Counters](https://www.freecodecamp.org/news/numbering-with-css-counters/): CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using `counter-reset`), and these variables can then be incremented by CSS rule.
+- [CSS Counterrs](https://www.freecodecamp.org/news/numbering-with-css-counters/): CSS counters are used to add counts to elements. The count is added by providing variables that can be initialized (using `counter-reset`), and these variables can then be incremented by CSS rule.
 
 - [CSS Minifier](https://cssminifier.com/): CSS Minifier is an easy way to Minify/Compress your CSS Files. Simple Quick, Fast and absolutely FREE.
+
+-[Sky CSS Tool](http://skycsstool.sourceforge.net/): An online CSS authoring tool, Sky CSS allows you to create CSS classes almost without using handwritten code. A JavaScript-compatible browser is needed for proper functioning.
