@@ -36,3 +36,9 @@ subjects such as: HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, W3.CSS,
 * [**Visualize Code Execution**](http://pythontutor.com/): Visualize Python, Java, JavaScript, C, C++, Ruby code execution.
 
 * [**Internetingishard.com**](https://www.internetingishard.com/): Friendly web development tutorials for complete beginners; Learn HTML & CSS for free.
+  
+* [Scrimba](http://scrimba.com/) Video Tutorials for free, and some to pay for. Comes with weekly dev challenges, which you can win prizes every week if you contribute.
+  
+* [Can I Use](https://caniuse.com/) See what bits of code is compatible with different web browsers and versions.
+
+* [Git Reference](https://git-scm.com/docs) Learn Git, and some of their commands!
