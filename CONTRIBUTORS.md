@@ -210,3 +210,6 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@sashithaf](https://github.com/sashithaf)
 - [@isiakaabd](https://github.com/isiakaabd)
 - [@abdurakhmonoff](https://github.com/abdurakhmonoff)
+- [@Ligottica](https://github.com/Ligottica)
+- [@Goni199](https://github.com/Goni199)
+<
