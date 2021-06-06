@@ -72,6 +72,8 @@
 
 - [Introduction to Programming in Java: An Interdisciplinary Approach](https://www.amazon.com/Introduction-Programming-Java-Interdisciplinary-Approach/dp/0672337843/ref=as_li_ss_tl?ie=UTF8&qid=1513867682&sr=8-1-fkmr0&keywords=intro+to+java+programming+sedgewick&linkCode=sl1&tag=introcs-20&linkId=3a3c7675a2dcd617dc61653624f721a3): An amazing book that teaches the reader basics of programming. The book teaches Java language, however the knowledge gained from the book can be applied in most languages. This book is amazing because it teaches not only how to write code, but goes deeper in explaning how computers work and why they do what they do. The book assumes that the reader has some knowledge of mathematics, so if you don't know math it may be slightly difficult.
 
+- [Professional JavaScript for Web Developers](https://www.wiley.com/en-us/Professional+JavaScript+for+Web+Developers%2C+4th+Edition-p-9781119366447): Even if you think you know JavaScript, new ES releases bring big changes that will affect the way you work. For a professional-level update that doesn't waste time on coding fundamentals, Professional JavaScript for Web Developers is the ultimate resource to bring you up to speed.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone

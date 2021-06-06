@@ -209,4 +209,5 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@mikecoleman](https://github.com/mcflav)
 - [@sashithaf](https://github.com/sashithaf)
 - [@isiakaabd](https://github.com/isiakaabd)
+- [@Ligottica](https://github.com/Ligottica)
 - [@Goni199](https://github.com/Goni199)
