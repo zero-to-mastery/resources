@@ -223,7 +223,6 @@
 - [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 - [Lead Coding](https://www.youtube.com/channel/UC81Q2wnuk5KqOFVgAbq4nUw)
 
-
 ## Cybersecurity and Capture the Flag
 
 ### Pentesting
