@@ -8,6 +8,7 @@
 
 This is a list showing the GitHub usernames of all who have contributed to this open-source project! **Make sure to add yourself and submit a pull request if you've contributed.**
 
+- [@toihirhalim](https://github.com/toihirhalim)
 - [@nnhhiilliisstt](https://github.com/nnhhiilliisstt)
 - [@bhantsi](https://github.com/bhantsi)
 - [@arjunkharbanda](https://github.com/arjunkharbanda)
@@ -209,3 +210,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@mikecoleman](https://github.com/mcflav)
 - [@sashithaf](https://github.com/sashithaf)
 - [@isiakaabd](https://github.com/isiakaabd)
+- [@abdurakhmonoff](https://github.com/abdurakhmonoff)
+- [@Ligottica](https://github.com/Ligottica)
+- [@Goni199](https://github.com/Goni199)
+<

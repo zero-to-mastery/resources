@@ -38,7 +38,7 @@
 
 - [Codecademy Learn Python](https://www.codecademy.com/learn/python) This course is a great introduction to both fundamental programming concepts and the Python programming language. By the end, you’ll be comfortable programming in Python and taking your skills off the Codecademy platform and onto your own computer.
 
-- [Coding Games and Programs for Python](https://checkio.org/): Here, you can improve your coding skills by playing coding games and solving challenges. This is appopriate for beginners and advanced programmers alike. Fun way to brush up on your concepts, or practice them!
+
 
 
 - [Real Python](https://realpython.com/python-keras-text-classification) Reading the mood from text with machine learning is called sentiment analysis, and it is one of the prominent use cases in text classification and here we will find how to do it.
@@ -64,14 +64,4 @@
 
 - [Common Python Data Structures](https://realpython.com/python-data-structures) Data structures are the fundamental constructs around which you build your programs. Each data structure provides a particular way of organizing data so it can be accessed efficiently, depending on your use case. Python ships with an extensive set of data structures in its standard library.
 
-- [Python Basic To Advance Concepts](https://www.codewithharry.com/videos/) This guy has got you covered in all aspects and branches of python. Do give a try and enjoy it in hindi language too. PS: he provides source code to every tutorial.
 
-- [Python Tutorial: Python Online Course](https://www.python-course.eu/python3_course.php) This tutorial provides a comprehensive and in-depth introduction to the Python language. The course is aimed at both beginners and intermediate to experienced programmers or developers who are looking for differences to other programming languages.
-
-- [Data Structures with Python](https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ) This guy has got you covered in all aspects and branches of python. Do give a try and enjoy it. The roadmap to every career related to python is explained too.
-
-- [Python for Beginners] (https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) Absolute beginner-friendly course
-
-- [Data Structures and Algorithms with Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ) Rachit Jain has worked with Microsoft, Flipkart, Grofers, HackerEarth, Codechef and also delivered lectures in IIIT-H about problem solving and logical reasoning. Do give a try and enjoy it.
-
-- [System Design with Gaurav Sen](https://www.youtube.com/c/GauravSensei/) Gaurav Sen is a experienced guy in the System Design and Competitive Programming. He teaches basics and advances of System Design. Do give a try and enjoy it.

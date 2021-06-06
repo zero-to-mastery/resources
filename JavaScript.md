@@ -106,5 +106,9 @@
 
 - [Babel](https://babeljs.io): Babel is a JavaScript compiler. Used in almost all JavaScripts projects today.
 
+ 
 - [Rome](https://romefrontend.dev): A new frontend toolchain designed to replace Babel, ESLint, webpack, Prettier, Jest, and others. From the creator of Babel and Yarn, Sebastian McKenzie.
+
+
+- [Rome](https://rome.tools): A new frontend toolchain designed to replace Babel, ESLint, webpack, Prettier, Jest, and others. From the creator of Babel and Yarn, Sebastian McKenzie.
 
