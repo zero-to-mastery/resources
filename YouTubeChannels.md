@@ -220,6 +220,9 @@
 - [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
 - [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
 - [Uncode - GATE Computer Science](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ/videos)
+- [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+- [Lead Coding](https://www.youtube.com/channel/UC81Q2wnuk5KqOFVgAbq4nUw)
+
 
 ## Cybersecurity and Capture the Flag
 
@@ -231,24 +234,5 @@
 
 - [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
 
-- [John Hammond](https://www.youtube.com/c/JohnHammond010): John Hammond creates educational content like walkthroughs of CTF challenges.
-
-### Bug Bounties
-
-- [STÖK](https://www.youtube.com/c/STOKfredrik/): STÖK is a beginner-friendly channel for those who are looking to get started in bug bounty hunting.
-
-### Blockchain and Blockchain development
-
-- [Telusko](https://www.youtube.com/watch?v=UqQMSVfugFA&list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-): Telusko is a channel where the speaker, Naveen Reddy, speaks about, and teaches various technologies. In the link to the playlist provided above, one can start learning the basics of Blockchain.
-
--[99Bitcoins](https://www.youtube.com/channel/UCQQ_fGcMDxlKre3SEqEWrLA): This is a perfect channel for the one's who are keen to learn more about cryptocurrencies like Bitcoin, Ether, etc.
-
-- [DappUniversity](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ): Dapp university is for those who are heading towards Blockchain development, that is, the development of Decentralized Applications(Dapps).These are basically websites built over blockchain.
-
-## Game Development
-
-- [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA): Talks about implementations of C++ in Game Development, Networking and many more.
-
-- [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw): Focuses mainly on Game Development and related topics like C++ and Git.
 
 **[Back To Top](#youtube-channels)**
