@@ -20,6 +20,8 @@
 
 - [CSS-Bulma](https://scrimba.com/learn/bulma): Bulma is a free, open source CSS framework based on Flexbox. You can learn Bulma CSS at Scrimba in a 1 hour lesson that includes 14 short videos.
 
+- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): This provides many links to learning CSS and also has its own resources which can start with the basics and then become advanced.
+
 ## CSS Games
 
 - [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
