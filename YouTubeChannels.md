@@ -168,5 +168,7 @@
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ)
 - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
+- [Tech Dose](https://www.youtube.com/c/TECHDOSE4u)
+- [Take you forward - have amazing graph series](https://www.youtube.com/c/takeUforward)
 
 **[Back To Top](#youtube-channels)**
