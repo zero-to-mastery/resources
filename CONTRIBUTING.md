@@ -5,9 +5,9 @@
 
 This is a growing list of **resources** for learning and improving as a developer and/or designer and we want to make contributing as easy and transparent as possible, whether it is:
 
-- [**Adding Learning Resources**](##Adding-Learning-Resources)
-- [**Submitting a Fix**](##Submitting-a-Fix)
-- [**Proposing New Features**](##Proposing-New-Features)
+- [**Adding Learning Resources**](#Adding-Learning-Resources)
+- [**Submitting a Fix**](#Submitting-a-Fix)
+- [**Proposing New Features**](#Proposing-New-Features)
 
 ## Prerequisites
 
@@ -53,6 +53,7 @@ This is a growing list of **resources** for learning and improving as a develope
 
 
 ## Submitting a Fix
+
 If you ever noticed a bug or anything worth fixing, feel free to [**open an issue**](https://github.com/zero-to-mastery/resources/issues) with enough details of the bug, steps to replicate it and screenshots if possible. 
 
 ## Proposing New Features

@@ -1,4 +1,5 @@
 **[Back](/README.md/)**
+
 # MOOC's (Massive Open Online Courses)
 
 ## A Little of Everything
@@ -15,8 +16,6 @@
 
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming): An online resource for a variety of topics at a multitude of skill levels (from elementary school to postgraduate) that extend beyond computer science. However, their programming courses - which include interactive sandboxes in which learners can tinker with example code - focus on HTML and JavaScript and teach the fundamentals of animation and web design.
 
-- [Microsoft Virtual Academy](https://mva.microsoft.com/): A website with many video courses created by Microsoft. These courses teach a variety of languages, including JavaScript and variants of C.
-
 - [Pluralsight](https://www.pluralsight.com): Pluralsight is the leader in training for serious software developers, IT admins, and creative professionals. With 3,000+ courses and new ones added daily, Pluralsight serves as a career catalyst for customers in more than 150 countries and provides tech-savvy businesses with training on the three key areas they need to thrive.
 
 - [Scrimba](https://scrimba.com/): A powerful, free way of learning how to code. Similar to a (Andrei's) Udemy course, play around with the instructors code any time in Scrimba's online editor.
@@ -30,6 +29,8 @@
 - [Rithm School Free Courses](https://www.rithmschool.com/courses): Looking to learn some web development skills on your own? We love that. Our team has created these resources to guide you through a handful of computer programming topics. Whether you're learning this material for the first time or brushing up on your skills, we hope that you'll find these tutorials, screencasts and exercises useful.
 
 - [MOOC.FI](https://www.mooc.fi/en/): The courses are offered by University of Helsinki's Department of Computer Science. No prior knowledge is required-beginners can start to learn programming basics from the Programming with Java course, or start to get familiar with artificial intelligence from the course Elements of Ai.
+
+- [700 Free Online Programming & Computer Science Courses You Can Start This October](https://www-freecodecamp-org.cdn.ampproject.org/c/s/www.freecodecamp.org/news/free-online-programming-cs-courses/amp/): This frequently updated site provides a plethora of online programming and computer science courses that you can start today. Courses are provided by a global range of universities and learning resources such as Rice University, Tel Aviv University, Coursera, W3C, and so much more!  
 
 ## Computer Science
 
@@ -55,7 +56,6 @@
 
 - [INTRO TO WEB DEV V2](https://btholt.github.io/intro-to-web-dev-v2/): Welcome to an intro to web development. I'm really excited to teach you a bit about how to become a web developer. In this course we assume you know absolutely nothing about writing code. We do assume that you have a basic grasp of how to operate your computer: how to browse the Internet, how to operate your operating system, how to use a keyboard and mouse, etc.
 
-
 ### Front-End
 
 - [CSS Reference](https://cssreference.io/): An online guide to CSS that features complete descriptions, examples of usage, and illustrated/animated examples of the most popular CSS properties.
@@ -67,3 +67,4 @@
 - [General Assembly Dash](https://dash.generalassemb.ly/): A set of projects which teach some HTML, CSS, and JavaScript.
 
 - [HTML Reference](https://htmlreference.io/): An online guide to HTML that features complete descriptions, and examples of usage for all HTML elements and attributes.
+- [Developer Roadmaps](https://roadmap.sh/roadmaps): This is one of the biggest mistake that many of us in the community is making by not fixing a goal. Here is the link I supposed that will help you down the road to achieve your goal of being a developer. 

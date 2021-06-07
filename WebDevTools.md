@@ -1,6 +1,6 @@
 **[Back](/README.md/)**
 
-# WEB DEVELOPMENT TOOLS
+# Web Development Tools
 
 ## Free Tools For Students
 
@@ -138,11 +138,22 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Easings.net](https://easings.net/): This page helps you choose the right easing function for your CSS animations.
 
+- [Responsively App](https://responsively.app/): This app helps you to get preview all target screens in a single window side-by-side.
+
+- [Doodad Pattern Generator](https://doodad.dev/pattern-generator/): Highly customizable pattern generator. Can create unique patterns and has a nice shuffle function also.
+
+- [Neumorphism](https://neumorphism.io/): A tool to generate soft-UI CSS code for neumorphic card designs.
+
 ---
 
 ## Web Publishing
 
 - [Surge](https://surge.sh/): Simple, single-command web publishing. Publish HTML, CSS, and JS for free, without leaving the command line.
+- [Netlify](https://www.netlify.com/): Most used free plateform for static website hosting. Your static website can be anything ranging from simple HTML, CSS, JS site, React, Vue, Angular, Nuxt.js and many more. You can also install netlify-cli with which you can deploy your site from command line.You can also host your site residing on github as repo.
+
+- [Vercel](https://vercel.com/): A cloud platform to host Jamstack websites and web services that deploy instantly, scale automatically, and requires no supervision, all with no configuration.
+
+- [Heroku](https://www.heroku.com/): Another cloud platform to deploy, manage and scale modern web apps.
 
 ---
 
@@ -157,3 +168,11 @@ Things to look for if your editor has implementations for them. They will make y
 - [FrontEnd Tools](http://frontendtools.com/): A curated repository of Tools for FrontEnd developers.
 
 - [ExtendsClass](https://extendsclass.com/): An online toolbox for developers: Playgrounds (XPath, Regex, JavaScript and SQL), HTTP clients (SOAP, REST), formatters, converters and encoders.
+
+- [Pageclip](https://pageclip.co/): A server for your static websites and HTML forms.
+
+- [RegExr](https://regexr.com/): An online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+
+- [React Spinners](https://github.com/davidhu2000/react-spinners): Really cool collection of loading spinners with React.js
+
+- [Blobs](https://blobs.app/): Generate beautiful blob shapes for web and flutter apps.

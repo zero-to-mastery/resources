@@ -1,4 +1,5 @@
 **[Back](/README.md/)**
+
 # Programming Books
 
 - A list of free access books provided by [ParrotOS linux distro](https://archive.parrotsec.org/parrot/misc/openbooks/programming/).
@@ -16,6 +17,8 @@
   - [JavaScript for impatient programmers](http://exploringjs.com/impatient-js/index.html): a modern guide to the most essential features
 
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master-ebook-dp-B003GCTQAE/dp/B003GCTQAE/ref=mt_kindle?_encoding=UTF8&me=&qid=): Ever heard of [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) or [don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)? Andrew Hunt and David Thomas popularized these ideas within their book, **_The Pragmatic Programmer_**, as they first walk the reader through the type of _mindset_ and _tools_ one should implement before _writing code_. From there they delve deep into best practices for _writing code_ (testing, refactoring, clean and performant code, using Big-O to estimate algorithm runtime, weighing costs and benefits before implementing something, etc.), followed by _project management_. Although it came out in 1999, it still holds its own as a practical and relevant book in the modern world.
+
+- [Street Coder](https://www.manning.com/books/street-coder): Aims to teach beginners and mid-level programmers to identify the gaps between your learning path and your actual career (the streets), with examples in C#.
 
 - [Flavio Copes: Javascript, React, Node, Express, Vue](https://flaviocopes.com/page/ebooks/): signup to an email newsletter required
 
@@ -42,7 +45,34 @@
 
 - [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-second-edition): Supplementing textbook for MIT's 6.0001 Introduction to Computer Science course which is open source. This is book teaches Python programming alongside fundamental computer science theories
 
+- Python For Everybody
+  - [Hardcover](https://www.amazon.com/Python-Everybody-Exploring-Data/dp/1530051126)
+  
+  - [PDF](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)
+  
 - [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/html/): A (Free!) book that compiles programming knowledge and principles from the Original Creators of Unix and other prominent people that have worked on Unix, Linux, C, and more. If you want many, many years of programming wisdom concentrated into one book, this is a good one to pick.
+
+* Here is an article with a bunch of [free eBooks for Web Designers & Web Developers](https://medium.com/web-development-zone/top-free-ebooks-for-web-designers-web-developers-f8c6a70465ad).
+
+- Here is an article with [10 Free Programming Books](https://tutorialzine.com/2018/01/10-free-programming-books-you-should-read-in-2018).
+
+- Several programming books by Al Sweigart can be read online for free. Most are for python. [Invent with Python](https://inventwithpython.com/)
+
+- [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sites/default/files/sicp/full-text/book/book-Z-H-1.html): SICP is unique in its ability—at least potentially—to alter your fundamental beliefs about computers and programming. Not everybody will experience this. Some will hate the book, others won't get past the first few pages. But the potential reward makes it worth trying.
+
+- [Database of Free Tech Books](https://www.freetechbooks.com/): Collection of books that are free to download digitally. Includes textbooks, notes and research papers.
+
+- [Domain-Specific Languages Made Easy](https://www.manning.com/books/domain-specific-languages-made-easy): An early-accses book that shows you how to design and build modern DSLs for business users.
+
+- [The Programmer's Brain](https://www.manning.com/books/the-programmers-brain): An early-accses book that explains what cognitive processes happen in your brain when you program. The book teaches a wide variety of techniques to improve programming skills based on cognitive science.
+
+- [High Performance Python for Data Analytics](https://www.manning.com/books/high-performance-python-for-data-analytics/): A book that takes a holistic approach to Python performance, showing you how your code, libraries, and computing architecture interact and can be optimized together.
+
+- [The Self-Taught Programmer: The Definitive Guide to Programming Professionally](https://www.amazon.com/Self-Taught-Programmer-Definitive-Programming-Professionally-ebook/dp/B01M01YDQA/ref=sr_1_2?crid=273PAXIGYP2RO&dchild=1&keywords=the+self+taught+programmer&qid=1610951473&sprefix=the+self+taugh%2Caps%2C288&sr=8-2): A book about a self-taught python developer who managed to study programming on his own and get a job at eBay after a year. This book includes basic information about python as well as some more advanced topics. There are examples of code, the writer helps you create fun programs and teaches you what they do. This is a great book for entry level python developers, however it may be handy even for more advanced readers.
+
+- [Introduction to Programming in Java: An Interdisciplinary Approach](https://www.amazon.com/Introduction-Programming-Java-Interdisciplinary-Approach/dp/0672337843/ref=as_li_ss_tl?ie=UTF8&qid=1513867682&sr=8-1-fkmr0&keywords=intro+to+java+programming+sedgewick&linkCode=sl1&tag=introcs-20&linkId=3a3c7675a2dcd617dc61653624f721a3): An amazing book that teaches the reader basics of programming. The book teaches Java language, however the knowledge gained from the book can be applied in most languages. This book is amazing because it teaches not only how to write code, but goes deeper in explaning how computers work and why they do what they do. The book assumes that the reader has some knowledge of mathematics, so if you don't know math it may be slightly difficult.
+
+- [Professional JavaScript for Web Developers](https://www.wiley.com/en-us/Professional+JavaScript+for+Web+Developers%2C+4th+Edition-p-9781119366447): Even if you think you know JavaScript, new ES releases bring big changes that will affect the way you work. For a professional-level update that doesn't waste time on coding fundamentals, Professional JavaScript for Web Developers is the ultimate resource to bring you up to speed.
 
 ## React
 
