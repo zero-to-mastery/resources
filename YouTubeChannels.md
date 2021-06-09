@@ -219,6 +219,8 @@
 - [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
 - [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 - [Lead Coding](https://www.youtube.com/channel/UC81Q2wnuk5KqOFVgAbq4nUw)
+- [Tech Dose](https://www.youtube.com/c/TECHDOSE4u)
+- [Take you forward - have amazing graph series](https://www.youtube.com/c/takeUforward)
 
 ## Cybersecurity and Capture the Flag
 
@@ -229,6 +231,7 @@
 ### Capture the Flag
 
 - [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
+
 
 
 **[Back To Top](#youtube-channels)**
