@@ -99,7 +99,10 @@
 
 - [Stockio](https://www.stockio.com/):
   : Free Photos, Vectors, Icons, Fonts and Videos for personal and commercial use
-
+  
+- [Imageonline.com](https://crop-circle.imageonline.co/):
+  : Free circular crop tool at link. Must use JPEG files for image editing, plus many more free tools!
+  
 ## Color Palettes
 
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
@@ -171,6 +174,16 @@
 - [Trianglify.io](https://trianglify.io/): Tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
 
 - [Icons8](https://icons8.com/): Free icons, photos, and other. Ideal for finding icons with consistent and editable style.
+
+## Page and Button Effects, Hover effects
+
+- [Frosted Glass Effect](https://www.google.com/search?q=how+to+make+a+page+frosted+using+css&rlz=1C1CHBF_enUS795US796&oq=how+to+make+a+page+frosted+using+css&aqs=chrome..69i57.8310j1j15&sourceid=chrome&ie=UTF-8): How to make the frosted glass effect on web pages using CSS.
+
+- [Shiny glass button hover effects](https://codepen.io/bikashpanda/pen/MMqWBO) (and [YouTube link](https://www.youtube.com/watch?v=uNjfslp6Qnc)): Two links to show how to make a nice glass button hover effect. The second link is a video.
+
+- [Shiny Button Hover Effects](https://www.youtube.com/watch?v=XYZlMVocjwE): A different Shiny glass looking hover effect for buttons instructional video.
+
+- [Button hover diagonal shine effect](https://www.youtube.com/watch?v=JB6AEy3PCdw): This video shows you how to create a diagonal glass shimmer effect on buttons when hovering.
 
 ## Illustrations
 

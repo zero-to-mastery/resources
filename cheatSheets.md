@@ -32,18 +32,19 @@
 
 - [Redux Cheat Sheet](https://devhints.io/redux)
 
--[Vue Essential Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf): Official & Essential Cheat Sheet from Vue Mastery, cover all important syntax with basic examples.
+- [Vue Essential Cheat Sheet](https://www.vuemastery.com/pdf/Vue-Essentials-Cheat-Sheet.pdf): Official & Essential Cheat Sheet from Vue Mastery, cover all important syntax with basic examples.
 
--[Python Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Python-Cheat-Sheet-by-CodeConquestDOTcom.jpg): An unoffical guide to the essentials of coding in Python
+- [Python Cheat Sheet](https://www.codeconquest.com/wp-content/uploads/Python-Cheat-Sheet-by-CodeConquestDOTcom.jpg): An unoffical guide to the essentials of coding in Python
 
--[Big O Cheat Sheet](http://biercoff.com/content/images/2016/07/Screenshot-2016-07-15-16-16-10.png): Big O chart and data structures operation, Everything here
+- [Pycharm cheat sheet](https://www.pngkey.com/maxpic/u2e6w7q8r5w7q8o0/): Be a pycharm master with these helpful stuffs present in there.
 
--[Pycharm cheat sheet](https://www.pngkey.com/maxpic/u2e6w7q8r5w7q8o0/): Be a pycharm master with these helpful stuffs present in there.
--[Big O Cheat Sheet](http://biercoff.com/content/images/2016/07/Screenshot-2016-07-15-16-16-10.png): Big O chart and data structures operation, Everything here.
+- [Big O Cheat Sheet](http://biercoff.com/content/images/2016/07/Screenshot-2016-07-15-16-16-10.png): Big O chart and data structures operation, Everything here.
 
--[Windows CMD Cheat Sheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf): Windows command line cheat sheat.
+- [Windows CMD Cheat Sheet](https://www.sans.org/security-resources/sec560/windows_command_line_sheet_v1.pdf): Windows command line cheat sheat.
 
--[Unix Cheat Sheet](http://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/unix_cheatsheet.html): Unix Cheat Sheet.
+- [Unix Cheat Sheet](http://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/unix_cheatsheet.html): Unix Cheat Sheet.
 
--[Flutter Cheat Sheet](https://howtodothisinflutter.com/): Basic flutter commands and sample code
+- [Flutter Cheat Sheet](https://howtodothisinflutter.com/): Basic flutter commands and sample code
+
+- [HTML Cheat Sheet](https://html.com/wp-content/uploads/html-cheat-sheet.pdf): This clear, easy-to-access PDF thoroughly explains HTML elements, with understandable explanations and examples.
 

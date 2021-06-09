@@ -46,4 +46,13 @@
 
 - [Zero to Mastery's Beginner Guide to Open Source Projects](https://github.com/zero-to-mastery/start-here-guidelines): This is a good place to start learning how to contribute to open source projects on GitHub.
 
-* [Egghead.io - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github): Get equipped with the tools, knowledge, and understanding you need to be productive and contribute to the wonderful world of open source projects.
+- [First Contributions](https://firstcontributions.github.io/): Make your first Open Source contribution in 5 minutes. A tool and tutorial to help beginners get started with contributions. Here is the GitHub source code for the site and opportunity to make a contribution to the repository itself.
+
+- [Open Source Guides](https://opensource.guide/): Collection of resources for individuals, communities, and companies who want to learn how to run and contribute to an Open Source project.
+
+- [45 Github Issues Dos and Don’ts](https://hackernoon.com/45-github-issues-dos-and-donts-dfec9ab4b612): Do's and Don'ts on GitHub.
+
+- [Egghead.io - How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github): Get equipped with the tools, knowledge, and understanding you need to be productive and contribute to the wonderful world of open source projects.
+
+- [Chryz-hub - Opensoure-4-everyone](https://github.com/chryz-hub/opensource-4-everyone): A repository on everything related to open source. Looking for a project, GitHub membership visibility, basic and advance git commands, getting started with open source and many more.
+

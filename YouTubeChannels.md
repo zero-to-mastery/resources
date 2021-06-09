@@ -63,6 +63,8 @@
 
 * [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA): Short videos about almost all modern tech like GraphQL, Fauna, React etc.
 
+* [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ): Different topics related to programming such as python, java, linux, etc. The channel doesn't feature many tutorials, however Kalle gives ideas, motivation and quality videos.
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
@@ -73,16 +75,15 @@
 
 - [GeeksforGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ): GeeksforGeeks is one of the largest portal for computer science students and professional housing nearly every concept in great detail in data structure, algorithms, operating systems, languages like C++, Java etc. Check out the website [GeekforGeeks](https://www.geeksforgeeks.org)
 
-- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): CS Dojo is a channel with mostly programming and computer science videos. [CS Dojo](https://www.csdojo.io/)
-
 - [Siraj Raval](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A): Siraj Raval is on a mission of data literacy. Artificial Intelligence, Mathematics, Science, Technology, he simplfies these topics to help you understand how they work. Using his knowledge you can build wealth and live a happier, more meaningful life. He is the part of the fastest growing AI community in the world! He is also a Data Scientist, AI Educator, Rapper, Author, Speaker, and Founder of the School of AI.
 
 - [Code with Ania Kubów #JavaScriptGames](https://www.youtube.com/c/AniaKub%C3%B3w): Learn JavaScript,
   React, Html, CSS and Express by making retro game in these tutorials.
+  
+- [Uncode - GATE Computer Science](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ/videos): It is a one-stop solution for all computer science enthusiasts. You can learn computer science, programming, and coding from scratch.
 
 ## Musings
 
-- [Computerphile](https://www.youtube.com/user/Computerphile): Host Brady Haran interviews experts about topics in computer science.
 
 ### Talks/Conferences
 
@@ -144,6 +145,8 @@
 
 - [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
 
+
+
 ### Full-Stack
 
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire development stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies).
@@ -162,6 +165,12 @@
   The goes of this channel is to get you to become as creative you can be! So if you like to create video games in Unity or develop an application in node.js, stick around and have fun!
 
 - [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ): These guys teach Full-Stack Web Development through a Project based approach.
+
+- [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey): With the goal of "making learning C# easier" Tim Corey provides tutorials focusing mainly on .NET discussing a variety of basic to advanced topics along with some project based Full-Stack tutorials. He ensures to explain every single line of code in his tutorials making it extremely easier to follow along with a good understanding. He also has a weekly segment named "dev questions" where he addresses general topics related to programming and about .NET in general.
+
+
+-[Academind] (https://www.youtube.com/c/Academind/): Featuring full stack web development tutorials every week (Javascript, NodeJS, VueJS,ReactJS). A beginner friendly channel that explain  prerequisites needed for each topic. The videos are short and concised with good command of english. He  explains the nitty gritty of the topic and creative. Always fun to watch.
+
 
 ### Front-End/Design
 
@@ -195,6 +204,7 @@
 
 - [Inside Code](https://www.youtube.com/channel/UCvLEP7Hu6SHd5a2CWeQXalg/videos): Inside Code creates content about Data Structures and Algorithms in Python programming language.
 
+- [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA): Apna College is a channel for Data structure and algorithms in c++ and web development. 
 ## Machine Learning and Data Science
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw):
@@ -209,6 +219,11 @@
 - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
 - [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
+- [Uncode - GATE Computer Science](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ/videos)
+- [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
+- [Lead Coding](https://www.youtube.com/channel/UC81Q2wnuk5KqOFVgAbq4nUw)
+- [Tech Dose](https://www.youtube.com/c/TECHDOSE4u)
+- [Take you forward - have amazing graph series](https://www.youtube.com/c/takeUforward)
 
 ## Cybersecurity and Capture the Flag
 
@@ -220,24 +235,6 @@
 
 - [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
 
-- [John Hammond](https://www.youtube.com/c/JohnHammond010): John Hammond creates educational content like walkthroughs of CTF challenges.
 
-### Bug Bounties
-
-- [STÖK](https://www.youtube.com/c/STOKfredrik/): STÖK is a beginner-friendly channel for those who are looking to get started in bug bounty hunting.
-
-### Blockchain and Blockchain development
-
-- [Telusko](https://www.youtube.com/watch?v=UqQMSVfugFA&list=PLsyeobzWxl7oY6tZmnZ5S7yTDxyu4zDW-): Telusko is a channel where the speaker, Naveen Reddy, speaks about, and teaches various technologies. In the link to the playlist provided above, one can start learning the basics of Blockchain.
-
--[99Bitcoins](https://www.youtube.com/channel/UCQQ_fGcMDxlKre3SEqEWrLA): This is a perfect channel for the one's who are keen to learn more about cryptocurrencies like Bitcoin, Ether, etc.
-
-- [DappUniversity](https://www.youtube.com/channel/UCY0xL8V6NzzFcwzHCgB8orQ): Dapp university is for those who are heading towards Blockchain development, that is, the development of Decentralized Applications(Dapps).These are basically websites built over blockchain.
-
-## Game Development
-
-- [javidx9](https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA): Talks about implementations of C++ in Game Development, Networking and many more.
-
-- [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw): Focuses mainly on Game Development and related topics like C++ and Git.
 
 **[Back To Top](#youtube-channels)**
