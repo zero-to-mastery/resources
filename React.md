@@ -21,3 +21,6 @@
 
 ## React Tutorial for Beginners(Free)
 -[React Tutorial For Beginners](https://www.youtube.com/watch?v=dGcsHMXbSOA&list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE&pbjreload=101): This react video is aimed for beginners, so if you have never worked with react before this will be a good start.
+
+## React for Beginners Handbook(Free Website)
+-[React Handbook for Beginners - freeCodeCamp](https://www.freecodecamp.org/news/react-beginner-handbook/): This is a freeCodeCamp website that is designed to be like a beginner's handbook to learning the basics of React.

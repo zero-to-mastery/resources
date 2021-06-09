@@ -56,6 +56,8 @@
 
 - [JavaScript ES6: Scrimba](https://scrimba.com/learn/introtoes6): Learn JavaScript ES6 concepts with this short, interactive course at Scrimba. This includes interactive screencasts so you can learn along with the teacher. This is a pretty unique way of instruction. 
 
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript): This provides different tutorials for JavaScript, resources and an explanation of the JavaScript.
+  
 ## Advanced Javascript Articles
 
 - [Exploring Async/Await Functions in JavaScript](https://alligator.io/js/async-functions): Async/await functions, a new addition with ES2017 (ES8), help us even more in allowing us to write completely synchronous-looking code while performing asynchronous tasks behind the scenes.
@@ -104,4 +106,9 @@
 
 - [Babel](https://babeljs.io): Babel is a JavaScript compiler. Used in almost all JavaScripts projects today.
 
+ 
+- [Rome](https://romefrontend.dev): A new frontend toolchain designed to replace Babel, ESLint, webpack, Prettier, Jest, and others. From the creator of Babel and Yarn, Sebastian McKenzie.
+
+
 - [Rome](https://rome.tools): A new frontend toolchain designed to replace Babel, ESLint, webpack, Prettier, Jest, and others. From the creator of Babel and Yarn, Sebastian McKenzie.
+
