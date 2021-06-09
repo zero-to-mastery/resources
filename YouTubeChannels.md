@@ -79,6 +79,8 @@
 
 - [Code with Ania Kubów #JavaScriptGames](https://www.youtube.com/c/AniaKub%C3%B3w): Learn JavaScript,
   React, Html, CSS and Express by making retro game in these tutorials.
+  
+- [Uncode - GATE Computer Science](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ/videos): It is a one-stop solution for all computer science enthusiasts. You can learn computer science, programming, and coding from scratch.
 
 ## Musings
 
@@ -217,6 +219,7 @@
 - [Gaurav Sen](https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw)
 - [Algorithms Live!](https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w)
 - [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw)
+- [Uncode - GATE Computer Science](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ/videos)
 - [Errichto](https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg)
 - [Lead Coding](https://www.youtube.com/channel/UC81Q2wnuk5KqOFVgAbq4nUw)
 - [Tech Dose](https://www.youtube.com/c/TECHDOSE4u)
