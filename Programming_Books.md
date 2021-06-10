@@ -74,6 +74,9 @@
 
 - [Professional JavaScript for Web Developers](https://www.wiley.com/en-us/Professional+JavaScript+for+Web+Developers%2C+4th+Edition-p-9781119366447): Even if you think you know JavaScript, new ES releases bring big changes that will affect the way you work. For a professional-level update that doesn't waste time on coding fundamentals, Professional JavaScript for Web Developers is the ultimate resource to bring you up to speed.
 
+- [Programming Notes for Professionals in almost every language](https://books.goalkicker.com/) : The Notes for Professionals books are compiled from Stack Overflow Documentation, the content is written by the beautiful people at Stack Overflow.
+
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
