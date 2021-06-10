@@ -22,6 +22,8 @@
   
 - [W3Schools CSS Tutorials](https://www.w3schools.com/css/default.asp): CSS covered, comes with tests and documentations, along with over 300 examples! Basic to Advanced!
 
+- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): This provides many links to learning CSS and also has its own resources which can start with the basics and then become advanced.
+
 ## CSS Games
 
 - [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
