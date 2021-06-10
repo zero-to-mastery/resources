@@ -2,6 +2,8 @@
 
 # Resources to Become a JavaScript Expert
 
+- [W3Schools JavaScript Tutorial](https://www.w3schools.com/js/default.asp) Examples, and documentations, for those who are advanced, and beginners, to learn JavaScript.
+
 - [A JavaScript Curriculum](https://medium.freecodecamp.org/a-beginners-javascript-study-plan-27f1d698ea5e): A great curriculum for learning JavaScript from newbie to [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS).
 
 - [The Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node): Short introduction to Node that has some great information.
