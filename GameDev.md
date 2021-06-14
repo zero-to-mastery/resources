@@ -14,6 +14,9 @@
 ## Godot Engine:
 - [Official Godot Engine Website](https://docs.godotengine.org/en/stable/index.html): Documentation for C# and Godot Engine.
 
+## Love2d: 
+- [Official Love2d Website](https://love2d.org/): Documentation for Love2d as well as helpful guides for programming games using Lua
+
 
 
 ### Documentations/Community:
@@ -46,6 +49,7 @@
 - [CG Geek](https://www.youtube.com/user/Blenderfan93): Tutorials on animations,visual effects and Blender.
 - [Ian Hubert](https://www.youtube.com/user/mrdodobird): The man behind the loading screen of the latest blender(2.9), he is popular for his one minute tutorials which are for intermediate to advanced blender users.
 - [Complete Unity - Beginner Platformer Series](https://www.youtube.com/playlist?list=PLpj8TZGNIBNy51EtRuyix-NYGmcfkNAuH): This series is aimed at beginners, to really give them a hands-on approach to pursuing mediocre programming skills.
+- [How to Love](https://www.youtube.com/watch?v=TUPbSJ5wF0k&list=PLM5EvDHhpyTcThnWfeP1459KelemQOBdG): Playlist intended to teach new developers about making video games via Lua and Love2d. No prior knowledge is needed to learn and understand the material.
 
 ### Resources for Beginners:
 - [Mixamo](https://www.mixamo.com/#/): For Rigging your 3D models and animating them by selecting the templates in it.
@@ -53,6 +57,8 @@
 - [GIMP](https://gimp.org): For making 2D art.
 - [Blender](https://www.blender.org/): For 3D art, this is not only used by beginners but also for the AAA level games in the industry.
 - [Free3D](https://free3d.com): A huge library with ready-made 3D models - a lot are free, usefull not only for blender or in gaming.
+- [Simple Game Tutorials](https://simplegametutorials.github.io/): Contains step by steps guides on how to build simple games such as Snake and Asteroid by using Lua and Love2d or Python and Pygame.
+- [How to Love](https://sheepolution.com/learn/book/contents): A series of guides meant to familiarize people using Love2d in order to develop games.
 
 
 - [Snake game for beginners](https://codewithharry.com/videos/python-game-development-1): Beginner friendly tutorials.

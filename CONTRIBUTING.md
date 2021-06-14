@@ -13,7 +13,7 @@ This is a growing list of **resources** for learning and improving as a develope
 
 - Git or any equivalent Version Control System
 - Code Editor (VsCode, Sublime Text, Atom e.t.c)
-- Little knowledge command line
+- Little command line knowledge
 - The zeal to share learning resources with others :blush:
 
 ## Getting Started
