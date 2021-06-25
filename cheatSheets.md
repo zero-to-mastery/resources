@@ -47,4 +47,7 @@
 - [Flutter Cheat Sheet](https://howtodothisinflutter.com/): Basic flutter commands and sample code
 
 - [HTML Cheat Sheet](https://html.com/wp-content/uploads/html-cheat-sheet.pdf): This clear, easy-to-access PDF thoroughly explains HTML elements, with understandable explanations and examples.
+- [JavaScript Snippets](https://www.30secondsofcode.org/js/p/2):The JavaScript snippet collection contains a wide variety of ES6 helper functions.
+
+
 
