@@ -48,3 +48,4 @@
 
 - [HTML Cheat Sheet](https://html.com/wp-content/uploads/html-cheat-sheet.pdf): This clear, easy-to-access PDF thoroughly explains HTML elements, with understandable explanations and examples.
 
+- [Arduion Programming Cheat Sheet](https://github.s3.amazonaws.com/downloads/liffiton/Arduino-Cheat-Sheet/Arduino%20Cheat%20Sheet.pdf):Arduion Programming Cheat Sheet covering all important syntax.
