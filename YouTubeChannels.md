@@ -65,6 +65,8 @@
 
 * [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ): Different topics related to programming such as python, java, linux, etc. The channel doesn't feature many tutorials, however Kalle gives ideas, motivation and quality videos.
 
+* [Clément Mihailescu](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g): An Ex-Google Software Engineer, an Ex-Facebook Software Engineer, and the CEO and co-founder of AlgoExpert (algoexpert.io), a website that helps Software Engineers prepare for coding interviews.This YouTube channel is the outlet for all his thoughts on tech, entrepreneurship, and random miscellanea!.There are several competitive coding interviews which he conducts. So anyone looking to prepare for coding interviews to get into big tech companies should definitely check out this channel. 
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
