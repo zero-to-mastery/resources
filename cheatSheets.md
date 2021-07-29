@@ -49,3 +49,5 @@
 - [HTML Cheat Sheet](https://html.com/wp-content/uploads/html-cheat-sheet.pdf): This clear, easy-to-access PDF thoroughly explains HTML elements, with understandable explanations and examples.
 
 - [Arduino Programming Cheat Sheet](https://github.s3.amazonaws.com/downloads/liffiton/Arduino-Cheat-Sheet/Arduino%20Cheat%20Sheet.pdf):Arduino Programming Cheat Sheet covering all important syntax.
+
+-[SQL Cheat Sheet](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf): This clear PDF thoroughly explains the basic SQL fundamentals.
