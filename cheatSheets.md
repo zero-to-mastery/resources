@@ -47,5 +47,5 @@
 - [Flutter Cheat Sheet](https://howtodothisinflutter.com/): Basic flutter commands and sample code
 
 - [HTML Cheat Sheet](https://html.com/wp-content/uploads/html-cheat-sheet.pdf): This clear, easy-to-access PDF thoroughly explains HTML elements, with understandable explanations and examples.
-- [Free Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/): It is an interactive list of Bootstrap 5 classes, variables, and mixins
+- [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/): It is an interactive list of Bootstrap 5 classes, variables, and mixins
 
