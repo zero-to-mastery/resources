@@ -47,6 +47,11 @@
 - [Flutter Cheat Sheet](https://howtodothisinflutter.com/): Basic flutter commands and sample code
 
 - [HTML Cheat Sheet](https://html.com/wp-content/uploads/html-cheat-sheet.pdf): This clear, easy-to-access PDF thoroughly explains HTML elements, with understandable explanations and examples.
+- 
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/): It is an interactive list of Bootstrap 5 classes, variables, and mixins
 
 - [SQL Cheat Sheet](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf): This clear PDF thoroughly explains the basic SQL fundamentals.
+
+- [Pandas Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b): A quick guide with code samples to the basics of the Python data analysis library Pandas.
+
+- [Numpy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/da466534-51fe-4c6d-b0cb-154f4782eb54): This NumPy cheat sheet helps you to tackle the basics of this Python scientific computing library!
