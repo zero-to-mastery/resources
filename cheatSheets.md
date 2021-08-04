@@ -47,7 +47,7 @@
 - [Flutter Cheat Sheet](https://howtodothisinflutter.com/): Basic flutter commands and sample code
 
 - [HTML Cheat Sheet](https://html.com/wp-content/uploads/html-cheat-sheet.pdf): This clear, easy-to-access PDF thoroughly explains HTML elements, with understandable explanations and examples.
-- 
+
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/): It is an interactive list of Bootstrap 5 classes, variables, and mixins
 
 - [SQL Cheat Sheet](https://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf): This clear PDF thoroughly explains the basic SQL fundamentals.
