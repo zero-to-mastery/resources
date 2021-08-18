@@ -78,6 +78,7 @@
 
 - [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) : The bestselling JavaScript reference, the JavaScript Bible is a classic bestseller that keeps you up to date on the latest changes in JavaScript, the leading technology for incorporating interactivity into Web pages. Part tutorial, part reference, this book serves as both a learning tool for building new JavaScript skills as well as a detailed reference for the more experienced JavaScript user.
 
+- [Good Code, Bad Code](https://www.manning.com/books/good-code-bad-code) : Practical techniques for writing code that is robust, reliable, and easy for team members to understand and adapt.
 
 ## React
 
