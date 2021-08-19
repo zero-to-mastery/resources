@@ -80,6 +80,8 @@
 
 - [Good Code, Bad Code](https://www.manning.com/books/good-code-bad-code) : Practical techniques for writing code that is robust, reliable, and easy for team members to understand and adapt.
 
+- [10 Go Mistakes: How to avoid them](https://www.manning.com/books/100-go-mistakes-how-to-avoid-them) : Spot errors in your Go code you didn’t even know you were making and boost your productivity by avoiding common mistakes and pitfalls.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
