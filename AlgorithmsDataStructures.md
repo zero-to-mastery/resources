@@ -33,8 +33,6 @@
 
 - [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets) Teaches you to take advantage of data processing and analytics techniques specifically designed for large distributed datasets.
 
-
-
 ## Courses
 
 - [Master the Coding Interview: Big Tech (FAANG) Interviews](https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep) Course by Andrei and his team.
