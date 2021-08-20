@@ -22,7 +22,7 @@
 
 # Resources for Practicing Python Development
 
-- [Coding Bat (Python)](https://codingbat.com/python/): Practice problems exploring the basics of Python (Beginner, Intermediate)
+- [Coding Bat (Python)](https://codingbat.com/python): Practice problems exploring the basics of Python (Beginner, Intermediate)
 
 - [Exercism](https://exercism.io/): Hundreds of practice problems in Python and many other languages (Beginner, Intermediate, Advanced)
  
