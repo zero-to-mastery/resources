@@ -155,6 +155,8 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Heroku](https://www.heroku.com/): Another cloud platform to deploy, manage and scale modern web apps.
 
+- [GitHub Pages](https://pages.github.com/): Another cloud platform to deploy, Websites for you and your projects, hosted directly from your GitHub repository. Just edit, push, and your changes are live.
+
 ---
 
 ## General Development Tools
