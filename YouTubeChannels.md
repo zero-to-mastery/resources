@@ -67,6 +67,8 @@
 
 * [Slim Coder](https://www.youtube.com/c/SlimCoder): This channel uploads many video related to Web Development & JavaScript and also upload course i.e Go, GitHub etc.
 
+* [Google Developers](https://www.youtube.com/user/GoogleDevelopers): The Google Developers channel offers some lessons, tutorials, and guides on various development topics. However, the most focus is on product reviews, recorded talks from tech experts at Google events, and current industry news that are really important for developers.
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
