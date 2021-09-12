@@ -69,7 +69,7 @@
 
 * [Google Developers](https://www.youtube.com/user/GoogleDevelopers): The Google Developers channel offers some lessons, tutorials, and guides on various development topics. However, the most focus is on product reviews, recorded talks from tech experts at Google events, and current industry news that are really important for developers.
 
-* [Eddie Joude](https://www.youtube.com/user/eddiejoude): Do you want to get into coding, the community and open source? Do you want to make more money, have flexible and remote working? Subscribe now to my channel and watch my videos to learn how.
+* [Eddie Jaoude](https://www.youtube.com/user/eddiejaoude): Do you want to get into coding, the community and open source? Do you want to make more money, have flexible and remote working? Subscribe now to my channel and watch my videos to learn how.
 
 * [Crossroads](https://www.youtube.com/user/crossroadstalk): A Malayalam Youtube channel for learning programming, computer science, musings, web development etc.
 
