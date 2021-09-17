@@ -38,7 +38,7 @@
 
 - [Codecademy Learn Python](https://www.codecademy.com/learn/python) This course is a great introduction to both fundamental programming concepts and the Python programming language. By the end, you’ll be comfortable programming in Python and taking your skills off the Codecademy platform and onto your own computer.
 
-
+- [Basics of Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/) This is a great course for introduction to python programming. It covers everything from scratch and is good for someone who is just getting into programming with Python.
 
 
 - [Real Python](https://realpython.com/python-keras-text-classification) Reading the mood from text with machine learning is called sentiment analysis, and it is one of the prominent use cases in text classification and here we will find how to do it.
