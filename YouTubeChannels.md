@@ -7,17 +7,11 @@
 - [Tom Scott](https://www.youtube.com/user/enyay): A science and tech focused vlog, with a general focus on computer science topics (given that the host is/was a computer programmer).
 
 * [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): An increasingly popular resource with excellent content from the open-source community of self-taught developers who enjoy contributing to non-profit organizations. Their videos cover a nice range of topics:
-
   - Languages and Frameworks
-
   - Game Development
-
   - Talks
-
   - A Day in The Life Of...
-
   - Live Coding sessions
-
   - Fundamentals (Computer Science and Programming)
 
 * [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube): An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog.
@@ -73,6 +67,8 @@
 
 * [Crossroads](https://www.youtube.com/user/crossroadstalk): A Malayalam Youtube channel for learning programming, computer science, musings, web development etc.
 
+* [MIT OpenCourseWare](https://youtube.com/c/mitocw): Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There's videos, and a whole lot more!
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
@@ -96,24 +92,15 @@
 ### Talks/Conferences
 
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ): A channel dedicated to republishing tech conferences from around the world and content originally published with the [Creative Commons Attribution license](https://creativecommons.org/about/). It's like [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA), but much more diverse in topics spanning from things like:
-
   - Software Development
-
   - Quantum Computing
-
   - Python
-
   - JavaScript
-
   - Web Design
-
   - Security
-
   - Blockchain
-
   - GraphQL
-
-  - and Web Assembly
+  - Web Assembly
 
 - [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA): A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
 
@@ -134,21 +121,13 @@
 - [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): Tutorials + career/industry advice.
 
 - [Edureka](https://www.youtube.com/user/edurekaIN): Features high-quality tutorials and lectures (available also in Hindi and Telugu) where they curate the following topics:
-
   - Big Data and Hadoop
-
   - DevOps
-
   - Block Chain
-
   - Artificial Intelligence (AI)
-
   - Angular
-
   - Python
-
   - AWS
-
   - Data Science and Digital Marketing
 
 - [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
@@ -177,7 +156,7 @@
 - [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey): With the goal of "making learning C# easier" Tim Corey provides tutorials focusing mainly on .NET discussing a variety of basic to advanced topics along with some project based Full-Stack tutorials. He ensures to explain every single line of code in his tutorials making it extremely easier to follow along with a good understanding. He also has a weekly segment named "dev questions" where he addresses general topics related to programming and about .NET in general.
 
 
--[Academind] (https://www.youtube.com/c/Academind/): Featuring full stack web development tutorials every week (Javascript, NodeJS, VueJS,ReactJS). A beginner friendly channel that explain  prerequisites needed for each topic. The videos are short and concised with good command of english. He  explains the nitty gritty of the topic and creative. Always fun to watch.
+- [Academind](https://www.youtube.com/c/Academind/): Featuring full stack web development tutorials every week (Javascript, NodeJS, VueJS,ReactJS). A beginner friendly channel that explain  prerequisites needed for each topic. The videos are short and concised with good command of english. He  explains the nitty gritty of the topic and creative. Always fun to watch.
 
 
 ### Front-End/Design
