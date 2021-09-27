@@ -56,7 +56,7 @@ A list of student-collated resources deemed to be useful for every developer and
 
 ## Contributing
 
-- You are always welcome to contribute to this project, kindly visit our [**Contributors' Guide**](https://github.com/zero-to-mastery/resources/blob/master/CONTRIBUTING.md) before opening a pull request.
+- You are always welcome to contribute to this project, kindly visit our [**Contributor's Guide**](https://github.com/zero-to-mastery/resources/blob/master/CONTRIBUTING.md) before opening a pull request.
 
 - First time contributing to open source? Awesome! Read more about the process in [**Contributing to GitHub**](https://github.com/zero-to-mastery/resources/blob/master/Contributing_to_GitHub.md).
 
