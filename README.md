@@ -24,7 +24,7 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
 
-- [**Git and Github**](Using_Git_and_GitHub.md): Resources page on using Git and GitHub.
+- [**Git and GitHub**](Using_Git_and_GitHub.md): Resources page on using Git and GitHub.
 
 - [**Interviewing for Coding Jobs**](HowtoInterviewforCodeJobs.md): A page of resources about preparing for the job market.
 
