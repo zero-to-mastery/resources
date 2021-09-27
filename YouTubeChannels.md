@@ -7,17 +7,11 @@
 - [Tom Scott](https://www.youtube.com/user/enyay): A science and tech focused vlog, with a general focus on computer science topics (given that the host is/was a computer programmer).
 
 * [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): An increasingly popular resource with excellent content from the open-source community of self-taught developers who enjoy contributing to non-profit organizations. Their videos cover a nice range of topics:
-
   - Languages and Frameworks
-
   - Game Development
-
   - Talks
-
   - A Day in The Life Of...
-
   - Live Coding sessions
-
   - Fundamentals (Computer Science and Programming)
 
 * [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube): An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog.
