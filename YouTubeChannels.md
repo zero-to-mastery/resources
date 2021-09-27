@@ -92,24 +92,15 @@
 ### Talks/Conferences
 
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ): A channel dedicated to republishing tech conferences from around the world and content originally published with the [Creative Commons Attribution license](https://creativecommons.org/about/). It's like [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA), but much more diverse in topics spanning from things like:
-
   - Software Development
-
   - Quantum Computing
-
   - Python
-
   - JavaScript
-
   - Web Design
-
   - Security
-
   - Blockchain
-
   - GraphQL
-
-  - and Web Assembly
+  - Web Assembly
 
 - [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA): A channel dedicated purely to JSConfs from around the world, ranging from the practical to the philosophical.
 
