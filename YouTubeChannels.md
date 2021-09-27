@@ -130,21 +130,13 @@
 - [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): Tutorials + career/industry advice.
 
 - [Edureka](https://www.youtube.com/user/edurekaIN): Features high-quality tutorials and lectures (available also in Hindi and Telugu) where they curate the following topics:
-
   - Big Data and Hadoop
-
   - DevOps
-
   - Block Chain
-
   - Artificial Intelligence (AI)
-
   - Angular
-
   - Python
-
   - AWS
-
   - Data Science and Digital Marketing
 
 - [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
