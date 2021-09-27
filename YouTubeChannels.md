@@ -73,6 +73,8 @@
 
 * [Crossroads](https://www.youtube.com/user/crossroadstalk): A Malayalam Youtube channel for learning programming, computer science, musings, web development etc.
 
+* [MIT OpenCourseWare](https://youtube.com/c/mitocw): Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There's videos, and a whole lot more!
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
