@@ -224,3 +224,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@wordssaysalot](https://github.com/wordssaysalot)
 - [@deshankoswatte](https://github.com/deshankoswatte)
 - [@pyxmaster](https://github.com/pyxmaster)
+- [@jaytintran](https://github.com/jaytintran)
