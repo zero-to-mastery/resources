@@ -211,6 +211,7 @@
 - [Lead Coding](https://www.youtube.com/channel/UC81Q2wnuk5KqOFVgAbq4nUw)
 - [Tech Dose](https://www.youtube.com/c/TECHDOSE4u)
 - [Take you forward - have amazing graph series](https://www.youtube.com/c/takeUforward)
+- [Learn Together](https://www.youtube.com/channel/UCXqkL6Rximy22Mz4jG9ljYw)
 
 ## Cybersecurity and Capture the Flag
 
