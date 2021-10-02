@@ -213,6 +213,7 @@
 - [Take you forward - have amazing graph series](https://www.youtube.com/c/takeUforward)
 - [Learn Together](https://www.youtube.com/channel/UCXqkL6Rximy22Mz4jG9ljYw)
 - [Geeks For Geeks](https://www.youtube.com/c/GeeksforGeeksVideos)
+- [Exponent](https://www.youtube.com/c/ExponentTV)
 
 ## Cybersecurity and Capture the Flag
 
