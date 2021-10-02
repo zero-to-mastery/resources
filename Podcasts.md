@@ -72,7 +72,7 @@
 
 ## Vue (JavaScript framework)
 
--[Views on Vue](https://devchat.tv/views-on-vue/): A weekly discussion among Vue developers about Vue and it's ecosyste
+- [Views on Vue](https://devchat.tv/views-on-vue/): A weekly discussion among Vue developers about Vue and it's ecosyste
 
 ## Mindset/Self-Development
 
