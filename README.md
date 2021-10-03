@@ -20,6 +20,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Cloud**](Cloud.md): Cloud Learning Resources to kickstart your career.
 
+- [**Free Online Courses**](FreeOnlineCourses.md): Free to attend online courses, including [MOOCs (massive open online courses)](https://en.wikipedia.org/wiki/Massive_open_online_course).
+
 - [**Game Development Resources**](GameDev.md): A page which lists out the resources which helps you go from zero to mastery in game development.
 
 - [**General Resources for Learning Web Development**](generalResources.md): A page with mostly free resources for learning web development and coding in general.
@@ -29,8 +31,6 @@ A list of student-collated resources deemed to be useful for every developer and
 - [**Interviewing for Coding Jobs**](HowtoInterviewforCodeJobs.md): A page of resources about preparing for the job market.
 
 - [**JavaScript Resources**](JavaScript.md): A list of resources for learning JavaScript.
-
-- [**MOOCs (Massive Open Online Courses)**](moocs.md): Showcasing effective online courses that covers areas such as Full-Stack development, Front-End development, Computer Science, or even a little of everything!
 
 - [**Mobile App Development**](MobileAppDevelopment.md): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system
 
