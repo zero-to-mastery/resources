@@ -41,3 +41,4 @@
 
 - [Common Python Data Structures](https://realpython.com/python-data-structures) Data structures are the fundamental constructs around which you build your programs. Each data structure provides a particular way of organizing data so it can be accessed efficiently, depending on your use case. Python ships with an extensive set of data structures in its standard library.
 
+- [Coursera](https://www.coursera.org/specializations/data-structures-algorithms):Data Structures and Algorithms Specialization offered by UC San Diego via Coursera.
