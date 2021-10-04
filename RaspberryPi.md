@@ -8,3 +8,4 @@ The Raspberry Pi is a series of small single-board computers developed in the Un
 - [Projects](https://projects.raspberrypi.org/en/projects)
 - [Python for Raspberry Pi](https://pythonprogramming.net/introduction-raspberry-pi-tutorials/): A guide to doing Python programming on a Raspberry Pi. 
 - [The Pi Hut](https://thepihut.com/blogs/raspberry-pi-tutorials/the-raspberry-pi-tutorial-beginners-guide)
+- [RaspberryPi StackExchange](https://raspberrypi.stackexchange.com/)
