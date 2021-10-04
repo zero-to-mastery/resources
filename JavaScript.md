@@ -114,3 +114,5 @@
 - [JS window object](https://www.youtube.com/watch?v=36hwHnUdVAA&list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL&index=11): If you are an Indian, then this is the best place to learn programming. All lectures are provided in Hindi language. 
 
 - [Rome](https://rome.tools): A new frontend toolchain designed to replace Babel, ESLint, webpack, Prettier, Jest, and others. From the creator of Babel and Yarn, Sebastian McKenzie.
+
+- [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations): A foundational course on web development, with a specific focus on JavaScript. 
