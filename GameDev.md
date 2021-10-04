@@ -7,6 +7,7 @@
 ## Unity:
 - [Official Unity Website](https://docs.unity3d.com/Manual/index.html): Documentation for C#/JavaScript and Unity Engine.
 - [Unity Learn](https://learn.unity.com/):Tutorials from beginner to advanced level on various topics.
+- [Unity 2D Physics](https://www.udemy.com/unity-2d-bouncing-and-sliding-with-physics/): A Udemy course on implementing physics in Unity 2D. 
 
 ## Unreal Engine:
 - [Offcial Unreal Engine Website](https://docs.unrealengine.com/en-US/index.html): Documentation for C++ and Unreal Engine.
