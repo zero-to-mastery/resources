@@ -64,4 +64,5 @@
 
 - [Common Python Data Structures](https://realpython.com/python-data-structures) Data structures are the fundamental constructs around which you build your programs. Each data structure provides a particular way of organizing data so it can be accessed efficiently, depending on your use case. Python ships with an extensive set of data structures in its standard library.
 
+- [Python Module of the Week](https://pymotw.com/2/#): The Python Module of the Week series, or PyMOTW, is a tour of the Python standard library through short examples.
 
