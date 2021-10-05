@@ -12,6 +12,7 @@ Arduino is an open-source hardware and software company, project and user commun
 - [Arduino forums](https://forum.arduino.cc/): Official Arduino forums
 - [StackExchange](https://arduino.stackexchange.com/) Ask questions and get guidance from a wide community of Arduino enthusiasts. 
 - [Arduino Projects for Beginners to Advanced](https://create.arduino.cc/projecthub): Provides a list of really cool and fun projects for programmers and engineers of all levels to try.
+- [Microcontrollers for Educators](https://app.schoology.com/course/299867764/materials): A link to all the resources used by Sparkfun's 2015 Microcontrollers for Educators workshop. 
 
 ## Video Tutorials
 
