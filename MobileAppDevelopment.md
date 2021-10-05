@@ -5,7 +5,7 @@
 ## A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system).
 
 ## Android
-
+- [Build your first app](https://developer.android.com/training/basics/firstapp/): Android's guide to building your first app. A great place for beginners to start.
 - [Kotlin Doc](https://kotlinlang.org/docs/reference/): Documentation kotlin from the source, playground, exercise and many information about Kotlin. Do you want to migrate from Java to Kotlin. Start here!
 - [Android Basics in Kotlin](https://developer.android.com/courses/basic-android-kotlin-training/overview): Android Basics in Kotlin is a course about building basic Android apps. This course is for people with no prior programming experience.
 - [Advanced Android in Kotlin](https://developer.android.com/courses/kotlin-android-advanced/overview): This course provides a series of codelabs that lead you through the advanced topics of building Android apps using Kotlin.
