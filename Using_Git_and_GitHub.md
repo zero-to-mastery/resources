@@ -36,6 +36,8 @@
 
 - [Syntax Highlighting in Markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown): A list of languages that support syntax highlighting in Markdown fenced code blocks.
 
+- [Markdown Guide](https://www.markdownguide.org/): An overview of Markdown, with links to helpful resources and Markdown-compatible tools. Also lists helpful tools and includes a handy cheat sheet. 
+
 ## Open Source Coding on GitHub
 
 - [Choose A License](https://choosealicense.com/): A brief guide / repository of various licenses one could use in their open source projects.
