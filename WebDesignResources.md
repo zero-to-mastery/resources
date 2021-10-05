@@ -10,6 +10,8 @@
 
 - [Can I use...](https://caniuse.com/): Browser support tables for modern web technologies.
 
+- [Can I Email](https://www.caniemail.com/): Based on Can I Use but for Email support.
+
 - [DesignAcademy.io](https://designacademy.io/): Laura Elizabeth made this fantastic, easy-to-understand design fundamentals course for developers to learn within 6 weeks, after spending years struggling to grasp and implement design principles. She offers both a paid course as well as free resources in the form of blog posts and snippets of her course.
 
 - [devdocs](https://devdocs.io/): DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
