@@ -66,3 +66,4 @@
 
 - [Python Module of the Week](https://pymotw.com/2/#): The Python Module of the Week series, or PyMOTW, is a tour of the Python standard library through short examples.
 
+- [Python on Windows 10](https://docs.microsoft.com/en-us/windows/python/beginners): An introduction to setting up and getting started with Python. Aimed at beginner users. 
