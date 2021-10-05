@@ -214,6 +214,7 @@
 - [Learn Together](https://www.youtube.com/channel/UCXqkL6Rximy22Mz4jG9ljYw)
 - [Geeks For Geeks](https://www.youtube.com/c/GeeksforGeeksVideos)
 - [Exponent](https://www.youtube.com/c/ExponentTV)
+- [Hackerearth](https://www.youtube.com/c/HackerEarthInc)
 
 ## Cybersecurity and Capture the Flag
 
