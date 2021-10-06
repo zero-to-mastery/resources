@@ -7,6 +7,7 @@
 - [Tom Scott](https://www.youtube.com/user/enyay): A science and tech focused vlog, with a general focus on computer science topics (given that the host is/was a computer programmer).
 
 * [FreeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ): An increasingly popular resource with excellent content from the open-source community of self-taught developers who enjoy contributing to non-profit organizations. Their videos cover a nice range of topics:
+
   - Languages and Frameworks
   - Game Development
   - Talks
@@ -83,15 +84,17 @@
 
 - [Code with Ania Kubów #JavaScriptGames](https://www.youtube.com/c/AniaKub%C3%B3w): Learn JavaScript,
   React, Html, CSS and Express by making retro game in these tutorials.
-  
 - [Uncode - GATE Computer Science](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ/videos): It is a one-stop solution for all computer science enthusiasts. You can learn computer science, programming, and coding from scratch.
 
-## Musings
+- [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz/featured):Andy is a self-taught coder. He started to code back in 2014 when he was 28, leaving behind a job as a car salesman and not having much contact with coding at all before that.
+  Nowadays Andy has a YouTube channel and help people land their dream job as a software developer.
 
+## Musings
 
 ### Talks/Conferences
 
 - [Coding Tech](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ): A channel dedicated to republishing tech conferences from around the world and content originally published with the [Creative Commons Attribution license](https://creativecommons.org/about/). It's like [JSConf](https://www.youtube.com/channel/UCzoVCacndDCfGDf41P-z0iA), but much more diverse in topics spanning from things like:
+
   - Software Development
   - Quantum Computing
   - Python
@@ -121,6 +124,7 @@
 - [Dylan Israel](https://www.youtube.com/user/pizzapokerguy87): Tutorials + career/industry advice.
 
 - [Edureka](https://www.youtube.com/user/edurekaIN): Features high-quality tutorials and lectures (available also in Hindi and Telugu) where they curate the following topics:
+
   - Big Data and Hadoop
   - DevOps
   - Block Chain
@@ -131,8 +135,6 @@
   - Data Science and Digital Marketing
 
 - [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
-
-
 
 ### Full-Stack
 
@@ -155,9 +157,7 @@
 
 - [IAmTimCorey](https://www.youtube.com/user/IAmTimCorey): With the goal of "making learning C# easier" Tim Corey provides tutorials focusing mainly on .NET discussing a variety of basic to advanced topics along with some project based Full-Stack tutorials. He ensures to explain every single line of code in his tutorials making it extremely easier to follow along with a good understanding. He also has a weekly segment named "dev questions" where he addresses general topics related to programming and about .NET in general.
 
-
-- [Academind](https://www.youtube.com/c/Academind/): Featuring full stack web development tutorials every week (Javascript, NodeJS, VueJS,ReactJS). A beginner friendly channel that explain  prerequisites needed for each topic. The videos are short and concised with good command of english. He  explains the nitty gritty of the topic and creative. Always fun to watch.
-
+- [Academind](https://www.youtube.com/c/Academind/): Featuring full stack web development tutorials every week (Javascript, NodeJS, VueJS,ReactJS). A beginner friendly channel that explain prerequisites needed for each topic. The videos are short and concised with good command of english. He explains the nitty gritty of the topic and creative. Always fun to watch.
 
 ### Front-End/Design
 
@@ -191,7 +191,8 @@
 
 - [Inside Code](https://www.youtube.com/channel/UCvLEP7Hu6SHd5a2CWeQXalg/videos): Inside Code creates content about Data Structures and Algorithms in Python programming language.
 
-- [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA): Apna College is a channel for Data structure and algorithms in c++ and web development. 
+- [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA): Apna College is a channel for Data structure and algorithms in c++ and web development.
+
 ## Machine Learning and Data Science
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw):
@@ -225,7 +226,5 @@
 ### Capture the Flag
 
 - [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
-
-
 
 **[Back To Top](#youtube-channels)**
