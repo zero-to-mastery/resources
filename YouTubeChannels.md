@@ -70,6 +70,9 @@
 
 * [MIT OpenCourseWare](https://youtube.com/c/mitocw): Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There's videos, and a whole lot more!
 
+* [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz/featured):Andy is a self-taught coder. He started to code back in 2014 when he was 28, leaving behind a job as a car salesman and not having much contact with coding at all before that.
+  Nowadays Andy has a YouTube channel and help people land their dream job as a software developer.
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
@@ -85,9 +88,6 @@
 - [Code with Ania Kubów #JavaScriptGames](https://www.youtube.com/c/AniaKub%C3%B3w): Learn JavaScript,
   React, Html, CSS and Express by making retro game in these tutorials.
 - [Uncode - GATE Computer Science](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ/videos): It is a one-stop solution for all computer science enthusiasts. You can learn computer science, programming, and coding from scratch.
-
-- [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz/featured):Andy is a self-taught coder. He started to code back in 2014 when he was 28, leaving behind a job as a car salesman and not having much contact with coding at all before that.
-  Nowadays Andy has a YouTube channel and help people land their dream job as a software developer.
 
 ## Musings
 
