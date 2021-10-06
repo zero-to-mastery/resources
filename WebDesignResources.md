@@ -36,6 +36,8 @@
 
 - [Devchallenges](https://devchallenges.io/): A platform where you can practice your web design skills using HTML, CSS & Javascript as an individual or as a team, submitting your solutions and give feedback.
 
+- [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/course/web-design-secrets/): A free course on web design by Jonas Schmedtmann
+
 ## Images &amp; Video
 
 - [Coverr](https://coverr.co/): Free stock videos to add to your websites.
