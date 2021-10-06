@@ -70,7 +70,7 @@
 
 * [MIT OpenCourseWare](https://youtube.com/c/mitocw): Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There's videos, and a whole lot more!
 
-* [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz/featured):Andy is a self-taught coder. He started to code back in 2014 when he was 28, leaving behind a job as a car salesman and not having much contact with coding at all before that.
+* [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz/featured): Andy is a self-taught coder. He started to code back in 2014 when he was 28, leaving behind a job as a car salesman and not having much contact with coding at all before that.
   Nowadays Andy has a YouTube channel and help people land their dream job as a software developer.
 
 ## Computer Science
