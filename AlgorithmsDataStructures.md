@@ -18,7 +18,6 @@
 
 - [Data Structures and Algorithms by Codewithharry](https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
 
-
 ## GitBook
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
@@ -44,3 +43,5 @@
 - [Coursera](https://www.coursera.org/specializations/data-structures-algorithms):Data Structures and Algorithms Specialization offered by UC San Diego via Coursera.
 
 - [TutorialsPoint: Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+
+- [Data Structures and Algorithms](https://www.pepcoding.com/resources/) Data Structure and Algorithms 1200 practice questions with solution videos.

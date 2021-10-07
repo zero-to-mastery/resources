@@ -193,6 +193,8 @@
 
 - [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA): Apna College is a channel for Data structure and algorithms in c++ and web development.
 
+- [Pepcoding](https://www.youtube.com/c/Pepcoding/featured): Pepcoding is a channel for Data Structure and Algorithms in java and web development.They provide all of there content FREE OF COST.
+
 ## Machine Learning and Data Science
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw):
