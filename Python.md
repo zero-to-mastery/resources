@@ -65,3 +65,28 @@
 - [Common Python Data Structures](https://realpython.com/python-data-structures) Data structures are the fundamental constructs around which you build your programs. Each data structure provides a particular way of organizing data so it can be accessed efficiently, depending on your use case. Python ships with an extensive set of data structures in its standard library.
 
 
+- [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer) The Well-Grounded Python Developer teaches you how to write real software in Python by building on the basic language skills you already have.
+
+
+- [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) Data Analysis with Python and PySpark is a carefully engineered tutorial that helps you use PySpark to deliver your data-driven applications at any scale.
+
+
+- [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) Deep Learning with Python, Second Edition is a comprehensive introduction to the field of deep learning using Python and the powerful Keras library.
+
+
+- [Fast Python for Data Science](https://www.manning.com/books/fast-python-for-data-science) Reduce costs and run times, handle huge datasets, and implement complex machine learning applications efficiently in Python.
+
+
+- [Microservice APIs in Python](https://www.manning.com/books/microservice-apis-in-python) Tips, best practices, and handy Python features for designing better microservices architecture and streamlining API integrations.
+
+
+- [Models and Algorithms for Unlabelled Data](https://www.manning.com/books/models-and-algorithms-for-unlabelled-data) Models and Algorithms for Unlabelled Data introduces mathematical techniques, key algorithms, and Python implementations that will help you build machine learning models for unannotated data.
+
+
+- [Publishing Python Packages](https://www.manning.com/books/publishing-python-packages) Create Python packages to share your code in a scalable and maintainable way.
+
+
+- [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) Learn how to speed up slow Python code with concurrent programming and the cutting-edge asyncio library.
+
+
+- [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) Learn how to speed up slow Python code with concurrent programming and the cutting-edge asyncio library.
