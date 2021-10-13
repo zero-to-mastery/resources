@@ -10,6 +10,8 @@
 
 - [Can I use...](https://caniuse.com/): Browser support tables for modern web technologies.
 
+- [Can I Email](https://www.caniemail.com/): Based on Can I Use but for Email support.
+
 - [DesignAcademy.io](https://designacademy.io/): Laura Elizabeth made this fantastic, easy-to-understand design fundamentals course for developers to learn within 6 weeks, after spending years struggling to grasp and implement design principles. She offers both a paid course as well as free resources in the form of blog posts and snippets of her course.
 
 - [devdocs](https://devdocs.io/): DevDocs combines multiple API documentations for a fast, organized and searchable interface for developers.
@@ -34,9 +36,9 @@
 
 - [Devchallenges](https://devchallenges.io/): A platform where you can practice your web design skills using HTML, CSS & Javascript as an individual or as a team, submitting your solutions and give feedback.
 
-## Images &amp; Video
+- [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/course/web-design-secrets/): A free course on web design by Jonas Schmedtmann
 
-- [AllTheFreeStock](http://allthefreestock.com/): A central place to search for free stock photos and videos.
+## Images &amp; Video
 
 - [Coverr](https://coverr.co/): Free stock videos to add to your websites.
 
@@ -77,9 +79,6 @@
 
 - [Isorepublic](https://isorepublic.com/): Thousands of Free High-Resolution CC0 Photos and Videos.
 
-- [Plixs](https://wallpapers.io/):
-  Beautiful High Definition HD Wallpapers.
-
 - [Librestock](https://librestock.com/): Thousands of Free High-Resolution CC0 Photos and Videos.
 
 - [Visualhunt](https://visualhunt.com/): Free high quality stock photos.
@@ -99,10 +98,10 @@
 
 - [Stockio](https://www.stockio.com/):
   : Free Photos, Vectors, Icons, Fonts and Videos for personal and commercial use
-  
+
 - [Imageonline.com](https://crop-circle.imageonline.co/):
   : Free circular crop tool at link. Must use JPEG files for image editing, plus many more free tools!
-  
+
 ## Color Palettes
 
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
@@ -143,7 +142,7 @@
 
 - [Iconfinder](https://www.iconfinder.com/): A listing of free and not-free web icons.
 
-- [Icongram](https://icongr.am/): A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms like [Font Awesome](https://fontawesome.com/), [Material Design](https://material.io/tools/icons/?style=baseline), [Devicon](https://konpa.github.io/devicon/), [Clarity](https://vmware.github.io/clarity/icons/icon-sets), [Octicons](https://octicons.github.com/) and much more.
+- [Icongram](https://icongr.am/): A fantastic meta-repository allowing anybody to get "6836 icons on the fly", pooling from other well-known logo platforms like [Font Awesome](https://fontawesome.com/), [Material Design](https://material.io/tools/icons/?style=baseline), [Clarity](https://vmware.github.io/clarity/icons/icon-sets), [Octicons](https://octicons.github.com/) and much more.
 
 - [Ionic](https://useiconic.com/): A collection of simple web icons. There is a free set of 223 icons as well as a larger set you can pay for.
 
@@ -198,3 +197,5 @@
 - [Humaaans](https://www.humaaans.com/): Mix-&-match illustrations of people with a design library.
 
 - [UX Design](https://uxdesign.cc/): A really nice blog that provides curated stories on UX, Visual & Product Design.
+
+- [Illlustrations](https://illlustrations.co/): Awesome free illustrations made by vijayverma on a 100 day challenge.

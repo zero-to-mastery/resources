@@ -13,3 +13,6 @@ Here are #a few resources on how to use Unix systems and operate the command lin
 
 - [Linux tutorials](https://www.linux.org/forums/#linux-tutorials.122): Linux tutorials at the beginner, intermediate, and advanced levels, from the Linux Foundation. 
  
+- [The Unix Specification](https://unix.org/what_is_unix/): The Open Group's description of the Unix specification. The website also includes links to some helpful white papers, accessible via the top menu. 
+
+- [UNIX Resources Page](https://faculty.ncssm.edu/~morrison/resources/unixResources/): North Carolina School of Science and Mathematics's list of useful Unix resources

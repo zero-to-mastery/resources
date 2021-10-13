@@ -18,7 +18,6 @@
 
 - [Data Structures and Algorithms by Codewithharry](https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
 
-
 ## GitBook
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
@@ -33,9 +32,16 @@
 
 - [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets) Teaches you to take advantage of data processing and analytics techniques specifically designed for large distributed datasets.
 
+- [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) Comprehensive background info on data structures and algorithms with practice problems.
+
 ## Courses
 
 - [Master the Coding Interview: Big Tech (FAANG) Interviews](https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep) Course by Andrei and his team.
 
 - [Common Python Data Structures](https://realpython.com/python-data-structures) Data structures are the fundamental constructs around which you build your programs. Each data structure provides a particular way of organizing data so it can be accessed efficiently, depending on your use case. Python ships with an extensive set of data structures in its standard library.
 
+- [Coursera](https://www.coursera.org/specializations/data-structures-algorithms):Data Structures and Algorithms Specialization offered by UC San Diego via Coursera.
+
+- [TutorialsPoint: Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
+
+- [Data Structures and Algorithms](https://www.pepcoding.com/resources/) Data Structure and Algorithms 1200 practice questions with solution videos.

@@ -38,7 +38,7 @@
 
 - [Codecademy Learn Python](https://www.codecademy.com/learn/python) This course is a great introduction to both fundamental programming concepts and the Python programming language. By the end, you’ll be comfortable programming in Python and taking your skills off the Codecademy platform and onto your own computer.
 
-
+- [Basics of Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/) This is a great course for introduction to python programming. It covers everything from scratch and is good for someone who is just getting into programming with Python.
 
 
 - [Real Python](https://realpython.com/python-keras-text-classification) Reading the mood from text with machine learning is called sentiment analysis, and it is one of the prominent use cases in text classification and here we will find how to do it.
@@ -63,6 +63,8 @@
 - [Practice with 100 programming Exercises](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended):Learn Python by practicing it daily. This repository has been divided into 25 days, so you can daily practice and learn practically. These exercises will immensely help you, especially if you are a beginner.
 
 - [Common Python Data Structures](https://realpython.com/python-data-structures) Data structures are the fundamental constructs around which you build your programs. Each data structure provides a particular way of organizing data so it can be accessed efficiently, depending on your use case. Python ships with an extensive set of data structures in its standard library.
+
+- [Python Module of the Week](https://pymotw.com/2/#): The Python Module of the Week series, or PyMOTW, is a tour of the Python standard library through short examples.
 
 
 - [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer) The Well-Grounded Python Developer teaches you how to write real software in Python by building on the basic language skills you already have.
@@ -90,3 +92,8 @@
 
 
 - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) Learn how to speed up slow Python code with concurrent programming and the cutting-edge asyncio library.
+
+
+- [Python on Windows 10](https://docs.microsoft.com/en-us/windows/python/beginners): An introduction to setting up and getting started with Python. Aimed at beginner users. 
+
+

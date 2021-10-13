@@ -19,3 +19,19 @@
 - [Dash by General Assembly](https://dash.generalassemb.ly/): Learn to code awesome websites in HTML, CSS, and JavaScript.
 
 - [CSSBattle](https://cssbattle.dev/): A Code-Golfing platform for CSS. Its like competitive programming in frontend development.
+
+# Resources for Practicing Python Development
+
+- [Coding Bat (Python)](https://codingbat.com/python): Practice problems exploring the basics of Python (Beginner, Intermediate)
+
+- [Exercism](https://exercism.io/): Hundreds of practice problems in Python and many other languages (Beginner, Intermediate, Advanced)
+ 
+- [Edabit](https://edabit.com/): Learn to think like a programmer while solving problems (Beginner, Intermediate, Advanced)
+
+- [CheckIO (Python)](https://py.checkio.org/): Unlock more difficult puzzles as you prove your programming skills (Beginner, Intermediate, Advanced)
+
+- [Code Wars](https://www.codewars.com/): Challenge yourself and your friends with competitive coding (Beginner, Intermediate, Advanced)
+
+- [Leet Code](https://leetcode.com/): Practice with thousands of problems and enter programming contests (Beginner, Intermediate, Advanced)
+
+- [HackerRank](https://www.hackerrank.com/): Solve challenges to advance your rank (Beginner, Intermediate, Advanced)

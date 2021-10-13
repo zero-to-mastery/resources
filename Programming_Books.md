@@ -92,3 +92,6 @@
 ## Coding Interviews
 
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?keywords=cracking+the+coding+interview&qid=1576284109&sr=8-2): A thorough walkthrough on coding interview topics with a good range of easy-to-difficult interview questions and solutions with in-depth explanations.
+
+## Better Coding
+- [Clean Code](https://www.google.com/aclk?sa=L&ai=DChcSEwjO15G4_arzAhWQMCsKHb1ACDgYABAJGgJzZg&ae=2&sig=AOD64_1puk7T7JbjKYxmZA0EVmYFBRn1Hg&ctype=5&q=&ved=2ahUKEwihl4m4_arzAhVTXHwKHZzVAaoQ9aACegQIARBb&adurl=): Learn to write better code which is more readable to others.

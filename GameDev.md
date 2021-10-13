@@ -7,6 +7,7 @@
 ## Unity:
 - [Official Unity Website](https://docs.unity3d.com/Manual/index.html): Documentation for C#/JavaScript and Unity Engine.
 - [Unity Learn](https://learn.unity.com/):Tutorials from beginner to advanced level on various topics.
+- [TutsNode - Intro to Unity 3D Physics](https://tutsnode.com/intro-to-unity-3d-physics-helicopters/): A set of tutorials that teaches beginner-to-intermediate Unity 3D physics. Note: there is a sizable download involved (13.6GB) in order to access the tutorial files. 
 
 ## Unreal Engine:
 - [Offcial Unreal Engine Website](https://docs.unrealengine.com/en-US/index.html): Documentation for C++ and Unreal Engine.

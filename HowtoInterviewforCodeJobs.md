@@ -42,6 +42,8 @@
   - Non-Technical Questions
   - "Non-Google" Interviews
 
+- [Most Common General Interview Questions and their Answers for Tech Jobs](https://ayedot.com/119/MiniBlog/General-Interview-Questions-and-their-Answers-for-Tech-Jobs): You should prepare these general interview questions too, becuase most people only focus on technical questions and don't prepare for these commonly asked general interview questions, and the ends up messing the interview. So, it's always good to prepare as much as you can.
+
 ### Interviewing Tools
 
 - [Adaface](https://www/adaface.com/pair-pro): Remote pair programming interviewing tool with shared code editor, compiler and video conferencing.
@@ -75,3 +77,5 @@
 -[Edabit](https://edabit.com): A beginner friendly platform for starting out with code challenges.
 
 -[Coding Bat](https://codingbat.com/java): A beginner friendly platform to start out programming challenges in Java and/or Python!
+
+-[InterviewBit](https://www.interviewbit.com/): Practice problems and interview preparation. Includes mock interview practice, etc. 

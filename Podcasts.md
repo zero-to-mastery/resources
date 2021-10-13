@@ -72,7 +72,7 @@
 
 ## Vue (JavaScript framework)
 
--[Views on Vue](https://devchat.tv/views-on-vue/): A weekly discussion among Vue developers about Vue and it's ecosyste
+- [Views on Vue](https://devchat.tv/views-on-vue/): A weekly discussion among Vue developers about Vue and it's ecosyste
 
 ## Mindset/Self-Development
 
@@ -98,3 +98,4 @@
 - [Base.cs Podcast](https://www.codenewbie.org/basecs): Beginner-friendly computer science lessons based on Vaidehi Joshi's base.cs blog series, produced by CodeNewbie.
 - [Software Engineering daily](https://softwareengineeringdaily.com/) Software development topics including technical interviews.
 - [No BS Engineering](https://nobsengineering.com/): General career advice for beginner to intermediate-level coders. 
+- [Computer Science/Software Engineering College Courses Review](https://player.fm/series/computer-sciencesoftware-engineering-college-courses-review): A series covering the key courses needed for a computer science degree.
