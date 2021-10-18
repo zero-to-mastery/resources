@@ -135,6 +135,7 @@
   - Data Science and Digital Marketing
 
 - [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
+- [Coder Coder](https://www.youtube.com/c/TheCoderCoder): Practical Tips for the Beginner Web Developer.
 
 ### Full-Stack
 
