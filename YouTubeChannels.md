@@ -136,6 +136,8 @@
 
 - [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
 
+- [Coder Coder](https://www.youtube.com/c/TheCoderCoder): Practical Tips for the Beginner Web Developer.
+
 ### Full-Stack
 
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire development stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies).
