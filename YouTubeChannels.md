@@ -159,6 +159,8 @@
 
 - [Academind](https://www.youtube.com/c/Academind/): Featuring full stack web development tutorials every week (Javascript, NodeJS, VueJS,ReactJS). A beginner friendly channel that explain prerequisites needed for each topic. The videos are short and concised with good command of english. He explains the nitty gritty of the topic and creative. Always fun to watch.
 
+- [Manning Publications](https://www.youtube.com/c/ManningPublications/featured): Check out the live-coding sessions by our authors, videos that cover the IT universe from back-end to front-end, from computer science to data science, and everything found in between. We're an independent publisher of computer books for software developers, engineers, architects, system administrators, managers and all who are professionally involved with the computer business.
+
 ### Front-End/Design
 
 - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials.
