@@ -84,6 +84,8 @@
 
 - [Skills of a Software Developer](https://www.manning.com/books/skills-of-a-software-developer) : The skills and knowledge you need to grow from a solo coder into a productive member of a software development team.
 
+- [Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.manning.com/books/software-mistakes-and-tradeoffs) : Optimize the decisions that define your code by exploring the common mistakes and intentional tradeoffs made by expert developers.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
