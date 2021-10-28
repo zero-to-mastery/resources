@@ -31,7 +31,7 @@
 
 * [**Linkedin Learning**](https://www.linkedin.com/learning/me?trk=nav_neptune_learning): Linkedin supplies courses through Linkedin learning that instruct a potpourri of topics which include HTML, CSS, JS etc. Requires Linkedin account.
 
-* [**SoloLearn**] (https://www.sololearn.com/Courses/) : Great free resource to learn several different programming languages. Along with community support, challenges, and coaching now also.
+* [**SoloLearn**](https://www.sololearn.com/Courses/) : Great free resource to learn several different programming languages. Along with community support, challenges, and coaching now also.
 
 * [**Visualize Code Execution**](http://pythontutor.com/): Visualize Python, Java, JavaScript, C, C++, Ruby code execution.
 
