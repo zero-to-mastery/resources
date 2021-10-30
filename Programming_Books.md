@@ -86,6 +86,8 @@
 
 - [Software Mistakes and Tradeoffs: How to make good programming decisions](https://www.manning.com/books/software-mistakes-and-tradeoffs) : Optimize the decisions that define your code by exploring the common mistakes and intentional tradeoffs made by expert developers.
 
+- [Five Lines of Code: How and when to refactor](https://www.manning.com/books/five-lines-of-code) : A book that teaches when to refactor, specific refactoring patterns that apply to most common problems, and characteristics of code that should be deleted altogether.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
