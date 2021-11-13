@@ -2,7 +2,7 @@
 Resources on how to interact your code with existing APIs.
 
 ## Key APIs to be aware of
-- [Fayas's APIs](https://api.fayas.me): Some simple json apis documentation.
+- [Fayas's APIs](https://apis.fayas.me): Some simple json apis documentation.
 - [Sumanjay's APIs](https://github.com/cyberboysumanjay/APIs): Some simple other json apis documentation.
 - [News API](https://newsapi.org): A JSON API for pulling headlines and news articles from news sources and blogs across the web.
 - [JSON Placeholder API](https://jsonplaceholder.typicode.com/): Free to use fake Online REST API for testing and prototyping.
