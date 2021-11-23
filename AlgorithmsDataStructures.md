@@ -34,6 +34,8 @@
 
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) Comprehensive background info on data structures and algorithms with practice problems.
 
+- [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) This book explores the most important algorithms and techniques for graphs in data science, with practical examples and concrete advice on implementation and deployment.
+
 ## Courses
 
 - [Master the Coding Interview: Big Tech (FAANG) Interviews](https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep) Course by Andrei and his team.
