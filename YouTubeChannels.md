@@ -198,13 +198,14 @@
 - [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA): Apna College is a channel for Data structure and algorithms in c++ and web development.
 
 - [Pepcoding](https://www.youtube.com/c/Pepcoding/featured): Pepcoding is a channel for Data Structure and Algorithms in java and web development.They provide all of there content FREE OF COST.
+- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw) data structures and algorithms resources covering in depth explanation for variety of topics
 
 ## Machine Learning and Data Science
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw):
   3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective(this channel has very good explaination about deep nural Network and CNN)
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q): This channel provides Data Science contents consisting of explainer videos and practical tutorials by Chanin Nantasenamat, Ph.D.
-
+- [Krish Naik](https://www.youtube.com/user/krishnaik06) resources for data science from beginner to advanced for variety of topics under data science and machine learning domain
 ### Programming Interview Preparation
 
 - [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
@@ -222,7 +223,7 @@
 - [Geeks For Geeks](https://www.youtube.com/c/GeeksforGeeksVideos)
 - [Exponent](https://www.youtube.com/c/ExponentTV)
 - [Hackerearth](https://www.youtube.com/c/HackerEarthInc)
-
+- [sudoCODE](https://www.youtube.com/channel/UCMrRRZxUAXRzjai0SSoFgdw)
 ## Cybersecurity and Capture the Flag
 
 ### Pentesting
