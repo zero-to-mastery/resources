@@ -55,3 +55,5 @@
 - [Pandas Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b): A quick guide with code samples to the basics of the Python data analysis library Pandas.
 
 - [Numpy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/da466534-51fe-4c6d-b0cb-154f4782eb54): This NumPy cheat sheet helps you to tackle the basics of this Python scientific computing library!
+
+- [Linux Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/) :   cheat sheet of the commands I use most for Linux, with popup links to man pages.
