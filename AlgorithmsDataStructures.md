@@ -18,6 +18,8 @@
 
 - [Data Structures and Algorithms by Codewithharry](https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
 
+- [What You Need To Know about Modern Hashing](https://www.youtube.com/watch?v=X9SBwzpYHhA)
+
 ## GitBook
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
