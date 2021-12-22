@@ -18,6 +18,8 @@
 
 - [Data Structures and Algorithms by Codewithharry](https://www.youtube.com/watch?v=5_5oE5lgrhw&list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi)
 
+- [What You Need To Know about Modern Hashing](https://www.youtube.com/watch?v=X9SBwzpYHhA)
+
 ## GitBook
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
@@ -33,6 +35,8 @@
 - [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets) Teaches you to take advantage of data processing and analytics techniques specifically designed for large distributed datasets.
 
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) Comprehensive background info on data structures and algorithms with practice problems.
+
+- [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) This book explores the most important algorithms and techniques for graphs in data science, with practical examples and concrete advice on implementation and deployment.
 
 ## Courses
 
