@@ -18,3 +18,4 @@ Search Engine Optimization is the practice of modifying your website's code and 
 - [SEO Training Course](https://www.udemy.com/course/whiteboard-seo/)
 - [Learn SEO Basics & Optimize Your Website](https://www.udemy.com/course/what-is-seo/)
 - [Three FREE SEO related courses on Alison.com](https://alison.com/courses?query=seo)
+- - [SEO Certification on HubSpot Academy](https://academy.hubspot.com/courses/seo-training)
