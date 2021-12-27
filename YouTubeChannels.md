@@ -72,6 +72,8 @@
 
 * [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz/featured): Andy is a self-taught coder. He started to code back in 2014 when he was 28, leaving behind a job as a car salesman and not having much contact with coding at all before that.
   Nowadays Andy has a YouTube channel and help people land their dream job as a software developer.
+  
+  * [Manning Publications](https://www.youtube.com/c/ManningPublications/featured): Follow Manning's authors in a live coding action.
 
 ## Computer Science
 
