@@ -40,3 +40,7 @@
 
 - [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) Learn features and constructs for C++
 
+
+## For Beginners
+
+- [Learn C from basics](https://www.codeforhunger.com/2020/12/Learn%20C%20programming%20in%20easy%20way%20%20codeforhunger.html) with lot of examples and solutions
