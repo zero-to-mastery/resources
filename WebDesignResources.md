@@ -38,6 +38,10 @@
 
 - [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/course/web-design-secrets/): A free course on web design by Jonas Schmedtmann
 
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org): WAVE® is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline errors, but also facilitates human evaluation of web content.
+
+- [Funkify](https://www.funkify.org): Funkify is an extension for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities.
+
 ## Images &amp; Video
 
 - [Coverr](https://coverr.co/): Free stock videos to add to your websites.
