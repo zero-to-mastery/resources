@@ -14,6 +14,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Articles**](DevelopmentArticles.md): General articles page on web development.
 
+- [**Challenges**](Challenges.md): Featuring a list of challenges for enhancing skills in different fields within tech industry.
+
 - [**CSS Resources**](CSSResources.md): A list of resources for learning CSS.
 
 - [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
