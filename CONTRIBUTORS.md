@@ -234,3 +234,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@Lada496](https://github.com/Lada496)
 - [@jgeiger2](https://github.com/jgeiger2)
 - [@joeTHAgoat](https://github.com/joeTHAgoat)
+- [@kenhorlador](https://github.com/kenhorlador)
