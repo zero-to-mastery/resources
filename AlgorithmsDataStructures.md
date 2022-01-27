@@ -24,6 +24,8 @@
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
 
+- [Data Structures and Algorithms in C/C++](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/)
+
 ## Books
 
 - [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
