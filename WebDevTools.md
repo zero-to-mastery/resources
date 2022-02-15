@@ -176,3 +176,6 @@ Things to look for if your editor has implementations for them. They will make y
 - [React Spinners](https://github.com/davidhu2000/react-spinners): Really cool collection of loading spinners with React.js
 
 - [Blobs](https://blobs.app/): Generate beautiful blob shapes for web and flutter apps.
+
+- [Sneat Free BootstraP 5 HTML Admin Template](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/): Open-source & Easy to use Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
+
