@@ -132,6 +132,8 @@
 
 - [ColorSpace](https://mycolor.space/): A color palette generator. Enter a color code and generate a variety of color palettes and gradients.
 
+- [CSS Gradient](https://cssgradient.io/): A free tool that lets you create a gradient background for websites.
+
 ## Icons &amp; Graphics
 
 - [CONVERTICO](https://convertico.com/): A free online PNG to ICO file converter.
