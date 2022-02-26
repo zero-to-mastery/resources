@@ -51,3 +51,5 @@
 - [TutorialsPoint: Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 - [Data Structures and Algorithms](https://www.pepcoding.com/resources/) Data Structure and Algorithms 1200 practice questions with solution videos.
+
+- [Mastering Data Structures & Algorithms using C and C++](https://www.udemy.com/course/datastructurescncpp/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_77882236463_._ad_533093955810_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171312_._li_9061686_._pd__._&matchtype=&gclid=CjwKCAiAvOeQBhBkEiwAxutUVBvssXEwedVxKvyv6PrQRsLvvhpfqAEuK6L9oV16Ye_PT3D3IcBEzRoCr6kQAvD_BwE) Learn, Analyse and Implement Data Structure using C and C++. Learn Recursion and Sorting. 
