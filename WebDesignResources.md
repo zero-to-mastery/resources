@@ -205,3 +205,5 @@
 - [UX Design](https://uxdesign.cc/): A really nice blog that provides curated stories on UX, Visual & Product Design.
 
 - [Illlustrations](https://illlustrations.co/): Awesome free illustrations made by vijayverma on a 100 day challenge.
+
+- [SuperDevResources](https://superdevresources.com/3d-illustrations-free/): 16 Free 3D Illustration Sets for Web and App Design.

@@ -61,3 +61,5 @@
 - [CSS Minifier](https://cssminifier.com/): CSS Minifier is an easy way to Minify/Compress your CSS Files. Simple Quick, Fast and absolutely FREE.
 
 - [CodeBeautify](https://codebeautify.org/css-tools): A set of tools for improving the quality of CSS code, including "minifying" and beautifying tools. 
+
+- [CSS-Doodle](https://css-doodle.com/): A web component for drawing patterns with CSS. 
