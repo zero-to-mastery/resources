@@ -19,7 +19,6 @@
 - [CSS-Tailwind CSS](https://scrimba.com/learn/tailwind): You can learn Tailwind CSS, one of the most popular CSS frameworks at Scrimba. This is best suited for intermediate-level programmers who are familiar with the fundamentals of CSS. Tailwind CSS is a utility-first framework, which focuses on speed and conciseness of code.
 
 - [CSS-Bulma](https://scrimba.com/learn/bulma): Bulma is a free, open source CSS framework based on Flexbox. You can learn Bulma CSS at Scrimba in a 1 hour lesson that includes 14 short videos.
-  
 - [W3Schools CSS Tutorials](https://www.w3schools.com/css/default.asp): CSS covered, comes with tests and documentations, along with over 300 examples! Basic to Advanced!
 
 - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): This provides many links to learning CSS and also has its own resources which can start with the basics and then become advanced.
@@ -60,4 +59,6 @@
 
 - [CSS Minifier](https://cssminifier.com/): CSS Minifier is an easy way to Minify/Compress your CSS Files. Simple Quick, Fast and absolutely FREE.
 
-- [CodeBeautify](https://codebeautify.org/css-tools): A set of tools for improving the quality of CSS code, including "minifying" and beautifying tools. 
+- [CodeBeautify](https://codebeautify.org/css-tools): A set of tools for improving the quality of CSS code, including "minifying" and beautifying tools.
+
+- [CSS easing functions](https://easings.net/): Collection of easing functions bo be used in CSS transitions and animations.
