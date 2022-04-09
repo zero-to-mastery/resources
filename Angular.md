@@ -18,15 +18,12 @@
 
 - [How to call an rest api while bootstrapping angular 2 app](https://stackoverflow.com/questions/41619443/how-to-call-an-rest-api-while-bootstrapping-angular-2-app)
 
-- [Hook into Angular’s Initialization Process](https://hackernoon.com/hook-into-angular-initialization-process-add41a6b7e)
-
 - [Angular — Stop using observable when you should use a promise](https://netbasal.com/angular-stop-using-observable-when-you-should-use-a-promise-8da0788a8d2)
 
 - [Loading feature modules in Angular 4](https://developer.ibm.com/tutorials/wa-load-feature-modules-in-angular4/)
 
 - [Building an Angular Component Library ](https://medium.com/@nikolasleblanc/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e)
   (https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11)
-  (https://blog.angularindepth.com/creating-a-library-in-angular-6-part-2-6e2bc1e14121)
   (https://github.com/jasonaden/angular-cli-lib-example)
 
 - [The Angular 6|5 Router](https://www.techiediaries.com/angular-router-multiple-outlets/)
@@ -52,7 +49,6 @@
 - [Angular 6 - Communicating Between Components with Observable & Subject](http://jasonwatmore.com/post/2018/06/25/angular-6-communicating-between-components-with-observable-subject)
 
 - [Angular 6 RxJS 6 Tutorial & Example](https://www.techiediaries.com/angular-rxjs-tutorial/)
-  (https://angular.io/guide/rx-library)
 
 - [Angular 7 Tutorial Series](https://medium.com/techiediaries-com/angular-6-tutorial-series-jwt-auth-rxjs-6-httpclient-bootstrap-4-material-design-routing-and-f80f29ffcb6d)
 
