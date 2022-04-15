@@ -66,7 +66,7 @@ Have some new exciting features you'd like to add? Let our maintainers know firs
 
 - [Try Git](https://try.github.io/)
 
-- [Git/ GitHub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
+- [Git/GitHub on Windows](https://www.youtube.com/watch?v=J_Clau1bYco)
 
 ## Licence
 [MIT](https://opensource.org/licenses/MIT)
