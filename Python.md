@@ -75,4 +75,9 @@
 
 - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) Learn how to speed up slow Python code with concurrent programming and the cutting-edge asyncio library.
 
-- [Python on Windows 10](https://docs.microsoft.com/en-us/windows/python/beginners): An introduction to setting up and getting started with Python. Aimed at beginner users. 
+- [Python on Windows 10](https://docs.microsoft.com/en-us/windows/python/beginners): An introduction to setting up and getting started with Python. Aimed at beginner users.
+
+- [PYnative](https://pynative.com/) Free Python tutorials, quizzes and exercises.
+
+- [Exercism](https://exercism.org/tracks/python/exercises) Free Python exercises.
+
