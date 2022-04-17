@@ -2,6 +2,8 @@
 
 # Cheat Sheets
 
+- [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/): Cheatsheets for experienced React developers getting started with TypeScript.
+
 - [HTTP Status Codes](https://www.abstractapi.com/http-status-codes): An overview of every HTTP Status Code and what they mean.
 
 - [DevHints](https://devhints.io/): A great resource of cheat sheets for a wide range of technologies.
@@ -47,6 +49,7 @@
 - [Flutter Cheat Sheet](https://howtodothisinflutter.com/): Basic flutter commands and sample code
 
 - [HTML Cheat Sheet](https://html.com/wp-content/uploads/html-cheat-sheet.pdf): This clear, easy-to-access PDF thoroughly explains HTML elements, with understandable explanations and examples.
+- [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/): It is an interactive list of Bootstrap 5 classes, variables, and mixins
 
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/): It is an interactive list of Bootstrap 5 classes, variables, and mixins
 
