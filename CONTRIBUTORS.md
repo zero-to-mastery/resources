@@ -8,6 +8,7 @@
 
 This is a list showing the GitHub usernames of all who have contributed to this open-source project! **Make sure to add yourself and submit a pull request if you've contributed.**
 
+- [@Quavo](https://github.com/lucky-chap)
 - [@Tejas150](https://github.com/Tejas150)
 - [@toihirhalim](https://github.com/toihirhalim)
 - [@nnhhiilliisstt](https://github.com/nnhhiilliisstt)
@@ -237,3 +238,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@kenhorlador](https://github.com/kenhorlador)
 - [@parthpatel6347](https://github.com/parthpatel6347)
 - [@Dinesh-Khanal](https://github.com/Dinesh-Khanal)
+- [@gcincilla](https://github.com/gcincilla)
