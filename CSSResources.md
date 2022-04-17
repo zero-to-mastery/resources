@@ -27,6 +27,8 @@
 
 - [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
 
+- [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure/): Start a mysterious adventure and help King Arthur defeat three evil brothers using CSS Flex Box.
+
 - [Flexbox Defense](http://www.flexboxdefense.com/): Tower Defense with a twist: all towers must be positioned with CSS flexbox.
 
 - [Flexbox Froggy](http://flexboxfroggy.com/): A fun in-browser game to help teach the powerful, complex CSS flexbox layout method.
