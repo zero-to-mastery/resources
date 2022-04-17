@@ -31,6 +31,8 @@
 
 - [Flexbox Froggy](http://flexboxfroggy.com/): A fun in-browser game to help teach the powerful, complex CSS flexbox layout method.
 
+- [Grid Attack](https://codingfantasy.com/games/css-grid-attack/): Demons kidnapped a powerful elf to steal his power. Go on an incredibly dangerous quest and save the world using a secret weapon – CSS Grid.
+
 - [Grid Garden](https://cssgridgarden.com/): A fun in-browser game to help teach the powerful, complex CSS grid layout method.
 
 - [Flexbox Zombies](https://flexboxzombies.com/p/flexbox-zombies/): A fun comprehensive in-browser game to help you learn CSS flexbox while fighting zombies.
