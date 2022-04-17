@@ -62,3 +62,5 @@
 - [CodeBeautify](https://codebeautify.org/css-tools): A set of tools for improving the quality of CSS code, including "minifying" and beautifying tools.
 
 - [CSS easing functions](https://easings.net/): Collection of easing functions bo be used in CSS transitions and animations.
+
+- [CSS-Doodle](https://css-doodle.com/): A web component for drawing patterns with CSS. 
