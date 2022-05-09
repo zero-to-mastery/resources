@@ -241,3 +241,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@TimSorrow](https://github.com/TimSorrow)
 - [@Dinesh-Khanal](https://github.com/Dinesh-Khanal)
 - [@gcincilla](https://github.com/gcincilla)
+- [@sampconrad](https://github.com/sampconrad)
