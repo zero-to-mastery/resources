@@ -10,6 +10,8 @@
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com): Easy to follow entry level guide that provides real world experience. Build automation scripts to solve everyday issues whilst you learn basic python.
 
+- [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/): This curated collection of simple Python projects lets you dive right in and make digital art, games, animations, number-crunching tools and more – right away!
+
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/book/): Learn Python the Hard Way is a free ebook available online that gives you a great foundational knowledge of Python code. The book covers everything from the most basic (how to get set up when you first begin) to super complex (how to build a game).
 
 - [Python Programming with SentDex](https://pythonprogramming.net): Beginner through ton advanced python tutorials covering ML, webdev, robotics and more
@@ -19,7 +21,6 @@
 - [Python For Everybody](https://www.py4e.com/): Free course to learn python for all the basic requirement like datastrucuture, Database, networking, OOPS, etc.
 
 - [Learn Python](https://www.learnpython.org/): Get started learning Python with DataCamp's free Intro to Python tutorial. Learn Data Science by completing interactive coding challenges and watching videos by expert instructors.
-
 
 - [Full Stack Python](https://www.fullstackpython.com/web-development.html): A great article which gives you an insight on how to become a full stack python web developer with plethora of resources.
 
@@ -40,25 +41,17 @@
 
 - [Basics of Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/) This is a great course for introduction to python programming. It covers everything from scratch and is good for someone who is just getting into programming with Python.
 
-
 - [Real Python](https://realpython.com/python-keras-text-classification) Reading the mood from text with machine learning is called sentiment analysis, and it is one of the prominent use cases in text classification and here we will find how to do it.
-
-
 
 - [Programiz](https://www.programiz.com/) Learn to code with these beginner-friendly tutorials and examples. Read tutorials, try examples, write programs, and learn to code.
 
-
 - [Coding in Python](https://www.amazon.com/Creative-Coding-Python-Programming-Projects/dp/1631595814) Creative Coding in Python presents over 30 creative projects that teach how to code in the easy and intuitive programming language, Python.
-
 
 - [Python for Data Science](https://cognitiveclass.ai/courses/python-for-data-science) This free Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own!
 
-
 - [Data Visualization with Python](https://cognitiveclass.ai/courses/data-visualization-with-python) Data visualization is the graphical representation of data in order to interactively and efficiently convey insights to clients, customers, and stakeholders in general. It is a way to summarize your findings and display it in a form that facilitates interpretation and can help in identifying patterns or trends. In this Data Visualization with Python course, you'll learn how to create interesting graphics and charts and customize them to make them more effective and more pleasing to your audience.
 
-
 - [Cracking Codes with Python](https://inventwithpython.com/cracking/): Cracking Codes with Python teaches complete beginners how to program in the Python programming language. The book features the source code to several ciphers and hacking programs for these ciphers.
-
 
 - [Practice with 100 programming Exercises](https://github.com/darkprinx/100-plus-Python-programming-exercises-extended):Learn Python by practicing it daily. This repository has been divided into 25 days, so you can daily practice and learn practically. These exercises will immensely help you, especially if you are a beginner.
 
@@ -66,34 +59,25 @@
 
 - [Python Module of the Week](https://pymotw.com/2/#): The Python Module of the Week series, or PyMOTW, is a tour of the Python standard library through short examples.
 
-
 - [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer) The Well-Grounded Python Developer teaches you how to write real software in Python by building on the basic language skills you already have.
-
 
 - [Data Analysis with Python and PySpark](https://www.manning.com/books/data-analysis-with-python-and-pyspark) Data Analysis with Python and PySpark is a carefully engineered tutorial that helps you use PySpark to deliver your data-driven applications at any scale.
 
-
 - [Deep Learning with Python, Second Edition](https://www.manning.com/books/deep-learning-with-python-second-edition) Deep Learning with Python, Second Edition is a comprehensive introduction to the field of deep learning using Python and the powerful Keras library.
-
 
 - [Fast Python for Data Science](https://www.manning.com/books/fast-python-for-data-science) Reduce costs and run times, handle huge datasets, and implement complex machine learning applications efficiently in Python.
 
-
 - [Microservice APIs in Python](https://www.manning.com/books/microservice-apis-in-python) Tips, best practices, and handy Python features for designing better microservices architecture and streamlining API integrations.
-
 
 - [Models and Algorithms for Unlabelled Data](https://www.manning.com/books/models-and-algorithms-for-unlabelled-data) Models and Algorithms for Unlabelled Data introduces mathematical techniques, key algorithms, and Python implementations that will help you build machine learning models for unannotated data.
 
-
 - [Publishing Python Packages](https://www.manning.com/books/publishing-python-packages) Create Python packages to share your code in a scalable and maintainable way.
 
-
 - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) Learn how to speed up slow Python code with concurrent programming and the cutting-edge asyncio library.
 
+- [Python on Windows 10](https://docs.microsoft.com/en-us/windows/python/beginners): An introduction to setting up and getting started with Python. Aimed at beginner users.
 
-- [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) Learn how to speed up slow Python code with concurrent programming and the cutting-edge asyncio library.
+- [PYnative](https://pynative.com/) Free Python tutorials, quizzes and exercises.
 
-
-- [Python on Windows 10](https://docs.microsoft.com/en-us/windows/python/beginners): An introduction to setting up and getting started with Python. Aimed at beginner users. 
-
+- [Exercism](https://exercism.org/tracks/python/exercises) Free Python exercises.
 

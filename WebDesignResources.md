@@ -158,7 +158,9 @@
 
 - [Octicons](https://octicons.github.com/): GitHub's free set of icons.
 
-- [Particles.js](https://vincentgarreau.com/particles.js/): An app for creating dynamic CSS backgrounds.
+- [Particles.js](https://vincentgarreau.com/particles.js/): An app for creating dynamic JS backgrounds.
+
+- [tsParticles](https://particles.js.org/): A JavaScript library for creating dynamic background with particles, fireworks, confetti, and other effects...
 
 - Note that as of the most recent version of [Bootstrap](https://getbootstrap.com/), they no longer support their own glyphicons.
 
@@ -205,3 +207,5 @@
 - [UX Design](https://uxdesign.cc/): A really nice blog that provides curated stories on UX, Visual & Product Design.
 
 - [Illlustrations](https://illlustrations.co/): Awesome free illustrations made by vijayverma on a 100 day challenge.
+
+- [SuperDevResources](https://superdevresources.com/3d-illustrations-free/): 16 Free 3D Illustration Sets for Web and App Design.
