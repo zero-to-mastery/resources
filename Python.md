@@ -77,6 +77,8 @@
 
 - [Python on Windows 10](https://docs.microsoft.com/en-us/windows/python/beginners): An introduction to setting up and getting started with Python. Aimed at beginner users.
 
+- [Python How-To](https://www.manning.com/books/python-how-to): Practical collection of the most important Python techniques.
+
 - [PYnative](https://pynative.com/) Free Python tutorials, quizzes and exercises.
 
 - [Exercism](https://exercism.org/tracks/python/exercises) Free Python exercises.
