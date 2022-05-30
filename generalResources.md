@@ -42,3 +42,5 @@
 * [Git Reference](https://git-scm.com/docs) Learn Git, and some of their commands!
 
 * [Full Stack open](https://fullstackopen.com) This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course covers testing, configuration and environment management, and the use of MongoDB for storing the application’s data.
+
+* [Codementor Events](https://www.codementor.io/events) Codementor Events is a developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
