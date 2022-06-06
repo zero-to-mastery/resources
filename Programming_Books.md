@@ -33,6 +33,7 @@
 - [Web Design Playground: HTML & CSS The Interactive Way](https://www.manning.com/books/web-design-playground/): A book that takes you step by step from writing your first line of HTML to creating interesting and attractive web pages.
 
 - [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide/): A book that covers the most important scenarios and challenges for object design and sets out best practices for designing objects that apply regardless of the object-oriented programming language you choose.
+
 - [Designing APIs with Swagger and OpenAPI](https://www.manning.com/books/designing-apis-with-swagger-and-openapi/): A book that will teach you the best practices for describing and designing RESTful APIs using OpenAPI and Swagger through a design-first paradigm.
 
 - [Grokking Simplicity: Taming complex software with functional thinking](https://www.manning.com/books/grokking-simplicity): This book teaches functional programming from first principles, using real-world scenarios, and using JavaScript for all code excamples.
@@ -89,6 +90,8 @@
 - [Five Lines of Code: How and when to refactor](https://www.manning.com/books/five-lines-of-code) : A book that teaches when to refactor, specific refactoring patterns that apply to most common problems, and characteristics of code that should be deleted altogether.
 
 - [Effective Software Testing: A developer's guide](https://www.manning.com/books/effective-software-testing) : A hands-on guide to creating high quality tests, from your first line of code through pre-delivery checks.
+
+- [Tiny PowerShell Projects](https://www.manning.com/books/tiny-powershell-projects) : A book which guides you through 17 practical PowerShell projects that will build your skills.
 
 ## React
 
