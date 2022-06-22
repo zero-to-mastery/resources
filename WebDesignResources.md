@@ -42,6 +42,8 @@
 
 - [Funkify](https://www.funkify.org): Funkify is an extension for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities.
 
+- [TshirtDesigns](https://www.tshirtdesigns.com/mockups): An apparel and tshirt design mockup generator plus a marketplace of t-shirt designs.
+
 ## Images &amp; Video
 
 - [Coverr](https://coverr.co/): Free stock videos to add to your websites.
@@ -105,6 +107,8 @@
 
 - [Imageonline.com](https://crop-circle.imageonline.co/):
   : Free circular crop tool at link. Must use JPEG files for image editing, plus many more free tools!
+
+- [Optimizeimages](https://www.optimizeimages.com): Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
 
 ## Color Palettes
 
@@ -184,7 +188,7 @@
 
 - [3dicons](https://www.3dicons.com/): A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.
 
-- [iconshock](https://www.3dicons.com/): 2 Million+ professional icons library. Over 400+ icon sets in more than 30 styles, including Flat, Material, iOS, Glyph, Colorful, Window 10, Revamped Office, 3D Realistic, Isometric, & more! Most of the icons are vector and pixel perfect conveniently grouped in sets by industries, and our customs designs are even better :)
+- [iconshock](https://www.iconshock.com/): 2 Million+ professional icons library. Over 400+ icon sets in more than 30 styles, including Flat, Material, iOS, Glyph, Colorful, Window 10, Revamped Office, 3D Realistic, Isometric, & more! Most of the icons are vector and pixel perfect conveniently grouped in sets by industries, and our customs designs are even better :)
 
 ## Page and Button Effects, Hover effects
 
@@ -213,3 +217,7 @@
 - [Illlustrations](https://illlustrations.co/): Awesome free illustrations made by vijayverma on a 100 day challenge.
 
 - [SuperDevResources](https://superdevresources.com/3d-illustrations-free/): 16 Free 3D Illustration Sets for Web and App Design.
+
+- [Illustrations-figma](https://www.artify.co/illustrations-figma): Figma plugin with 5000 vector illustrations for figma, in more than 70 design styles.
+
+- [Vector Illustrations](https://www.artify.co/vector-illustrations): Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.
