@@ -67,4 +67,6 @@
 
 - [CSS easing functions](https://easings.net/): Collection of easing functions bo be used in CSS transitions and animations.
 
-- [CSS-Doodle](https://css-doodle.com/): A web component for drawing patterns with CSS. 
+- [CSS-Doodle](https://css-doodle.com/): A web component for drawing patterns with CSS.
+
+- [Modern CSS Solutions](https://moderncss.dev/): A list of articles to solve old CSS problems with modern CSS solutions.
