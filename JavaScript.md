@@ -62,6 +62,8 @@
 
 - [JavaScript Absolute Beginner's Guide](https://learning.oreilly.com/library/view/javascript-absolute-beginners/9780134498638/) by Kirupa Chinnathambi: An easy to follow book for absolute beginners (even if you have never programmer anything before). This book is a great to get up & running with JS and it teaches you how to use JavaScript together with HTML & CSS to create powerful web apps.
 
+- [Learn JavaScript](https://learnjavascript.online/): Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser.
+
 ## Advanced Javascript Articles
 
 - [Exploring Async/Await Functions in JavaScript](https://alligator.io/js/async-functions): Async/await functions, a new addition with ES2017 (ES8), help us even more in allowing us to write completely synchronous-looking code while performing asynchronous tasks behind the scenes.
