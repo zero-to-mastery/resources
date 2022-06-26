@@ -10,6 +10,7 @@ Resources on how to interact your code with existing APIs.
 - [Random User Generator API](https://randomuser.me/): Open-source API for generating random user data.
 - [Useful API's](https://github.com/public-apis/public-apis): Collection of APIs on a list of issues ranging from health to geocoding.
 - [TutorialsPoint API guide](https://www.tutorialspoint.com/application-programming-interface-api): An overview of how API's work
+- [SerpApi](https://serpapi.com/): A collection of many usefull APIs like Google search API, Google maps API, YouTube search API, and many more.
 
 ## General user guides
 
