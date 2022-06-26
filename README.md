@@ -54,6 +54,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 
+- [**ZTM Python developer course**](ZTM_Python_resources.md): A list of websites linking to the resources used in the course.
+
 ## Contributing
 
 - You are always welcome to contribute to this project, kindly visit our [**Contributor's Guide**](https://github.com/zero-to-mastery/resources/blob/master/CONTRIBUTING.md) before opening a pull request.
