@@ -244,3 +244,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@gcincilla](https://github.com/gcincilla)
 - [@sampconrad](https://github.com/sampconrad)
 - [@Dharmik48](https://github.com/Dharmik48)
+- [@Amit](https://github.com/amitturare)
