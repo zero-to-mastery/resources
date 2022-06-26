@@ -70,3 +70,43 @@
 - [CSS-Doodle](https://css-doodle.com/): A web component for drawing patterns with CSS.
 
 - [Modern CSS Solutions](https://moderncss.dev/): A series of articles to solve old CSS problems with modern CSS solutions.
+
+## CSS Generators
+
+- [Loading.io](https://loading.io/): A site for getting loaders for your website. They provide them in CSS, SVG, png, and gif formats. Some of them are paid too.
+
+- [Favicon Generator](https://favicon.io/): Generate SVG favicons for your site using text, image, or emoji.
+
+- [Get Waves](https://getwaves.io/): A great tool for creating wavy graphics for your website. It includes a variety of configurable features that allow you to build incredibly unique waves.
+
+- [Hero Patterns](https://heropatterns.com/): Provides an amazing + huge collection of repeating subtle-looking SVG background patterns.
+
+- [Glassmorphism](https://hype4.academy/tools/glassmorphism-generator): This tool will help you add the trendy frosted glass effects to your web apps very easily.
+
+- [Neumorphism/Soft UI](https://neumorphism.io/): A fantastic CSS code generator for the popular Soft UI design.
+
+- [3D Book Cover Generator](https://3dbookcovergenerator.netlify.app/): Helps you create a cool 3D book to add to your landing page sites.
+
+- [Ribbon Generator](https://www.cssportal.com/css-ribbon-generator/): On your book element or any other element, you can easily add customized ribbons using this generator.
+
+- [Blob Generator](https://www.blobmaker.app/): A very trendy art to make your site look modern.
+
+- [Clippy](https://bennettfeely.com/clippy/): A tool for creating CSS clip paths of various shapes.
+
+- [Clip Path Maker](https://bennettfeely.com/clippy/): A clip-path generator that allows you to make complex shapes in CSS by clipping an element to a basic shape.
+
+- [CSS Glow Generator](https://cssbud.com/css-generator/css-glow-generator/): This tool will help you add a cool glowing effect (box-shadow) to the elements.
+
+- [Smooth Shadow Generator](https://shadows.brumm.af/): Subtle shadows are what make an element look modern and sleek. And, to create them this is the tool you need.
+
+- [Buttons CSS Generator](https://markodenic.com/tools/buttons-generator/): Just with one click, you can get the awesome styles you need for the buttons of your project.
+
+- [Animated Keyframes Code For Icons](https://waitanimate.wstone.uk/): Experiment with your animations on icons and get code in just a few minutes.
+
+- [SVG Backgrounds](https://www.svgbackgrounds.com/): You can use this to make really cool-looking SVG backgrounds. Simply copy and paste it into your project.
+
+- [Ultimate CSS Gradient Generator](https://www.colorzilla.com/gradient-editor/): With a powerful Photoshop-like interface, you can create cool gradients as per your needs.
+
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/): A great tool for experimenting with CSS Grid to build dynamic layouts.
+
+- [Enjoy CSS](https://enjoycss.com/): An all-in-one CSS generator that can help you with backgrounds, shadows, and many other properties.
