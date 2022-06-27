@@ -44,3 +44,5 @@
 * [Full Stack open](https://fullstackopen.com) This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course covers testing, configuration and environment management, and the use of MongoDB for storing the application’s data.
 
 * [Codementor Events](https://www.codementor.io/events) Codementor Events is a developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
+
+*[daily.dev](https://daily.dev/): A browser extension that replaces a new tab with a personalised feed of articles relating to everything from Software Development, Machine Learning, DevOps and Open Source and more.
