@@ -112,3 +112,7 @@
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/): A great tool for experimenting with CSS Grid to build dynamic layouts.
 
 - [Enjoy CSS](https://enjoycss.com/): An all-in-one CSS generator that can help you with backgrounds, shadows, and many other properties.
+
+- [CSS Layout](https://csslayout.io/): Generate most popular CSS layouts and patterns easily.
+
+- [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/): Generate organic looking shapes by using eight values specifying border-radius in CSS.
