@@ -23,6 +23,8 @@
 
 - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): This provides many links to learning CSS and also has its own resources which can start with the basics and then become advanced.
 
+- [Euismod](https://www.euismod.dev): This website is to help people learn CSS grid in an interactive fashion.
+
 ## CSS Games
 
 - [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
