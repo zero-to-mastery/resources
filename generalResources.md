@@ -45,4 +45,4 @@
 
 * [Codementor Events](https://www.codementor.io/events) Codementor Events is a developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
 
-*[daily.dev](https://daily.dev/): A browser extension that replaces a new tab with a personalised feed of articles relating to everything from Software Development, Machine Learning, DevOps and Open Source and more.
+* [daily.dev](https://daily.dev/): A browser extension that replaces a new tab with a personalised feed of articles relating to everything from Software Development, Machine Learning, DevOps and Open Source and more.
