@@ -73,6 +73,8 @@
 
 - [Modern CSS Solutions](https://moderncss.dev/): A series of articles to solve old CSS problems with modern CSS solutions.
 
+- [SmolCSS](https://smolcss.dev/): Tons of minimal snippets for modern CSS layouts and components.
+
 ## CSS Generators
 
 - [Loading.io](https://loading.io/): A site for getting loaders for your website. They provide them in CSS, SVG, png, and gif formats. Some of them are paid too.
