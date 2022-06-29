@@ -10,7 +10,7 @@
 
 ## Why do you think this is a good resource?
 
-<!-- Add a reason that why the resource can be helpful to the community -->
+<!-- Add a reason why the resource can be helpful to the community -->
 
 ## GitHub repository (optional)
 
