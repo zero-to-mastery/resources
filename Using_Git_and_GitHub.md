@@ -58,3 +58,4 @@
 
 - [Chryz-hub - Opensoure-4-everyone](https://github.com/chryz-hub/opensource-4-everyone): A repository on everything related to open source. Looking for a project, GitHub membership visibility, basic and advance git commands, getting started with open source and many more.
 
+- [Complete Guide to Open Source - How to Contribute](https://youtu.be/yzeVMecydCE): Learn why and how to contribute to open source software. You will learn about how to find projects to contribute to, how to make issues and PRs, how to make money from open source, and more.
