@@ -183,3 +183,4 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Meta Tags](https://metatags.io/): Meta Tags is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 
+- [DevAssets](https://xsgames.co/devassets/): A curated list of many different types of resources for developers.
