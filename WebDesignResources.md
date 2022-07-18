@@ -138,6 +138,8 @@
 
 - [CSS Gradient](https://cssgradient.io/): A free tool that lets you create a gradient background for websites.
 
+- [ColorHub](https://www.colorhub.app/): A color palette finder with lots of unique features.
+
 ## Icons &amp; Graphics
 
 - [CONVERTICO](https://convertico.com/): A free online PNG to ICO file converter.
