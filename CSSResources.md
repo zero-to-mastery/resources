@@ -96,10 +96,6 @@
 
 - [Blob Generator](https://www.blobmaker.app/): A very trendy art to make your site look modern.
 
-- [Clippy](https://bennettfeely.com/clippy/): A tool for creating CSS clip paths of various shapes.
-
-- [Clip Path Maker](https://bennettfeely.com/clippy/): A clip-path generator that allows you to make complex shapes in CSS by clipping an element to a basic shape.
-
 - [CSS Glow Generator](https://cssbud.com/css-generator/css-glow-generator/): This tool will help you add a cool glowing effect (box-shadow) to the elements.
 
 - [Smooth Shadow Generator](https://shadows.brumm.af/): Subtle shadows are what make an element look modern and sleek. And, to create them this is the tool you need.
