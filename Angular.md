@@ -26,7 +26,6 @@
 
 - [Building an Angular Component Library ](https://medium.com/@nikolasleblanc/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e)
   (https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11)
-  (https://blog.angularindepth.com/creating-a-library-in-angular-6-part-2-6e2bc1e14121)
   (https://github.com/jasonaden/angular-cli-lib-example)
 
 - [The Angular 6|5 Router](https://www.techiediaries.com/angular-router-multiple-outlets/)
