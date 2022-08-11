@@ -10,7 +10,7 @@
 
 - [How to Break Into the Tech Industry](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/): Some good, fairly detailed advice on job hunting, networking, interviewing, and negotiation.
 
-- [How to Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685): A decent article on coding interviews that has been expanded into a [free e-book](http://freebies.devmastery.com/interview-guide/) with a whole lot of online resources and sample questions.
+- [How to Win the Coding Interview](https://medium.com/on-writing-code/how-to-win-the-coding-interview-71ae7102d685): A decent article on coding interviews.
 
 - [I spent 3 months applying to jobs after a coding boot camp. Here’s what I learned.](https://medium.freecodecamp.org/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331): Some job search advice given by a recent boot camp graduate.
 
@@ -19,8 +19,6 @@
 - [You Suck at Technical Interviews](http://seldo.com/weblog/2014/08/26/you_suck_at_technical_interviews): An interesting article that provides advice for potential employers on how to improve their interviewing techniques and strategies. Certainly, this would be a good read for someone on the job market.
 
 ## Other Resources
-
-- [Remote Dev Job Sites](http://bit.ly/2NSgGe1): Here is a list of remote development jobs sites/companies/resources compiled by Misha, a member/contributor from our community.
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 
@@ -46,7 +44,7 @@
 
 ### Interviewing Tools
 
-- [Adaface](https://www/adaface.com/pair-pro): Remote pair programming interviewing tool with shared code editor, compiler and video conferencing.
+- [Adaface](https://www.adaface.com/): Remote pair programming interviewing tool with shared code editor, compiler and video conferencing.
 
 - [Gainlo](http://www.gainlo.co/#!/): A free tool, similar to [Interviewing.io](https://interviewing.io/), where one can hone their interviewing skills (technical and soft) through mock interviews with engineers from established tech companies - think Google, AirBnB, Amazon, Facebook, Dropbox, etc. - and receive real feedback on how one can improve. Great for those who care more about their privacy than they do their anonymity.
 
