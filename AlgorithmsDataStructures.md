@@ -50,4 +50,7 @@
 
 - [Data Structures and Algorithms](https://www.pepcoding.com/resources/) Data Structure and Algorithms 1200 practice questions with solution videos.
 
+## Tutorials
+
+- [Learn DS & Algorithms](https://www.programiz.com/dsa) Learn different types of data structures and algorithms and their implementations in Python, C, C++, and Java.
 
