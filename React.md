@@ -18,6 +18,7 @@
 
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react): This course is for React newbies and anyone looking to build a solid foundation. It’s designed to teach you everything you need to start building web applications in React right away.
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react): This course is for React newbies and anyone looking to build a solid foundation. It’s designed to teach you everything you need to start building web applications in React right away.
+- [Sonny's Youtube channel](https://www.youtube.com/watch?v=UVhIMwHDS7k&list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH50IF): Learn React by building clones. Pro tip-Avoid putting these projects in your portfolio
 - [FreeCodeCamp learn React](https://www.freecodecamp.org/learn/front-end-libraries/#react): In this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like componentDidMount, and much more.
 - [FreeCodeCamp learn React](https://www.youtube.com/watch?v=a_7Z7C_JCyo): In this course, you'll learn React by means of 15 projects that you can follow along... plus useful tricks for coding and much more.
 
