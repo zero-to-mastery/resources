@@ -2,6 +2,20 @@
 
 # Cheat Sheets
 
+- [ZTM Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet)
+- [ZTM JavaScript Cheat Sheet](https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts)
+- [ZTM Node Cheat Sheet](https://zerotomastery.io/cheatsheets/node-js-cheat-sheet/)
+- [ZTM Big O Cheat Sheet](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet)
+- [ZTM Nmap Cheat Sheet](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet)
+- [ZTM Angular Cheat Sheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet)
+- [ZTM Golang Cheat Sheet](https://zerotomastery.io/cheatsheets/golang-cheat-sheet)
+- [ZTM Excel Cheat Sheet](https://zerotomastery.io/cheatsheets/excel-cheat-sheet/)
+- [ZTM Rust Cheat Sheet](https://zerotomastery.io/cheatsheets/rust-cheat-sheet/)
+- [ZTM UI/UXCheat Sheet](https://zerotomastery.io/cheatsheets/ui-ux-design-cheat-sheet/)
+- [ZTM Terraform Cheat Sheet](https://zerotomastery.io/cheatsheets/terraform-cheat-sheet/)
+- [ZTM VBA Cheat Sheet](https://zerotomastery.io/cheatsheets/vba-cheat-sheet/)
+- [ZTM Business Analytics w/Python Cheat Sheet](https://zerotomastery.io/cheatsheets/business-analytics-cheat-sheet/)
+
 - [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/): Cheatsheets for experienced React developers getting started with TypeScript.
 
 - [HTTP Status Codes](https://www.abstractapi.com/http-status-codes): An overview of every HTTP Status Code and what they mean.
