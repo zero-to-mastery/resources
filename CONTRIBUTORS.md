@@ -248,3 +248,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@Zidan2k9](https://github.com/Zidan2k9)
 - [@Xisurthros](https://github.com/Xisurthros)
 - [@rawatdev](https://github.com/rawatdev)
+- [@amarchiori](https://github.com/amarchiori)
