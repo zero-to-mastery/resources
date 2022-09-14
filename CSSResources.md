@@ -26,6 +26,8 @@
 
 - [Euismod](https://www.euismod.dev): This website is to help people learn CSS grid in an interactive fashion.
 
+- [CSS-Scaler Topics](https://www.scaler.com/topics/css/): Beginner’s guide on starting with CSS (Cascading Style Sheets) With interactive Tutorials.
+
 ## CSS Games
 
 - [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
