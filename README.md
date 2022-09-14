@@ -14,7 +14,7 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Articles**](DevelopmentArticles.md): General articles page on web development.
 
-- [**CSS Resources**](CSSResources.md): A list of resources for learning CSS. [Free CSS Tutorial](https://www.scaler.com/topics/css/).
+- [**CSS Resources**](CSSResources.md): A list of resources for learning CSS.
 
 - [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
 
