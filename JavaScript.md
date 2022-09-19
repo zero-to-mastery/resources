@@ -59,6 +59,8 @@
 - [JavaScript ES6: Scrimba](https://scrimba.com/learn/introtoes6): Learn JavaScript ES6 concepts with this short, interactive course at Scrimba. This includes interactive screencasts so you can learn along with the teacher. This is a pretty unique way of instruction. 
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript): This provides different tutorials for JavaScript, resources and an explanation of the JavaScript.
+
+- [Tiny Nod Projects](https://www.manning.com/books/tiny-node-projects)): 15 fast and fresh Node.js projects that will help you go from front-end to full-stack.
   
 ## Advanced Javascript Articles
 
