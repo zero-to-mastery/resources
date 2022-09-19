@@ -60,6 +60,8 @@
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript): This provides different tutorials for JavaScript, resources and an explanation of the JavaScript.
 
+- [Tiny Node Projects](https://www.manning.com/books/tiny-node-projects)): 15 fast and fresh Node.js projects that will help you go from front-end to full-stack.
+  
 - [JavaScript Absolute Beginner's Guide](https://learning.oreilly.com/library/view/javascript-absolute-beginners/9780134498638/) by Kirupa Chinnathambi: An easy to follow book for absolute beginners (even if you have never programmer anything before). This book is a great to get up & running with JS and it teaches you how to use JavaScript together with HTML & CSS to create powerful web apps.
 
 - [Learn JavaScript](https://learnjavascript.online/): Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser.
