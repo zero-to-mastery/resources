@@ -75,6 +75,9 @@
   
 * [Manning Publications](https://www.youtube.com/c/ManningPublications/featured): Follow Manning's authors in a live coding action.
 
+* [Scott Hanselman](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og): Scott has over 30 years of experience in the industry, 15 of which have been spent at Microsoft. He's written a number of technical books and spoken in person to over one million developers worldwide! He's also been podcasting and blogging everything tech for over 20 years at [www.hanselman.com](https://www.hanselman.com/).
+Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home office in Portland, Oregon, he gives us a glimpse of his day-to-day life as a developer on his YouTube channel: a great source of tips & tricks to make your life as a programmer easier. His [PowerShell configuration video](https://www.youtube.com/watch?v=VT2L1SXFq9U) is a must!
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
@@ -138,6 +141,8 @@
 
 - [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
 
+- [Coder Coder](https://www.youtube.com/c/TheCoderCoder): Practical Tips for the Beginner Web Developer.
+
 ### Full-Stack
 
 - [LearnCode.academy](https://www.youtube.com/user/learncodeacademy): Free, current web development tutorials covering the entire development stack (Front-End, Back-End, DevOps, Server Administration, and Deployment Stategies).
@@ -198,13 +203,14 @@
 - [Apna College](https://www.youtube.com/channel/UCBwmMxybNva6P_5VmxjzwqA): Apna College is a channel for Data structure and algorithms in c++ and web development.
 
 - [Pepcoding](https://www.youtube.com/c/Pepcoding/featured): Pepcoding is a channel for Data Structure and Algorithms in java and web development.They provide all of there content FREE OF COST.
+- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw): data structures and algorithms resources covering in depth explanation for variety of topics
 
 ## Machine Learning and Data Science
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw):
   3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective(this channel has very good explaination about deep nural Network and CNN)
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q): This channel provides Data Science contents consisting of explainer videos and practical tutorials by Chanin Nantasenamat, Ph.D.
-
+- [Krish Naik](https://www.youtube.com/user/krishnaik06): resources for data science from beginner to advanced for variety of topics under data science and machine learning domain
 ### Programming Interview Preparation
 
 - [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
@@ -222,7 +228,7 @@
 - [Geeks For Geeks](https://www.youtube.com/c/GeeksforGeeksVideos)
 - [Exponent](https://www.youtube.com/c/ExponentTV)
 - [Hackerearth](https://www.youtube.com/c/HackerEarthInc)
-
+- [sudoCODE](https://www.youtube.com/channel/UCMrRRZxUAXRzjai0SSoFgdw)
 ## Cybersecurity and Capture the Flag
 
 ### Pentesting

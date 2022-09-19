@@ -77,6 +77,7 @@
 ## Mindset/Self-Development
 
 - [Developer Tea](https://spec.fm/podcasts/developer-tea): Provides advice and tips on becoming a better developer.
+- [Rob Dial](https://robdial.com/podcast/):Mindset Mentor talks about self-development in short 15 minutes talks 
 
 ## InfoSec / CyberSecurity
 

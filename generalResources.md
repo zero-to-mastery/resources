@@ -5,7 +5,7 @@
 - [MDN Web Docs](https://developer.mozilla.org/en-US/): A resource for developers, maintained by the community of developers and technical writers and hosting many documents on a wide variety of subjects, such as: HTML, CSS, HTTP, JavaScript, Web APIs, Web components, Graphics, Audio, video and multimedia, MathML.
 
 - [W3Schools](https://www.w3schools.com): A great resource for web developers with tutorials( with good examples ) and references on web development. This resource covers
-subjects such as: HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, W3.CSS, and Bootstrap, covering most aspects of web programming.
+  subjects such as: HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, W3.CSS, and Bootstrap, covering most aspects of web programming.
 
 - [StackOverflow](https://stackoverflow.com/): A massive resource of questions and answers having to do with coding. If you have a question regarding web development or coding in general, chances are it has already been answered on StackOverflow.
 
@@ -31,14 +31,18 @@ subjects such as: HTML, CSS, JavaScript, PHP, SQL, Python, jQuery, Java, W3.CSS,
 
 * [**Linkedin Learning**](https://www.linkedin.com/learning/me?trk=nav_neptune_learning): Linkedin supplies courses through Linkedin learning that instruct a potpourri of topics which include HTML, CSS, JS etc. Requires Linkedin account.
 
-* [**SoloLearn**] (https://www.sololearn.com/Courses/) : Great free resource to learn several different programming languages. Along with community support, challenges, and coaching now also. 
+* [**SoloLearn**](https://www.sololearn.com/Courses/) : Great free resource to learn several different programming languages. Along with community support, challenges, and coaching now also.
 
 * [**Visualize Code Execution**](http://pythontutor.com/): Visualize Python, Java, JavaScript, C, C++, Ruby code execution.
 
 * [**Internetingishard.com**](https://www.internetingishard.com/): Friendly web development tutorials for complete beginners; Learn HTML & CSS for free.
-  
 * [Scrimba](http://scrimba.com/) Video Tutorials for free, and some to pay for. Comes with weekly dev challenges, which you can win prizes every week if you contribute.
-  
 * [Can I Use](https://caniuse.com/) See what bits of code is compatible with different web browsers and versions.
 
 * [Git Reference](https://git-scm.com/docs) Learn Git, and some of their commands!
+
+* [Full Stack open](https://fullstackopen.com) This course will introduce you to modern JavaScript-based web development. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js. The course covers testing, configuration and environment management, and the use of MongoDB for storing the application’s data.
+
+* [Codementor Events](https://www.codementor.io/events) Codementor Events is a developer community and virtual events platform where developers learn and share new tools, technical concepts, and career tips.
+
+* [daily.dev](https://daily.dev/): A browser extension that replaces a new tab with a personalised feed of articles relating to everything from Software Development, Machine Learning, DevOps and Open Source and more.

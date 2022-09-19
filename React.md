@@ -7,6 +7,7 @@
 - [React](https://reactjs.org/): Official react website.
 - [Create React App](https://create-react-app.dev/): You don't need to learn and configure many build tools. Instant reloads help you focus on development. When it's time to deploy, your bundles are optimized automatically.
 - [W3Schools React](https://www.w3schools.com/react/react_intro.asp) Learn the basics of react js.
+- [React Tutorial](https://react-tutorial.app/): Learn React in an interactive environment. Understand how React works not just how to build with React.
 
 ## Repos (Collections of github repositories of best react learning resources)
 
@@ -17,6 +18,7 @@
 
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react): This course is for React newbies and anyone looking to build a solid foundation. It’s designed to teach you everything you need to start building web applications in React right away.
 - [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react): This course is for React newbies and anyone looking to build a solid foundation. It’s designed to teach you everything you need to start building web applications in React right away.
+- [Sonny's Youtube channel](https://www.youtube.com/watch?v=UVhIMwHDS7k&list=PLf16UKl7nR5ARPKtuI76E-ShyaiKH50IF): Learn React by building clones. Pro tip-Avoid putting these projects in your portfolio
 - [FreeCodeCamp learn React](https://www.freecodecamp.org/learn/front-end-libraries/#react): In this course, you'll learn how to create different React components, manage data in the form of state props, use different lifecycle methods like componentDidMount, and much more.
 - [FreeCodeCamp learn React](https://www.youtube.com/watch?v=a_7Z7C_JCyo): In this course, you'll learn React by means of 15 projects that you can follow along... plus useful tricks for coding and much more.
 

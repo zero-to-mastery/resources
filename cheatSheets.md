@@ -2,6 +2,22 @@
 
 # Cheat Sheets
 
+- [ZTM Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet)
+- [ZTM JavaScript Cheat Sheet](https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts)
+- [ZTM Node Cheat Sheet](https://zerotomastery.io/cheatsheets/node-js-cheat-sheet/)
+- [ZTM Big O Cheat Sheet](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet)
+- [ZTM Nmap Cheat Sheet](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet)
+- [ZTM Angular Cheat Sheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet)
+- [ZTM Golang Cheat Sheet](https://zerotomastery.io/cheatsheets/golang-cheat-sheet)
+- [ZTM Excel Cheat Sheet](https://zerotomastery.io/cheatsheets/excel-cheat-sheet/)
+- [ZTM Rust Cheat Sheet](https://zerotomastery.io/cheatsheets/rust-cheat-sheet/)
+- [ZTM UI/UXCheat Sheet](https://zerotomastery.io/cheatsheets/ui-ux-design-cheat-sheet/)
+- [ZTM Terraform Cheat Sheet](https://zerotomastery.io/cheatsheets/terraform-cheat-sheet/)
+- [ZTM VBA Cheat Sheet](https://zerotomastery.io/cheatsheets/vba-cheat-sheet/)
+- [ZTM Business Analytics w/Python Cheat Sheet](https://zerotomastery.io/cheatsheets/business-analytics-cheat-sheet/)
+
+- [React Typescript Cheatsheet](https://react-typescript-cheatsheet.netlify.app/): Cheatsheets for experienced React developers getting started with TypeScript.
+
 - [HTTP Status Codes](https://www.abstractapi.com/http-status-codes): An overview of every HTTP Status Code and what they mean.
 
 - [DevHints](https://devhints.io/): A great resource of cheat sheets for a wide range of technologies.
@@ -14,7 +30,7 @@
 
 - [Markdown Cheat Sheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf): Everything you need to know about Markdown laid out in a PDF format.
 
-- [GitHub Emoji Cheatsheet](https://gist.github.com/rxaviers/7360908): A complete list of GitHub markdown emoji markup (for use in your comments, repo description, GitHub status etc). 
+- [GitHub Emoji Cheatsheet](https://gist.github.com/rxaviers/7360908): A complete list of GitHub markdown emoji markup (for use in your comments, repo description, GitHub status etc).
 
 - [Flexbox Cheatsheet](https://darekkay.com/dev/flexbox-cheatsheet.html): A brilliant visual resource for mastering CSS flexbox.
 
@@ -47,6 +63,7 @@
 - [Flutter Cheat Sheet](https://howtodothisinflutter.com/): Basic flutter commands and sample code
 
 - [HTML Cheat Sheet](https://html.com/wp-content/uploads/html-cheat-sheet.pdf): This clear, easy-to-access PDF thoroughly explains HTML elements, with understandable explanations and examples.
+- [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/): It is an interactive list of Bootstrap 5 classes, variables, and mixins
 
 - [Bootstrap 5 Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/): It is an interactive list of Bootstrap 5 classes, variables, and mixins
 
@@ -55,3 +72,5 @@
 - [Pandas Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/f04456d7-8e61-482f-9cc9-da6f7f25fc9b): A quick guide with code samples to the basics of the Python data analysis library Pandas.
 
 - [Numpy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/da466534-51fe-4c6d-b0cb-154f4782eb54): This NumPy cheat sheet helps you to tackle the basics of this Python scientific computing library!
+
+- [OverAPI.com](https://overapi.com/): A collection of cheat sheets including JavaScript, Python, PHP, Java, Ruby, HTML, HTML-DOM, Node.js, Express, Git, MySQL, Linux etc.

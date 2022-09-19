@@ -178,3 +178,9 @@ Things to look for if your editor has implementations for them. They will make y
 - [React Spinners](https://github.com/davidhu2000/react-spinners): Really cool collection of loading spinners with React.js
 
 - [Blobs](https://blobs.app/): Generate beautiful blob shapes for web and flutter apps.
+
+- [Sneat Free BootstraP 5 HTML Admin Template](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/): Open-source & Easy to use Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
+
+- [Meta Tags](https://metatags.io/): Meta Tags is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
+
+- [DevAssets](https://xsgames.co/devassets/): A curated list of many different types of resources for developers.

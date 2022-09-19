@@ -6,8 +6,6 @@
 
 - [Abdul Bari: YouTubeChannel for Algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s)
 
-- [Data Structures and algorithms](https://www.youtube.com/watch?v=lxja8wBwN0k&list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s)
-
 - [Data Structures and algorithms Course](https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9)
 
 - [Khan Academy](https://www.khanacademy.org/computing/computer-science/algorithms)
@@ -20,15 +18,17 @@
 
 - [What You Need To Know about Modern Hashing](https://www.youtube.com/watch?v=X9SBwzpYHhA)
 
+- [Data Structures and Algorithms with Java + Interview preparation course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) 
+
 ## GitBook
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
 
+- [Data Structures and Algorithms in C/C++](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/)
+
 ## Books
 
 - [Introduction to Algorithms](https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein
-
-- [Competitive Programming 3](http://www.sso.sy/sites/default/files/competitive%20programming%203_1.pdf) by Steven Halim and Felix Halim
 
 - [Competitive Programmers Hand Book](https://cses.fi/book/book.pdf) Beginner friendly hand book for competitive programmers.
 
@@ -49,3 +49,8 @@
 - [TutorialsPoint: Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 - [Data Structures and Algorithms](https://www.pepcoding.com/resources/) Data Structure and Algorithms 1200 practice questions with solution videos.
+
+## Tutorials
+
+- [Learn DS & Algorithms](https://www.programiz.com/dsa) Learn different types of data structures and algorithms and their implementations in Python, C, C++, and Java.
+

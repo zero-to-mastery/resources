@@ -26,6 +26,8 @@
 
 - [Learning Algorithms Through Programming and Puzzle Solving](https://github.com/Amchuz/My-Data-Structures-and-Algorithms-Resources/raw/master/Books/Learning%20Algorithms%20Through%20Programming%20and%20Puzzle%20Solving.pdf) by Alexander Kulikov and Pavel Pevzner
 
+- [Let Us C](http://pdvpmtasgaon.edu.in/uploads/dptcomputer/Let%20us%20c%20-%20yashwantkanetkar.pdf) by Yashavant P. Kanetkar
+
 ## Courses
 
 - [C Programming for Biginners](https://www.udemy.com/course/c-programming-for-beginners-/)
@@ -38,3 +40,7 @@
 
 - [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) Learn features and constructs for C++
 
+
+## For Beginners
+
+- [Learn C from basics](https://www.codeforhunger.com/2020/12/Learn%20C%20programming%20in%20easy%20way%20%20codeforhunger.html) with lot of examples and solutions

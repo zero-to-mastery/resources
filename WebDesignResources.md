@@ -38,6 +38,12 @@
 
 - [Web Design for Web Developers: Build Beautiful Websites!](https://www.udemy.com/course/web-design-secrets/): A free course on web design by Jonas Schmedtmann
 
+- [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org): WAVE® is a suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities. WAVE can identify many accessibility and Web Content Accessibility Guideline errors, but also facilitates human evaluation of web content.
+
+- [Funkify](https://www.funkify.org): Funkify is an extension for Chrome that helps you experience the web and interfaces through the eyes of extreme users with different abilities and disabilities.
+
+- [TshirtDesigns](https://www.tshirtdesigns.com/mockups): An apparel and tshirt design mockup generator plus a marketplace of t-shirt designs.
+
 ## Images &amp; Video
 
 - [Coverr](https://coverr.co/): Free stock videos to add to your websites.
@@ -102,6 +108,8 @@
 - [Imageonline.com](https://crop-circle.imageonline.co/):
   : Free circular crop tool at link. Must use JPEG files for image editing, plus many more free tools!
 
+- [Optimizeimages](https://www.optimizeimages.com): Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
+
 ## Color Palettes
 
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
@@ -128,6 +136,10 @@
 
 - [ColorSpace](https://mycolor.space/): A color palette generator. Enter a color code and generate a variety of color palettes and gradients.
 
+- [CSS Gradient](https://cssgradient.io/): A free tool that lets you create a gradient background for websites.
+
+- [ColorHub](https://www.colorhub.app/): A color palette finder with lots of unique features.
+
 ## Icons &amp; Graphics
 
 - [CONVERTICO](https://convertico.com/): A free online PNG to ICO file converter.
@@ -152,7 +164,9 @@
 
 - [Octicons](https://octicons.github.com/): GitHub's free set of icons.
 
-- [Particles.js](https://vincentgarreau.com/particles.js/): An app for creating dynamic CSS backgrounds.
+- [Particles.js](https://vincentgarreau.com/particles.js/): An app for creating dynamic JS backgrounds.
+
+- [tsParticles](https://particles.js.org/): A JavaScript library for creating dynamic background with particles, fireworks, confetti, and other effects...
 
 - Note that as of the most recent version of [Bootstrap](https://getbootstrap.com/), they no longer support their own glyphicons.
 
@@ -173,6 +187,10 @@
 - [Trianglify.io](https://trianglify.io/): Tool for generating low poly triangle patterns that can be used as wallpapers and website assets.
 
 - [Icons8](https://icons8.com/): Free icons, photos, and other. Ideal for finding icons with consistent and editable style.
+
+- [3dicons](https://www.3dicons.com/): A collection of over 5000 3D icons and characters with 4k resolution, each icon delivered in 5 color palettes, front and perspective views.
+
+- [iconshock](https://www.iconshock.com/): 2 Million+ professional icons library. Over 400+ icon sets in more than 30 styles, including Flat, Material, iOS, Glyph, Colorful, Window 10, Revamped Office, 3D Realistic, Isometric, & more! Most of the icons are vector and pixel perfect conveniently grouped in sets by industries, and our customs designs are even better :)
 
 ## Page and Button Effects, Hover effects
 
@@ -199,3 +217,9 @@
 - [UX Design](https://uxdesign.cc/): A really nice blog that provides curated stories on UX, Visual & Product Design.
 
 - [Illlustrations](https://illlustrations.co/): Awesome free illustrations made by vijayverma on a 100 day challenge.
+
+- [SuperDevResources](https://superdevresources.com/3d-illustrations-free/): 16 Free 3D Illustration Sets for Web and App Design.
+
+- [Illustrations-figma](https://www.artify.co/illustrations-figma): Figma plugin with 5000 vector illustrations for figma, in more than 70 design styles.
+
+- [Vector Illustrations](https://www.artify.co/vector-illustrations): Search over 5000 vector illustrations and more than 70 design styles, with an integrated editor to adjust the design at you wish.
