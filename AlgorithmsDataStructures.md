@@ -20,6 +20,8 @@
 
 - [Data Structures and Algorithms with Java + Interview preparation course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) 
 
+- [takeUforward](https://www.youtube.com/c/takeUforward)
+
 ## GitBook
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
