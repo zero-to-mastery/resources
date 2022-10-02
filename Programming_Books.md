@@ -93,6 +93,8 @@
 
 - [Tiny PowerShell Projects](https://www.manning.com/books/tiny-powershell-projects) : A book which guides you through 17 practical PowerShell projects that will build your skills.
 
+- [Statistics Playbook]([https://www.manning.com/books/tiny-powershell-projects](https://www.manning.com/books/statistics-playbook)) : How-to guide for statistical analysis using R.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
