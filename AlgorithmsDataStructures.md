@@ -22,6 +22,8 @@
 
 - [takeUforward](https://www.youtube.com/c/takeUforward)
 
+- [TECH DOSE](https://www.youtube.com/c/TECHDOSE4u)
+
 ## GitBook
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
