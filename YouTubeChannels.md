@@ -239,4 +239,9 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 
 - [liveoverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w): liveoverflow is a channel to help people start off with CTF challenges and competitions. It has tutorials on binary exploitation, reverse engineering, hardware security and AngularJS security. It also has walkthroughs for several 'pwnable.kr' challenges.
 
+### System Design
+
+- [ByteByteGo](https://www.youtube.com/c/ByteByteGo) : ByteByteGo is a channel that help people to learn about designing the systems and explains about the basics of several components.
+
+- [sudoCODE](https://www.youtube.com/c/sudoCODE) : sudoCODE is a great channel which explains about different design patterns, SOLID principles and many basics about the low level system design. Its a great channel not only for the freshers who is getting into the software field but also for the experienced one who can brush up and get more knowledge on the design.
 **[Back To Top](#youtube-channels)**
