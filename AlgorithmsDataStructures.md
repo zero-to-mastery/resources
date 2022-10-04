@@ -24,6 +24,8 @@
 
 - [TECH DOSE](https://www.youtube.com/c/TECHDOSE4u)
 
+- [GeeksforGeeks](https://www.youtube.com/c/GeeksforGeeksVideos)
+
 ## GitBook
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
