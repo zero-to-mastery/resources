@@ -93,7 +93,9 @@
 
 - [Tiny PowerShell Projects](https://www.manning.com/books/tiny-powershell-projects) : A book which guides you through 17 practical PowerShell projects that will build your skills.
 
-- [Statistics Playbook]([https://www.manning.com/books/tiny-powershell-projects](https://www.manning.com/books/statistics-playbook)) : How-to guide for statistical analysis using R.
+- [Statistics Playbook](https://www.manning.com/books/statistics-playbook) : How-to guide for statistical analysis using R.
+
+- [The Creative Programmer](https://www.manning.com/books/the-creative-programmer)) : Book about creative problem solving in programming.
 
 ## React
 
