@@ -38,7 +38,7 @@
 
 - [Mixu's Node Book](http://book.mixu.net/node/): An online tutorial that received much praise for explaining Node.js in a well-structured way. It is a book that teaches you to write the code for Node.js and not only rely on third-party libraries. Anyone that wants to have a deep grasp of the Node.js framework will benefit from Mixu's book.
 
-- [Practical JavaScript](https://watchandcode.com/p/practical-javascript): The excellent teachers at **Watch and Code** have released their beginning JavaScript course for free. If you haven't been able to learn elsewhere, try this tutorial.
+- [Watch and Code](https://watchandcode.com): Computer science school focused on problem-solving with JavaScript. Mastery-based system uses quizzes, assessments, projects, and personalized feedback to ensure that you grasp core concepts and skills at each step.
 
 - [State of JavaScript](https://stateofjs.com/): An annual survey of over 20,000 JavaScript developers regarding the major JavaScript libraries, frameworks, languages, and other tools. A useful resource for understanding where the industry is headed and deciding what to learn next.
 
