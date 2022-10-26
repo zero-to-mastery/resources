@@ -168,6 +168,8 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 
 - [Manning Publications](https://www.youtube.com/c/ManningPublications/featured): Check out the live-coding sessions by our authors, videos that cover the IT universe from back-end to front-end, from computer science to data science, and everything found in between. We're an independent publisher of computer books for software developers, engineers, architects, system administrators, managers and all who are professionally involved with the computer business.
 
+- [Coding with John](https://www.youtube.com/c/CodingwithJohn): This channel focuses on Java, it does a good job of breaking down the complicated parts in Java, including advance concepts like Lambdas and Generics.
+
 ### Front-End/Design
 
 - [DesignCourse](https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow): Here you can learn more about making good looking websites via Graphic Design and Front-End Development. This channel also features Full-Stack Development tutorials.
