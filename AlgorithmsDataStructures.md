@@ -59,4 +59,5 @@
 ## Tutorials
 
 - [Learn DS & Algorithms](https://www.programiz.com/dsa) Learn different types of data structures and algorithms and their implementations in Python, C, C++, and Java.
+- [Data Structures and Algorithms Tutorial](https://www.scaler.com/topics/data-structures/) - Learn DSA where you will get a complete series of indepth DSA tutorials along with suitable real life examples.
 
