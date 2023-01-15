@@ -78,6 +78,8 @@
 * [Scott Hanselman](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og): Scott has over 30 years of experience in the industry, 15 of which have been spent at Microsoft. He's written a number of technical books and spoken in person to over one million developers worldwide! He's also been podcasting and blogging everything tech for over 20 years at [www.hanselman.com](https://www.hanselman.com/).
 Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home office in Portland, Oregon, he gives us a glimpse of his day-to-day life as a developer on his YouTube channel: a great source of tips & tricks to make your life as a programmer easier. His [PowerShell configuration video](https://www.youtube.com/watch?v=VT2L1SXFq9U) is a must!
 
+* [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha): Based in New Delhi, India Kunal Kushwaha is a YouTuber, Blogger, and open-Source contributor. Apart from these, he is also passionate about Kubernetes, Web Dev, Machine Learning, DevOps. Kunal Kushwaha has been an MLH coach since Sept. 2020 which is the official student hackathon league. 
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
