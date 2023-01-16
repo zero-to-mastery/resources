@@ -62,6 +62,9 @@
 
 - [Complete Guide to Open Source - How to Contribute](https://youtu.be/yzeVMecydCE): Learn why and how to contribute to open source software. You will learn about how to find projects to contribute to, how to make issues and PRs, how to make money from open source, and more.
 
+- [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics): This tutorial will help you with using Git & GitHub for your personal projects and contributing to Open Source, with no prerequisites, in an easy to understand language. It starts from the very basics of Git & GitHub, covering all the essential commands, including concepts such as branching, pull requests, forking, etc. We also cover other concepts such as squashing, resolving merge conflicts, keeping your code in sync, and more.
+
 ## Collaboration Best Practices
 
 - [The Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/): The Agile Software Development Practices are the gold standard for workplace collaboration and an alternative to the Waterfall Software Development model. Examples of Agile frameworks: Scrum, Kanban, Extreme Programming and DevOps.
+
