@@ -76,3 +76,5 @@
 - [OverAPI.com](https://overapi.com/): A collection of cheat sheets including JavaScript, Python, PHP, Java, Ruby, HTML, HTML-DOM, Node.js, Express, Git, MySQL, Linux etc.
 
 - [Technical Interview Cheat Sheet](https://www.interviewbit.com/technical-interview-questions/): Get Interview Ready with this comprehensive Cheat Sheet
+
+- [JavaScript MDN RegEx Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet): A quick cheatsheet showing all of the JavaSript Regular Expressions syntax use.

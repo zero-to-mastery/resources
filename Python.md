@@ -83,3 +83,5 @@
 
 - [Exercism](https://exercism.org/tracks/python/exercises) Free Python exercises.
 
+- [Let's Talk Python](https://www.manning.com/books/lets-talk-python): Python beginners guide written especially for young people.
+
