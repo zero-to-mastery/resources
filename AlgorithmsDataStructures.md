@@ -4,6 +4,8 @@
 
 ## Videos
 
+- [GeeksforGeeks](https://www.youtube.com/c/GeeksforGeeksVideos)
+
 - [Abdul Bari: YouTubeChannel for Algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s)
 
 - [Data Structures and algorithms Course](https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9)
@@ -24,7 +26,7 @@
 
 - [TECH DOSE](https://www.youtube.com/c/TECHDOSE4u)
 
-- [GeeksforGeeks](https://www.youtube.com/c/GeeksforGeeksVideos)
+
 
 ## GitBook
 
