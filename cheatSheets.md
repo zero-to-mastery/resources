@@ -74,3 +74,5 @@
 - [Numpy Cheat Sheet](http://datacamp-community-prod.s3.amazonaws.com/da466534-51fe-4c6d-b0cb-154f4782eb54): This NumPy cheat sheet helps you to tackle the basics of this Python scientific computing library!
 
 - [OverAPI.com](https://overapi.com/): A collection of cheat sheets including JavaScript, Python, PHP, Java, Ruby, HTML, HTML-DOM, Node.js, Express, Git, MySQL, Linux etc.
+
+- [JavaScript MDN RegEx Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet): A quick cheatsheet showing all of the JavaSript Regular Expressions syntax use.
