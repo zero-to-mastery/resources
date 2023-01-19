@@ -40,3 +40,5 @@
 
 - [Learn Front-end Development with React on Youtube](https://ayedot.com/106/MiniBlog/Learn-Free-Front-end-Development-with-React-on-Youtube#readme):  Best Youtube Courses/Tutorials for Front-end Development with React From Beginner to Advance.
 
+- [**There’s Never Been a Better Time to Learn .NET -- Dustin Metzgar**](https://freecontent.manning.com/theres-never-been-a-better-time-to-learn-net/): A clear-headed introduction to implementing full-featured, cross-platform professional applications on the Microsoft .NET platform. 
+
