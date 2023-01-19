@@ -50,3 +50,5 @@
 * [GitHub Student Developer Pack](https://education.github.com/pack): Resources from a wide range of well known organisations provided for free or at a discount through the GitHub Student Developer Pack, very useful for those in university or recently graduated. STUDENT CARD AND STUDENT EMAIL REQUIRED.
 
 * [roadmap.sh](https://roadmap.sh): Displays dedicated roadmaps for a specific field or technology including Front End, Back End, Full Stack, React, Java etc.
+
+* [**CompSciLib**](https://www.compscilib.com/): A free site for learning and practicing Computer Science theory topics in courses such as Computer Organization, Discrete Math, Networking, etc. Think Khan Academy, but for Computer Science.
