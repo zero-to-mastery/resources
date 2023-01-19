@@ -28,6 +28,8 @@
 
 
 
+- [Data Structure and algorithms course in hindi by CodewithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) DSA playlist for all the hindi speaking folks
+
 ## GitBook
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
@@ -57,6 +59,8 @@
 - [TutorialsPoint: Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 - [Data Structures and Algorithms](https://www.pepcoding.com/resources/) Data Structure and Algorithms 1200 practice questions with solution videos.
+- [Algorithms, Part I]( https://in.coursera.org/learn/algorithms-part1) one of the best course on DSA from coursera available for free
+- [Algorithms, Part II](https://in.coursera.org/learn/algorithms-part2) 
 
 ## Tutorials
 
