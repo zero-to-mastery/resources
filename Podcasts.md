@@ -78,6 +78,7 @@
 
 - [Developer Tea](https://spec.fm/podcasts/developer-tea): Provides advice and tips on becoming a better developer.
 - [Rob Dial](https://robdial.com/podcast/):Mindset Mentor talks about self-development in short 15 minutes talks 
+- [Degree Free](https://degreefree.co/podcast/): Getting your dream job does not always require a degree but having the motivation and resources to get there is where Degree Free Podcast comes to fruitation in your life.
 
 ## InfoSec / CyberSecurity
 
