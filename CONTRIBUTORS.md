@@ -10,6 +10,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 
 - [@8xu](https://github.com/8xu)
 - [@Quavo](https://github.com/lucky-chap)
+- [@anna-kulyk](https://github.com/anna-kulyk)
 - [@Tejas150](https://github.com/Tejas150)
 - [@toihirhalim](https://github.com/toihirhalim)
 - [@nnhhiilliisstt](https://github.com/nnhhiilliisstt)
