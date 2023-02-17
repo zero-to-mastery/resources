@@ -12,6 +12,10 @@
 
 - [Exploring JS: JavaScript books for programmers](http://exploringjs.com/) by Dr. Axel Rauschmeyer: free online books that delve deep into the Javascript language - always up-to-date with new books on the latest Ecmascript features
 
+- [A Comprehensive Course on JavaScript - CodeGuage](http://www.codeguage.com/courses/js/): An absolutely free and comprehensive course of JavaScript, starting with the very fundamentals of the language before moving over to consider some of its most intricate aspects, such as closures, prototypes, HTML DOM, CSSOM, events, and so on, sprinkled with numerous quizzes and exercises for you to practice your skills as you learn.
+
+- [100+ JavaScript Questions - CodeGuage](http://www.codeguage.com/questions/js/): A whole bundle of questions, along with their answers, regarding the foundational aspects of JavaScript.
+
 - [A brief history of JavaScript](https://medium.com/@benastontweet/lesson-1a-the-history-of-javascript-8c1ce3bffb17) by Ben Aston: It is a medium article describing and throwing light upon the History of JavaScript.
 
 - [FreeCodeCamp Beginning JavaScript](https://www.freecodecamp.org/): Learn JavaScript with an online community, examples, and tons of more advanced JavaScript topics when you are done. Certificate available too. All free.
