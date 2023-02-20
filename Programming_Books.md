@@ -104,6 +104,10 @@
 - [Pure React ](https://s3.amazonaws.com/daveceddia.com/Pure+React+-+sample+chapters.pdf):Write your first app with React
   • Learn to carve a UI mockup into components, then code them
 
+## React Native
+
+- [The Ultimate Guide to React Native Optimization](https://www.callstack.com/campaigns/download-the-ultimate-guide-to-react-native-optimization?utm_campaign=RN_Performance&utm_source=github&utm_content=guide_github_promo_repo): This Guide is comprehensive source of knowledge on the best tools, tips, and tactics for optimizing your React Native app.
+
 ## Coding Interviews
 
 - [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?keywords=cracking+the+coding+interview&qid=1576284109&sr=8-2): A thorough walkthrough on coding interview topics with a good range of easy-to-difficult interview questions and solutions with in-depth explanations.
