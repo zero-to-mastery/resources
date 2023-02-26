@@ -65,7 +65,7 @@
 - [Snake game for beginners](https://codewithharry.com/videos/python-game-development-1): Beginner friendly tutorials.
 
 - [C programming](https://www.codeforhunger.com/2020/12/Learn%20C%20programming%20in%20easy%20way%20%20codeforhunger.html): free with lot of examples and their solutions.
-
+- [Pixelicious](https://www.pixelicious.xyz): convert any of your images into pixel style, it is powered by machine learning and works great.
 
 
 
