@@ -148,6 +148,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@spctr01](http://github.com/spctr01)
 - [@dylan-ztm](http://github.com/dylan-ztm)
 - [@kildiv](http://github.com/kildiv)
+- [@danithang](https://github.com/danithang)
 - [@Anonster](https://github.com/Anonster)
 - [@mismail-541](https://github.com/mismail-541)
 - [@joeldiffo](https://github.com/joeldiffo)

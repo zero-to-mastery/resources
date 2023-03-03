@@ -38,6 +38,7 @@
 - [Self-Taught or Not](https://www.selftaughtornot.com/): A podcast covering the do's and don'ts of software development, hosted by two software developers; one self-taught, and one not. Topics include advice for developers, technologies, interviews, and more.
 - [Ladybug Podcast](https://www.ladybug.dev/): This podcast co-hosted by 3 ladies who wanted to add their voices to the space and share their experiences and advice. They have great discussions around how to start coding, the hot technologies right now, how to get your first developer job, and more!
 - [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/): The Stack Overflow podcast is a weekly conversation about working in software development, learning to code, and the art and culture of computer programming. Hosted by Sara Chipps, Paul Ford, and Ben Popper, the series will feature questions from our community, interviews with fascinating guests, and hot takes on what’s happening in tech.
+- [HTML All The Things](https://www.htmlallthethings.com/podcast): Join hosts as they dive head first into the world of web development and design. In this show they discuss running a small business, making websites and web apps for customers from all over the industry.  They take a deep dive on things like their latest projects, their business strategies and much more! 
 
 ## Cloud
 
@@ -79,6 +80,7 @@
 - [Developer Tea](https://spec.fm/podcasts/developer-tea): Provides advice and tips on becoming a better developer.
 - [Rob Dial](https://robdial.com/podcast/):Mindset Mentor talks about self-development in short 15 minutes talks 
 - [Degree Free](https://degreefree.co/podcast/): Getting your dream job does not always require a degree but having the motivation and resources to get there is where Degree Free Podcast comes to fruitation in your life.
+- [The Daily Job Hunt by Career Hackers](https://careerhackers.com/podcast/): This 3-minute daily podcast is the audio version of the same email, written and read by Joel Bein. The DJH is the mindset advice no one taught you in school. In fact, this mindset advice is the antidote to the damage of school. Get curious, get creative, get empowered.
 
 ## InfoSec / CyberSecurity
 
