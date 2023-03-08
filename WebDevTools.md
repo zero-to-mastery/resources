@@ -116,6 +116,8 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm): Instantly find out what font is being used with a click. No Developer Mode required.
 
+- [Apollo Client Devtools](https://chrome.google.com/webstore/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm): GraphQL debugging tools for Apollo Client.
+
 ---
 
 ## CSS Tools
