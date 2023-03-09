@@ -80,7 +80,7 @@
 - [Developer Tea](https://spec.fm/podcasts/developer-tea): Provides advice and tips on becoming a better developer.
 - [Rob Dial](https://robdial.com/podcast/):Mindset Mentor talks about self-development in short 15 minutes talks 
 - [Degree Free](https://degreefree.co/podcast/): Getting your dream job does not always require a degree but having the motivation and resources to get there is where Degree Free Podcast comes to fruitation in your life.
-- [The Daily Job Hunt by Career Hackers](https://careerhackers.com/podcast/): This 3-minute daily podcast is the audio version of the same email, written and read by Joel Bein. The DJH is the mindset advice no one taught you in school. In fact, this mindset advice is the antidote to the damage of school. Get curious, get creative, get empowered.
+- [The Daily Job Hunt by Career Hackers](https://careerhackers.com/podcast/): This 3-minute daily podcast is the audio version of the same email, written and read by Joel Bein. The DJH shares advice no one taught you in school. In fact, it is the antidote to the damage school caused. Get curious, get creative, and get empowered.
 
 ## InfoSec / CyberSecurity
 
