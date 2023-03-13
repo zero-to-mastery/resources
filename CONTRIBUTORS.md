@@ -196,6 +196,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@adymoko](https://github.com/adymoko)
 - [@kirstenbolda](https://github.com/KirstenBolda)
 - [@ssg](https://github.com/ssg)
+- [@Ramiro1963](https://github.com/Ramiro1963/)
 - [@gdhebling](https://github.com/gdhebling)
 - [@rishik-00](https://github.com/rishik-00)
 - [@dekisr](https://github.com/dekisr)
