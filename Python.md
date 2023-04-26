@@ -85,3 +85,5 @@
 
 - [Let's Talk Python](https://www.manning.com/books/lets-talk-python): Python beginners guide written especially for young people.
 
+- [Twisted Python Projects](https://www.manning.com/books/twisted-python-projects): A book that teaches the Python GUI skills.
+
