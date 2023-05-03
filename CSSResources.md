@@ -76,6 +76,8 @@
 
 - [SmolCSS](https://smolcss.dev/): Tons of minimal snippets for modern CSS layouts and components.
 
+- [IcoMoon](https://icomoon.io/app): IcoMoon provides a package of vector icons, along with a free HTML5 app for making custom icon fonts or SVG sprites.
+
 ## CSS Generators
 
 - [Loading.io](https://loading.io/): A site for getting loaders for your website. They provide them in CSS, SVG, png, and gif formats. Some of them are paid too.
