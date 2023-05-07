@@ -9,6 +9,7 @@
 This is a list showing the GitHub usernames of all who have contributed to this open-source project! **Make sure to add yourself and submit a pull request if you've contributed.**
 
 - [@8xu](https://github.com/8xu)
+- [@Festivemena](https://github.com/Festivemena)
 - [@Quavo](https://github.com/lucky-chap)
 - [@anna-kulyk](https://github.com/anna-kulyk)
 - [@Tejas150](https://github.com/Tejas150)
