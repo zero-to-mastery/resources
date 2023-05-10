@@ -85,3 +85,5 @@
 
 - [Let's Talk Python](https://www.manning.com/books/lets-talk-python): Python beginners guide written especially for young people.
 
+- [YazBel](https://python-istihza.yazbel.com/): These comprehensive Turkish Python documents are specifically about the 3rd version of the Python programming language. Originally based on Fırat Özgül's Python 3 documents available on istihza.com, they are currently being developed by the community.
+
