@@ -42,3 +42,5 @@ Thank you :)
 
 For more information about this topic please visit the following link :-
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works#:~:text=The%20browser%20sends%20an%20HTTP,internet%20connection%20using%20TCP%2FIP.
+
+- [Learn DNS, HTTPS through comics](https://dnsimple.com/comics): We ❤️ comics. We love to read them. We love to make them. We think it's a great format for explaining complex subjects, like how DNS and HTTPS work. Read it now to learn more about How DNS Works!
