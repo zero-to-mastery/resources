@@ -72,13 +72,12 @@
 
 * [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz/featured): Andy is a self-taught coder. He started to code back in 2014 when he was 28, leaving behind a job as a car salesman and not having much contact with coding at all before that.
   Nowadays Andy has a YouTube channel and help people land their dream job as a software developer.
-  
 * [Manning Publications](https://www.youtube.com/c/ManningPublications/featured): Follow Manning's authors in a live coding action.
 
 * [Scott Hanselman](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og): Scott has over 30 years of experience in the industry, 15 of which have been spent at Microsoft. He's written a number of technical books and spoken in person to over one million developers worldwide! He's also been podcasting and blogging everything tech for over 20 years at [www.hanselman.com](https://www.hanselman.com/).
-Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home office in Portland, Oregon, he gives us a glimpse of his day-to-day life as a developer on his YouTube channel: a great source of tips & tricks to make your life as a programmer easier. His [PowerShell configuration video](https://www.youtube.com/watch?v=VT2L1SXFq9U) is a must!
+  Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home office in Portland, Oregon, he gives us a glimpse of his day-to-day life as a developer on his YouTube channel: a great source of tips & tricks to make your life as a programmer easier. His [PowerShell configuration video](https://www.youtube.com/watch?v=VT2L1SXFq9U) is a must!
 
-* [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha): Based in New Delhi, India Kunal Kushwaha is a YouTuber, Blogger, and open-Source contributor. Apart from these, he is also passionate about Kubernetes, Web Dev, Machine Learning, DevOps. Kunal Kushwaha has been an MLH coach since Sept. 2020 which is the official student hackathon league. 
+* [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha): Based in New Delhi, India Kunal Kushwaha is a YouTuber, Blogger, and open-Source contributor. Apart from these, he is also passionate about Kubernetes, Web Dev, Machine Learning, DevOps. Kunal Kushwaha has been an MLH coach since Sept. 2020 which is the official student hackathon league.
 
 * [Nick Chapsas](https://www.youtube.com/@nickchapsas): Nick is an avid programmer and creates software engineering videos on youtube in all things C#, .NET and other topics like DevOps, advice and more.
 
@@ -147,6 +146,9 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 - [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
 
 - [Coder Coder](https://www.youtube.com/c/TheCoderCoder): Practical Tips for the Beginner Web Developer.
+
+- [Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3/featured): The videos on this channel are largely about web design & development with a good dose of mobile development thrown in just for fun.
+  "For best results it has been shown that watching tutorials at 1.5 speed helps to improve both understanding and retention." - Professor Steve -
 
 ### Full-Stack
 
@@ -220,6 +222,7 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q): This channel provides Data Science contents consisting of explainer videos and practical tutorials by Chanin Nantasenamat, Ph.D.
 
 - [Krish Naik](https://www.youtube.com/user/krishnaik06): resources for data science from beginner to advanced for variety of topics under data science and machine learning domain
+
 ### Programming Interview Preparation
 
 - [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
@@ -238,6 +241,7 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 - [Exponent](https://www.youtube.com/c/ExponentTV)
 - [Hackerearth](https://www.youtube.com/c/HackerEarthInc)
 - [sudoCODE](https://www.youtube.com/channel/UCMrRRZxUAXRzjai0SSoFgdw)
+
 ## Cybersecurity and Capture the Flag
 
 ### Pentesting
@@ -253,4 +257,4 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 - [ByteByteGo](https://www.youtube.com/c/ByteByteGo) : ByteByteGo is a channel that help people to learn about designing the systems and explains about the basics of several components.
 
 - [sudoCODE](https://www.youtube.com/c/sudoCODE) : sudoCODE is a great channel which explains about different design patterns, SOLID principles and many basics about the low level system design. Its a great channel not only for the freshers who is getting into the software field but also for the experienced one who can brush up and get more knowledge on the design.
-**[Back To Top](#youtube-channels)**
+  **[Back To Top](#youtube-channels)**
