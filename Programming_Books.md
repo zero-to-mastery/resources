@@ -95,7 +95,9 @@
 
 - [Statistics Playbook](https://www.manning.com/books/statistics-playbook) : How-to guide for statistical analysis using R.
 
-- [The Creative Programmer](https://www.manning.com/books/the-creative-programmer)) : Book about creative problem solving in programming.
+- [The Creative Programmer](https://www.manning.com/books/the-creative-programmer) : Book about creative problem solving in programming. It explores seven central themes that makes a creative programmer tick: technical knowledge, communication, constraints, critical thinking, curiosity, a creative state of mind, and creative techniques.
+
+- [Collaborative Software Design](https://www.manning.com/books/collaborative-software-design) : Book about effectively involving all stakeholders in the design of software, designed to teach facilitating software design decisions via visual collaborative modeling in a team.
 
 ## React
 

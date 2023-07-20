@@ -17,6 +17,10 @@
 
 * [Hitesh Choudhary](https://www.youtube.com/user/hiteshitube): An informative young man educates the user when it comes to programming languages as well as information security, along with the occasional vlog.
 
+* [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A): Launch your development career with project-based coaching - showcase your skills with practical development experience and land the coding career of your dreams. Check out jsmastery.pro to learn more.
+
+*[Clever Programmer](https://www.youtube.com/@CleverProgrammer): You can find awesome programming lessons here! Also, expect programming tips and tricks that will take your coding skills to the next level.
+
 * [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn (Mostly Hindi Tutorials).
   At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com.
 
@@ -80,6 +84,8 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 
 * [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha): Based in New Delhi, India Kunal Kushwaha is a YouTuber, Blogger, and open-Source contributor. Apart from these, he is also passionate about Kubernetes, Web Dev, Machine Learning, DevOps. Kunal Kushwaha has been an MLH coach since Sept. 2020 which is the official student hackathon league. 
 
+* [Nick Chapsas](https://www.youtube.com/@nickchapsas): Nick is an avid programmer and creates software engineering videos on youtube in all things C#, .NET and other topics like DevOps, advice and more.
+
 ## Computer Science
 
 - [Computerphile](https://www.youtube.com/user/Computerphile): A channel that focuses on more abstract/theoretical topics in computer science. Is less of a tutorial channel and more for those with an interest in theory, etc.
@@ -94,6 +100,7 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 
 - [Code with Ania Kubów #JavaScriptGames](https://www.youtube.com/c/AniaKub%C3%B3w): Learn JavaScript,
   React, Html, CSS and Express by making retro game in these tutorials.
+
 - [Uncode - GATE Computer Science](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ/videos): It is a one-stop solution for all computer science enthusiasts. You can learn computer science, programming, and coding from scratch.
 
 ## Musings
@@ -213,7 +220,9 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 
 - [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw):
   3blue1brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective(this channel has very good explaination about deep nural Network and CNN)
+
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q): This channel provides Data Science contents consisting of explainer videos and practical tutorials by Chanin Nantasenamat, Ph.D.
+
 - [Krish Naik](https://www.youtube.com/user/krishnaik06): resources for data science from beginner to advanced for variety of topics under data science and machine learning domain
 ### Programming Interview Preparation
 
