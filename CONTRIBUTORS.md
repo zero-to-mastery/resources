@@ -16,6 +16,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@nnhhiilliisstt](https://github.com/nnhhiilliisstt)
 - [@bhantsi](https://github.com/bhantsi)
 - [@arjunkharbanda](https://github.com/arjunkharbanda)
+- [@CBID2](https://github.com/CBID2)
 - [@PrachetShah](https://github.com/PrachetShah)
 - [@FayasNoushad](https://github.com/FayasNoushad)
 - [@salex11](https://github.com/salex11)
