@@ -258,6 +258,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@alejosilvalau](https://github.com/alejosilvalau)
 - [@justin2172021](https://github.com/justin2172021)
 - [@rhinoxD](https://github.com/rhinoxD)
+- [@Cristian-sanchez14](https://github.com/Cristian-sanchez14)
 - [@DarwinsCorn](https://github.com/DarwinsCorn)
 - [@MissStarLuna](https://github.com/MissStarLuna)
 - [@Mahi1989](https://github.com/TBM-MAHI)

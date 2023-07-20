@@ -78,3 +78,5 @@
 - [Technical Interview Cheat Sheet](https://www.interviewbit.com/technical-interview-questions/): Get Interview Ready with this comprehensive Cheat Sheet
 
 - [JavaScript MDN RegEx Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet): A quick cheatsheet showing all of the JavaSript Regular Expressions syntax use.
+
+- [HTML Punctuation Symbols](https://www.toptal.com/designers/htmlarrows/punctuation/): Easily find character codes for the # sign, @ symbol (at symbol), percent sign, & ampersand (& HTML code)
