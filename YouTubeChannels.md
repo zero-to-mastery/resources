@@ -19,9 +19,10 @@
 
 * [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A): Launch your development career with project-based coaching - showcase your skills with practical development experience and land the coding career of your dreams. Check out jsmastery.pro to learn more.
 
-\*[Clever Programmer](https://www.youtube.com/@CleverProgrammer): You can find awesome programming lessons here! Also, expect programming tips and tricks that will take your coding skills to the next level.
+*[Clever Programmer](https://www.youtube.com/@CleverProgrammer): You can find awesome programming lessons here! Also, expect programming tips and tricks that will take your coding skills to the next level.
 
-- [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn (Mostly Hindi Tutorials).
+* [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn (Mostly Hindi Tutorials).
+
   At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com.
 
 - [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): All type of fun content and also he left Google.
