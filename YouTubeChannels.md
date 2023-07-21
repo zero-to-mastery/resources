@@ -19,72 +19,71 @@
 
 * [JavaScript Mastery](https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A): Launch your development career with project-based coaching - showcase your skills with practical development experience and land the coding career of your dreams. Check out jsmastery.pro to learn more.
 
-*[Clever Programmer](https://www.youtube.com/@CleverProgrammer): You can find awesome programming lessons here! Also, expect programming tips and tricks that will take your coding skills to the next level.
+\*[Clever Programmer](https://www.youtube.com/@CleverProgrammer): You can find awesome programming lessons here! Also, expect programming tips and tricks that will take your coding skills to the next level.
 
-* [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn (Mostly Hindi Tutorials).
+- [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww): Code With Harry is an attempt to teach basics and those coding techniques to people in short time which took him ages to learn (Mostly Hindi Tutorials).
   At Code With Harry, he provide a quick and to the point demo along with resources of anything and everything he teach. Source code and other resources are hosted on his website CodeWithHarry.com.
 
-* [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): All type of fun content and also he left Google.
+- [CS Dojo](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A): All type of fun content and also he left Google.
 
-* [Tech With Tim](https://www.youtube.com/c/TechWithTim/featured): Python Programming, Game Development, Pygame, Java Tutorials and Machine Learning. This is a list of a few of the things I love to post on my channel. My goal is share my knowledge of programming with you and allow everyone access to education for FREE.
+- [Tech With Tim](https://www.youtube.com/c/TechWithTim/featured): Python Programming, Game Development, Pygame, Java Tutorials and Machine Learning. This is a list of a few of the things I love to post on my channel. My goal is share my knowledge of programming with you and allow everyone access to education for FREE.
 
-* [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg): Joe Parys's channel features free content from his own website and Udemy, including, but not limited to, tutorials for various programming languages, cryptocurrency, growing an online business, videography, and Final Cut Pro X (A macOSe-exclusive video-editing software).
+- [Joe Parys Academy](https://www.youtube.com/channel/UC8g_o_0wHJUsp67lJA69yhg): Joe Parys's channel features free content from his own website and Udemy, including, but not limited to, tutorials for various programming languages, cryptocurrency, growing an online business, videography, and Final Cut Pro X (A macOSe-exclusive video-editing software).
 
-* [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts): Scott Tolinski – producer and maintainer of the channel, friends with the people behind [LearnCode.academy](https://www.youtube.com/user/learncodeacademy), [Josh Owens' Space Dojo](https://www.youtube.com/channel/UCjRSH4MO9CR40bJQxfZMFWQ), [DevTips](https://www.youtube.com/user/DevTipsForDesigners), and [Wes Bos](https://www.youtube.com/user/wesbos) - aims to offer current, accessible, in-depth, high-quality content on all things web development and design with over 840+ video tutorials and counting.
+- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts): Scott Tolinski – producer and maintainer of the channel, friends with the people behind [LearnCode.academy](https://www.youtube.com/user/learncodeacademy), [Josh Owens' Space Dojo](https://www.youtube.com/channel/UCjRSH4MO9CR40bJQxfZMFWQ), [DevTips](https://www.youtube.com/user/DevTipsForDesigners), and [Wes Bos](https://www.youtube.com/user/wesbos) - aims to offer current, accessible, in-depth, high-quality content on all things web development and design with over 840+ video tutorials and counting.
 
-* [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.
+- [mmtuts](https://www.youtube.com/user/TheCharmefis/featured): **_mmtuts_** (a.k.a MultiMedia Tutorials) aims to provide tutorials spanning the gamut of programming, video editing/production, animation, and graphic design.
 
-* [sentdex](https://www.youtube.com/user/sentdex): It's all about Python here folks. From learning the fundamentals to the advanced work, Harrison Kinsley walks you through areas where Python is concerned, namely: machine learning, finances, data analysis, web development, game development, robotics, and more.
+- [sentdex](https://www.youtube.com/user/sentdex): It's all about Python here folks. From learning the fundamentals to the advanced work, Harrison Kinsley walks you through areas where Python is concerned, namely: machine learning, finances, data analysis, web development, game development, robotics, and more.
 
-* [The Coding Train](https://www.youtube.com/user/shiffman): A seeming Jack of All Trades, Daniel Shiffman walks you through a wide range of topics like p5.js (JS, HTML, CSS), Neural Networks and Machine Learning, The Nature of Code (Simulating Natural Systems with Processing), etc. He seems to have a nice grasp on Full-Stack development and computer science.
+- [The Coding Train](https://www.youtube.com/user/shiffman): A seeming Jack of All Trades, Daniel Shiffman walks you through a wide range of topics like p5.js (JS, HTML, CSS), Neural Networks and Machine Learning, The Nature of Code (Simulating Natural Systems with Processing), etc. He seems to have a nice grasp on Full-Stack development and computer science.
 
-* [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)
+- [Thenewboston](https://www.youtube.com/user/thenewboston): Bucky Roberts' immensely popular channel features over 4,200 video tutorials, diving through the vast expanses known as programming, web design, game development, graphic design, and networking. For those interested, he also delves into other asides like the sciences (biology, math, physics) and DIY projects (how to build a computer, Go Kart, Beer, etc.)
 
-* [Traversy Media](https://www.youtube.com/user/TechGuyWeb): Brad Traversy, the man behind this channel/company, explores Full-Stack web development with his current tutorials on all things JavaScript (React, Redux, Node, Express, Vue, Angular, Gatsby), Python (Django), Ruby (Rails), Apollo, GraphQL, Docker, and more. He also features a [Developer Discussion](https://www.youtube.com/playlist?list=PLillGF-RfqbZ_hV3gQav81bUCpCANWXOu) where he talks about the 'soft' side of programming, namely, dealing with your emotions, psychology, and motivation.
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb): Brad Traversy, the man behind this channel/company, explores Full-Stack web development with his current tutorials on all things JavaScript (React, Redux, Node, Express, Vue, Angular, Gatsby), Python (Django), Ruby (Rails), Apollo, GraphQL, Docker, and more. He also features a [Developer Discussion](https://www.youtube.com/playlist?list=PLillGF-RfqbZ_hV3gQav81bUCpCANWXOu) where he talks about the 'soft' side of programming, namely, dealing with your emotions, psychology, and motivation.
 
-* [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw): Colt is a developer with a serious love for teaching. Colt spent a few years teaching people to program at 2 different immersive bootcamps where he helped hundreds of people become web developers and changed their lives. His graduates work at companies like Google, Salesforce, and Square. In 2016 Colt launched his Web Developer Bootcamp course, which has since gone on to become one of the best selling and top rated courses on Udemy. He was also voted Udemy’s Best New Instructor of 2016.
+- [Colt Steele](https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw): Colt is a developer with a serious love for teaching. Colt spent a few years teaching people to program at 2 different immersive bootcamps where he helped hundreds of people become web developers and changed their lives. His graduates work at companies like Google, Salesforce, and Square. In 2016 Colt launched his Web Developer Bootcamp course, which has since gone on to become one of the best selling and top rated courses on Udemy. He was also voted Udemy’s Best New Instructor of 2016.
 
-* [Real Tough Candy](https://www.youtube.com/realtoughcandy): Real Tough Candy combines technical expertise with soft skills in this vlog oriented channel. Besides discussing the latest technologies and trends, RTC offers an insight into her career, delving into topics such as freelancing, work ethics, and a lot of tips for beginners. There is a video for everyone in her vast catalog.
-* [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): There's always something to learn!
+- [Real Tough Candy](https://www.youtube.com/realtoughcandy): Real Tough Candy combines technical expertise with soft skills in this vlog oriented channel. Besides discussing the latest technologies and trends, RTC offers an insight into her career, delving into topics such as freelancing, work ethics, and a lot of tips for beginners. There is a video for everyone in her vast catalog.
+- [Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w): There's always something to learn!
   Whether you want to have look at Angular Tutorials or Guides, Vue.js, other Frontend Development Content or Data Science Topics or anything else - you're probably right!.
 
-* [Ben Awad](https://www.youtube.com/benawad97): Ben is a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.
+- [Ben Awad](https://www.youtube.com/benawad97): Ben is a software developer who makes videos about React, React Native, GraphQL, Typescript, Node.js, PostgreSQL, Python, and all things coding.
 
-* [Scaler Academy](https://www.youtube.com/ScalerAcademy): Accelerate Your Tech Career. Learn computer programming concepts, Data Sturcutres & Algorithms from Ex-Google, Ex-Facebook instructors. Also, watch tech talks from tech leaders, live coding sessions & more.
+- [Scaler Academy](https://www.youtube.com/ScalerAcademy): Accelerate Your Tech Career. Learn computer programming concepts, Data Sturcutres & Algorithms from Ex-Google, Ex-Facebook instructors. Also, watch tech talks from tech leaders, live coding sessions & more.
 
-* [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw): CJ does live streams about full stack web development showcasing a wide variety of frameworks and technologies. In the streams, he shows step by step how to use those tools in creating projects. He also has tutorials about topics related to web development.
+- [Coding Garden with CJ](https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw): CJ does live streams about full stack web development showcasing a wide variety of frameworks and technologies. In the streams, he shows step by step how to use those tools in creating projects. He also has tutorials about topics related to web development.
 
-* [Corey Schafer](https://www.youtube.com/c/Coreyms): Has tutorials for (mostly) python. But it has a bunch of other useful gems as well, like SQL, Git, termial, and a few others. H
+- [Corey Schafer](https://www.youtube.com/c/Coreyms): Has tutorials for (mostly) python. But it has a bunch of other useful gems as well, like SQL, Git, termial, and a few others. H
 
-* [Java Brains](https://www.youtube.com/c/JavaBrainsChannel): Has Java & Javascript tutorials.
+- [Java Brains](https://www.youtube.com/c/JavaBrainsChannel): Has Java & Javascript tutorials.
 
-* [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) Mostly does React tutorial. High quality content (English)
+- [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw) Mostly does React tutorial. High quality content (English)
 
-* [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA): Short videos about almost all modern tech like GraphQL, Fauna, React etc.
+- [Fireship](https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA): Short videos about almost all modern tech like GraphQL, Fauna, React etc.
 
-* [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ): Different topics related to programming such as python, java, linux, etc. The channel doesn't feature many tutorials, however Kalle gives ideas, motivation and quality videos.
+- [Kalle Hallden](https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ): Different topics related to programming such as python, java, linux, etc. The channel doesn't feature many tutorials, however Kalle gives ideas, motivation and quality videos.
 
-* [Slim Coder](https://www.youtube.com/c/SlimCoder): This channel uploads many video related to Web Development & JavaScript and also upload course i.e Go, GitHub etc.
+- [Slim Coder](https://www.youtube.com/c/SlimCoder): This channel uploads many video related to Web Development & JavaScript and also upload course i.e Go, GitHub etc.
 
-* [Google Developers](https://www.youtube.com/user/GoogleDevelopers): The Google Developers channel offers some lessons, tutorials, and guides on various development topics. However, the most focus is on product reviews, recorded talks from tech experts at Google events, and current industry news that are really important for developers.
+- [Google Developers](https://www.youtube.com/user/GoogleDevelopers): The Google Developers channel offers some lessons, tutorials, and guides on various development topics. However, the most focus is on product reviews, recorded talks from tech experts at Google events, and current industry news that are really important for developers.
 
-* [Eddie Jaoude](https://www.youtube.com/user/eddiejaoude): Do you want to get into coding, the community and open source? Do you want to make more money, have flexible and remote working? Subscribe now to my channel and watch my videos to learn how.
+- [Eddie Jaoude](https://www.youtube.com/user/eddiejaoude): Do you want to get into coding, the community and open source? Do you want to make more money, have flexible and remote working? Subscribe now to my channel and watch my videos to learn how.
 
-* [Crossroads](https://www.youtube.com/user/crossroadstalk): A Malayalam Youtube channel for learning programming, computer science, musings, web development etc.
+- [Crossroads](https://www.youtube.com/user/crossroadstalk): A Malayalam Youtube channel for learning programming, computer science, musings, web development etc.
 
-* [MIT OpenCourseWare](https://youtube.com/c/mitocw): Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There's videos, and a whole lot more!
+- [MIT OpenCourseWare](https://youtube.com/c/mitocw): Whether you’re a student, a teacher, or simply a curious person that wants to learn, MIT OpenCourseWare (OCW) offers a wealth of insight and inspiration. There's videos, and a whole lot more!
 
-* [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz/featured): Andy is a self-taught coder. He started to code back in 2014 when he was 28, leaving behind a job as a car salesman and not having much contact with coding at all before that.
+- [Andy Sterkowitz](https://www.youtube.com/c/AndySterkowitz/featured): Andy is a self-taught coder. He started to code back in 2014 when he was 28, leaving behind a job as a car salesman and not having much contact with coding at all before that.
   Nowadays Andy has a YouTube channel and help people land their dream job as a software developer.
-  
-* [Manning Publications](https://www.youtube.com/c/ManningPublications/featured): Follow Manning's authors in a live coding action.
+- [Manning Publications](https://www.youtube.com/c/ManningPublications/featured): Follow Manning's authors in a live coding action.
 
-* [Scott Hanselman](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og): Scott has over 30 years of experience in the industry, 15 of which have been spent at Microsoft. He's written a number of technical books and spoken in person to over one million developers worldwide! He's also been podcasting and blogging everything tech for over 20 years at [www.hanselman.com](https://www.hanselman.com/).
-Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home office in Portland, Oregon, he gives us a glimpse of his day-to-day life as a developer on his YouTube channel: a great source of tips & tricks to make your life as a programmer easier. His [PowerShell configuration video](https://www.youtube.com/watch?v=VT2L1SXFq9U) is a must!
+- [Scott Hanselman](https://www.youtube.com/channel/UCL-fHOdarou-CR2XUmK48Og): Scott has over 30 years of experience in the industry, 15 of which have been spent at Microsoft. He's written a number of technical books and spoken in person to over one million developers worldwide! He's also been podcasting and blogging everything tech for over 20 years at [www.hanselman.com](https://www.hanselman.com/).
+  Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home office in Portland, Oregon, he gives us a glimpse of his day-to-day life as a developer on his YouTube channel: a great source of tips & tricks to make your life as a programmer easier. His [PowerShell configuration video](https://www.youtube.com/watch?v=VT2L1SXFq9U) is a must!
 
-* [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha): Based in New Delhi, India Kunal Kushwaha is a YouTuber, Blogger, and open-Source contributor. Apart from these, he is also passionate about Kubernetes, Web Dev, Machine Learning, DevOps. Kunal Kushwaha has been an MLH coach since Sept. 2020 which is the official student hackathon league. 
+- [Kunal Kushwaha](https://www.youtube.com/@KunalKushwaha): Based in New Delhi, India Kunal Kushwaha is a YouTuber, Blogger, and open-Source contributor. Apart from these, he is also passionate about Kubernetes, Web Dev, Machine Learning, DevOps. Kunal Kushwaha has been an MLH coach since Sept. 2020 which is the official student hackathon league.
 
-* [Nick Chapsas](https://www.youtube.com/@nickchapsas): Nick is an avid programmer and creates software engineering videos on youtube in all things C#, .NET and other topics like DevOps, advice and more.
+- [Nick Chapsas](https://www.youtube.com/@nickchapsas): Nick is an avid programmer and creates software engineering videos on youtube in all things C#, .NET and other topics like DevOps, advice and more.
 
 ## Computer Science
 
@@ -151,6 +150,9 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 - [Logictuts](https://www.youtube.com/channel/UCP-ijZJqrGr0drSrps-Loow): Featuring web development tutorials in the Hindi language.
 
 - [Coder Coder](https://www.youtube.com/c/TheCoderCoder): Practical Tips for the Beginner Web Developer.
+
+- [Steve Griffith - Prof3ssorSt3v3](https://www.youtube.com/@SteveGriffith-Prof3ssorSt3v3/featured): The videos on this channel are largely about web design & development with a good dose of mobile development thrown in just for fun.
+  "For best results it has been shown that watching tutorials at 1.5 speed helps to improve both understanding and retention." - Professor Steve Griffith -
 
 ### Full-Stack
 
@@ -224,6 +226,7 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 - [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q): This channel provides Data Science contents consisting of explainer videos and practical tutorials by Chanin Nantasenamat, Ph.D.
 
 - [Krish Naik](https://www.youtube.com/user/krishnaik06): resources for data science from beginner to advanced for variety of topics under data science and machine learning domain
+
 ### Programming Interview Preparation
 
 - [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA)
@@ -242,6 +245,7 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 - [Exponent](https://www.youtube.com/c/ExponentTV)
 - [Hackerearth](https://www.youtube.com/c/HackerEarthInc)
 - [sudoCODE](https://www.youtube.com/channel/UCMrRRZxUAXRzjai0SSoFgdw)
+
 ## Cybersecurity and Capture the Flag
 
 ### Pentesting
@@ -257,4 +261,4 @@ Working in Open Source on .NET and the Azure Cloud for Microsoft out of his home
 - [ByteByteGo](https://www.youtube.com/c/ByteByteGo) : ByteByteGo is a channel that help people to learn about designing the systems and explains about the basics of several components.
 
 - [sudoCODE](https://www.youtube.com/c/sudoCODE) : sudoCODE is a great channel which explains about different design patterns, SOLID principles and many basics about the low level system design. Its a great channel not only for the freshers who is getting into the software field but also for the experienced one who can brush up and get more knowledge on the design.
-**[Back To Top](#youtube-channels)**
+  **[Back To Top](#youtube-channels)**
