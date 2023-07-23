@@ -26,6 +26,16 @@ For Windows:
 [pbcopy command](https://superuser.com/questions/472598/pbcopy-for-windows/1171448#1171448)
 
 ## Performance Part 1
+### Image File Formats
+- [Resource 1](https://99designs.com/blog/tips/image-file-types/)
+- [Resource 2](https://pageweight.imgix.com/)
+- [Resource 3](https://www.sitepoint.com/gif-png-jpg-which-one-to-use/)
+
+- [Delivery Optimization](https://stackoverflow.com/questions/985431/max-parallel-http-connections-in-a-browser)
+
+- [Async + Defer](https://stackoverflow.com/questions/10808109/script-tag-async-defer)
+
+- [Resource Prefetching](https://css-tricks.com/prefetching-preloading-prebrowsing/)
 
 ## React + Redux + Module Bundling
 
