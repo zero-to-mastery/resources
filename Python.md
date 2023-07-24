@@ -87,3 +87,6 @@
 
 - [Twisted Python Projects](https://www.manning.com/books/twisted-python-projects): A book that teaches the Python GUI skills.
 
+- [YazBel](https://python-istihza.yazbel.com/): These comprehensive Turkish Python documents are specifically about the 3rd version of the Python programming language. Originally based on Fırat Özgül's Python 3 documents available on istihza.com, they are currently being developed by the community.
+
+

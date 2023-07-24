@@ -30,7 +30,7 @@
 
 - [Tailblocks](https://mertjf.github.io/tailblocks/): Ready-to-use Tailwind CSS blocks. This project provides multiple templates built using Tailwind CSS that you can use in your own projects.
 
--[Atomic Design book](https://atomicdesign.bradfrost.com): You can order or read the book online. ...creating and maintaining robust design systems, higher quality, more consistent UIs. This book introduces a methodology for thinking of our UIs as thoughtful hierarchies, discusses the qualities of effective pattern libraries, and showcases techniques to transform your team's design and development workflow.
+- [Atomic Design book](https://atomicdesign.bradfrost.com): You can order or read the book online. ...creating and maintaining robust design systems, higher quality, more consistent UIs. This book introduces a methodology for thinking of our UIs as thoughtful hierarchies, discusses the qualities of effective pattern libraries, and showcases techniques to transform your team's design and development workflow.
 
 - [FontPair](https://fontpair.co/): Font Pair is a typography website with a variety of font pairing suggestions.
 

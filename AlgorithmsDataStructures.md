@@ -4,6 +4,8 @@
 
 ## Videos
 
+- [GeeksforGeeks](https://www.youtube.com/c/GeeksforGeeksVideos)
+
 - [Abdul Bari: YouTubeChannel for Algorithms](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=2&t=0s)
 
 - [Data Structures and algorithms Course](https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9)
@@ -24,6 +26,10 @@
 
 - [TECH DOSE](https://www.youtube.com/c/TECHDOSE4u)
 
+
+
+- [Data Structure and algorithms course in hindi by CodewithHarry](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) DSA playlist for all the hindi speaking folks
+
 ## GitBook
 
 - [Data Structures in C](https://nitinranganath.gitbook.io/data-structures/)
@@ -42,6 +48,8 @@
 
 - [Graph Algorithms for Data Science](https://www.manning.com/books/graph-algorithms-for-data-science) This book explores the most important algorithms and techniques for graphs in data science, with practical examples and concrete advice on implementation and deployment.
 
+- [A Common-Sense Guide to Data Structures and Algorithms](https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second-dp-1680507222/dp/1680507222/ref=dp_ob_title_bk) One of the most beginner friendly books on the subject. It discusses the basics of data structures and algorithms.
+
 ## Courses
 
 - [Master the Coding Interview: Big Tech (FAANG) Interviews](https://academy.zerotomastery.io/p/master-the-coding-interview-faang-interview-prep) Course by Andrei and his team.
@@ -53,6 +61,8 @@
 - [TutorialsPoint: Data Structures and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/index.htm)
 
 - [Data Structures and Algorithms](https://www.pepcoding.com/resources/) Data Structure and Algorithms 1200 practice questions with solution videos.
+- [Algorithms, Part I]( https://in.coursera.org/learn/algorithms-part1) one of the best course on DSA from coursera available for free
+- [Algorithms, Part II](https://in.coursera.org/learn/algorithms-part2) 
 
 ## Tutorials
 

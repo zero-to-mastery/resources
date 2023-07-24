@@ -8,6 +8,7 @@
 - [Create React App](https://create-react-app.dev/): You don't need to learn and configure many build tools. Instant reloads help you focus on development. When it's time to deploy, your bundles are optimized automatically.
 - [W3Schools React](https://www.w3schools.com/react/react_intro.asp) Learn the basics of react js.
 - [React Tutorial](https://react-tutorial.app/): Learn React in an interactive environment. Understand how React works not just how to build with React.
+- [Scrimba React](https://scrimba.com/learn/learnreact) Learn React js with projects.
 
 ## Repos (Collections of github repositories of best react learning resources)
 
