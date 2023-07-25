@@ -65,6 +65,8 @@ For Windows:
 - [Gimp](https://www.gimp.org/): This ever-popular cross-platform tool just gets better with age. Powerful and flexible, Gimp lets you perform a wide variety of image manipulation tasks including, of course, resizing.
 
 ## React + Redux + Module Bundling
+- [Webpack Configurator](https://createapp.dev/)
+- [Parcel Version 2](https://parceljs.org/)
 
 ## Performance Part 2
 
