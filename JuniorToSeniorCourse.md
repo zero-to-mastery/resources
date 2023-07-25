@@ -35,6 +35,35 @@ For Windows:
 - [Resource 2](https://pageweight.imgix.com/)
 - [Resource 3](https://www.sitepoint.com/gif-png-jpg-which-one-to-use/)
 
+### Performance Tools
+1. [View main thread activities in a table](https://developer.chrome.com/docs/devtools/#activities) to sort activities based on which ones took up the most time.
+2. [Analyze frames per second (FPS)](https://developer.chrome.com/docs/devtools/#fps) to measure whether your animations truly run smoothly.
+3. [Monitor CPU usage, JS heap size, DOM nodes, layouts per second, and more](https://developer.chrome.com/blog/new-in-devtools-64/#perf-monitor) in real-time with the Performance Monitor.
+4. [Capture screenshots while recording](https://developer.chrome.com/docs/devtools/#screenshots) to play back exactly how the page looked while the page loaded, or an animation fired, and so on.
+5. [View interactions](https://developer.chrome.com/docs/devtools/#interactions) to quickly identify what happened on a page after a user interacted with it.
+6. [Find scroll performance issues in real-time](https://developer.chrome.com/docs/devtools/#scrolling-performance-issues) by highlighting the page whenever a potentially problematic listener fires.
+7. [View paint events in real-time](https://developer.chrome.com/docs/devtools/#paint-flashing) to identify costly paint events that may be harming the performance of your animations.
+8. [View main thread activity](https://developer.chrome.com/docs/devtools/#main) to view every event that occurred on the main thread while you were recording.
+
+### Other Resources:
+- [http://optimizilla.com/](http://optimizilla.com/)
+- [https://tools.pingdom.com/](https://tools.pingdom.com/)
+- [https://www.thinkwithgoogle.com/feature/mobile/](https://www.thinkwithgoogle.com/feature/mobile/)
+- [https://developers.google.com/web/tools/lighthouse/](https://developers.google.com/web/tools/lighthouse/)
+- [http://websitespeedranker.com/](http://websitespeedranker.com/)
+- [https://pageweight.imgix.com/](https://pageweight.imgix.com/)
+- [https://developers.google.com/speed/pagespeed/insights/](https://developers.google.com/speed/pagespeed/insights/)
+- [https://passmarked.com/](https://passmarked.com/)
+- [https://images.guide/](https://images.guide/)
+- [https://www.crazyegg.com/blog/image-editing-tools/](https://www.crazyegg.com/blog/image-editing-tools/)
+
+### Additional image manipulation tools
+- [XNConvert](https://www.xnview.com/en/xnconvert/): This free, cross-platform tool can handle batched images, and performs resizing, optimization, and other transforms.
+- [ImageOptim](https://imageoptim.com/mac): This free tool is available for Mac and as an online service, and is specifically aimed at optimizing images for speed, including metadata removal (discussed above).
+- [ResizeIt](https://apps.apple.com/us/app/resizeit/id416280139?mt=12): A Mac-only desktop product that lets you change the size of multiple images simultaneously, and can convert file formats at the same time.
+- [PicResize](https://picresize.com/): One of several good browser-based tools that gives you lots of options for cropping, rotating, resizing, adding effects to, and converting images.
+- [Gimp](https://www.gimp.org/): This ever-popular cross-platform tool just gets better with age. Powerful and flexible, Gimp lets you perform a wide variety of image manipulation tasks including, of course, resizing.
+
 ## React + Redux + Module Bundling
 
 ## Performance Part 2
