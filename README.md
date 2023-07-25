@@ -32,7 +32,9 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**JavaScript Resources**](JavaScript.md): A list of resources for learning JavaScript.
 
-- [**Mobile App Development**](MobileAppDevelopment.md): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system
+- [**Junior to Senior Developer Roadmap Resources**](JuniorToSeniorCourse.md): Resources mentioned in the Zero to Mastery course.
+
+- [**Mobile App Development**](MobileAppDevelopment.md): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system.
 
 - [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
 
