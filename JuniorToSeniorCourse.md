@@ -69,6 +69,10 @@ For Windows:
 - [Parcel Version 2](https://parceljs.org/)
 
 ## Performance Part 2
+- [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
+- [Article: Async Nature of setState()](https://vasanthk.gitbooks.io/react-bits/content/patterns/19.async-nature-of-setState.html)
+- [Article: React setState is asynchronous](https://werehamster.medium.com/beware-react-setstate-is-asynchronous-ce87ef1a9cf3)
+-[nmp package: Why Did You Render?](https://www.npmjs.com/package/@welldone-software/why-did-you-render)
 
 ## Testing
 
