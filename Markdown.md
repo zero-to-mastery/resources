@@ -8,7 +8,7 @@ Markdown is a simple way to format text on the computer. It's like using plain t
 **Why should you learn it?** <br>
 It's commonly used for writing documents, creating websites, or formatting messages online. Markdown makes it easy to organize and style your text without needing to know complicated coding languages. So, it's a user-friendly way to make your writing look nice and organized without much effort!
 
-**How can I with it?** <br>
+**How can I practice with it?** <br>
 The best way to practice is by building projects! You can use this cheat sheet as reference for future projects, I'm sure you will do well! Also I structured this guide to be as clear as possible, by listing the element's name> providing the syntax > giving a real example with it.
 
 ## Platforms (Website)
