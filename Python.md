@@ -2,7 +2,7 @@
 
 # Resources to learn Python
 
-- [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/): A Quick and Easy Intro into Python Programming. 
+- [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/): A Quick and Easy Intro into Python Programming.
 
 - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/): Free introductory Python programming book available under a Creative Commons license in both PDF and HTML formats. It is also available as an O'Reilly-published paperback, available for purchase on Amazon.
 
@@ -31,9 +31,9 @@
 
 - [Google's Python Classes](https://developers.google.com/edu/python/?hl=de-DE&csw=1) Learn Python from GOOGLE classes
 
-- [Fluent Python](https://evanli.github.io/programming-book-3/Python/Fluent%20Python.pdf) A classic book by Luciano Ramalho published by O'REILLY. It is full of useful programming tricks for intermediate to advanced Python coders who want to push the boundaries. 
+- [Fluent Python](https://evanli.github.io/programming-book-3/Python/Fluent%20Python.pdf) A classic book by Luciano Ramalho published by O'REILLY. It is full of useful programming tricks for intermediate to advanced Python coders who want to push the boundaries.
 
-- [Python Cookbook](https://github.com/tomarraj008/data_books/raw/master/Python%20Cookbook%2C%203rd%20Edition.pdf) This 3rd Edition provides complete recipes for more than a dozen topics, covering the core Python language as well as tasks common to a wide variety of application domains. Each recipe contains code samples you can use in your projects right away, along with a discussion about how and why the solution works 
+- [Python Cookbook](https://github.com/tomarraj008/data_books/raw/master/Python%20Cookbook%2C%203rd%20Edition.pdf) This 3rd Edition provides complete recipes for more than a dozen topics, covering the core Python language as well as tasks common to a wide variety of application domains. Each recipe contains code samples you can use in your projects right away, along with a discussion about how and why the solution works
 
 - [Full Stack Python (video)](http://pyvideo.org/pycon-us-2014/so-you-want-to-be-a-full-stack-developer-how-to.html) This is a talk about building full-stack python web applications where you manage every part of the application yourself. I will walk through how to setup a production server with your web application code, a local development environment using vagrant, and how to deploy from your local environment to production. I will also walk through python and Django libraries that will make your life easier.
 
@@ -89,4 +89,4 @@
 
 - [YazBel](https://python-istihza.yazbel.com/): These comprehensive Turkish Python documents are specifically about the 3rd version of the Python programming language. Originally based on Fırat Özgül's Python 3 documents available on istihza.com, they are currently being developed by the community.
 
-
+- [Learn Python with a AI Chatbot](https://aigents.co/learn) You don't need to spend hundreds of dollars on courses, books, and mentors. With this platform you can teach yourself Data Science and Python for free! All the resources & tools you need to learn Data Science by yourself. With GPT-powered explanations and Q&A.
