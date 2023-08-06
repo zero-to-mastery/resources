@@ -61,6 +61,7 @@
 - [Simple Game Tutorials](https://simplegametutorials.github.io/): Contains step by steps guides on how to build simple games such as Snake and Asteroid by using Lua and Love2d or Python and Pygame.
 - [How to Love](https://sheepolution.com/learn/book/contents): A series of guides meant to familiarize people using Love2d in order to develop games.
 
+- [HighwayHeist](https://www.github.com/Omanshu209/HighwayHeist): A pygame game developed using python which can teach a lot of interesting things.
 
 - [Snake game for beginners](https://codewithharry.com/videos/python-game-development-1): Beginner friendly tutorials.
 
