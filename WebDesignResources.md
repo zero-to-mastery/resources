@@ -140,6 +140,8 @@
 
 - [ColorHub](https://www.colorhub.app/): A color palette finder with lots of unique features.
 
+- [pppalette](https://fffuel.co/pppalette/): A friendly color palette generator.
+
 ## Icons &amp; Graphics
 
 - [CONVERTICO](https://convertico.com/): A free online PNG to ICO file converter.
