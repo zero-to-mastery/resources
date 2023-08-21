@@ -6,11 +6,13 @@
 
 - [CSS Reference](https://cssreference.io): A visual representation, and demonstration of all native CSS3 rules and how they work, with clear documentation and examples.
 
-- [CSS Visual Dictionary](https://b-ok.asia/book/3705299/e48774?dsource=recommend): CSS Visual Dictionary is a beginner-friendly book that takes a practical approach towards introducing web designers and developers to the basic concepts in CSS. Follow the instructions in the link above to get your copy!
+- [CSS Visual Dictionary](https://b-ok.asia/book/3705299/e48774?dsource=recommend): CSS Visual Dictionary is a beginner-friendly book that takes a practical approach to introducing web designers and developers to the basic concepts in CSS. Follow the instructions in the link above to get your copy!
 
 - [CSS Zen Garden](http://www.csszengarden.com/): A demonstration of what can be accomplished through CSS-based design. Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs.
 
 - [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
+
+- - [CSS Reference](https://chakra-ui.com/): Chakra UI is an open-source design system and component library for React that facilitates the creation of visually appealing and accessible user interfaces. With an extensive set of pre-designed components, Chakra UI accelerates UI development while maintaining design consistency through its theming and styling system. The library places a strong emphasis on accessibility, ensuring inclusivity for all users, and promotes responsive design by default, making it easy to create interfaces that adapt across different devices. Chakra UI offers a developer-friendly experience with intuitive APIs and documentation, allowing for effortless customization of components to match specific project requirements, making it a valuable tool for efficient and polished web development.
 
 - [CSS-Codecademy](https://www.codecademy.com/learn/learn-css): You will learn many aspects of styling web pages! You’ll be able to set up the correct file structure, edit text and colors, and create attractive layouts. With these skills, you’ll be able to customize the appearance of your web pages to suit your every need!
 
