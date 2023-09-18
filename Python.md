@@ -71,6 +71,8 @@
 
 - [Models and Algorithms for Unlabelled Data](https://www.manning.com/books/models-and-algorithms-for-unlabelled-data) Models and Algorithms for Unlabelled Data introduces mathematical techniques, key algorithms, and Python implementations that will help you build machine learning models for unannotated data.
 
+- [Data camp](https://www.datacamp.com/courses/intro-to-python-for-data-science): DataCamp shines when it comes to educating people about data science. They offer this course — Introduction to Python — to help you master data analysis basics in Python and expand your skills by learning Numpy for scientific computing.
+
 - [Publishing Python Packages](https://www.manning.com/books/publishing-python-packages) Create Python packages to share your code in a scalable and maintainable way.
 
 - [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) Learn how to speed up slow Python code with concurrent programming and the cutting-edge asyncio library.
