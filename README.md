@@ -16,6 +16,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**CSS Resources**](CSSResources.md): A list of resources for learning CSS.
 
+- [**Design Patterns Resources**](design-patterns.md) : A List of Resources for Design Patterns 
+
 - [**Cheat Sheets**](cheatSheets.md): For those looking for the quick-and-dirty of how to do things, or if you simply forgot something, look no further!
 
 - [**Cloud**](Cloud.md): Cloud Learning Resources to kickstart your career.
