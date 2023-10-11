@@ -44,3 +44,5 @@
 ## For Beginners
 
 - [Learn C from basics](https://www.codeforhunger.com/2020/12/Learn%20C%20programming%20in%20easy%20way%20%20codeforhunger.html) with lot of examples and solutions
+- [Pointers and Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) This document explains how pointers and memory work and how to use them—from the
+basic concepts through all the major programming techniques. For each topic there is a combination of discussion, sample C code, and drawings.

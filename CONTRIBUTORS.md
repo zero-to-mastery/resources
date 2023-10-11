@@ -8,6 +8,7 @@
 
 This is a list showing the GitHub usernames of all who have contributed to this open-source project! **Make sure to add yourself and submit a pull request if you've contributed.**
 
+- [@Sandesh-Pyakurel](https://github.com/Sandesh-Pyakurel)
 - [@8xu](https://github.com/8xu)
 - [@Festivemena](https://github.com/Festivemena)
 - [@Quavo](https://github.com/lucky-chap)
