@@ -68,3 +68,4 @@
 
 - [The Agile Manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/): The Agile Software Development Practices are the gold standard for workplace collaboration and an alternative to the Waterfall Software Development model. Examples of Agile frameworks: Scrum, Kanban, Extreme Programming and DevOps.
 
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/): The Conventional Commits specification is a lightweight convention on top of commit messages.
