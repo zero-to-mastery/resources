@@ -56,6 +56,8 @@
 
 - [INTRO TO WEB DEV V2](https://btholt.github.io/intro-to-web-dev-v2/): Welcome to an intro to web development. I'm really excited to teach you a bit about how to become a web developer. In this course we assume you know absolutely nothing about writing code. We do assume that you have a basic grasp of how to operate your computer: how to browse the Internet, how to operate your operating system, how to use a keyboard and mouse, etc.
 
+- [SpringBoard](https://www.springboard.com/resources/learning-paths/web-development-python-django/): This course will explain the different components of web applications and how those components interact. You’ll learn about front-end and back-end technologies, the basics of web internals, and work with essential developer tools for troubleshooting, performance optimization, and collaboration.
+
 ### Front-End
 
 - [CSS Reference](https://cssreference.io/): An online guide to CSS that features complete descriptions, examples of usage, and illustrated/animated examples of the most popular CSS properties.
