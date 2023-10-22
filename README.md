@@ -53,6 +53,8 @@ A list of student-collated resources deemed to be useful for every developer and
 - [**Web Design Resources**](WebDesignResources.md): A page of resources for web design.
 
 - [**Web Development Tools**](WebDevTools.md): A page listing a number of free web development tools.
+  
+- [**Django Development**](WebDevTools.md): A page of resources for django development.
 
 - [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 
