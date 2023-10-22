@@ -1,0 +1,1 @@
+- [Complete Django Course(Code with harry)](https://youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9&si=Uqg-98mLsX_fYT5e): This course has been designed for those who want to learn django development from scratch(YOUTUBE).
