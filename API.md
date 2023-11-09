@@ -10,6 +10,7 @@ Resources on how to interact your code with existing APIs.
 - [Useful APIs](https://github.com/public-apis/public-apis): Collection of APIs on a list of issues ranging from health to geocoding.
 - [TutorialsPoint API guide](https://www.tutorialspoint.com/application-programming-interface-api): An overview of how API's work
 - [SerpApi](https://serpapi.com/): A collection of many useful APIs like Google search API, Google maps API, YouTube search API, and many more.
+- [SearchApi](https://www.searchapi.io/): a collection of search APIs including Google, Google Scholar, Google Trends, Google Jobs, and YouTube transcripts. Has native LangChain integrations.
 
 ## General user guides
 
