@@ -81,7 +81,8 @@
 - [Rob Dial](https://robdial.com/podcast/):Mindset Mentor talks about self-development in short 15 minutes talks 
 - [Degree Free](https://degreefree.co/podcast/): Getting your dream job does not always require a degree but having the motivation and resources to get there is where Degree Free Podcast comes to fruitation in your life.
 - [The Daily Job Hunt by Career Hackers](https://careerhackers.com/podcast/): This 3-minute daily podcast is the audio version of the same email, written and read by Joel Bein. The DJH shares advice no one taught you in school. In fact, it is the antidote to the damage school caused. Get curious, get creative, and get empowered.
-
+- [Huberman Lab](https://podtail.com/podcast/huberman-lab/): Huberman Lab discusses neuroscience: how our brain and its connections with the organs of our body control our perceptions, our behaviors, and our health in a way anyone can use it to  his/her own benefit
+  
 ## InfoSec / CyberSecurity
 
 - [Darknet Diaries](https://darknetdiaries.com/): Darknet Diaries is a podcast covering true stories from the dark side of the Internet. Stories about hackers, defenders, threats, malware, botnets, breaches, and privacy.

@@ -268,4 +268,6 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@Mahi1989](https://github.com/TBM-MAHI)
 - [@l-white](https://github.com/l-white)
 - [@pawaspy](https://github.com/pawaspy)
+- [@mayurpatil77](https://github.com/mayurpatil77)
+- [@serhatbek](https://github.com/serhatbek)
 - [@ChrRepou](https://github.com/ChrRepou)
