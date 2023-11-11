@@ -118,6 +118,14 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Apollo Client Devtools](https://chrome.google.com/webstore/detail/apollo-client-devtools/jdkknkkbebbapilgoeccciglkfbmbnfm): GraphQL debugging tools for Apollo Client.
 
+- [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb?hl=en): As the name mentions itself, Responsive Viewer helps you to view your app in one screen with multiple media sizes.
+
+- [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=en): This extension helps you to fill all the inputs in your form at once with fake/dummy data. Much better than dealing with all the inputs manually.
+
+- [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en): This extension helps you to inspect styles, colors, and export images. You can select and inspect any item on the page to get properly arranged info.
+
+- [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh?hl=en): We all read a lot while searching solutions to our problems on the net. Even if many sites have a dark mode feature, there are still some that don't.
+
 ---
 
 ## CSS Tools
@@ -186,3 +194,4 @@ Things to look for if your editor has implementations for them. They will make y
 - [Meta Tags](https://metatags.io/): Meta Tags is a tool to debug and generate meta tag code for any website. With Meta Tags you can edit and experiment with your content then preview how your webpage will look on Google, Facebook, Twitter and more!
 
 - [DevAssets](https://xsgames.co/devassets/): A curated list of many different types of resources for developers.
+- [Materio Free Bootstrap 5 HTML Admin Template](https://themeselection.com/item/materio-free-bootstrap-html-admin-template/): Open-source & Easy to use Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
