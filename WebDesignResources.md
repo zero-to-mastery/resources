@@ -194,6 +194,8 @@
 
 - [iconshock](https://www.iconshock.com/): 2 Million+ professional icons library. Over 400+ icon sets in more than 30 styles, including Flat, Material, iOS, Glyph, Colorful, Window 10, Revamped Office, 3D Realistic, Isometric, & more! Most of the icons are vector and pixel perfect conveniently grouped in sets by industries, and our customs designs are even better :)
 
+- [Favicon InBrowser.App](https://favicon.inbrowser.app): A modern pure-frontend favicon generator. Support SVG, maskable and dark mode. Optimize PNG and SVG outputs.
+
 ## Page and Button Effects, Hover effects
 
 - [Frosted Glass Effect](https://www.google.com/search?q=how+to+make+a+page+frosted+using+css&rlz=1C1CHBF_enUS795US796&oq=how+to+make+a+page+frosted+using+css&aqs=chrome..69i57.8310j1j15&sourceid=chrome&ie=UTF-8): How to make the frosted glass effect on web pages using CSS.
