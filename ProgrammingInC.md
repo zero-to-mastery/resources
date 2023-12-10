@@ -30,7 +30,7 @@
 
 ## Courses
 
-- [C Programming for Biginners](https://www.udemy.com/course/c-programming-for-beginners-/)
+- [C Programming for Beginners](https://www.udemy.com/course/c-programming-for-beginners-/)
 
 - [Microcontroller Embedded C Programming: absolute beginners](https://www.udemy.com/course/microcontroller-embedded-c-programming/)
 
