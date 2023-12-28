@@ -9,6 +9,7 @@
 - [W3Schools React](https://www.w3schools.com/react/react_intro.asp) Learn the basics of react js.
 - [React Tutorial](https://react-tutorial.app/): Learn React in an interactive environment. Understand how React works not just how to build with React.
 - [Scrimba React](https://scrimba.com/learn/learnreact) Learn React js with projects.
+- [Vite React] (https://vitejs.dev/guide/) A more efficent way to develop your projects in React
 
 ## Repos (Collections of github repositories of best react learning resources)
 
