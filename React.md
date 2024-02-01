@@ -30,6 +30,10 @@ https://www.youtube.com/watch?v=a_7Z7C_JCyo
 
 - [Setting up React Redux App For Production](https://medium.com/@gobindathakur/setting-up-react-redux-application-for-production-and-hosting-in-aws-ec2-8bbb8bf3c643): Setting up React Redux application for production and hosting in AWS EC2.
 
+- [Practical React Query](https://tkdodo.eu/blog/practical-react-query?ref=jonas.io): A huge series from one of React Query's maintainers. Started in 2020, but is still going, and still very helpful.
+
+- [Bulletproof-react](https://github.com/alan2207/bulletproof-react?tab=readme-ov-file): A simple, scalable, and powerful architecture for building production-ready React applications - GitHub repository.
+
 ## React Tutorial for Beginners(Free)
 
 - [React Tutorial For Beginners](https://www.youtube.com/watch?v=dGcsHMXbSOA&list=PLDyQo7g0_nsVHmyZZpVJyFn5ojlboVEhE&pbjreload=101): This react video is aimed for beginners, so if you have never worked with react before this will be a good start.
