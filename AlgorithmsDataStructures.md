@@ -42,6 +42,8 @@
 
 - [Competitive Programmers Hand Book](https://cses.fi/book/book.pdf) Beginner friendly hand book for competitive programmers.
 
+- [Data structures & Algorithms in java](https://drive.google.com/file/d/1y2LwJT0ORnJf7Zc2gw_WI-wNDKQHyYfq/view?usp=sharing) One of the best beginner-friendly data structure books.
+
 - [Algorithms and Data Structures for Massive Datasets](https://www.manning.com/books/algorithms-and-data-structures-for-massive-datasets) Teaches you to take advantage of data processing and analytics techniques specifically designed for large distributed datasets.
 
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/) Comprehensive background info on data structures and algorithms with practice problems.
