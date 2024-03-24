@@ -80,3 +80,4 @@
 - [JavaScript MDN RegEx Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet): A quick cheatsheet showing all of the JavaSript Regular Expressions syntax use.
 
 - [HTML Punctuation Symbols](https://www.toptal.com/designers/htmlarrows/punctuation/): Easily find character codes for the # sign, @ symbol (at symbol), percent sign, & ampersand (& HTML code)
+- [Vue CheatSheet](https://bootstrap-cheatsheet.themeselection.com/) - An interactive cheatsheet of Vue, Vue Router, and Pinia.
