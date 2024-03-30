@@ -4,3 +4,4 @@
 - [MetaProgramming in Ruby](https://thoughtbot.com/upcase/videos/metaprogramming-in-ruby) - Learn MetaProgramming in Ruby.(Intermediate)
 - [Ruby Best Practices](https://www.oreilly.com/library/view/ruby-best-practices/9780596157487/) - An O'Reilly book that focuses on best practices used while programming Ruby.(Advanced)
 - [Ruby Under A Microscope](https://www.oreilly.com/library/view/ruby-under-a/9781457185243/) - An O'Reilly book - Ruby Under a Microscope gives developers an inside, hands-on look at Ruby's core, using simple diagrams coupled with clear explanations.(Advanced)
+- [The Odin Project](https://www.theodinproject.com/) - A free website that started as a complete Ruby tutorial, and has since expanded to include courses on Rails and lots of other languages. (Beginner)
