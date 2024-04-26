@@ -195,3 +195,5 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [DevAssets](https://xsgames.co/devassets/): A curated list of many different types of resources for developers.
 - [Materio Free Bootstrap 5 HTML Admin Template](https://themeselection.com/item/materio-free-bootstrap-html-admin-template/): Open-source & Easy to use Bootstrap 5 HTML Admin Template with Elegant Design & Unique Layout.
+
+- [Pyrexp](https://pythonium.net/regex): An online tool for testing and visualizing Regular Expressions.
