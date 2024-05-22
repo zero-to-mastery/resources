@@ -4,6 +4,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 ## Table of Contents
 
+- [**AI & ML**](AI_and_ML.md): Resources for learning AI and Machine Learning.
+
 - [**API**](API.md): A list of resources for learning how to use APIs.
 
 - [**Algorithms & Data Structures**](AlgorithmsDataStructures.md): Resources for tackling algorithms.
