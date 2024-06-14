@@ -64,6 +64,8 @@
 - [Algorithms, Part I]( https://in.coursera.org/learn/algorithms-part1) one of the best course on DSA from coursera available for free
 - [Algorithms, Part II](https://in.coursera.org/learn/algorithms-part2) 
 
+- [The Last Algorithms Course You'll Need by The Primeagen](https://frontendmasters.com/courses/algorithms/) Free but you will need to sign up to Frontend Masters. Super fun, beginner-friendly data structures and algorithms course. Is it really the last algorithms course you'll need? If you want to pass tough interview questions, then yes! You'll learn big o time complexity, fundamental data structures like arrays, lists, trees, graphs, and maps, and searching and sorting algorithms.
+
 ## Tutorials
 
 - [Learn DS & Algorithms](https://www.programiz.com/dsa) Learn different types of data structures and algorithms and their implementations in Python, C, C++, and Java.
