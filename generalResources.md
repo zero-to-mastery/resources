@@ -54,4 +54,4 @@
 
 * [**frontend Mentor**](https://www.frontendmentor.io/challenges): Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
 
-* [**PerfectBugReport.io**] (https://www.perfectbugreport.io/): A simple checklist of the essential items to include in bug reports.
+* [**PerfectBugReport.io**](https://www.perfectbugreport.io/): A simple checklist of the essential items to include in bug reports.
