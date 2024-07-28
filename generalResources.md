@@ -53,3 +53,5 @@
 * [**CompSciLib**](https://www.compscilib.com/): A free site for learning and practicing Computer Science theory topics in courses such as Computer Organization, Discrete Math, Networking, etc. Think Khan Academy, but for Computer Science.
 
 * [**frontend Mentor**](https://www.frontendmentor.io/challenges): Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs.
+
+* [**PerfectBugReport.io**](https://www.perfectbugreport.io/): A simple checklist of the essential items to include in bug reports.

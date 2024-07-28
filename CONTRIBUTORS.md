@@ -274,3 +274,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@web-roberto](https://github.com/web-roberto)
 - [@Bandit-Army](https://github.com/Bandit-Army)
 - [@SteveXero](https://github.com/stevexero)
+- [@vandernath](https://github.com/vandernath)
