@@ -18,6 +18,9 @@
 ## Love2d: 
 - [Official Love2d Website](https://love2d.org/): Documentation for Love2d as well as helpful guides for programming games using Lua
 
+## Defold:
+- [Official Defold Website](https://defold.com/manuals/introduction/): Documentation for Lua and Defold Engine.
+
 
 
 ### Documentations/Community:
