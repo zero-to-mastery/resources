@@ -35,6 +35,7 @@
 ## Computer Science
 
 - [OSSU](https://github.com/ossu/computer-science): The OSSU curriculum is a **complete education in computer science** using online materials. It's not merely for career training or professional development. It's for those who want a proper, _well-rounded_ grounding in concepts fundamental to all computing disciplines,and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
+- [CS50: Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science): This is CS50x , Harvard University's introduction to the intellectual enterprises of computer science and the art of programming for majors and non-majors alike, with or without prior programming experience. An entry-level course taught by David J. Malan, CS50x teaches students how to think algorithmically and solve problems efficiently. 
 
 ## Web Development
 
