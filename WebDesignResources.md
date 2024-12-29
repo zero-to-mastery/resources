@@ -44,6 +44,8 @@
 
 - [TshirtDesigns](https://www.tshirtdesigns.com/mockups): An apparel and tshirt design mockup generator plus a marketplace of t-shirt designs.
 
+- [UX Planet](https://uxplanet.org): One-stop resource for everything related to user experience
+
 ## Images &amp; Video
 
 - [Coverr](https://coverr.co/): Free stock videos to add to your websites.
