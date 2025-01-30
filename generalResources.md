@@ -57,3 +57,6 @@
 * [**PerfectBugReport.io**](https://www.perfectbugreport.io/): A simple checklist of the essential items to include in bug reports.
 
 * [**useful Github repository**](https://github.com/codecrafters-io/build-your-own-x): This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
+
+* [**Introduction to CS**](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/):
+An MIT free course that covers basic programming and web concepts such as Python.
