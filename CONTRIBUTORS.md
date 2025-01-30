@@ -56,6 +56,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@BurnhamG](https://github.com/BurnhamG)
 - [@ThinkAstute](https://github.com/ThinkAstute)
 - [@IgnacioRodrigues](https://github.com/IgnacioRodrigues)
+- [@andrea264](https://github.com/andrea264)
 - [@Dabbyd123](https://github.com/Dabbyd123)
 - [@shan5742](https://github.com/shan5742)
 - [@StuartDaniells](https://github.com/StuartDaniells)
