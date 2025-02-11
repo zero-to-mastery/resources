@@ -15,7 +15,7 @@ The best way to practice is by building projects! You can use this cheat sheet a
 
 - [Markdown](https://www.markdownguide.org/): Great Markdown guide. Includes Cheat Sheet, Basic Syntax, Extended Syntax, Tools, Hacks and even a Book!
 - [Beginner to advanced Markdown](https://daringfireball.net/projects/markdown/): Brief overview of the Markdown language, It's a great place to start!
-- [W3Schools Markdown](https://www.w3schools.io/file/markdown-introduction/) Learn the basics of markdown.
+- [W3Schools Markdown](https://www.w3schools.io/file/markdown-introduction/): Learn the basics of markdown.
 - [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax): Official GitHub documentation for Markdown.
 
 ## Repos (Collections of github repositories of best Markdown learning resources)
