@@ -38,7 +38,7 @@
 
 - [Syntax Highlighting in Markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown): A list of languages that support syntax highlighting in Markdown fenced code blocks.
 
-- [Markdown Guide](https://www.markdownguide.org/): An overview of Markdown, with links to helpful resources and Markdown-compatible tools. Also lists helpful tools and includes a handy cheat sheet. 
+- [Markdown Guide](https://www.markdownguide.org/): An overview of Markdown, with links to helpful resources and Markdown-compatible tools. Also lists helpful tools and includes a handy cheat sheet.
 
 ## Open Source Coding on GitHub
 
@@ -63,6 +63,8 @@
 - [Complete Guide to Open Source - How to Contribute](https://youtu.be/yzeVMecydCE): Learn why and how to contribute to open source software. You will learn about how to find projects to contribute to, how to make issues and PRs, how to make money from open source, and more.
 
 - [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics): This tutorial will help you with using Git & GitHub for your personal projects and contributing to Open Source, with no prerequisites, in an easy to understand language. It starts from the very basics of Git & GitHub, covering all the essential commands, including concepts such as branching, pull requests, forking, etc. We also cover other concepts such as squashing, resolving merge conflicts, keeping your code in sync, and more.
+
+- [Git and GitHub - 0 Experience to Professional](https://www.youtube.com/watch?v=hrTQipWp6co): Learn Git from 0 experience to professional level in 3 projects.
 
 ## Collaboration Best Practices
 
