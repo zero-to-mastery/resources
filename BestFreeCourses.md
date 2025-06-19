@@ -13,3 +13,9 @@ LINK: https://youtube.com/playlist?list=PLhQjrBD2T382_R182iC2gNZI9HzWFMC_8
 
 PREPARE FOR YOUR BEHAVOURIAL INTERVIEWS:
 LINK: https://www.youtube.com/channel/UCrtPXCqjm9c7nqgJL-vBSZg
+
+CAREERFOUNDRY WEB DEVELOPMENT FOR BEGINNERS:
+LINK: https://careerfoundry.com/en/short-courses/become-a-web-developer/
+
+CODECADEMY FREE COURSES LIST:
+LINK: https://www.codecademy.com/catalog?price=free
