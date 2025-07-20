@@ -39,3 +39,5 @@
 - [Google AI Essentials](https://www.coursera.org/learn/google-ai-essentials): Beginner-level course on Coursera about generative AI essentials and prompt engineering to help develop ideas and strategies.
 
 - [Roadmap: How to Learn AI in 2024 (Notion page)](https://gilded-enquiry-cb8.notion.site/Roadmap-How-to-Learn-AI-in-2024-a9e105c14c0f4915913b8cb2eccc7ff2): A notion page with extensive resources about learning AI.
+
+- [Applied Data Science and Machine Learning Lab](https://www.wqu.edu/ai-lab-computer-vision-apply): Learn the fundamentals of data science, entirely free. By completing a series of end-to-end data science projects, students build the wrangling, analysis, model-building, and communication skills to prepare for success in data-centric careers.
