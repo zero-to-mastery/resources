@@ -13,6 +13,7 @@ Resources on how to interact your code with existing APIs.
 - [SearchApi](https://www.searchapi.io/): a collection of search APIs including Google, Google Scholar, Google Trends, Google Jobs, and YouTube transcripts. Has native LangChain integrations.
 
 ## General user guides
+- [Learn FastAPI] (https://fastapi.tiangolo.com/learn/): The introductory sections and the official and recommended tutorials to learn FastAPI.
 
 ## YouTube channels
 
