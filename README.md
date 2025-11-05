@@ -58,6 +58,9 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**YouTube Channels**](YouTubeChannels.md): A list of YouTube channels for learning all about programming, covering topics as broad as web development, design, history, hacking, and Computer Science (CS).
 
+- [**MDN Web Docs — CSS Flexbox Guide**](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout): official, beginner-friendly reference for Flexbox and layout.
+
+
 ## Contributing
 
 - You are always welcome to contribute to this project, kindly visit our [**Contributor's Guide**](https://github.com/zero-to-mastery/resources/blob/master/CONTRIBUTING.md) before opening a pull request.
