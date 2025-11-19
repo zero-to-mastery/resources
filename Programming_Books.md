@@ -24,6 +24,8 @@
 
 - [JavaScript & JQuery by Jon Duckett](http://www.javascriptbook.com): A well-designed visual guide to javaScript and jQuery. Exercise files are available to help the reader work through the examples provided in the book.
 
+- [JavaScript in Depth by James M. Snell](https://www.manning.com/books/javascript-in-depth): Explore the inner workings of the world’s most popular programming language.
+
 - [JavaScript: The good parts by Douglas Crockford](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742): Well-articulated book explaining the fundamentals of JS
 
 - [JavaScript: The definitive guide by David Flanagan](https://www.amazon.com/JavaScript-Definitive-Guide-Activate-Guides-ebook/dp/B004XQX4K0/): Reference guide focusing on core JavaScript language internals.
