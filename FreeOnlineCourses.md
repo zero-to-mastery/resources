@@ -16,6 +16,8 @@
 
 - [Khan Academy](https://www.khanacademy.org/computing/computer-programming): An online resource for a variety of topics at a multitude of skill levels (from elementary school to postgraduate) that extend beyond computer science. However, their programming courses - which include interactive sandboxes in which learners can tinker with example code - focus on HTML and JavaScript and teach the fundamentals of animation and web design.
 
+- [Mimo](https://mimo.org/): A free website/app with paid options teaching Python, JavaScript, HTML, CSS, and more (courses and career paths) in a Duolingo-style format.
+
 - [Pluralsight](https://www.pluralsight.com): Pluralsight is the leader in training for serious software developers, IT admins, and creative professionals. With 3,000+ courses and new ones added daily, Pluralsight serves as a career catalyst for customers in more than 150 countries and provides tech-savvy businesses with training on the three key areas they need to thrive.
 
 - [Scrimba](https://scrimba.com/): A powerful, free way of learning how to code. Similar to a (Andrei's) Udemy course, play around with the instructors code any time in Scrimba's online editor.
