@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -e
+
+bundle exec jekyll build --trace
+bundle exec htmlproofer ./_site --disable-external

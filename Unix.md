@@ -1,0 +1,20 @@
+[**Back**](/README.md/)
+
+# Unix
+
+The Unix family includes several incredibly popular, open-source operating systems (including Ubuntu, Debian, and Redhat).
+Here are #a few resources on how to use Unix systems and operate the command line.
+
+- [Linux Journey](https://linuxjourney.com/): A comprehensive Linux shell concepts tutorial with interactive command line lessons creating fun and free learning for beginners to advanced users.
+
+- [EDX: Introduction to Linux](https://www.edx.org/course/introduction-to-linux): great intro to upper-intermediate course on what the hell is Linux
+
+- [Basic Unix Commands](https://www.maths.ox.ac.uk/system/files/legacy/2356/basic-unix.pdf): a guide from Oxford University on Unix commands
+
+- [About Unix](https://kb.iu.edu/d/agat): Key Unix terms and ideas; website created by Indiana University. 
+
+- [Linux tutorials](https://www.linux.org/forums/#linux-tutorials.122): Linux tutorials at the beginner, intermediate, and advanced levels, from the Linux Foundation. 
+ 
+- [The Unix Specification](https://unix.org/what_is_unix/): The Open Group's description of the Unix specification. The website also includes links to some helpful white papers, accessible via the top menu. 
+
+- [UNIX Resources Page](https://faculty.ncssm.edu/~morrison/resources/unixResources/): North Carolina School of Science and Mathematics's list of useful Unix resources
