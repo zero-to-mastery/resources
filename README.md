@@ -36,6 +36,8 @@ A list of student-collated resources deemed to be useful for every developer and
 
 - [**Junior to Senior Developer Roadmap Resources**](JuniorToSeniorCourse.md): Resources mentioned in the Zero to Mastery course.
 
+- [**Machine Learning Resources**](MachineLearningResources.md): A curated list of resources to learn Machine Learning — covering fundamentals, tutorials, tools, and project ideas for beginners to advanced learners.
+
 - [**Mobile App Development**](MobileAppDevelopment.md): A curated list of useful resources for mobile app development (for Android, iOS, Windows, or any other mobile system.
 
 - [**Podcasts**](Podcasts.md): A range of podcasts covering topics like coding, design, accessibility, JavaScript, and Mindset/Self-Development.
@@ -68,3 +70,4 @@ A list of student-collated resources deemed to be useful for every developer and
 - First time contributing to open source? Awesome! Read more about the process in [**Contributing to GitHub**](https://github.com/zero-to-mastery/resources/blob/master/Contributing_to_GitHub.md).
 
 - [**List of Contributors**](CONTRIBUTORS.md): A page showing the GitHub usernames of all who have contributed to this open-source project! Make sure to add yourself and submit a pull request if you've contributed.
+- ## Machine Learning
