@@ -70,6 +70,8 @@
 
 - [Learn JavaScript](https://learnjavascript.online/): Learn JavaScript in an interactive environment. Read short lessons, take notes, and complete challenges directly in your browser.
 
+- [JavaScript in Depth](https://www.manning.com/books/javascript-in-depth): Explore the inner workings of the world’s most popular programming language.
+
 ## Advanced Javascript Articles
 
 - [Exploring Async/Await Functions in JavaScript](https://alligator.io/js/async-functions): Async/await functions, a new addition with ES2017 (ES8), help us even more in allowing us to write completely synchronous-looking code while performing asynchronous tasks behind the scenes.
