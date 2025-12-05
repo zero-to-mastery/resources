@@ -94,3 +94,5 @@
 - [YazBel](https://python-istihza.yazbel.com/): These comprehensive Turkish Python documents are specifically about the 3rd version of the Python programming language. Originally based on Fırat Özgül's Python 3 documents available on istihza.com, they are currently being developed by the community.
 
 - [Learn Python with a AI Chatbot](https://aigents.co/learn) You don't need to spend hundreds of dollars on courses, books, and mentors. With this platform you can teach yourself Data Science and Python for free! All the resources & tools you need to learn Data Science by yourself. With GPT-powered explanations and Q&A.
+
+- [Python Novice to Pythonista](https://www.learningpeople.com/uk/courses/python-novice-to-pythonista/) Master Python skills from beginner to expert with Learning People’s Python course. Can be studied online and comes with certification on completion.
