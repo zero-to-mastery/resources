@@ -1,6 +1,6 @@
 [**Back**](/README.md/)
 
-# Snowflake 
+# Snowflake
 
 Snowflake is a cloud-based data warehousing platform that enables organizations to store, manage, and analyze vast amounts of data. Here are its key features:
 
@@ -31,5 +31,3 @@ Resource for Snowflake :
 5. **Training and Certification**: Consider the [Snowflake Training](https://www.snowflake.com/training/) programs for structured learning and potential certification.
 
 6. **YouTube Channel**: The [Snowflake YouTube channel](https://www.youtube.com/c/snowflake) has many videos that cover features, use cases, and best practices.
-
-
