@@ -162,6 +162,7 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@mismail-541](https://github.com/mismail-541)
 - [@joeldiffo](https://github.com/joeldiffo)
 - [@lindholmen](https://github.com/lindholmen)
+- [@hmaness1999-dev](https://github.com/hmaness1999-dev)
 - [@prakharbitspilani](https://github.com/prakharbitspilani)
 - [@smith-mw](https://github.com/smith-mw)
 - [@rohithv07](https://github.com/Rohithv07)
