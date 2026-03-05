@@ -105,6 +105,8 @@
 
 - [The Coder Cafe](https://www.manning.com/books/the-coder-cafe) : 66 vital software engineering concepts that will upgrade your day-to-day practice, regardless of your skill level.
 
+- [Lean Software Engineering](https://www.manning.com/books/lean-software-engineering) : A book that introduces an AI-aware systems thinking approach adapted for the modern software development lifecycle.
+
 ## React
 
 - [The Road to learn React](https://leanpub.com/the-road-to-learn-react): a free ebook by Robin Wieruch where you build a Hacker News clone
