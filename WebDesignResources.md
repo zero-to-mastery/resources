@@ -46,6 +46,8 @@
 
 - [UX Planet](https://uxplanet.org): One-stop resource for everything related to user experience
 
+- [Vibe Coding UI Specification](https://horizonx.so/resources/vibe-coding-ui-specification): A free, vendor-neutral interface contract for AI-assisted UI work covering design tokens, component states, responsive behavior, accessibility, motion, and production review.
+
 ## Images &amp; Video
 
 - [Coverr](https://coverr.co/): Free stock videos to add to your websites.
