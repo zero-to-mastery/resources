@@ -81,3 +81,5 @@
 -[Coding Bat](https://codingbat.com/java): A beginner friendly platform to start out programming challenges in Java and/or Python!
 
 -[InterviewBit](https://www.interviewbit.com/): Practice problems and interview preparation. Includes mock interview practice, etc. 
+
+- [FrontendAtlas](https://frontendatlas.com/coding): Practice frontend coding interview challenges across JavaScript, React, Angular, Vue, HTML, and CSS, with selected challenges available free without an account.
