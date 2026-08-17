@@ -96,3 +96,5 @@
 - [Learn Python with a AI Chatbot](https://aigents.co/learn) You don't need to spend hundreds of dollars on courses, books, and mentors. With this platform you can teach yourself Data Science and Python for free! All the resources & tools you need to learn Data Science by yourself. With GPT-powered explanations and Q&A.
 
 - [Python Novice to Pythonista](https://www.learningpeople.com/uk/courses/python-novice-to-pythonista/) Master Python skills from beginner to expert with Learning People’s Python course. Can be studied online and comes with certification on completion.
+
+- [Pythonlings](https://github.com/abhiksark/pythonlings): An open-source terminal tool for practicing Python through 292 exercises across 31 topics, with automatic checks, progressive hints, and bundled Python documentation.
