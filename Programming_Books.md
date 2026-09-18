@@ -124,3 +124,5 @@
 
 ## Better Coding
 - [Clean Code](https://www.google.com/aclk?sa=L&ai=DChcSEwjO15G4_arzAhWQMCsKHb1ACDgYABAJGgJzZg&ae=2&sig=AOD64_1puk7T7JbjKYxmZA0EVmYFBRn1Hg&ctype=5&q=&ved=2ahUKEwihl4m4_arzAhVTXHwKHZzVAaoQ9aACegQIARBb&adurl=): Learn to write better code which is more readable to others.
+- [Clean Code](https://www.google.com/aclk?sa=L&ai=DChcSEwjO15G4_arzAhWQMCsKHb1ACDgYABAJGgJzZg&ae=2&sig=AOD64_1puk7T7JbjKYxmZA0EVmYFBRn1Hg&ctype=5&q=&ved=2ahUKEwihl4m4_arzAhVTXHwKHZzVAaoQ9aACegQIARBb&adurl=): Learn to write better code which is more readable to others.
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book): A free and open-source TypeScript book covering fundamentals through advanced concepts.
