@@ -18,3 +18,5 @@ Here are #a few resources on how to use Unix systems and operate the command lin
 - [The Unix Specification](https://unix.org/what_is_unix/): The Open Group's description of the Unix specification. The website also includes links to some helpful white papers, accessible via the top menu. 
 
 - [UNIX Resources Page](https://faculty.ncssm.edu/~morrison/resources/unixResources/): North Carolina School of Science and Mathematics's list of useful Unix resources
+
+- [WebTerm Learn](https://learn.webterm.app/en/courses): Linux command line courses where you learn by doing, from first commands and file navigation to pipes and redirects, permissions, processes and SSH, with exercises in a simulated terminal in the browser. All lessons are free; a free account is needed after the first lesson of each course.
