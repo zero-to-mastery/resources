@@ -288,3 +288,4 @@ This is a list showing the GitHub usernames of all who have contributed to this 
 - [@devmab24](https://github.com/devmab24/)
 - [@mujib77](https://github.com/mujib77)
 - [@MuslumYilmaz](https://github.com/MuslumYilmaz)
+- [@DaiAoki](https://github.com/DaiAoki)
