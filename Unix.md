@@ -20,3 +20,5 @@ Here are #a few resources on how to use Unix systems and operate the command lin
 - [UNIX Resources Page](https://faculty.ncssm.edu/~morrison/resources/unixResources/): North Carolina School of Science and Mathematics's list of useful Unix resources
 
 - [WebTerm Learn](https://learn.webterm.app/en/courses): Linux command line courses where you learn by doing, from first commands and file navigation to pipes and redirects, permissions, processes and SSH, with exercises in a simulated terminal in the browser. All lessons are free; a free account is needed after the first lesson of each course.
+
+- [nvim-edu](https://s3onghyun.github.io/nvim-edu/): Learn Vim/Neovim motions and tmux keys in the browser with goal-state levels, drills and a daily challenge. Free and open source, no account or install needed.
