@@ -202,4 +202,5 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [Pyrexp](https://pythonium.net/regex): An online tool for testing and visualizing Regular Expressions.
 - [Nutilz](https://nutilz.com/): Free browser-based developer utilities including regex tester, JSON formatter, converters, and generators. No account or installation required.
+- [Online Mini Tools](https://onlineminitools.com): 2,300+ free browser-based tools for developers and designers, including JSON and XML formatters, encoders and decoders, validators, CSS and color generators, converters and calculators. No account required, most tools run client-side.
 
