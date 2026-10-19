@@ -60,3 +60,5 @@
 
 * [**Introduction to CS**](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/):
 An MIT free course that covers basic programming and web concepts such as Python.
+
+* [**WebCheatSheet**](https://webcheatsheet.com/): Tutorials, code examples, and reference articles covering PHP, JavaScript, HTML, and SQL.
