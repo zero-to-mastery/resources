@@ -203,3 +203,4 @@ Things to look for if your editor has implementations for them. They will make y
 - [Pyrexp](https://pythonium.net/regex): An online tool for testing and visualizing Regular Expressions.
 - [Nutilz](https://nutilz.com/): Free browser-based developer utilities including regex tester, JSON formatter, converters, and generators. No account or installation required.
 
+- [agent-qa](https://github.com/vostride/agent-qa): Natural-language web and mobile testing with advanced memidex memory and self-improvement. Requires Node.js 24+ and model-provider setup; providers may charge separately.
