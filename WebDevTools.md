@@ -112,6 +112,8 @@ Things to look for if your editor has implementations for them. They will make y
 
 - [SimilarWeb](https://chrome.google.com/webstore/detail/similarweb-traffic-rank-w/hoklmmgfnpapgjgcpechhaamimifchmp): Traffic Rank & Website Analysis tool for analyzing existing websites.
 
+- [Spoof Me](https://chromewebstore.google.com/detail/spoof-me/onbjkmhileedchimkcmieeiomipdljki): Test your site as users in other countries and on other devices see it, by switching language, timezone, geolocation, user agent and screen size. Also on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/spoof-me/).
+
 - [Vimeo Repeat and Speed](https://chrome.google.com/webstore/detail/vimeo-repeat-speed/noonakfaafcdaagngpjehilgegefdima): Consume info at faster than normal pace.
 
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg): What technology is this site using? One click on the button and you'll know.
