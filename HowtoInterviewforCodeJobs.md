@@ -26,6 +26,8 @@
 
 - [Hanzilla Jobs](https://jobs.hanzilla.co/categories/software-engineering/): A free daily-updated Canadian student and recent-graduate job board for software engineering internships, co-ops, new grad, junior, and entry-level roles.
 
+- [JobEmerge](https://www.jobemerge.work): AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.
+
 ### Guides
 
 - [How to Write A Killer Software Engineering Résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d): A fantastic breakdown of the essential components that make up a résumé. The impact statements within the **_Employment_** and **_Project_** sections in particular are especially worthwhile. Highly recommended as virtually every company requires them, whether or not you use résumés to get your job.
