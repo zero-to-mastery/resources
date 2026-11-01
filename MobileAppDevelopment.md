@@ -14,6 +14,7 @@
 - [Launch Mode](https://android.jlelse.eu/android-activity-launch-mode-e0df1aa72242): Instructions for Android OS which specifies how the activity should be launched.
 - [Kotlin Coroutine](https://medium.com/androiddevelopers/coroutines-on-android-part-i-getting-the-background-3e0e54d20bb): Best practice to simplify async code in android.
 - [Google Codelabs (Android)](https://codelabs.developers.google.com/?cat=android): Provides a guided, tutorial, hands-on coding experience about Android Development.
+- [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): The official beginner course for building Android apps with Jetpack Compose, Android's modern UI toolkit. No prior programming experience required.
 
 ## iOS
 - [Apple Doc](https://developer.apple.com/documentation/): Browse the latest developer documentation, including tutorials, sample code, articles, and API reference.
