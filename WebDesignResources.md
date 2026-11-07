@@ -112,6 +112,8 @@
 
 - [Optimizeimages](https://www.optimizeimages.com): Optimize images online with this free tool, compress & convert images in PNG, JPEG, SVG, AVIF, WebP and GIF formats, and even get picture HTML tags for correct implementation.
 
+- [AppScreen](https://appscreen.pro): A free in-browser editor for App Store and Google Play screenshots. Put your app screens in device frames, add captions and backgrounds, and export at each store's required sizes, with nothing to install.
+
 ## Color Palettes
 
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel/): A color wheel to help you generate and save color schemes.
