@@ -46,6 +46,8 @@
 
 - [UX Planet](https://uxplanet.org): One-stop resource for everything related to user experience
 
+- [Kite](https://kite.new/): A design tool your team and AI agents (Claude, ChatGPT, Cursor, Codex) share. Agents draw real, editable layers through a hosted MCP server, and you can copy any frame as HTML, React or Tailwind to see how a design maps to code. Free plan with unlimited editors.
+
 ## Images &amp; Video
 
 - [Coverr](https://coverr.co/): Free stock videos to add to your websites.
