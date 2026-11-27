@@ -6,8 +6,6 @@
 
 - [CSS Reference](https://cssreference.io): A visual representation, and demonstration of all native CSS3 rules and how they work, with clear documentation and examples.
 
-- [CSS Visual Dictionary](https://b-ok.asia/book/3705299/e48774?dsource=recommend): CSS Visual Dictionary is a beginner-friendly book that takes a practical approach to introducing web designers and developers to the basic concepts in CSS. Follow the instructions in the link above to get your copy!
-
 - [CSS Zen Garden](http://www.csszengarden.com/): A demonstration of what can be accomplished through CSS-based design. Style sheets contributed by graphic designers from around the world are used to change the visual presentation of a single HTML file, producing hundreds of different designs.
 
 - [CSS-Tricks](https://css-tricks.com/): One of the best sites to learn CSS and responsive design.
@@ -30,13 +28,13 @@
 
 - [CSS-Scaler Topics](https://www.scaler.com/topics/css/): Beginner’s guide on starting with CSS (Cascading Style Sheets) With interactive Tutorials.
 
+- [11 resources to create art with CSS](https://web-eau.net/en/blog/11-ressources-to-create-art-with-css): A curated selection of tutorials, galleries and tools to learn how to draw illustrations and create art with pure CSS.
+
 ## CSS Games
 
 - [CSS diner](https://flukeout.github.io/): A fun in-browser game to help you learn and practice CSS selectors.
 
 - [Flex Box Adventure](https://codingfantasy.com/games/flexboxadventure/): Start a mysterious adventure and help King Arthur defeat three evil brothers using CSS Flex Box.
-
-- [Flexbox Defense](http://www.flexboxdefense.com/): Tower Defense with a twist: all towers must be positioned with CSS flexbox.
 
 - [Flexbox Froggy](http://flexboxfroggy.com/): A fun in-browser game to help teach the powerful, complex CSS flexbox layout method.
 
