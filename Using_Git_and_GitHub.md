@@ -28,6 +28,8 @@
 
 - [6 Best Practices to Manage Pull Request Creation and Feedback](https://doordash.engineering/2022/08/23/6-best-practices-to-manage-pull-request-creation-and-feedback/): A helpful article on pull request ettiquette from the DoorDash engineering team.
 
+- [WebTerm Git tutorials](https://webterm.app/en/git): Hands-on Git practice in a simulated terminal in the browser, from a first commit to branching and merging, plus scenarios for fixing common mistakes like undoing a commit or recovering lost commits with reflog. Free, with no install or signup.
+
 ## Markdown
 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/): Most web pages (especially the README) on GitHub are written using the Markdown HTML-preprocessor language.
